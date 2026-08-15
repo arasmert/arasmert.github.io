@@ -1,0 +1,5166 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-08-15T17:10:07.100338Z",
+  "collections": [
+    {
+      "id": "yaz_sicak",
+      "title": "Yaz bitiyor ama sıcaklar bitmedi",
+      "subtitle": "Eylüle kadar işini görecek serinletici seçenekler",
+      "icon": "☀️",
+      "products": [
+        "p_tower_fan",
+        "p_mini_fan",
+        "p_cooling_pillow",
+        "p_stanley_quencher",
+        "p_joseon_sun"
+      ]
+    },
+    {
+      "id": "okula_donus",
+      "title": "Okula dönüş başlıyor",
+      "subtitle": "Bir yıl dayanacak seçimler — ucuza değil, doğruya bak",
+      "icon": "🎒",
+      "products": [
+        "p_backpack",
+        "p_lunch_box",
+        "p_student_tablet",
+        "p_pencil_case",
+        "p_soundcore_q30"
+      ]
+    },
+    {
+      "id": "tiktok_kozmetik",
+      "title": "TikTok viral kozmetikleri",
+      "subtitle": "Herkesin konuştuğu ürünler — hangisi gerçekten işe yarıyor?",
+      "icon": "💄",
+      "products": [
+        "p_laneige_lip",
+        "p_joseon_sun",
+        "p_maybelline_mascara",
+        "p_ordinary_niacinamide",
+        "p_cerave_moist"
+      ]
+    },
+    {
+      "id": "haftanin_indirimi",
+      "title": "Haftanın en indirimli ürünleri",
+      "subtitle": "Son 30 günde fiyatı en çok düşenler",
+      "icon": "📉",
+      "rule": "priceDrops"
+    },
+    {
+      "id": "spor_takviye",
+      "title": "Sağlıklı spor takviyeleri",
+      "subtitle": "Etkisi kanıtlanmış olanlar, pahalı olanlar değil",
+      "icon": "💪",
+      "products": [
+        "p_whey_impact",
+        "p_creatine_mono",
+        "p_magnesium",
+        "p_grenade_bar",
+        "p_multivitamin"
+      ]
+    },
+    {
+      "id": "hava_temizleme",
+      "title": "En fiyat performans hava temizleme",
+      "subtitle": "Metrekare başına maliyete göre sıraladık",
+      "icon": "🌬️",
+      "products": [
+        "p_xiaomi_purifier",
+        "p_levoit_core300",
+        "p_philips_purifier"
+      ]
+    },
+    {
+      "id": "tisort",
+      "title": "Tek yıkamada dağılmayacak tişörtler",
+      "subtitle": "Gramaj yüksekse yaka bozulmaz — farkı test ettik",
+      "icon": "👕",
+      "products": [
+        "p_uniqlo_tee",
+        "p_mavi_tee",
+        "p_hm_tee"
+      ]
+    },
+    {
+      "id": "cocuk_oyuncak",
+      "title": "Çocuğunuz için en sağlıklı oyuncaklar",
+      "subtitle": "Malzeme güvenliği ve yaş uygunluğuna göre seçildi",
+      "icon": "🧸",
+      "products": [
+        "p_lego_classic",
+        "p_wooden_blocks",
+        "p_playdoh"
+      ]
+    }
+  ],
+  "products": [
+    {
+      "id": "p_joseon_sun",
+      "slug": "beauty-of-joseon-relief-sun-spf50",
+      "brand": "Beauty of Joseon",
+      "name": "Relief Sun Rice + Probiotics SPF50+",
+      "category": "kozmetik",
+      "glyph": "🧴",
+      "score": 87,
+      "verdict": "buy",
+      "shortDescription": "Günlük kullanım için hafif dokulu, yüksek korumalı Kore güneş kremi.",
+      "editorialSummary": "Günlük kullanım için başarılı bir güneş kremi. Hafif yapısı ve güçlü UV korumasıyla fiyatına göre iyi bir seçenek. Beyaz iz bırakmaması ve makyaj altında sorun çıkarmaması en çok konuşulan yanı. Çok yağlı ciltlerde gün içinde parlama yapabilir.",
+      "positives": [
+        {
+          "text": "Hafif yapı, beyaz iz bırakmıyor",
+          "detail": "Kimyasal filtre karışımı sayesinde ciltte film tabakası hissettirmiyor, makyaj altında topaklanmıyor."
+        },
+        {
+          "text": "Güçlü UV koruması (SPF50+ PA++++)"
+        },
+        {
+          "text": "İyi fiyat/performans",
+          "detail": "Aynı koruma seviyesindeki eczane markalarına göre mililitre başına yaklaşık %35 daha uygun."
+        },
+        {
+          "text": "Nemlendirici içerik, kuru ciltte gerginlik yapmıyor"
+        }
+      ],
+      "negatives": [
+        {
+          "text": "Çok yağlı ciltlerde parlama yapabilir",
+          "detail": "Mat bitişli değil; T bölgesi yağlanan ciltlerde gün ortasında pudra ihtiyacı doğabilir."
+        },
+        {
+          "text": "Hafif parfüm içeriyor"
+        }
+      ],
+      "quickFacts": [
+        {
+          "icon": "☀️",
+          "label": "Koruma",
+          "value": "SPF50+"
+        },
+        {
+          "icon": "💧",
+          "label": "Doku",
+          "value": "Hafif"
+        },
+        {
+          "icon": "📦",
+          "label": "Hacim",
+          "value": "50 ml"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Öne Çıkan Özellikler",
+          "icon": "✨",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "SPF",
+              "value": "50+ / PA++++",
+              "emphasized": true,
+              "sentiment": "good"
+            },
+            {
+              "label": "Cilt tipi",
+              "value": "Kuru, normal, karma",
+              "note": "Çok yağlı ciltler için ideal değil"
+            },
+            {
+              "label": "Doku",
+              "value": "Hafif losyon",
+              "sentiment": "good"
+            },
+            {
+              "label": "Hacim",
+              "value": "50 ml"
+            }
+          ]
+        },
+        {
+          "title": "İçerik",
+          "icon": "🧪",
+          "footnote": "İçerik listesi üreticinin beyanına dayanır.",
+          "initiallyExpanded": false,
+          "attributes": [
+            {
+              "label": "Aktif içerikler",
+              "value": "Pirinç özü, probiyotik, niasinamid",
+              "sentiment": "good"
+            },
+            {
+              "label": "Parfüm",
+              "value": "Var",
+              "note": "Hassas ciltlerde tahriş ihtimali",
+              "sentiment": "warning"
+            },
+            {
+              "label": "Alkol",
+              "value": "Yok",
+              "sentiment": "good"
+            },
+            {
+              "label": "Filtre tipi",
+              "value": "Kimyasal"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "güneş kremi",
+        "spf",
+        "kore kozmetiği",
+        "cilt bakımı"
+      ],
+      "trend": {
+        "score": 93,
+        "change": 0.48,
+        "socialMentions": 18400,
+        "startDate": "2026-08-06T14:10:07.103384Z",
+        "source": "TikTok"
+      },
+      "alternatives": [
+        "p_anthelios",
+        "p_cerave_moist"
+      ],
+      "userRating": 4.7,
+      "reviewCount": 12480,
+      "offers": [
+        {
+          "marketplace": "amazon",
+          "seller": "Amazon",
+          "price": 599.0,
+          "oldPrice": 749.0,
+          "shipping": 0.0,
+          "storeUrl": "https://www.amazon.com.tr/urun/p-joseon-sun",
+          "stock": "inStock",
+          "sellerRating": 4.8,
+          "delivery": "Yarın kargoda",
+          "updatedAt": "2026-08-15T17:06:07.108254Z"
+        },
+        {
+          "marketplace": "trendyol",
+          "seller": "K-Beauty Store",
+          "price": 629.0,
+          "oldPrice": 749.0,
+          "shipping": 0.0,
+          "storeUrl": "https://www.trendyol.com/urun/p-joseon-sun",
+          "stock": "inStock",
+          "sellerRating": 4.6,
+          "delivery": "1-3 iş günü",
+          "updatedAt": "2026-08-15T17:01:07.108331Z"
+        },
+        {
+          "marketplace": "n11",
+          "seller": "Kore Kozmetik",
+          "price": 580.0,
+          "shipping": 49.9,
+          "storeUrl": "https://www.n11.com/urun/p-joseon-sun",
+          "stock": "inStock",
+          "sellerRating": 4.3,
+          "delivery": "2-4 iş günü",
+          "updatedAt": "2026-08-15T16:49:07.108336Z"
+        },
+        {
+          "marketplace": "hepsiburada",
+          "seller": "Hepsiburada",
+          "price": 649.0,
+          "shipping": 0.0,
+          "storeUrl": "https://www.hepsiburada.com/urun/p-joseon-sun",
+          "stock": "inStock",
+          "sellerRating": 4.7,
+          "updatedAt": "2026-08-15T16:55:07.108340Z"
+        }
+      ]
+    },
+    {
+      "id": "p_anthelios",
+      "slug": "la-roche-posay-anthelios-uvmune-400",
+      "brand": "La Roche-Posay",
+      "name": "Anthelios UVMune 400 Oil Control SPF50+",
+      "category": "kozmetik",
+      "glyph": "🧴",
+      "score": 84,
+      "verdict": "buy",
+      "shortDescription": "Yağlı ve karma ciltler için mat bitişli, eczane tipi güneş koruyucu.",
+      "editorialSummary": "Yağlı ciltler için tasarlanmış, gün boyu matlığını koruyan güçlü bir güneş kremi. UVA korumasında piyasadaki en iyilerden biri. Fiyatı Kore alternatiflerine göre yüksek; asıl avantajı yağ kontrolü.",
+      "positives": [
+        {
+          "text": "Gün boyu mat bitiş, yağ kontrolü güçlü"
+        },
+        {
+          "text": "Çok geniş UVA koruması",
+          "detail": "Mexoryal 400 filtresi uzun dalga boylu UVA ışınlarını da tutar."
+        },
+        {
+          "text": "Dermatolojik test edilmiş, hassas ciltlere uygun"
+        }
+      ],
+      "negatives": [
+        {
+          "text": "Fiyatı yüksek",
+          "detail": "Mililitre başına maliyeti Kore muadillerinin yaklaşık 2 katı."
+        },
+        {
+          "text": "Kuru ciltlerde gerginlik hissi yapabilir"
+        }
+      ],
+      "quickFacts": [
+        {
+          "icon": "☀️",
+          "label": "Koruma",
+          "value": "SPF50+"
+        },
+        {
+          "icon": "🪞",
+          "label": "Bitiş",
+          "value": "Mat"
+        },
+        {
+          "icon": "📦",
+          "label": "Hacim",
+          "value": "50 ml"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Öne Çıkan Özellikler",
+          "icon": "✨",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "SPF",
+              "value": "50+ / UVA 400nm",
+              "emphasized": true,
+              "sentiment": "good"
+            },
+            {
+              "label": "Cilt tipi",
+              "value": "Yağlı, karma",
+              "sentiment": "good"
+            },
+            {
+              "label": "Doku",
+              "value": "Jel-krem, mat"
+            },
+            {
+              "label": "Hacim",
+              "value": "50 ml"
+            }
+          ]
+        },
+        {
+          "title": "İçerik",
+          "icon": "🧪",
+          "initiallyExpanded": false,
+          "attributes": [
+            {
+              "label": "Parfüm",
+              "value": "Yok",
+              "sentiment": "good"
+            },
+            {
+              "label": "Alkol",
+              "value": "Var (denat.)",
+              "sentiment": "warning"
+            },
+            {
+              "label": "Filtre tipi",
+              "value": "Kimyasal"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "güneş kremi",
+        "spf",
+        "yağlı cilt",
+        "eczane"
+      ],
+      "trend": {
+        "score": 71,
+        "change": 0.12,
+        "socialMentions": 5300,
+        "startDate": "2026-07-06T14:10:07.103865Z",
+        "source": "Instagram"
+      },
+      "alternatives": [
+        "p_joseon_sun"
+      ],
+      "userRating": 4.6,
+      "reviewCount": 8900,
+      "offers": [
+        {
+          "marketplace": "gratis",
+          "seller": "Gratis",
+          "price": 1049.0,
+          "shipping": 0.0,
+          "storeUrl": "https://www.gratis.com/urun/p-anthelios",
+          "stock": "inStock",
+          "sellerRating": 4.7,
+          "delivery": "2-3 iş günü",
+          "updatedAt": "2026-08-15T16:59:07.108343Z"
+        },
+        {
+          "marketplace": "trendyol",
+          "seller": "Eczane Deposu",
+          "price": 999.0,
+          "oldPrice": 1149.0,
+          "shipping": 59.9,
+          "storeUrl": "https://www.trendyol.com/urun/p-anthelios",
+          "stock": "inStock",
+          "sellerRating": 4.5,
+          "updatedAt": "2026-08-15T16:52:07.108347Z"
+        },
+        {
+          "marketplace": "hepsiburada",
+          "seller": "Hepsiburada",
+          "price": 1079.0,
+          "shipping": 0.0,
+          "storeUrl": "https://www.hepsiburada.com/urun/p-anthelios",
+          "stock": "inStock",
+          "sellerRating": 4.6,
+          "updatedAt": "2026-08-15T16:44:07.108350Z"
+        },
+        {
+          "marketplace": "amazon",
+          "seller": "Amazon",
+          "price": 1099.0,
+          "shipping": 0.0,
+          "storeUrl": "https://www.amazon.com.tr/urun/p-anthelios",
+          "stock": "inStock",
+          "sellerRating": 4.8,
+          "updatedAt": "2026-08-15T17:03:07.108353Z"
+        }
+      ]
+    },
+    {
+      "id": "p_ordinary_niacinamide",
+      "slug": "the-ordinary-niacinamide-10-zinc-1",
+      "brand": "The Ordinary",
+      "name": "Niacinamide %10 + Zinc %1 Serum",
+      "category": "kozmetik",
+      "glyph": "💧",
+      "score": 76,
+      "verdict": "conditional",
+      "shortDescription": "Gözenek görünümü ve yağlanma için uygun fiyatlı yüksek doz serum.",
+      "editorialSummary": "Fiyatına göre etkili bir serum, ancak %10 niasinamid herkes için gereğinden yüksek bir doz. Hassas ciltlerde kızarıklık ve pullanma yapabiliyor. Yağlanma ve gözenek görünümü sorunu olanlar için mantıklı; kuru ve hassas ciltler daha düşük doza yönelmeli.",
+      "positives": [
+        {
+          "text": "Çok uygun fiyat",
+          "detail": "Mililitre maliyeti sınıfının en düşüğü."
+        },
+        {
+          "text": "Yağlanma ve gözenek görünümünde belirgin etki"
+        },
+        {
+          "text": "Sade içerik listesi, gereksiz katkı yok"
+        }
+      ],
+      "negatives": [
+        {
+          "text": "Doz yüksek, hassas ciltte tahriş edebilir",
+          "detail": "%5 üzeri niasinamid dozları hassas ciltlerde kızarıklık ve pullanmaya yol açabiliyor. Haftada 2–3 kullanımla başlamak gerekir."
+        },
+        {
+          "text": "Yapışkan bir his bırakıyor"
+        },
+        {
+          "text": "C vitamini ile aynı seansta kullanımı önerilmiyor"
+        }
+      ],
+      "quickFacts": [
+        {
+          "icon": "🧪",
+          "label": "Aktif",
+          "value": "%10 Niasinamid"
+        },
+        {
+          "icon": "📦",
+          "label": "Hacim",
+          "value": "30 ml"
+        },
+        {
+          "icon": "⚠️",
+          "label": "Doz",
+          "value": "Yüksek"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Öne Çıkan Özellikler",
+          "icon": "✨",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Aktif içerik",
+              "value": "Niasinamid %10, Çinko PCA %1",
+              "note": "Başlangıç için yüksek doz",
+              "emphasized": true,
+              "sentiment": "warning"
+            },
+            {
+              "label": "Cilt tipi",
+              "value": "Yağlı, karma",
+              "note": "Hassas ciltler için uygun değil",
+              "sentiment": "warning"
+            },
+            {
+              "label": "Hacim",
+              "value": "30 ml"
+            }
+          ]
+        },
+        {
+          "title": "İçerik",
+          "icon": "🧪",
+          "initiallyExpanded": false,
+          "attributes": [
+            {
+              "label": "Parfüm",
+              "value": "Yok",
+              "sentiment": "good"
+            },
+            {
+              "label": "Alkol",
+              "value": "Yok",
+              "sentiment": "good"
+            },
+            {
+              "label": "Vegan",
+              "value": "Evet"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "serum",
+        "niasinamid",
+        "cilt bakımı",
+        "gözenek"
+      ],
+      "trend": {
+        "score": 64,
+        "change": 0.05,
+        "socialMentions": 3100,
+        "startDate": "2026-03-08T14:10:07.103979Z",
+        "source": "TikTok"
+      },
+      "alternatives": [
+        "p_cerave_moist"
+      ],
+      "userRating": 4.2,
+      "reviewCount": 22100,
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 329.0,
+          "shipping": 0.0,
+          "storeUrl": "https://www.trendyol.com/urun/p-ordinary-niacinamide",
+          "stock": "inStock",
+          "sellerRating": 4.6,
+          "delivery": "1-3 iş günü",
+          "updatedAt": "2026-08-15T16:44:07.108357Z"
+        },
+        {
+          "marketplace": "gratis",
+          "seller": "Gratis",
+          "price": 299.0,
+          "shipping": 49.9,
+          "storeUrl": "https://www.gratis.com/urun/p-ordinary-niacinamide",
+          "stock": "inStock",
+          "sellerRating": 4.7,
+          "updatedAt": "2026-08-15T16:36:07.108361Z"
+        },
+        {
+          "marketplace": "amazon",
+          "seller": "Amazon",
+          "price": 349.0,
+          "shipping": 0.0,
+          "storeUrl": "https://www.amazon.com.tr/urun/p-ordinary-niacinamide",
+          "stock": "inStock",
+          "sellerRating": 4.8,
+          "updatedAt": "2026-08-15T16:58:07.108365Z"
+        },
+        {
+          "marketplace": "hepsiburada",
+          "seller": "Beauty Point",
+          "price": 359.0,
+          "shipping": 0.0,
+          "storeUrl": "https://www.hepsiburada.com/urun/p-ordinary-niacinamide",
+          "stock": "lowStock",
+          "sellerRating": 4.2,
+          "updatedAt": "2026-08-15T16:29:07.108369Z"
+        }
+      ]
+    },
+    {
+      "id": "p_cerave_moist",
+      "slug": "cerave-moisturising-lotion",
+      "brand": "CeraVe",
+      "name": "Nemlendirici Losyon (Seramidli)",
+      "category": "kozmetik",
+      "glyph": "🫙",
+      "score": 83,
+      "verdict": "buy",
+      "shortDescription": "Seramid ve hyaluronik asitli, parfümsüz günlük nemlendirici.",
+      "editorialSummary": "Kuru ve hassas ciltler için güvenli bir tercih. Parfümsüz, sade ve iyi çalışan bir formül. Büyük boy alındığında birim maliyeti belirgin şekilde düşüyor.",
+      "positives": [
+        {
+          "text": "Parfümsüz, hassas ciltlere uygun"
+        },
+        {
+          "text": "Seramid içeriği cilt bariyerini destekliyor"
+        },
+        {
+          "text": "Büyük boyda çok uygun birim fiyat"
+        }
+      ],
+      "negatives": [
+        {
+          "text": "Yağlı ciltlerde ağır gelebilir"
+        },
+        {
+          "text": "Pompa başlığı bazı partilerde sorun çıkarıyor"
+        }
+      ],
+      "quickFacts": [
+        {
+          "icon": "💧",
+          "label": "Etki",
+          "value": "Nemlendirici"
+        },
+        {
+          "icon": "🌸",
+          "label": "Parfüm",
+          "value": "Yok"
+        },
+        {
+          "icon": "📦",
+          "label": "Hacim",
+          "value": "473 ml"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Öne Çıkan Özellikler",
+          "icon": "✨",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Aktif içerik",
+              "value": "Seramid 1-3-6II, Hyaluronik asit",
+              "emphasized": true,
+              "sentiment": "good"
+            },
+            {
+              "label": "Cilt tipi",
+              "value": "Kuru, normal, hassas"
+            },
+            {
+              "label": "Parfüm",
+              "value": "Yok",
+              "sentiment": "good"
+            },
+            {
+              "label": "Hacim",
+              "value": "473 ml"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "nemlendirici",
+        "seramid",
+        "cilt bakımı",
+        "parfümsüz"
+      ],
+      "trend": {
+        "score": 58,
+        "change": 0.03,
+        "socialMentions": 1900,
+        "startDate": "2026-01-07T14:10:07.104059Z",
+        "source": "Instagram"
+      },
+      "alternatives": [
+        "p_ordinary_niacinamide"
+      ],
+      "userRating": 4.6,
+      "reviewCount": 15600,
+      "offers": [
+        {
+          "marketplace": "amazon",
+          "seller": "Amazon",
+          "price": 549.0,
+          "oldPrice": 629.0,
+          "shipping": 0.0,
+          "storeUrl": "https://www.amazon.com.tr/urun/p-cerave-moist",
+          "stock": "inStock",
+          "sellerRating": 4.8,
+          "delivery": "Yarın kargoda",
+          "updatedAt": "2026-08-15T17:02:07.108372Z"
+        },
+        {
+          "marketplace": "trendyol",
+          "seller": "Dermo Market",
+          "price": 529.0,
+          "shipping": 39.9,
+          "storeUrl": "https://www.trendyol.com/urun/p-cerave-moist",
+          "stock": "inStock",
+          "sellerRating": 4.4,
+          "updatedAt": "2026-08-15T16:48:07.108376Z"
+        },
+        {
+          "marketplace": "hepsiburada",
+          "seller": "Hepsiburada",
+          "price": 559.0,
+          "shipping": 0.0,
+          "storeUrl": "https://www.hepsiburada.com/urun/p-cerave-moist",
+          "stock": "inStock",
+          "sellerRating": 4.6,
+          "updatedAt": "2026-08-15T16:40:07.108379Z"
+        },
+        {
+          "marketplace": "gratis",
+          "seller": "Gratis",
+          "price": 579.0,
+          "shipping": 0.0,
+          "storeUrl": "https://www.gratis.com/urun/p-cerave-moist",
+          "stock": "inStock",
+          "sellerRating": 4.7,
+          "updatedAt": "2026-08-15T16:22:07.108382Z"
+        }
+      ]
+    },
+    {
+      "id": "p_airpods_pro2",
+      "slug": "apple-airpods-pro-2-usb-c",
+      "brand": "Apple",
+      "name": "AirPods Pro 2 (USB-C)",
+      "category": "teknoloji",
+      "glyph": "🎧",
+      "score": 91,
+      "verdict": "buy",
+      "shortDescription": "Sınıfının en iyi gürültü engellemesine sahip kablosuz kulaklık.",
+      "editorialSummary": "Gürültü engelleme ve şeffaflık modunda hâlâ rakipsiz. iPhone kullanıcıları için tartışmasız en iyi seçenek. Android tarafında özelliklerin bir kısmı çalışmıyor; bu durumda aynı paraya daha mantıklı alternatifler var.",
+      "positives": [
+        {
+          "text": "Sınıfının en iyi gürültü engellemesi",
+          "detail": "Uçak ve metro gibi sabit gürültüde belirgin fark yaratıyor."
+        },
+        {
+          "text": "Apple cihazlarla kusursuz geçiş"
+        },
+        {
+          "text": "Şeffaflık modu doğal ses veriyor"
+        },
+        {
+          "text": "USB-C ile tek kabloya indi"
+        }
+      ],
+      "negatives": [
+        {
+          "text": "Android tarafında özellik kaybı",
+          "detail": "Uzamsal ses, otomatik geçiş ve kulaklık testi yalnızca Apple cihazlarda çalışıyor."
+        },
+        {
+          "text": "Pil ömrü rakiplerinin gerisinde"
+        },
+        {
+          "text": "Fiyatı yüksek"
+        }
+      ],
+      "quickFacts": [
+        {
+          "icon": "🔇",
+          "label": "ANC",
+          "value": "Çok güçlü"
+        },
+        {
+          "icon": "🔋",
+          "label": "Pil",
+          "value": "6 sa"
+        },
+        {
+          "icon": "💧",
+          "label": "Suya dayanım",
+          "value": "IP54"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Teknik Özellikler",
+          "icon": "⚙️",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Gürültü engelleme",
+              "value": "Aktif (ANC)",
+              "emphasized": true,
+              "sentiment": "good"
+            },
+            {
+              "label": "Pil ömrü",
+              "value": "6 saat (kutu ile 30 saat)",
+              "note": "ANC açıkken"
+            },
+            {
+              "label": "Bağlantı",
+              "value": "Bluetooth 5.3"
+            },
+            {
+              "label": "Şarj",
+              "value": "USB-C, MagSafe, Qi"
+            },
+            {
+              "label": "Suya dayanıklılık",
+              "value": "IP54",
+              "sentiment": "good"
+            },
+            {
+              "label": "Ağırlık",
+              "value": "5,3 g (tek kulaklık)"
+            }
+          ]
+        },
+        {
+          "title": "Garanti & Kutu İçeriği",
+          "icon": "📦",
+          "initiallyExpanded": false,
+          "attributes": [
+            {
+              "label": "Garanti",
+              "value": "2 yıl (Apple TR)",
+              "note": "Yurt dışı garantili ürünlerde servis sorunu çıkabilir",
+              "sentiment": "good"
+            },
+            {
+              "label": "Kutu içeriği",
+              "value": "4 boy silikon, USB-C kablo"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "kulaklık",
+        "airpods",
+        "bluetooth",
+        "anc",
+        "apple"
+      ],
+      "trend": {
+        "score": 88,
+        "change": 0.39,
+        "socialMentions": 24200,
+        "startDate": "2026-08-09T14:10:07.104229Z",
+        "source": "TikTok"
+      },
+      "alternatives": [
+        "p_soundcore_q30"
+      ],
+      "userRating": 4.8,
+      "reviewCount": 31200,
+      "offers": [
+        {
+          "marketplace": "amazon",
+          "seller": "Amazon",
+          "price": 8499.0,
+          "oldPrice": 9999.0,
+          "shipping": 0.0,
+          "storeUrl": "https://www.amazon.com.tr/urun/p-airpods-pro2",
+          "stock": "inStock",
+          "sellerRating": 4.9,
+          "delivery": "Yarın kargoda",
+          "updatedAt": "2026-08-15T17:08:07.108387Z"
+        },
+        {
+          "marketplace": "vatan",
+          "seller": "Vatan Bilgisayar",
+          "price": 8399.0,
+          "shipping": 149.0,
+          "storeUrl": "https://www.vatanbilgisayar.com/urun/p-airpods-pro2",
+          "stock": "inStock",
+          "sellerRating": 4.6,
+          "delivery": "1-2 iş günü",
+          "updatedAt": "2026-08-15T16:56:07.108391Z"
+        },
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 8649.0,
+          "oldPrice": 9999.0,
+          "shipping": 0.0,
+          "storeUrl": "https://www.trendyol.com/urun/p-airpods-pro2",
+          "stock": "inStock",
+          "sellerRating": 4.7,
+          "updatedAt": "2026-08-15T17:04:07.108395Z"
+        },
+        {
+          "marketplace": "mediamarkt",
+          "seller": "MediaMarkt",
+          "price": 8799.0,
+          "shipping": 0.0,
+          "storeUrl": "https://www.mediamarkt.com.tr/urun/p-airpods-pro2",
+          "stock": "inStock",
+          "sellerRating": 4.8,
+          "updatedAt": "2026-08-15T16:51:07.108398Z"
+        },
+        {
+          "marketplace": "hepsiburada",
+          "seller": "Hepsiburada",
+          "price": 8999.0,
+          "shipping": 0.0,
+          "storeUrl": "https://www.hepsiburada.com/urun/p-airpods-pro2",
+          "stock": "inStock",
+          "sellerRating": 4.7,
+          "updatedAt": "2026-08-15T16:45:07.108402Z"
+        }
+      ]
+    },
+    {
+      "id": "p_soundcore_q30",
+      "slug": "anker-soundcore-life-q30",
+      "brand": "Anker",
+      "name": "Soundcore Life Q30 Kulak Üstü",
+      "category": "teknoloji",
+      "glyph": "🎧",
+      "score": 82,
+      "verdict": "buy",
+      "shortDescription": "Uzun pil ömrü ve etkili gürültü engellemeyle bütçe dostu kulak üstü.",
+      "editorialSummary": "Fiyat/performansta uzun süredir tahtını koruyan bir model. 40 saatlik pil ömrü ve iyi çalışan gürültü engelleme bu segmentte nadir. Ses imzası bas ağırlıklı; detay bekleyenler hayal kırıklığına uğrayabilir.",
+      "positives": [
+        {
+          "text": "40 saate varan pil ömrü",
+          "detail": "ANC açıkken bile bir haftalık kullanım."
+        },
+        {
+          "text": "Bu fiyata beklenmeyecek gürültü engelleme"
+        },
+        {
+          "text": "Uygulama üzerinden ses ayarı yapılabiliyor"
+        }
+      ],
+      "negatives": [
+        {
+          "text": "Bas ağırlıklı ses imzası",
+          "detail": "Varsayılan ayarda orta frekanslar geri planda kalıyor."
+        },
+        {
+          "text": "Plastik gövde premium hissettirmiyor"
+        },
+        {
+          "text": "Mikrofon kalitesi görüşmelerde ortalama"
+        }
+      ],
+      "quickFacts": [
+        {
+          "icon": "🔋",
+          "label": "Pil",
+          "value": "40 sa"
+        },
+        {
+          "icon": "🔇",
+          "label": "ANC",
+          "value": "Var"
+        },
+        {
+          "icon": "⚖️",
+          "label": "Ağırlık",
+          "value": "260 g"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Teknik Özellikler",
+          "icon": "⚙️",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Pil ömrü",
+              "value": "40 saat (ANC açık)",
+              "emphasized": true,
+              "sentiment": "good"
+            },
+            {
+              "label": "Gürültü engelleme",
+              "value": "Aktif, 3 kademeli"
+            },
+            {
+              "label": "Sürücü",
+              "value": "40 mm"
+            },
+            {
+              "label": "Bağlantı",
+              "value": "Bluetooth 5.0 + 3.5mm"
+            },
+            {
+              "label": "Suya dayanıklılık",
+              "value": "Yok",
+              "sentiment": "warning"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "kulaklık",
+        "kulak üstü",
+        "anker",
+        "anc",
+        "bütçe"
+      ],
+      "trend": {
+        "score": 62,
+        "change": 0.09,
+        "socialMentions": 2400,
+        "startDate": "2026-05-17T14:10:07.104324Z",
+        "source": "YouTube"
+      },
+      "alternatives": [
+        "p_airpods_pro2"
+      ],
+      "userRating": 4.5,
+      "reviewCount": 18900,
+      "offers": [
+        {
+          "marketplace": "amazon",
+          "seller": "Anker Türkiye",
+          "price": 2199.0,
+          "oldPrice": 2499.0,
+          "shipping": 0.0,
+          "storeUrl": "https://www.amazon.com.tr/urun/p-soundcore-q30",
+          "stock": "inStock",
+          "sellerRating": 4.8,
+          "delivery": "Yarın kargoda",
+          "updatedAt": "2026-08-15T16:53:07.108406Z"
+        },
+        {
+          "marketplace": "trendyol",
+          "seller": "Teknoloji Dünyası",
+          "price": 2149.0,
+          "shipping": 79.9,
+          "storeUrl": "https://www.trendyol.com/urun/p-soundcore-q30",
+          "stock": "inStock",
+          "sellerRating": 4.4,
+          "updatedAt": "2026-08-15T16:47:07.108409Z"
+        },
+        {
+          "marketplace": "n11",
+          "seller": "n11",
+          "price": 2249.0,
+          "shipping": 0.0,
+          "storeUrl": "https://www.n11.com/urun/p-soundcore-q30",
+          "stock": "inStock",
+          "sellerRating": 4.3,
+          "updatedAt": "2026-08-15T16:32:07.108413Z"
+        },
+        {
+          "marketplace": "hepsiburada",
+          "seller": "Hepsiburada",
+          "price": 2299.0,
+          "shipping": 0.0,
+          "storeUrl": "https://www.hepsiburada.com/urun/p-soundcore-q30",
+          "stock": "inStock",
+          "sellerRating": 4.6,
+          "updatedAt": "2026-08-15T16:41:07.108416Z"
+        }
+      ]
+    },
+    {
+      "id": "p_redmi_watch5",
+      "slug": "xiaomi-redmi-watch-5-active",
+      "brand": "Xiaomi",
+      "name": "Redmi Watch 5 Active",
+      "category": "teknoloji",
+      "glyph": "⌚",
+      "score": 69,
+      "verdict": "conditional",
+      "shortDescription": "Giriş seviyesi, uzun pil ömürlü akıllı saat.",
+      "editorialSummary": "Bildirim takibi ve adım sayımı için yeterli, bu fiyata rakibi az. Ancak sağlık ölçümleri referans alınacak hassasiyette değil ve uygulama ekosistemi sınırlı. Spor takibi ciddi bir beklentiyse bu segment yetmiyor.",
+      "positives": [
+        {
+          "text": "Çok uygun fiyat"
+        },
+        {
+          "text": "18 güne varan pil ömrü"
+        },
+        {
+          "text": "Büyük ve okunaklı ekran"
+        }
+      ],
+      "negatives": [
+        {
+          "text": "Nabız ölçümü hareket halinde şaşıyor",
+          "detail": "Yüksek tempolu antrenmanda göğüs bandı kadar güvenilir değil."
+        },
+        {
+          "text": "GPS yok, konum telefona bağlı"
+        },
+        {
+          "text": "Uygulama desteği sınırlı"
+        }
+      ],
+      "quickFacts": [
+        {
+          "icon": "🔋",
+          "label": "Pil",
+          "value": "18 gün"
+        },
+        {
+          "icon": "📺",
+          "label": "Ekran",
+          "value": "2.0\" LCD"
+        },
+        {
+          "icon": "📍",
+          "label": "GPS",
+          "value": "Yok"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Teknik Özellikler",
+          "icon": "⚙️",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Ekran",
+              "value": "2.0 inç LCD, 450 nit",
+              "emphasized": true
+            },
+            {
+              "label": "Pil ömrü",
+              "value": "18 gün",
+              "sentiment": "good"
+            },
+            {
+              "label": "GPS",
+              "value": "Yok (telefona bağlı)",
+              "sentiment": "warning"
+            },
+            {
+              "label": "Suya dayanıklılık",
+              "value": "5 ATM"
+            },
+            {
+              "label": "Garanti",
+              "value": "2 yıl"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "akıllı saat",
+        "xiaomi",
+        "redmi",
+        "giyilebilir"
+      ],
+      "trend": {
+        "score": 55,
+        "change": 0.02,
+        "socialMentions": 900,
+        "startDate": "2026-03-18T14:10:07.104427Z"
+      },
+      "alternatives": [
+        "p_airpods_pro2"
+      ],
+      "userRating": 4.3,
+      "reviewCount": 4200,
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Xiaomi Türkiye",
+          "price": 1799.0,
+          "oldPrice": 1999.0,
+          "shipping": 0.0,
+          "storeUrl": "https://www.trendyol.com/urun/p-redmi-watch5",
+          "stock": "inStock",
+          "sellerRating": 4.7,
+          "updatedAt": "2026-08-15T16:37:07.108420Z"
+        },
+        {
+          "marketplace": "amazon",
+          "seller": "Amazon",
+          "price": 1849.0,
+          "shipping": 0.0,
+          "storeUrl": "https://www.amazon.com.tr/urun/p-redmi-watch5",
+          "stock": "inStock",
+          "sellerRating": 4.8,
+          "updatedAt": "2026-08-15T16:49:07.108423Z"
+        },
+        {
+          "marketplace": "hepsiburada",
+          "seller": "Hepsiburada",
+          "price": 1899.0,
+          "shipping": 0.0,
+          "storeUrl": "https://www.hepsiburada.com/urun/p-redmi-watch5",
+          "stock": "inStock",
+          "sellerRating": 4.6,
+          "updatedAt": "2026-08-15T16:26:07.108426Z"
+        },
+        {
+          "marketplace": "mediamarkt",
+          "seller": "MediaMarkt",
+          "price": 1949.0,
+          "shipping": 0.0,
+          "storeUrl": "https://www.mediamarkt.com.tr/urun/p-redmi-watch5",
+          "stock": "outOfStock",
+          "sellerRating": 4.8,
+          "updatedAt": "2026-08-15T16:18:07.108430Z"
+        }
+      ]
+    },
+    {
+      "id": "p_philips_lattego",
+      "slug": "philips-3200-lattego-tam-otomatik",
+      "brand": "Philips",
+      "name": "3200 Serisi LatteGo Tam Otomatik Kahve Makinesi",
+      "category": "ev-yasam",
+      "glyph": "☕",
+      "score": 85,
+      "verdict": "buy",
+      "shortDescription": "Süt sistemi kolay temizlenen, ev için tam otomatik espresso makinesi.",
+      "editorialSummary": "Ev tipi tam otomatikler arasında bakımı en kolay modellerden biri. LatteGo süt haznesi iki parçadan oluşuyor ve bulaşık makinesinde yıkanabiliyor — bu segmentte en çok şikâyet edilen konuyu çözüyor. Öğütücü sesli, sabah sessizlik bekleyenler için not düşelim.",
+      "positives": [
+        {
+          "text": "Süt sistemi iki parça, temizliği çok kolay",
+          "detail": "Hortum yok; parçalar bulaşık makinesinde yıkanabiliyor."
+        },
+        {
+          "text": "Seramik öğütücü, 12 kademe ayar"
+        },
+        {
+          "text": "Tek dokunuşla 5 içecek"
+        }
+      ],
+      "negatives": [
+        {
+          "text": "Öğütme sesi yüksek"
+        },
+        {
+          "text": "Su haznesi kapasitesi mütevazı (1,8 L)"
+        },
+        {
+          "text": "Yedek parça fiyatları pahalı"
+        }
+      ],
+      "quickFacts": [
+        {
+          "icon": "☕",
+          "label": "İçecek",
+          "value": "5 çeşit"
+        },
+        {
+          "icon": "⚙️",
+          "label": "Öğütücü",
+          "value": "Seramik"
+        },
+        {
+          "icon": "🧼",
+          "label": "Temizlik",
+          "value": "Kolay"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Teknik Özellikler",
+          "icon": "⚙️",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Öğütücü",
+              "value": "Seramik, 12 kademe",
+              "emphasized": true,
+              "sentiment": "good"
+            },
+            {
+              "label": "Basınç",
+              "value": "15 bar"
+            },
+            {
+              "label": "Su haznesi",
+              "value": "1,8 L"
+            },
+            {
+              "label": "Çekirdek haznesi",
+              "value": "275 g"
+            },
+            {
+              "label": "Süt sistemi",
+              "value": "LatteGo (2 parça)",
+              "sentiment": "good"
+            },
+            {
+              "label": "Garanti",
+              "value": "2 yıl"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "kahve makinesi",
+        "espresso",
+        "philips",
+        "tam otomatik"
+      ],
+      "trend": {
+        "score": 67,
+        "change": 0.21,
+        "socialMentions": 3400,
+        "startDate": "2026-07-21T14:10:07.104521Z",
+        "source": "Instagram"
+      },
+      "alternatives": [
+        "p_xiaomi_airfryer"
+      ],
+      "userRating": 4.6,
+      "reviewCount": 5600,
+      "offers": [
+        {
+          "marketplace": "vatan",
+          "seller": "Vatan Bilgisayar",
+          "price": 18749.0,
+          "oldPrice": 21999.0,
+          "shipping": 199.0,
+          "storeUrl": "https://www.vatanbilgisayar.com/urun/p-philips-lattego",
+          "stock": "inStock",
+          "sellerRating": 4.6,
+          "delivery": "2-4 iş günü",
+          "updatedAt": "2026-08-15T16:54:07.108433Z"
+        },
+        {
+          "marketplace": "mediamarkt",
+          "seller": "MediaMarkt",
+          "price": 18999.0,
+          "oldPrice": 22999.0,
+          "shipping": 0.0,
+          "storeUrl": "https://www.mediamarkt.com.tr/urun/p-philips-lattego",
+          "stock": "inStock",
+          "sellerRating": 4.8,
+          "delivery": "1-3 iş günü",
+          "updatedAt": "2026-08-15T17:02:07.108437Z"
+        },
+        {
+          "marketplace": "hepsiburada",
+          "seller": "Hepsiburada",
+          "price": 19499.0,
+          "shipping": 0.0,
+          "storeUrl": "https://www.hepsiburada.com/urun/p-philips-lattego",
+          "stock": "inStock",
+          "sellerRating": 4.7,
+          "updatedAt": "2026-08-15T16:43:07.108440Z"
+        },
+        {
+          "marketplace": "amazon",
+          "seller": "Amazon",
+          "price": 19999.0,
+          "shipping": 0.0,
+          "storeUrl": "https://www.amazon.com.tr/urun/p-philips-lattego",
+          "stock": "inStock",
+          "sellerRating": 4.8,
+          "updatedAt": "2026-08-15T16:57:07.108443Z"
+        }
+      ]
+    },
+    {
+      "id": "p_xiaomi_airfryer",
+      "slug": "xiaomi-smart-air-fryer-6-5l",
+      "brand": "Xiaomi",
+      "name": "Smart Air Fryer 6.5L",
+      "category": "ev-yasam",
+      "glyph": "🍟",
+      "score": 79,
+      "verdict": "buy",
+      "shortDescription": "Uygulamadan kontrol edilebilen geniş hazneli fritöz.",
+      "editorialSummary": "Kalabalık haneler için hazne boyutu yeterli, uygulama desteği bu fiyata beklenmedik bir artı. Sepetin kaplaması zamanla yıpranıyor; metal aparat kullanmamak gerekiyor.",
+      "positives": [
+        {
+          "text": "6,5 L geniş hazne, 4-5 kişilik"
+        },
+        {
+          "text": "Uygulamadan kontrol ve tarif desteği"
+        },
+        {
+          "text": "Sessiz çalışıyor"
+        }
+      ],
+      "negatives": [
+        {
+          "text": "Sepet kaplaması zamanla çiziliyor",
+          "detail": "Metal maşa kullanımı kaplamayı hızla yıpratıyor."
+        },
+        {
+          "text": "Tezgahta yer kaplıyor"
+        }
+      ],
+      "quickFacts": [
+        {
+          "icon": "🥘",
+          "label": "Hazne",
+          "value": "6,5 L"
+        },
+        {
+          "icon": "⚡",
+          "label": "Güç",
+          "value": "1800 W"
+        },
+        {
+          "icon": "📱",
+          "label": "Uygulama",
+          "value": "Var"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Teknik Özellikler",
+          "icon": "⚙️",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Hazne kapasitesi",
+              "value": "6,5 L",
+              "emphasized": true,
+              "sentiment": "good"
+            },
+            {
+              "label": "Güç",
+              "value": "1800 W"
+            },
+            {
+              "label": "Sıcaklık aralığı",
+              "value": "40–200 °C"
+            },
+            {
+              "label": "Uygulama desteği",
+              "value": "Mi Home",
+              "sentiment": "good"
+            },
+            {
+              "label": "Garanti",
+              "value": "2 yıl"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "air fryer",
+        "fritöz",
+        "xiaomi",
+        "mutfak"
+      ],
+      "trend": {
+        "score": 74,
+        "change": 0.28,
+        "socialMentions": 6100,
+        "startDate": "2026-08-01T14:10:07.104606Z",
+        "source": "TikTok"
+      },
+      "alternatives": [
+        "p_philips_lattego"
+      ],
+      "userRating": 4.4,
+      "reviewCount": 9800,
+      "offers": [
+        {
+          "marketplace": "hepsiburada",
+          "seller": "Hepsiburada",
+          "price": 3299.0,
+          "oldPrice": 3999.0,
+          "shipping": 0.0,
+          "storeUrl": "https://www.hepsiburada.com/urun/p-xiaomi-airfryer",
+          "stock": "inStock",
+          "sellerRating": 4.7,
+          "delivery": "1-2 iş günü",
+          "updatedAt": "2026-08-15T16:49:07.108448Z"
+        },
+        {
+          "marketplace": "trendyol",
+          "seller": "Xiaomi Türkiye",
+          "price": 3349.0,
+          "oldPrice": 3999.0,
+          "shipping": 0.0,
+          "storeUrl": "https://www.trendyol.com/urun/p-xiaomi-airfryer",
+          "stock": "inStock",
+          "sellerRating": 4.8,
+          "updatedAt": "2026-08-15T16:55:07.108451Z"
+        },
+        {
+          "marketplace": "n11",
+          "seller": "Ev Aletleri Merkezi",
+          "price": 3199.0,
+          "shipping": 159.0,
+          "storeUrl": "https://www.n11.com/urun/p-xiaomi-airfryer",
+          "stock": "inStock",
+          "sellerRating": 4.1,
+          "updatedAt": "2026-08-15T16:23:07.108455Z"
+        },
+        {
+          "marketplace": "amazon",
+          "seller": "Amazon",
+          "price": 3449.0,
+          "shipping": 0.0,
+          "storeUrl": "https://www.amazon.com.tr/urun/p-xiaomi-airfryer",
+          "stock": "inStock",
+          "sellerRating": 4.8,
+          "updatedAt": "2026-08-15T17:01:07.108458Z"
+        }
+      ]
+    },
+    {
+      "id": "p_dyson_v12",
+      "slug": "dyson-v12-detect-slim-absolute",
+      "brand": "Dyson",
+      "name": "V12 Detect Slim Absolute Dikey Süpürge",
+      "category": "ev-yasam",
+      "glyph": "🧹",
+      "score": 88,
+      "verdict": "conditional",
+      "shortDescription": "Lazerli başlığıyla toz gösteren güçlü dikey süpürge.",
+      "editorialSummary": "Emiş gücü ve hafifliğiyle sınıfının en iyilerinden. Lazerli başlık gözle görülmeyen tozu ortaya çıkarıyor — etkileyici ama pazarlama kadar hayati değil. Asıl mesele fiyat: aynı temizlik performansına çok daha uygun alternatiflerle ulaşmak mümkün.",
+      "positives": [
+        {
+          "text": "Sınıfının en güçlü emişlerinden"
+        },
+        {
+          "text": "Hafif ve dengeli, tek elle kullanılabiliyor"
+        },
+        {
+          "text": "Lazerli başlık ince tozu görünür kılıyor",
+          "detail": "Sert zeminde gözle fark edilmeyen tozu yakalamayı kolaylaştırıyor."
+        },
+        {
+          "text": "HEPA filtreleme, alerji için uygun"
+        }
+      ],
+      "negatives": [
+        {
+          "text": "Fiyatı çok yüksek",
+          "detail": "Benzer emiş performansı sunan alternatifler yaklaşık yarı fiyata bulunabiliyor. Fark daha çok yapı kalitesi ve başlıklarda."
+        },
+        {
+          "text": "Maksimum modda pil 5 dakikaya iniyor"
+        },
+        {
+          "text": "Yedek pil ve başlık fiyatları pahalı"
+        }
+      ],
+      "quickFacts": [
+        {
+          "icon": "💨",
+          "label": "Emiş",
+          "value": "150 AW"
+        },
+        {
+          "icon": "🔋",
+          "label": "Pil",
+          "value": "60 dk"
+        },
+        {
+          "icon": "⚖️",
+          "label": "Ağırlık",
+          "value": "2,2 kg"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Teknik Özellikler",
+          "icon": "⚙️",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Emiş gücü",
+              "value": "150 AW",
+              "emphasized": true,
+              "sentiment": "good"
+            },
+            {
+              "label": "Pil ömrü",
+              "value": "60 dk (eko), 5 dk (maks.)",
+              "sentiment": "warning"
+            },
+            {
+              "label": "Hazne",
+              "value": "0,35 L"
+            },
+            {
+              "label": "Filtre",
+              "value": "HEPA, yıkanabilir",
+              "sentiment": "good"
+            },
+            {
+              "label": "Ağırlık",
+              "value": "2,2 kg"
+            },
+            {
+              "label": "Garanti",
+              "value": "2 yıl"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "süpürge",
+        "dikey süpürge",
+        "dyson",
+        "ev aleti"
+      ],
+      "trend": {
+        "score": 70,
+        "change": 0.18,
+        "socialMentions": 4700,
+        "startDate": "2026-07-16T14:10:07.104697Z",
+        "source": "Instagram"
+      },
+      "alternatives": [
+        "p_xiaomi_airfryer"
+      ],
+      "userRating": 4.7,
+      "reviewCount": 3100,
+      "offers": [
+        {
+          "marketplace": "amazon",
+          "seller": "Amazon",
+          "price": 24999.0,
+          "oldPrice": 29999.0,
+          "shipping": 0.0,
+          "storeUrl": "https://www.amazon.com.tr/urun/p-dyson-v12",
+          "stock": "inStock",
+          "sellerRating": 4.9,
+          "delivery": "Yarın kargoda",
+          "updatedAt": "2026-08-15T17:04:07.108461Z"
+        },
+        {
+          "marketplace": "mediamarkt",
+          "seller": "MediaMarkt",
+          "price": 25499.0,
+          "oldPrice": 29999.0,
+          "shipping": 0.0,
+          "storeUrl": "https://www.mediamarkt.com.tr/urun/p-dyson-v12",
+          "stock": "inStock",
+          "sellerRating": 4.8,
+          "updatedAt": "2026-08-15T16:52:07.108465Z"
+        },
+        {
+          "marketplace": "vatan",
+          "seller": "Vatan Bilgisayar",
+          "price": 25999.0,
+          "shipping": 0.0,
+          "storeUrl": "https://www.vatanbilgisayar.com/urun/p-dyson-v12",
+          "stock": "inStock",
+          "sellerRating": 4.6,
+          "updatedAt": "2026-08-15T16:46:07.108468Z"
+        },
+        {
+          "marketplace": "hepsiburada",
+          "seller": "Hepsiburada",
+          "price": 26499.0,
+          "shipping": 0.0,
+          "storeUrl": "https://www.hepsiburada.com/urun/p-dyson-v12",
+          "stock": "inStock",
+          "sellerRating": 4.7,
+          "updatedAt": "2026-08-15T16:39:07.108471Z"
+        }
+      ]
+    },
+    {
+      "id": "p_air_force_1",
+      "slug": "nike-air-force-1-07",
+      "brand": "Nike",
+      "name": "Air Force 1 '07",
+      "category": "moda",
+      "glyph": "👟",
+      "score": 74,
+      "verdict": "conditional",
+      "shortDescription": "Klasikleşmiş, her kombine uyan beyaz deri spor ayakkabı.",
+      "editorialSummary": "Tasarım olarak zamansız ve dayanıklı. Ancak taban sert, uzun yürüyüş için konforlu değil ve beyaz deri çabuk kirleniyor. Günlük stil için alınır; yürüyüş ayakkabısı arayan başka modele bakmalı.",
+      "positives": [
+        {
+          "text": "Zamansız tasarım, her kombine uyuyor"
+        },
+        {
+          "text": "Deri üst malzeme dayanıklı"
+        },
+        {
+          "text": "Geniş beden aralığı"
+        }
+      ],
+      "negatives": [
+        {
+          "text": "Taban sert, uzun yürüyüşte yoruyor",
+          "detail": "Air yastıklama topukta sınırlı; günde 10 bin adım üzeri konforsuz."
+        },
+        {
+          "text": "Beyaz deri çabuk kirleniyor"
+        },
+        {
+          "text": "Ağır bir ayakkabı"
+        }
+      ],
+      "quickFacts": [
+        {
+          "icon": "🎨",
+          "label": "Renk",
+          "value": "Beyaz"
+        },
+        {
+          "icon": "🧵",
+          "label": "Malzeme",
+          "value": "Deri"
+        },
+        {
+          "icon": "👣",
+          "label": "Kalıp",
+          "value": "Normal"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgileri",
+          "icon": "👟",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Üst malzeme",
+              "value": "Gerçek deri",
+              "emphasized": true,
+              "sentiment": "good"
+            },
+            {
+              "label": "Taban",
+              "value": "Kauçuk + Air yastıklama"
+            },
+            {
+              "label": "Kalıp",
+              "value": "Normal",
+              "note": "Geniş ayaklarda yarım numara büyük önerilir"
+            },
+            {
+              "label": "Kullanım",
+              "value": "Günlük"
+            },
+            {
+              "label": "Ağırlık",
+              "value": "~510 g (tek tek)",
+              "sentiment": "warning"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "spor ayakkabı",
+        "sneaker",
+        "nike",
+        "beyaz",
+        "air force"
+      ],
+      "trend": {
+        "score": 61,
+        "change": 0.04,
+        "socialMentions": 8200,
+        "startDate": "2025-07-11T14:10:07.104789Z",
+        "source": "Instagram"
+      },
+      "alternatives": [
+        "p_samba_og"
+      ],
+      "userRating": 4.5,
+      "reviewCount": 26400,
+      "offers": [
+        {
+          "marketplace": "n11",
+          "seller": "Sneaker House",
+          "price": 4099.0,
+          "shipping": 89.9,
+          "storeUrl": "https://www.n11.com/urun/p-air-force-1",
+          "stock": "inStock",
+          "sellerRating": 4.2,
+          "delivery": "2-4 iş günü",
+          "updatedAt": "2026-08-15T16:37:07.108475Z"
+        },
+        {
+          "marketplace": "trendyol",
+          "seller": "Nike Türkiye",
+          "price": 4199.0,
+          "oldPrice": 4699.0,
+          "shipping": 0.0,
+          "storeUrl": "https://www.trendyol.com/urun/p-air-force-1",
+          "stock": "inStock",
+          "sellerRating": 4.8,
+          "delivery": "1-3 iş günü",
+          "updatedAt": "2026-08-15T16:58:07.108478Z"
+        },
+        {
+          "marketplace": "hepsiburada",
+          "seller": "Hepsiburada",
+          "price": 4399.0,
+          "shipping": 0.0,
+          "storeUrl": "https://www.hepsiburada.com/urun/p-air-force-1",
+          "stock": "inStock",
+          "sellerRating": 4.6,
+          "updatedAt": "2026-08-15T16:42:07.108482Z"
+        },
+        {
+          "marketplace": "amazon",
+          "seller": "Amazon",
+          "price": 4549.0,
+          "shipping": 0.0,
+          "storeUrl": "https://www.amazon.com.tr/urun/p-air-force-1",
+          "stock": "inStock",
+          "sellerRating": 4.7,
+          "updatedAt": "2026-08-15T16:51:07.108489Z"
+        }
+      ]
+    },
+    {
+      "id": "p_samba_og",
+      "slug": "adidas-samba-og",
+      "brand": "adidas",
+      "name": "Samba OG",
+      "category": "moda",
+      "glyph": "👟",
+      "score": 80,
+      "verdict": "buy",
+      "shortDescription": "İnce tabanlı, son iki yılın en çok konuşulan sneakerı.",
+      "editorialSummary": "Retro silueti ve hafifliğiyle günlük kullanımda çok rahat. Kalıbı dar; yarım numara büyük almak neredeyse zorunlu. Popülerlik nedeniyle bazı satıcılarda fiyat şişmiş durumda — mağaza karşılaştırması burada gerçekten fark yaratıyor.",
+      "positives": [
+        {
+          "text": "Hafif ve rahat"
+        },
+        {
+          "text": "Süet detaylı klasik tasarım"
+        },
+        {
+          "text": "Geniş renk seçeneği"
+        }
+      ],
+      "negatives": [
+        {
+          "text": "Kalıp dar",
+          "detail": "Neredeyse tüm kullanıcılar yarım numara büyük öneriyor."
+        },
+        {
+          "text": "İnce taban, uzun süre ayakta durmaya uygun değil"
+        },
+        {
+          "text": "Bazı satıcılarda fiyat şişirilmiş"
+        }
+      ],
+      "quickFacts": [
+        {
+          "icon": "🧵",
+          "label": "Malzeme",
+          "value": "Deri + süet"
+        },
+        {
+          "icon": "👣",
+          "label": "Kalıp",
+          "value": "Dar"
+        },
+        {
+          "icon": "⚖️",
+          "label": "Ağırlık",
+          "value": "Hafif"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgileri",
+          "icon": "👟",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Kalıp",
+              "value": "Dar — yarım numara büyük alın",
+              "emphasized": true,
+              "sentiment": "warning"
+            },
+            {
+              "label": "Üst malzeme",
+              "value": "Deri + süet"
+            },
+            {
+              "label": "Taban",
+              "value": "Kauçuk, ince"
+            },
+            {
+              "label": "Kullanım",
+              "value": "Günlük"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "spor ayakkabı",
+        "sneaker",
+        "adidas",
+        "samba",
+        "retro"
+      ],
+      "trend": {
+        "score": 86,
+        "change": 0.37,
+        "socialMentions": 15900,
+        "startDate": "2026-08-07T14:10:07.104867Z",
+        "source": "TikTok"
+      },
+      "alternatives": [
+        "p_air_force_1"
+      ],
+      "userRating": 4.6,
+      "reviewCount": 11200,
+      "offers": [
+        {
+          "marketplace": "amazon",
+          "seller": "Amazon",
+          "price": 4799.0,
+          "oldPrice": 5499.0,
+          "shipping": 0.0,
+          "storeUrl": "https://www.amazon.com.tr/urun/p-samba-og",
+          "stock": "inStock",
+          "sellerRating": 4.8,
+          "delivery": "Yarın kargoda",
+          "updatedAt": "2026-08-15T16:57:07.108494Z"
+        },
+        {
+          "marketplace": "trendyol",
+          "seller": "adidas Türkiye",
+          "price": 4899.0,
+          "oldPrice": 5499.0,
+          "shipping": 0.0,
+          "storeUrl": "https://www.trendyol.com/urun/p-samba-og",
+          "stock": "inStock",
+          "sellerRating": 4.8,
+          "updatedAt": "2026-08-15T17:00:07.108498Z"
+        },
+        {
+          "marketplace": "hepsiburada",
+          "seller": "Moda Sepeti",
+          "price": 5299.0,
+          "shipping": 0.0,
+          "storeUrl": "https://www.hepsiburada.com/urun/p-samba-og",
+          "stock": "inStock",
+          "sellerRating": 4.1,
+          "updatedAt": "2026-08-15T16:34:07.108502Z"
+        },
+        {
+          "marketplace": "n11",
+          "seller": "Ayakkabı Dünyası",
+          "price": 5499.0,
+          "shipping": 0.0,
+          "storeUrl": "https://www.n11.com/urun/p-samba-og",
+          "stock": "lowStock",
+          "sellerRating": 3.9,
+          "updatedAt": "2026-08-15T16:15:07.108769Z"
+        }
+      ]
+    },
+    {
+      "id": "p_grenade_bar",
+      "slug": "grenade-protein-bar-carb-killa",
+      "brand": "Grenade",
+      "name": "Carb Killa Protein Bar (60 g)",
+      "category": "market",
+      "glyph": "🍫",
+      "score": 68,
+      "verdict": "conditional",
+      "shortDescription": "Yüksek proteinli, düşük şekerli ara öğün barı.",
+      "editorialSummary": "Protein miktarı ve tadı iyi, ancak \"sağlıklı atıştırmalık\" olarak konumlandırılmasına rağmen 214 kalori ve ciddi miktarda tatlandırıcı içeriyor. Antrenman sonrası pratik bir seçenek; günlük atıştırmalık olarak düşünülmemeli.",
+      "positives": [
+        {
+          "text": "60 g barda 20 g protein"
+        },
+        {
+          "text": "Tat ve doku çoğu rakibinden iyi"
+        },
+        {
+          "text": "Yanında taşıması pratik"
+        }
+      ],
+      "negatives": [
+        {
+          "text": "Kalorisi düşük değil",
+          "detail": "214 kcal — bir öğünün yerini tutmuyor ama hafif de sayılmaz."
+        },
+        {
+          "text": "Yoğun tatlandırıcı içeriyor",
+          "detail": "Maltitol hassas kişilerde şişkinlik yapabiliyor."
+        },
+        {
+          "text": "Birim fiyatı yüksek"
+        }
+      ],
+      "quickFacts": [
+        {
+          "icon": "💪",
+          "label": "Protein",
+          "value": "20 g"
+        },
+        {
+          "icon": "🔥",
+          "label": "Kalori",
+          "value": "214 kcal"
+        },
+        {
+          "icon": "🍬",
+          "label": "Şeker",
+          "value": "1,4 g"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Besin Değerleri (60 g)",
+          "icon": "🥗",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Protein",
+              "value": "20 g",
+              "emphasized": true,
+              "sentiment": "good"
+            },
+            {
+              "label": "Şeker",
+              "value": "1,4 g",
+              "sentiment": "good"
+            },
+            {
+              "label": "Kalori",
+              "value": "214 kcal",
+              "sentiment": "warning"
+            },
+            {
+              "label": "Yağ",
+              "value": "8,6 g"
+            },
+            {
+              "label": "Lif",
+              "value": "4,3 g"
+            }
+          ]
+        },
+        {
+          "title": "İçerik & Alerjenler",
+          "icon": "⚠️",
+          "footnote": "Alerjen bilgisi ambalaj üzerindeki beyandan alınmıştır.",
+          "initiallyExpanded": false,
+          "attributes": [
+            {
+              "label": "Tatlandırıcı",
+              "value": "Maltitol, sukraloz",
+              "note": "Fazla tüketimde sindirim sorunu yapabilir",
+              "sentiment": "warning"
+            },
+            {
+              "label": "Alerjenler",
+              "value": "Süt, soya, fındık",
+              "sentiment": "warning"
+            },
+            {
+              "label": "Katkı maddesi",
+              "value": "Emülgatör içerir"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "protein bar",
+        "atıştırmalık",
+        "spor",
+        "grenade"
+      ],
+      "trend": {
+        "score": 59,
+        "change": 0.11,
+        "socialMentions": 1400,
+        "startDate": "2026-06-16T14:10:07.104992Z"
+      },
+      "alternatives": [
+        "p_stanley_quencher"
+      ],
+      "userRating": 4.4,
+      "reviewCount": 3800,
+      "offers": [
+        {
+          "marketplace": "amazon",
+          "seller": "Amazon",
+          "price": 139.9,
+          "shipping": 0.0,
+          "storeUrl": "https://www.amazon.com.tr/urun/p-grenade-bar",
+          "stock": "inStock",
+          "sellerRating": 4.7,
+          "updatedAt": "2026-08-15T16:31:07.108784Z"
+        },
+        {
+          "marketplace": "migros",
+          "seller": "Migros",
+          "price": 119.9,
+          "shipping": 29.9,
+          "storeUrl": "https://www.migros.com.tr/urun/p-grenade-bar",
+          "stock": "inStock",
+          "sellerRating": 4.6,
+          "delivery": "Aynı gün teslim",
+          "updatedAt": "2026-08-15T16:26:07.108789Z"
+        },
+        {
+          "marketplace": "hepsiburada",
+          "seller": "Sporcu Gıdası",
+          "price": 144.9,
+          "shipping": 0.0,
+          "storeUrl": "https://www.hepsiburada.com/urun/p-grenade-bar",
+          "stock": "inStock",
+          "sellerRating": 4.3,
+          "updatedAt": "2026-08-15T16:19:07.108810Z"
+        },
+        {
+          "marketplace": "trendyol",
+          "seller": "Supplement Market",
+          "price": 134.9,
+          "shipping": 39.9,
+          "storeUrl": "https://www.trendyol.com/urun/p-grenade-bar",
+          "stock": "inStock",
+          "sellerRating": 4.4,
+          "updatedAt": "2026-08-15T16:12:07.108815Z"
+        }
+      ]
+    },
+    {
+      "id": "p_stanley_quencher",
+      "slug": "stanley-quencher-h2-0-flowstate-1180ml",
+      "brand": "Stanley",
+      "name": "Quencher H2.0 FlowState Termos Bardak (1,18 L)",
+      "category": "spor",
+      "glyph": "🥤",
+      "score": 72,
+      "verdict": "wait",
+      "shortDescription": "Sosyal medyada patlayan büyük hacimli termos bardak.",
+      "editorialSummary": "Yalıtım performansı gerçekten iyi ve kaliteli üretilmiş. Ancak fiyatın önemli bir kısmı marka priminden geliyor; yarı fiyatına benzer performans veren alternatifler var. Şu anki fiyat seviyesinde acele etmeye gerek yok — indirim dönemlerinde belirgin şekilde ucuzluyor.",
+      "positives": [
+        {
+          "text": "Soğuk içeceği çok uzun süre tutuyor"
+        },
+        {
+          "text": "Araç bardaklığına giriyor"
+        },
+        {
+          "text": "Paslanmaz çelik, sağlam yapı"
+        }
+      ],
+      "negatives": [
+        {
+          "text": "Fiyatın büyük kısmı marka primi",
+          "detail": "Benzer yalıtım performansı çok daha uygun modellerde de mevcut."
+        },
+        {
+          "text": "Ağır ve hacimli"
+        },
+        {
+          "text": "Kapak contası düzenli temizlik istiyor"
+        }
+      ],
+      "quickFacts": [
+        {
+          "icon": "🧊",
+          "label": "Soğuk",
+          "value": "11 saat"
+        },
+        {
+          "icon": "📦",
+          "label": "Hacim",
+          "value": "1,18 L"
+        },
+        {
+          "icon": "⚖️",
+          "label": "Ağırlık",
+          "value": "620 g"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgileri",
+          "icon": "🥤",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Hacim",
+              "value": "1,18 L (40 oz)",
+              "emphasized": true
+            },
+            {
+              "label": "Soğuk tutma",
+              "value": "11 saat",
+              "sentiment": "good"
+            },
+            {
+              "label": "Sıcak tutma",
+              "value": "7 saat"
+            },
+            {
+              "label": "Malzeme",
+              "value": "18/8 paslanmaz çelik"
+            },
+            {
+              "label": "Bulaşık makinesi",
+              "value": "Uygun",
+              "sentiment": "good"
+            },
+            {
+              "label": "Ağırlık",
+              "value": "620 g (boşken)",
+              "sentiment": "warning"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "termos",
+        "matara",
+        "stanley",
+        "su şişesi"
+      ],
+      "trend": {
+        "score": 90,
+        "change": 0.44,
+        "socialMentions": 21300,
+        "startDate": "2026-08-04T14:10:07.105087Z",
+        "source": "TikTok"
+      },
+      "alternatives": [
+        "p_grenade_bar"
+      ],
+      "userRating": 4.5,
+      "reviewCount": 7400,
+      "offers": [
+        {
+          "marketplace": "amazon",
+          "seller": "Amazon",
+          "price": 2899.0,
+          "shipping": 0.0,
+          "storeUrl": "https://www.amazon.com.tr/urun/p-stanley-quencher",
+          "stock": "inStock",
+          "sellerRating": 4.8,
+          "delivery": "Yarın kargoda",
+          "updatedAt": "2026-08-15T17:01:07.108821Z"
+        },
+        {
+          "marketplace": "trendyol",
+          "seller": "Outdoor Shop",
+          "price": 2949.0,
+          "shipping": 0.0,
+          "storeUrl": "https://www.trendyol.com/urun/p-stanley-quencher",
+          "stock": "inStock",
+          "sellerRating": 4.5,
+          "updatedAt": "2026-08-15T16:54:07.108825Z"
+        },
+        {
+          "marketplace": "n11",
+          "seller": "Kamp Malzemeleri",
+          "price": 2849.0,
+          "shipping": 99.0,
+          "storeUrl": "https://www.n11.com/urun/p-stanley-quencher",
+          "stock": "inStock",
+          "sellerRating": 4.2,
+          "updatedAt": "2026-08-15T16:29:07.108828Z"
+        },
+        {
+          "marketplace": "decathlon",
+          "seller": "Decathlon",
+          "price": 3099.0,
+          "shipping": 0.0,
+          "storeUrl": "https://www.decathlon.com.tr/urun/p-stanley-quencher",
+          "stock": "inStock",
+          "sellerRating": 4.7,
+          "updatedAt": "2026-08-15T16:43:07.108832Z"
+        }
+      ]
+    },
+    {
+      "id": "p_whey_impact",
+      "slug": "myprotein-impact-whey-2kg",
+      "brand": "MyProtein",
+      "name": "Impact Whey Protein (2 kg)",
+      "category": "spor",
+      "glyph": "🥛",
+      "score": 82,
+      "verdict": "buy",
+      "shortDescription": "Kilogram başına en uygun temel whey protein tozlarından.",
+      "editorialSummary": "Gereksiz katkı içermeyen, sade bir whey konsantresi. Gram protein başına maliyeti bu segmentte en düşüklerden. Karıştırma kolaylığı ortalama; shaker olmadan topaklanabiliyor.",
+      "positives": [
+        {
+          "text": "Gram protein başına çok uygun maliyet"
+        },
+        {
+          "text": "Porsiyon başına 21 g protein"
+        },
+        {
+          "text": "Geniş aroma seçeneği"
+        }
+      ],
+      "negatives": [
+        {
+          "text": "Shakersız karıştırıldığında topaklanıyor"
+        },
+        {
+          "text": "Bazı aromalar fazla tatlı"
+        }
+      ],
+      "quickFacts": [
+        {
+          "icon": "💪",
+          "label": "Protein",
+          "value": "21 g"
+        },
+        {
+          "icon": "📦",
+          "label": "Boy",
+          "value": "2 kg"
+        },
+        {
+          "icon": "🍬",
+          "label": "Şeker",
+          "value": "1 g"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Besin Değerleri",
+          "icon": "🥗",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Protein (porsiyon)",
+              "value": "21 g",
+              "emphasized": true,
+              "sentiment": "good"
+            },
+            {
+              "label": "Porsiyon sayısı",
+              "value": "80"
+            },
+            {
+              "label": "Tip",
+              "value": "Whey konsantre"
+            },
+            {
+              "label": "Alerjen",
+              "value": "Süt, soya",
+              "sentiment": "warning"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "protein",
+        "whey",
+        "takviye",
+        "spor"
+      ],
+      "trend": {
+        "score": 64,
+        "change": 0.09,
+        "socialMentions": 2100,
+        "startDate": "2026-07-06T14:10:07.106307Z"
+      },
+      "userRating": 4.6,
+      "reviewCount": 18400,
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 1899.0,
+          "oldPrice": 2199.0,
+          "shipping": 0.0,
+          "storeUrl": "https://www.trendyol.com/urun/p-whey-impact",
+          "stock": "inStock",
+          "sellerRating": 4.6,
+          "delivery": "1-3 iş günü",
+          "updatedAt": "2026-08-15T17:04:07.109052Z"
+        },
+        {
+          "marketplace": "hepsiburada",
+          "seller": "Hepsiburada",
+          "price": 1989.0,
+          "shipping": 0.0,
+          "storeUrl": "https://www.hepsiburada.com/urun/p-whey-impact",
+          "stock": "inStock",
+          "sellerRating": 4.7,
+          "updatedAt": "2026-08-15T16:56:07.109074Z"
+        },
+        {
+          "marketplace": "amazon",
+          "seller": "Amazon",
+          "price": 1839.0,
+          "shipping": 59.9,
+          "storeUrl": "https://www.amazon.com.tr/urun/p-whey-impact",
+          "stock": "inStock",
+          "sellerRating": 4.3,
+          "updatedAt": "2026-08-15T16:47:07.109080Z"
+        },
+        {
+          "marketplace": "n11",
+          "seller": "n11",
+          "price": 2109.0,
+          "shipping": 0.0,
+          "storeUrl": "https://www.n11.com/urun/p-whey-impact",
+          "stock": "inStock",
+          "sellerRating": 4.2,
+          "updatedAt": "2026-08-15T16:32:07.109086Z"
+        }
+      ]
+    },
+    {
+      "id": "p_creatine_mono",
+      "slug": "hardline-kreatin-monohidrat",
+      "brand": "Hardline",
+      "name": "Creatine Monohydrate (300 g)",
+      "category": "spor",
+      "glyph": "⚗️",
+      "score": 80,
+      "verdict": "buy",
+      "shortDescription": "En çok araştırılmış takviye; sade kreatin monohidrat.",
+      "editorialSummary": "Kreatin monohidrat, etkisi en iyi belgelenmiş sporcu takviyesi. Pahalı \"yeni nesil\" kreatin türlerinin monohidrata belirgin bir üstünlüğü gösterilebilmiş değil — bu yüzden sade olanı almak mantıklı. İlk haftalarda su tutulmasına bağlı 1-2 kilo artış normal.",
+      "positives": [
+        {
+          "text": "Etkisi en iyi belgelenmiş takviye türü"
+        },
+        {
+          "text": "Günlük maliyeti çok düşük"
+        },
+        {
+          "text": "Katkısız, tek içerikli"
+        }
+      ],
+      "negatives": [
+        {
+          "text": "İlk haftalarda su tutulması yapabilir"
+        },
+        {
+          "text": "Suda tam çözünmüyor, tortu bırakıyor"
+        }
+      ],
+      "quickFacts": [
+        {
+          "icon": "⚗️",
+          "label": "Tip",
+          "value": "Monohidrat"
+        },
+        {
+          "icon": "📅",
+          "label": "Yeter",
+          "value": "60 gün"
+        },
+        {
+          "icon": "🧪",
+          "label": "Katkı",
+          "value": "Yok"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "İçerik",
+          "icon": "🧪",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "İçerik",
+              "value": "%100 kreatin monohidrat",
+              "emphasized": true,
+              "sentiment": "good"
+            },
+            {
+              "label": "Günlük doz",
+              "value": "5 g"
+            },
+            {
+              "label": "Porsiyon sayısı",
+              "value": "60"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "kreatin",
+        "takviye",
+        "spor",
+        "performans"
+      ],
+      "trend": {
+        "score": 71,
+        "change": 0.22,
+        "socialMentions": 4800,
+        "startDate": "2026-07-28T14:10:07.106329Z",
+        "source": "TikTok"
+      },
+      "userRating": 4.7,
+      "reviewCount": 9200,
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 549.0,
+          "shipping": 0.0,
+          "storeUrl": "https://www.trendyol.com/urun/p-creatine-mono",
+          "stock": "inStock",
+          "sellerRating": 4.6,
+          "delivery": "1-3 iş günü",
+          "updatedAt": "2026-08-15T17:04:07.109091Z"
+        },
+        {
+          "marketplace": "hepsiburada",
+          "seller": "Hepsiburada",
+          "price": 576.0,
+          "shipping": 0.0,
+          "storeUrl": "https://www.hepsiburada.com/urun/p-creatine-mono",
+          "stock": "inStock",
+          "sellerRating": 4.7,
+          "updatedAt": "2026-08-15T16:56:07.109094Z"
+        },
+        {
+          "marketplace": "amazon",
+          "seller": "Amazon",
+          "price": 533.0,
+          "shipping": 59.9,
+          "storeUrl": "https://www.amazon.com.tr/urun/p-creatine-mono",
+          "stock": "inStock",
+          "sellerRating": 4.3,
+          "updatedAt": "2026-08-15T16:47:07.109098Z"
+        },
+        {
+          "marketplace": "n11",
+          "seller": "n11",
+          "price": 609.0,
+          "shipping": 0.0,
+          "storeUrl": "https://www.n11.com/urun/p-creatine-mono",
+          "stock": "inStock",
+          "sellerRating": 4.2,
+          "updatedAt": "2026-08-15T16:32:07.109102Z"
+        }
+      ]
+    },
+    {
+      "id": "p_magnesium",
+      "slug": "solgar-magnezyum-sitrat",
+      "brand": "Solgar",
+      "name": "Magnezyum Sitrat 200 mg",
+      "category": "spor",
+      "glyph": "💊",
+      "score": 83,
+      "verdict": "buy",
+      "shortDescription": "Emilimi yüksek sitrat formunda magnezyum.",
+      "editorialSummary": "Sitrat formu, ucuz takviyelerde sık kullanılan okside göre belirgin şekilde daha iyi emiliyor. Kas krampı ve uyku kalitesi için sık tercih ediliyor. Tablet boyu büyük; yutmakta zorlananlar için not.",
+      "positives": [
+        {
+          "text": "Sitrat formu, okside göre daha iyi emiliyor"
+        },
+        {
+          "text": "Şeker ve gluten içermiyor"
+        },
+        {
+          "text": "Güvenilir üretici"
+        }
+      ],
+      "negatives": [
+        {
+          "text": "Tabletler büyük, yutması zor olabilir"
+        },
+        {
+          "text": "Yüksek dozda sindirim sistemini gevşetebilir"
+        }
+      ],
+      "quickFacts": [
+        {
+          "icon": "💊",
+          "label": "Doz",
+          "value": "200 mg"
+        },
+        {
+          "icon": "🧬",
+          "label": "Form",
+          "value": "Sitrat"
+        },
+        {
+          "icon": "📅",
+          "label": "Yeter",
+          "value": "60 gün"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "İçerik",
+          "icon": "🧪",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Form",
+              "value": "Magnezyum sitrat",
+              "note": "Emilimi okside göre yüksek",
+              "emphasized": true,
+              "sentiment": "good"
+            },
+            {
+              "label": "Tablet sayısı",
+              "value": "60"
+            },
+            {
+              "label": "Gluten / şeker",
+              "value": "Yok",
+              "sentiment": "good"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "magnezyum",
+        "vitamin",
+        "takviye",
+        "uyku"
+      ],
+      "trend": {
+        "score": 66,
+        "change": 0.14,
+        "socialMentions": 3300,
+        "startDate": "2026-07-16T14:10:07.106334Z"
+      },
+      "userRating": 4.7,
+      "reviewCount": 12600,
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 429.0,
+          "shipping": 0.0,
+          "storeUrl": "https://www.trendyol.com/urun/p-magnesium",
+          "stock": "inStock",
+          "sellerRating": 4.6,
+          "delivery": "1-3 iş günü",
+          "updatedAt": "2026-08-15T17:04:07.109105Z"
+        },
+        {
+          "marketplace": "hepsiburada",
+          "seller": "Hepsiburada",
+          "price": 450.0,
+          "shipping": 0.0,
+          "storeUrl": "https://www.hepsiburada.com/urun/p-magnesium",
+          "stock": "inStock",
+          "sellerRating": 4.7,
+          "updatedAt": "2026-08-15T16:56:07.109108Z"
+        },
+        {
+          "marketplace": "amazon",
+          "seller": "Amazon",
+          "price": 416.0,
+          "shipping": 59.9,
+          "storeUrl": "https://www.amazon.com.tr/urun/p-magnesium",
+          "stock": "inStock",
+          "sellerRating": 4.3,
+          "updatedAt": "2026-08-15T16:47:07.109111Z"
+        },
+        {
+          "marketplace": "n11",
+          "seller": "n11",
+          "price": 476.0,
+          "shipping": 0.0,
+          "storeUrl": "https://www.n11.com/urun/p-magnesium",
+          "stock": "inStock",
+          "sellerRating": 4.2,
+          "updatedAt": "2026-08-15T16:32:07.109114Z"
+        }
+      ]
+    },
+    {
+      "id": "p_multivitamin",
+      "slug": "natures-bounty-multivitamin",
+      "brand": "Nature's Bounty",
+      "name": "Multivitamin & Mineral",
+      "category": "spor",
+      "glyph": "🟠",
+      "score": 68,
+      "verdict": "conditional",
+      "shortDescription": "Dengeli beslenen çoğu kişi için gereksiz olabilen genel takviye.",
+      "editorialSummary": "İçerik dengeli ve fiyatı makul. Ancak dengeli beslenen sağlıklı bir yetişkinde multivitaminin ölçülebilir bir faydası genelde gösterilemiyor. Eksiği olduğunu bilerek almak mantıklı; \"garanti olsun\" diye almak çoğu zaman gereksiz masraf.",
+      "positives": [
+        {
+          "text": "Geniş vitamin-mineral yelpazesi"
+        },
+        {
+          "text": "Günlük maliyeti düşük"
+        }
+      ],
+      "negatives": [
+        {
+          "text": "Eksiklik yoksa ölçülebilir faydası belirsiz"
+        },
+        {
+          "text": "Bazı vitaminler günlük ihtiyacın çok üzerinde"
+        },
+        {
+          "text": "Demir içeriği herkes için uygun değil"
+        }
+      ],
+      "quickFacts": [
+        {
+          "icon": "🟠",
+          "label": "Tablet",
+          "value": "100 adet"
+        },
+        {
+          "icon": "📅",
+          "label": "Yeter",
+          "value": "100 gün"
+        },
+        {
+          "icon": "⚠️",
+          "label": "Demir",
+          "value": "İçerir"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "İçerik",
+          "icon": "🧪",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Tablet sayısı",
+              "value": "100"
+            },
+            {
+              "label": "Demir",
+              "value": "İçerir",
+              "note": "Demir fazlalığı olanlar için uygun değil",
+              "sentiment": "warning"
+            },
+            {
+              "label": "Günlük doz",
+              "value": "1 tablet"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "multivitamin",
+        "takviye",
+        "vitamin"
+      ],
+      "trend": {
+        "score": 52,
+        "change": 0.03,
+        "socialMentions": 900,
+        "startDate": "2026-04-17T14:10:07.106338Z"
+      },
+      "userRating": 4.4,
+      "reviewCount": 7100,
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 379.0,
+          "shipping": 0.0,
+          "storeUrl": "https://www.trendyol.com/urun/p-multivitamin",
+          "stock": "inStock",
+          "sellerRating": 4.6,
+          "delivery": "1-3 iş günü",
+          "updatedAt": "2026-08-15T17:04:07.109117Z"
+        },
+        {
+          "marketplace": "hepsiburada",
+          "seller": "Hepsiburada",
+          "price": 398.0,
+          "shipping": 0.0,
+          "storeUrl": "https://www.hepsiburada.com/urun/p-multivitamin",
+          "stock": "inStock",
+          "sellerRating": 4.7,
+          "updatedAt": "2026-08-15T16:56:07.109121Z"
+        },
+        {
+          "marketplace": "amazon",
+          "seller": "Amazon",
+          "price": 368.0,
+          "shipping": 59.9,
+          "storeUrl": "https://www.amazon.com.tr/urun/p-multivitamin",
+          "stock": "inStock",
+          "sellerRating": 4.3,
+          "updatedAt": "2026-08-15T16:47:07.109124Z"
+        },
+        {
+          "marketplace": "n11",
+          "seller": "n11",
+          "price": 421.0,
+          "shipping": 0.0,
+          "storeUrl": "https://www.n11.com/urun/p-multivitamin",
+          "stock": "inStock",
+          "sellerRating": 4.2,
+          "updatedAt": "2026-08-15T16:32:07.109127Z"
+        }
+      ]
+    },
+    {
+      "id": "p_tower_fan",
+      "slug": "arcelik-kule-vantilator",
+      "brand": "Arçelik",
+      "name": "Kule Vantilatör (Uzaktan Kumandalı)",
+      "category": "ev-yasam",
+      "glyph": "🌀",
+      "score": 81,
+      "verdict": "buy",
+      "shortDescription": "Dar alana sığan, gece modu sessiz çalışan kule vantilatör.",
+      "editorialSummary": "Klimaya göre çok daha ucuz ve sessiz bir serinleme yolu. Gece modunda çalışırken uykuyu bölmüyor. Havayı soğutmaz, yalnızca hareket ettirir — 35 derece üzerinde tek başına yetmez.",
+      "positives": [
+        {
+          "text": "Gece modunda çok sessiz"
+        },
+        {
+          "text": "Dar alana sığıyor, taşıması kolay"
+        },
+        {
+          "text": "Uzaktan kumanda ve zamanlayıcı"
+        }
+      ],
+      "negatives": [
+        {
+          "text": "Havayı soğutmaz, yalnızca hareket ettirir"
+        },
+        {
+          "text": "En yüksek kademede sesi belirgin"
+        }
+      ],
+      "quickFacts": [
+        {
+          "icon": "🔊",
+          "label": "Gece modu",
+          "value": "Sessiz"
+        },
+        {
+          "icon": "🎚️",
+          "label": "Kademe",
+          "value": "3"
+        },
+        {
+          "icon": "⏱️",
+          "label": "Zamanlayıcı",
+          "value": "7,5 sa"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Teknik Özellikler",
+          "icon": "⚙️",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Gürültü (gece modu)",
+              "value": "~35 dB",
+              "emphasized": true,
+              "sentiment": "good"
+            },
+            {
+              "label": "Güç",
+              "value": "45 W"
+            },
+            {
+              "label": "Salınım",
+              "value": "80°"
+            },
+            {
+              "label": "Garanti",
+              "value": "3 yıl"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "vantilatör",
+        "serinletici",
+        "yaz",
+        "fan"
+      ],
+      "trend": {
+        "score": 78,
+        "change": 0.31,
+        "socialMentions": 6400,
+        "startDate": "2026-08-03T14:10:07.106342Z",
+        "source": "Instagram"
+      },
+      "userRating": 4.5,
+      "reviewCount": 5300,
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 2499.0,
+          "oldPrice": 2999.0,
+          "shipping": 0.0,
+          "storeUrl": "https://www.trendyol.com/urun/p-tower-fan",
+          "stock": "inStock",
+          "sellerRating": 4.6,
+          "delivery": "1-3 iş günü",
+          "updatedAt": "2026-08-15T17:04:07.109131Z"
+        },
+        {
+          "marketplace": "hepsiburada",
+          "seller": "Hepsiburada",
+          "price": 2619.0,
+          "shipping": 0.0,
+          "storeUrl": "https://www.hepsiburada.com/urun/p-tower-fan",
+          "stock": "inStock",
+          "sellerRating": 4.7,
+          "updatedAt": "2026-08-15T16:56:07.109134Z"
+        },
+        {
+          "marketplace": "amazon",
+          "seller": "Amazon",
+          "price": 2419.0,
+          "shipping": 59.9,
+          "storeUrl": "https://www.amazon.com.tr/urun/p-tower-fan",
+          "stock": "inStock",
+          "sellerRating": 4.3,
+          "updatedAt": "2026-08-15T16:47:07.109138Z"
+        },
+        {
+          "marketplace": "n11",
+          "seller": "n11",
+          "price": 2769.0,
+          "shipping": 0.0,
+          "storeUrl": "https://www.n11.com/urun/p-tower-fan",
+          "stock": "inStock",
+          "sellerRating": 4.2,
+          "updatedAt": "2026-08-15T16:32:07.109143Z"
+        }
+      ]
+    },
+    {
+      "id": "p_mini_fan",
+      "slug": "xiaomi-tasinabilir-mini-vantilator",
+      "brand": "Xiaomi",
+      "name": "Taşınabilir Mini Vantilatör",
+      "category": "ev-yasam",
+      "glyph": "💨",
+      "score": 72,
+      "verdict": "conditional",
+      "shortDescription": "Çantada taşınan, şarjlı küçük vantilatör.",
+      "editorialSummary": "Toplu taşımada ve dışarıda işe yarıyor, hafif. Ancak pil ömrü en yüksek kademede kısa ve üflediği hava dar bir alanı kapsıyor. Ev içinde tek serinleme kaynağı olarak düşünülmemeli.",
+      "positives": [
+        {
+          "text": "Hafif, çantada yer kaplamıyor"
+        },
+        {
+          "text": "USB-C ile şarj oluyor"
+        },
+        {
+          "text": "Masaüstü olarak da kullanılabiliyor"
+        }
+      ],
+      "negatives": [
+        {
+          "text": "En yüksek kademede pil 3 saate iniyor"
+        },
+        {
+          "text": "Dar bir alanı serinletiyor"
+        }
+      ],
+      "quickFacts": [
+        {
+          "icon": "🔋",
+          "label": "Pil",
+          "value": "3-9 sa"
+        },
+        {
+          "icon": "⚖️",
+          "label": "Ağırlık",
+          "value": "180 g"
+        },
+        {
+          "icon": "🔌",
+          "label": "Şarj",
+          "value": "USB-C"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Teknik Özellikler",
+          "icon": "⚙️",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Pil ömrü",
+              "value": "3 sa (yüksek) / 9 sa (düşük)",
+              "emphasized": true,
+              "sentiment": "warning"
+            },
+            {
+              "label": "Kademe",
+              "value": "3"
+            },
+            {
+              "label": "Ağırlık",
+              "value": "180 g"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "mini vantilatör",
+        "taşınabilir",
+        "yaz",
+        "fan"
+      ],
+      "trend": {
+        "score": 74,
+        "change": 0.28,
+        "socialMentions": 8100,
+        "startDate": "2026-08-06T14:10:07.106347Z",
+        "source": "TikTok"
+      },
+      "userRating": 4.3,
+      "reviewCount": 14200,
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 449.0,
+          "shipping": 0.0,
+          "storeUrl": "https://www.trendyol.com/urun/p-mini-fan",
+          "stock": "inStock",
+          "sellerRating": 4.6,
+          "delivery": "1-3 iş günü",
+          "updatedAt": "2026-08-15T17:04:07.109147Z"
+        },
+        {
+          "marketplace": "hepsiburada",
+          "seller": "Hepsiburada",
+          "price": 471.0,
+          "shipping": 0.0,
+          "storeUrl": "https://www.hepsiburada.com/urun/p-mini-fan",
+          "stock": "inStock",
+          "sellerRating": 4.7,
+          "updatedAt": "2026-08-15T16:56:07.109150Z"
+        },
+        {
+          "marketplace": "amazon",
+          "seller": "Amazon",
+          "price": 436.0,
+          "shipping": 59.9,
+          "storeUrl": "https://www.amazon.com.tr/urun/p-mini-fan",
+          "stock": "inStock",
+          "sellerRating": 4.3,
+          "updatedAt": "2026-08-15T16:47:07.109153Z"
+        },
+        {
+          "marketplace": "n11",
+          "seller": "n11",
+          "price": 498.0,
+          "shipping": 0.0,
+          "storeUrl": "https://www.n11.com/urun/p-mini-fan",
+          "stock": "inStock",
+          "sellerRating": 4.2,
+          "updatedAt": "2026-08-15T16:32:07.109156Z"
+        }
+      ]
+    },
+    {
+      "id": "p_cooling_pillow",
+      "slug": "serinletici-jel-yastik",
+      "brand": "English Home",
+      "name": "Serinletici Jel Yastık",
+      "category": "ev-yasam",
+      "glyph": "🛏️",
+      "score": 66,
+      "verdict": "conditional",
+      "shortDescription": "Sıcak gecelerde yastığın serin yüzünü uzatan jel katman.",
+      "editorialSummary": "İlk temasta belirgin bir serinlik veriyor ve uykuya dalmayı kolaylaştırıyor. Ancak jel katman vücut sıcaklığına yaklaşınca etki kayboluyor — sabaha kadar serin kalmasını bekleme.",
+      "positives": [
+        {
+          "text": "İlk temasta belirgin serinlik"
+        },
+        {
+          "text": "Mevcut yastığın üzerine konabiliyor"
+        }
+      ],
+      "negatives": [
+        {
+          "text": "Serinlik yaklaşık yarım saat sonra kayboluyor"
+        },
+        {
+          "text": "Jel katman sert bir his veriyor"
+        },
+        {
+          "text": "Makinede yıkanamıyor"
+        }
+      ],
+      "quickFacts": [
+        {
+          "icon": "❄️",
+          "label": "Etki",
+          "value": "~30 dk"
+        },
+        {
+          "icon": "📏",
+          "label": "Ölçü",
+          "value": "50x30 cm"
+        },
+        {
+          "icon": "🧼",
+          "label": "Yıkama",
+          "value": "Elde"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgileri",
+          "icon": "🛏️",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Serinlik süresi",
+              "value": "~30 dakika",
+              "emphasized": true,
+              "sentiment": "warning"
+            },
+            {
+              "label": "Ölçü",
+              "value": "50 x 30 cm"
+            },
+            {
+              "label": "Makinede yıkama",
+              "value": "Uygun değil",
+              "sentiment": "warning"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "serinletici",
+        "yastık",
+        "yaz",
+        "uyku"
+      ],
+      "trend": {
+        "score": 61,
+        "change": 0.19,
+        "socialMentions": 2700,
+        "startDate": "2026-07-30T14:10:07.106352Z"
+      },
+      "userRating": 4.0,
+      "reviewCount": 3400,
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 349.0,
+          "shipping": 0.0,
+          "storeUrl": "https://www.trendyol.com/urun/p-cooling-pillow",
+          "stock": "inStock",
+          "sellerRating": 4.6,
+          "delivery": "1-3 iş günü",
+          "updatedAt": "2026-08-15T17:04:07.109160Z"
+        },
+        {
+          "marketplace": "hepsiburada",
+          "seller": "Hepsiburada",
+          "price": 366.0,
+          "shipping": 0.0,
+          "storeUrl": "https://www.hepsiburada.com/urun/p-cooling-pillow",
+          "stock": "inStock",
+          "sellerRating": 4.7,
+          "updatedAt": "2026-08-15T16:56:07.109164Z"
+        },
+        {
+          "marketplace": "amazon",
+          "seller": "Amazon",
+          "price": 339.0,
+          "shipping": 59.9,
+          "storeUrl": "https://www.amazon.com.tr/urun/p-cooling-pillow",
+          "stock": "inStock",
+          "sellerRating": 4.3,
+          "updatedAt": "2026-08-15T16:47:07.109167Z"
+        },
+        {
+          "marketplace": "n11",
+          "seller": "n11",
+          "price": 387.0,
+          "shipping": 0.0,
+          "storeUrl": "https://www.n11.com/urun/p-cooling-pillow",
+          "stock": "inStock",
+          "sellerRating": 4.2,
+          "updatedAt": "2026-08-15T16:32:07.109170Z"
+        }
+      ]
+    },
+    {
+      "id": "p_backpack",
+      "slug": "eastpak-sirt-cantasi",
+      "brand": "Eastpak",
+      "name": "Padded Pak’r Sırt Çantası (24 L)",
+      "category": "moda",
+      "glyph": "🎒",
+      "score": 85,
+      "verdict": "buy",
+      "shortDescription": "Yıllarca dayanan, 30 yıl garantili klasik okul çantası.",
+      "editorialSummary": "Sadeliği ve dayanıklılığıyla yıllardır aynı: kalın kumaş, sağlam fermuar, 30 yıl garanti. Sırt kısmında ekstra destek yok; çok ağır kitap taşıyan öğrenciler için ergonomik bir model daha uygun olur.",
+      "positives": [
+        {
+          "text": "30 yıl üretici garantisi"
+        },
+        {
+          "text": "Kalın kumaş ve sağlam fermuar"
+        },
+        {
+          "text": "Dizüstü bilgisayar sığıyor"
+        }
+      ],
+      "negatives": [
+        {
+          "text": "Sırt desteği ve bel kemeri yok"
+        },
+        {
+          "text": "İç bölmesi tek, düzen kurmak zor"
+        }
+      ],
+      "quickFacts": [
+        {
+          "icon": "📦",
+          "label": "Hacim",
+          "value": "24 L"
+        },
+        {
+          "icon": "🛡️",
+          "label": "Garanti",
+          "value": "30 yıl"
+        },
+        {
+          "icon": "💻",
+          "label": "Dizüstü",
+          "value": "Sığar"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgileri",
+          "icon": "🎒",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Garanti",
+              "value": "30 yıl",
+              "emphasized": true,
+              "sentiment": "good"
+            },
+            {
+              "label": "Hacim",
+              "value": "24 litre"
+            },
+            {
+              "label": "Malzeme",
+              "value": "Polyester, su itici"
+            },
+            {
+              "label": "Sırt desteği",
+              "value": "Yok",
+              "sentiment": "warning"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "sırt çantası",
+        "okul",
+        "çanta"
+      ],
+      "trend": {
+        "score": 69,
+        "change": 0.26,
+        "socialMentions": 4100,
+        "startDate": "2026-08-01T14:10:07.106356Z"
+      },
+      "userRating": 4.7,
+      "reviewCount": 8800,
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 2299.0,
+          "oldPrice": 2699.0,
+          "shipping": 0.0,
+          "storeUrl": "https://www.trendyol.com/urun/p-backpack",
+          "stock": "inStock",
+          "sellerRating": 4.6,
+          "delivery": "1-3 iş günü",
+          "updatedAt": "2026-08-15T17:04:07.109173Z"
+        },
+        {
+          "marketplace": "hepsiburada",
+          "seller": "Hepsiburada",
+          "price": 2409.0,
+          "shipping": 0.0,
+          "storeUrl": "https://www.hepsiburada.com/urun/p-backpack",
+          "stock": "inStock",
+          "sellerRating": 4.7,
+          "updatedAt": "2026-08-15T16:56:07.109176Z"
+        },
+        {
+          "marketplace": "amazon",
+          "seller": "Amazon",
+          "price": 2229.0,
+          "shipping": 59.9,
+          "storeUrl": "https://www.amazon.com.tr/urun/p-backpack",
+          "stock": "inStock",
+          "sellerRating": 4.3,
+          "updatedAt": "2026-08-15T16:47:07.109179Z"
+        },
+        {
+          "marketplace": "n11",
+          "seller": "n11",
+          "price": 2549.0,
+          "shipping": 0.0,
+          "storeUrl": "https://www.n11.com/urun/p-backpack",
+          "stock": "inStock",
+          "sellerRating": 4.2,
+          "updatedAt": "2026-08-15T16:32:07.109182Z"
+        }
+      ]
+    },
+    {
+      "id": "p_lunch_box",
+      "slug": "beslenme-cantasi-termos-set",
+      "brand": "Tefal",
+      "name": "Beslenme Çantası ve Saklama Kabı Seti",
+      "category": "ev-yasam",
+      "glyph": "🍱",
+      "score": 78,
+      "verdict": "buy",
+      "shortDescription": "Sızdırmaz kapaklı, yalıtımlı beslenme çantası seti.",
+      "editorialSummary": "Kapak contaları gerçekten sızdırmıyor — çantada yemek taşımanın en sık şikâyeti bu olduğu için önemli. Yalıtım öğle saatine kadar serin tutuyor. Bulaşık makinesinde üst raf şart.",
+      "positives": [
+        {
+          "text": "Sızdırmaz kapak contaları"
+        },
+        {
+          "text": "Öğlene kadar serin tutan yalıtım"
+        },
+        {
+          "text": "Parçalar iç içe geçip yer kaplamıyor"
+        }
+      ],
+      "negatives": [
+        {
+          "text": "Bulaşık makinesinde yalnızca üst raf"
+        },
+        {
+          "text": "Çanta kumaşı lekeyi çabuk gösteriyor"
+        }
+      ],
+      "quickFacts": [
+        {
+          "icon": "💧",
+          "label": "Sızdırmaz",
+          "value": "Evet"
+        },
+        {
+          "icon": "🧊",
+          "label": "Serin",
+          "value": "5 sa"
+        },
+        {
+          "icon": "📦",
+          "label": "Parça",
+          "value": "4"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgileri",
+          "icon": "🍱",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Sızdırmazlık",
+              "value": "Contalı kapak",
+              "emphasized": true,
+              "sentiment": "good"
+            },
+            {
+              "label": "Parça sayısı",
+              "value": "4"
+            },
+            {
+              "label": "Bulaşık makinesi",
+              "value": "Üst raf",
+              "sentiment": "warning"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "beslenme çantası",
+        "okul",
+        "saklama kabı"
+      ],
+      "trend": {
+        "score": 63,
+        "change": 0.24,
+        "socialMentions": 2900,
+        "startDate": "2026-08-04T14:10:07.106360Z"
+      },
+      "userRating": 4.5,
+      "reviewCount": 4600,
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 899.0,
+          "shipping": 0.0,
+          "storeUrl": "https://www.trendyol.com/urun/p-lunch-box",
+          "stock": "inStock",
+          "sellerRating": 4.6,
+          "delivery": "1-3 iş günü",
+          "updatedAt": "2026-08-15T17:04:07.109185Z"
+        },
+        {
+          "marketplace": "hepsiburada",
+          "seller": "Hepsiburada",
+          "price": 944.0,
+          "shipping": 0.0,
+          "storeUrl": "https://www.hepsiburada.com/urun/p-lunch-box",
+          "stock": "inStock",
+          "sellerRating": 4.7,
+          "updatedAt": "2026-08-15T16:56:07.109190Z"
+        },
+        {
+          "marketplace": "amazon",
+          "seller": "Amazon",
+          "price": 872.0,
+          "shipping": 59.9,
+          "storeUrl": "https://www.amazon.com.tr/urun/p-lunch-box",
+          "stock": "inStock",
+          "sellerRating": 4.3,
+          "updatedAt": "2026-08-15T16:47:07.109193Z"
+        },
+        {
+          "marketplace": "n11",
+          "seller": "n11",
+          "price": 998.0,
+          "shipping": 0.0,
+          "storeUrl": "https://www.n11.com/urun/p-lunch-box",
+          "stock": "inStock",
+          "sellerRating": 4.2,
+          "updatedAt": "2026-08-15T16:32:07.109196Z"
+        }
+      ]
+    },
+    {
+      "id": "p_student_tablet",
+      "slug": "lenovo-tab-m11",
+      "brand": "Lenovo",
+      "name": "Tab M11 (128 GB, Kalemli)",
+      "category": "teknoloji",
+      "glyph": "📱",
+      "score": 77,
+      "verdict": "buy",
+      "shortDescription": "Ders takibi ve not alma için yeterli, uygun fiyatlı tablet.",
+      "editorialSummary": "Video ders izlemek, PDF okumak ve not almak için fazlasıyla yeterli. Kalem kutudan çıkıyor — bu fiyat aralığında nadir. Ağır oyun ve yoğun düzenleme işleri için işlemcisi yavaş kalıyor.",
+      "positives": [
+        {
+          "text": "Kalem kutudan çıkıyor"
+        },
+        {
+          "text": "90 Hz ekran, kaydırma akıcı"
+        },
+        {
+          "text": "Pil ömrü uzun"
+        }
+      ],
+      "negatives": [
+        {
+          "text": "Ağır uygulamalarda işlemci yetersiz"
+        },
+        {
+          "text": "Hoparlör sesi zayıf"
+        }
+      ],
+      "quickFacts": [
+        {
+          "icon": "📺",
+          "label": "Ekran",
+          "value": "11\" 90Hz"
+        },
+        {
+          "icon": "💾",
+          "label": "Depolama",
+          "value": "128 GB"
+        },
+        {
+          "icon": "✏️",
+          "label": "Kalem",
+          "value": "Dahil"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Teknik Özellikler",
+          "icon": "⚙️",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Ekran",
+              "value": "11 inç, 90 Hz",
+              "emphasized": true
+            },
+            {
+              "label": "Depolama",
+              "value": "128 GB (kart ile artar)"
+            },
+            {
+              "label": "Kalem",
+              "value": "Kutudan çıkıyor",
+              "sentiment": "good"
+            },
+            {
+              "label": "Pil",
+              "value": "7040 mAh"
+            },
+            {
+              "label": "Garanti",
+              "value": "2 yıl"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "tablet",
+        "okul",
+        "ders",
+        "lenovo"
+      ],
+      "trend": {
+        "score": 67,
+        "change": 0.29,
+        "socialMentions": 5200,
+        "startDate": "2026-08-02T14:10:07.106364Z"
+      },
+      "userRating": 4.4,
+      "reviewCount": 6300,
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 7999.0,
+          "oldPrice": 9499.0,
+          "shipping": 0.0,
+          "storeUrl": "https://www.trendyol.com/urun/p-student-tablet",
+          "stock": "inStock",
+          "sellerRating": 4.6,
+          "delivery": "1-3 iş günü",
+          "updatedAt": "2026-08-15T17:04:07.109200Z"
+        },
+        {
+          "marketplace": "hepsiburada",
+          "seller": "Hepsiburada",
+          "price": 8399.0,
+          "shipping": 0.0,
+          "storeUrl": "https://www.hepsiburada.com/urun/p-student-tablet",
+          "stock": "inStock",
+          "sellerRating": 4.7,
+          "updatedAt": "2026-08-15T16:56:07.109203Z"
+        },
+        {
+          "marketplace": "amazon",
+          "seller": "Amazon",
+          "price": 7759.0,
+          "shipping": 59.9,
+          "storeUrl": "https://www.amazon.com.tr/urun/p-student-tablet",
+          "stock": "inStock",
+          "sellerRating": 4.3,
+          "updatedAt": "2026-08-15T16:47:07.109207Z"
+        },
+        {
+          "marketplace": "n11",
+          "seller": "n11",
+          "price": 8879.0,
+          "shipping": 0.0,
+          "storeUrl": "https://www.n11.com/urun/p-student-tablet",
+          "stock": "inStock",
+          "sellerRating": 4.2,
+          "updatedAt": "2026-08-15T16:32:07.109210Z"
+        }
+      ]
+    },
+    {
+      "id": "p_pencil_case",
+      "slug": "faber-castell-kalem-seti",
+      "brand": "Faber-Castell",
+      "name": "Kuru Boya ve Kalem Seti (36 Renk)",
+      "category": "ev-yasam",
+      "glyph": "✏️",
+      "score": 84,
+      "verdict": "buy",
+      "shortDescription": "Kırılmayan uçlarıyla yıllardır standart olan boya seti.",
+      "editorialSummary": "Uçları kolay kırılmıyor ve renkler kâğıtta canlı çıkıyor — ucuz setlerdeki iki büyük sorun burada yok. Okul listesi için fazlasıyla yeterli; profesyonel çizim için farklı bir seri gerekir.",
+      "positives": [
+        {
+          "text": "Uçlar kolay kırılmıyor"
+        },
+        {
+          "text": "Renkler canlı ve düzgün dağılıyor"
+        },
+        {
+          "text": "Metal kutu uzun ömürlü"
+        }
+      ],
+      "negatives": [
+        {
+          "text": "Ucuz setlere göre pahalı"
+        },
+        {
+          "text": "Profesyonel çizim için yeterli tonlama yok"
+        }
+      ],
+      "quickFacts": [
+        {
+          "icon": "🎨",
+          "label": "Renk",
+          "value": "36"
+        },
+        {
+          "icon": "📦",
+          "label": "Kutu",
+          "value": "Metal"
+        },
+        {
+          "icon": "✏️",
+          "label": "Uç",
+          "value": "Dayanıklı"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgileri",
+          "icon": "✏️",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Renk sayısı",
+              "value": "36",
+              "emphasized": true
+            },
+            {
+              "label": "Uç dayanıklılığı",
+              "value": "Yüksek",
+              "sentiment": "good"
+            },
+            {
+              "label": "Kutu",
+              "value": "Metal"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "kuru boya",
+        "kalem",
+        "okul",
+        "kırtasiye"
+      ],
+      "trend": {
+        "score": 58,
+        "change": 0.21,
+        "socialMentions": 1800,
+        "startDate": "2026-07-31T14:10:07.106369Z"
+      },
+      "userRating": 4.8,
+      "reviewCount": 9700,
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 749.0,
+          "shipping": 0.0,
+          "storeUrl": "https://www.trendyol.com/urun/p-pencil-case",
+          "stock": "inStock",
+          "sellerRating": 4.6,
+          "delivery": "1-3 iş günü",
+          "updatedAt": "2026-08-15T17:04:07.109214Z"
+        },
+        {
+          "marketplace": "hepsiburada",
+          "seller": "Hepsiburada",
+          "price": 786.0,
+          "shipping": 0.0,
+          "storeUrl": "https://www.hepsiburada.com/urun/p-pencil-case",
+          "stock": "inStock",
+          "sellerRating": 4.7,
+          "updatedAt": "2026-08-15T16:56:07.109217Z"
+        },
+        {
+          "marketplace": "amazon",
+          "seller": "Amazon",
+          "price": 727.0,
+          "shipping": 59.9,
+          "storeUrl": "https://www.amazon.com.tr/urun/p-pencil-case",
+          "stock": "inStock",
+          "sellerRating": 4.3,
+          "updatedAt": "2026-08-15T16:47:07.109222Z"
+        },
+        {
+          "marketplace": "n11",
+          "seller": "n11",
+          "price": 831.0,
+          "shipping": 0.0,
+          "storeUrl": "https://www.n11.com/urun/p-pencil-case",
+          "stock": "inStock",
+          "sellerRating": 4.2,
+          "updatedAt": "2026-08-15T16:32:07.109226Z"
+        }
+      ]
+    },
+    {
+      "id": "p_laneige_lip",
+      "slug": "laneige-lip-sleeping-mask",
+      "brand": "Laneige",
+      "name": "Lip Sleeping Mask",
+      "category": "kozmetik",
+      "glyph": "💋",
+      "score": 85,
+      "verdict": "buy",
+      "shortDescription": "Gece boyunca dudak kurumasını gerçekten önleyen yoğun bakım.",
+      "editorialSummary": "Sosyal medyadaki ilginin aksine işini gerçekten yapıyor: sabaha kadar kalıyor ve kuru dudakta belirgin fark yaratıyor. Kavanoz ambalaj hijyen açısından ideal değil, spatula kullanmak gerekiyor.",
+      "positives": [
+        {
+          "text": "Sabaha kadar kalıcı, kurumayı önlüyor"
+        },
+        {
+          "text": "Çok az miktar yetiyor, uzun süre gidiyor"
+        },
+        {
+          "text": "Kokusu ağır değil"
+        }
+      ],
+      "negatives": [
+        {
+          "text": "Kavanoz ambalaj, parmakla almak hijyenik değil"
+        },
+        {
+          "text": "Gündüz kullanımda fazla yapışkan"
+        }
+      ],
+      "quickFacts": [
+        {
+          "icon": "🌙",
+          "label": "Kullanım",
+          "value": "Gece"
+        },
+        {
+          "icon": "📦",
+          "label": "Hacim",
+          "value": "20 g"
+        },
+        {
+          "icon": "⏳",
+          "label": "Ömür",
+          "value": "6+ ay"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "İçerik",
+          "icon": "🧪",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Aktif içerik",
+              "value": "Shea yağı, C vitamini kompleksi",
+              "emphasized": true,
+              "sentiment": "good"
+            },
+            {
+              "label": "Hacim",
+              "value": "20 g"
+            },
+            {
+              "label": "Parfüm",
+              "value": "Var (hafif)",
+              "sentiment": "warning"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "dudak bakımı",
+        "kore kozmetiği",
+        "gece maskesi"
+      ],
+      "trend": {
+        "score": 89,
+        "change": 0.41,
+        "socialMentions": 16800,
+        "startDate": "2026-08-05T14:10:07.106373Z",
+        "source": "TikTok"
+      },
+      "userRating": 4.7,
+      "reviewCount": 21300,
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 899.0,
+          "oldPrice": 1049.0,
+          "shipping": 0.0,
+          "storeUrl": "https://www.trendyol.com/urun/p-laneige-lip",
+          "stock": "inStock",
+          "sellerRating": 4.6,
+          "delivery": "1-3 iş günü",
+          "updatedAt": "2026-08-15T17:04:07.109230Z"
+        },
+        {
+          "marketplace": "hepsiburada",
+          "seller": "Hepsiburada",
+          "price": 944.0,
+          "shipping": 0.0,
+          "storeUrl": "https://www.hepsiburada.com/urun/p-laneige-lip",
+          "stock": "inStock",
+          "sellerRating": 4.7,
+          "updatedAt": "2026-08-15T16:56:07.109234Z"
+        },
+        {
+          "marketplace": "amazon",
+          "seller": "Amazon",
+          "price": 872.0,
+          "shipping": 59.9,
+          "storeUrl": "https://www.amazon.com.tr/urun/p-laneige-lip",
+          "stock": "inStock",
+          "sellerRating": 4.3,
+          "updatedAt": "2026-08-15T16:47:07.109238Z"
+        },
+        {
+          "marketplace": "n11",
+          "seller": "n11",
+          "price": 998.0,
+          "shipping": 0.0,
+          "storeUrl": "https://www.n11.com/urun/p-laneige-lip",
+          "stock": "inStock",
+          "sellerRating": 4.2,
+          "updatedAt": "2026-08-15T16:32:07.109242Z"
+        }
+      ]
+    },
+    {
+      "id": "p_maybelline_mascara",
+      "slug": "maybelline-sky-high-maskara",
+      "brand": "Maybelline",
+      "name": "Lash Sensational Sky High Maskara",
+      "category": "kozmetik",
+      "glyph": "👁️",
+      "score": 79,
+      "verdict": "buy",
+      "shortDescription": "Uzatma etkisi güçlü, esnek fırçalı popüler maskara.",
+      "editorialSummary": "Uzatma konusunda fiyatının üzerinde iş çıkarıyor; esnek fırça alt kirpiklere de rahat ulaşıyor. Hacim beklentisi yüksek olanlar için yeterli değil ve gün sonuna doğru hafif dökülme yapabiliyor.",
+      "positives": [
+        {
+          "text": "Uzatma etkisi belirgin"
+        },
+        {
+          "text": "Esnek fırça, alt kirpiklere ulaşıyor"
+        },
+        {
+          "text": "Topaklanma yapmıyor"
+        }
+      ],
+      "negatives": [
+        {
+          "text": "Hacim etkisi sınırlı"
+        },
+        {
+          "text": "Gün sonunda hafif dökülme olabiliyor"
+        }
+      ],
+      "quickFacts": [
+        {
+          "icon": "📏",
+          "label": "Etki",
+          "value": "Uzatma"
+        },
+        {
+          "icon": "🖌️",
+          "label": "Fırça",
+          "value": "Esnek"
+        },
+        {
+          "icon": "💧",
+          "label": "Suya dayanım",
+          "value": "Yok"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgileri",
+          "icon": "👁️",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Ana etki",
+              "value": "Uzatma",
+              "emphasized": true,
+              "sentiment": "good"
+            },
+            {
+              "label": "Fırça",
+              "value": "Esnek, ince"
+            },
+            {
+              "label": "Suya dayanıklılık",
+              "value": "Yok",
+              "sentiment": "warning"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "maskara",
+        "makyaj",
+        "kozmetik"
+      ],
+      "trend": {
+        "score": 83,
+        "change": 0.34,
+        "socialMentions": 12400,
+        "startDate": "2026-08-03T14:10:07.106377Z",
+        "source": "TikTok"
+      },
+      "userRating": 4.5,
+      "reviewCount": 18900,
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 429.0,
+          "shipping": 0.0,
+          "storeUrl": "https://www.trendyol.com/urun/p-maybelline-mascara",
+          "stock": "inStock",
+          "sellerRating": 4.6,
+          "delivery": "1-3 iş günü",
+          "updatedAt": "2026-08-15T17:04:07.109247Z"
+        },
+        {
+          "marketplace": "hepsiburada",
+          "seller": "Hepsiburada",
+          "price": 450.0,
+          "shipping": 0.0,
+          "storeUrl": "https://www.hepsiburada.com/urun/p-maybelline-mascara",
+          "stock": "inStock",
+          "sellerRating": 4.7,
+          "updatedAt": "2026-08-15T16:56:07.109251Z"
+        },
+        {
+          "marketplace": "amazon",
+          "seller": "Amazon",
+          "price": 416.0,
+          "shipping": 59.9,
+          "storeUrl": "https://www.amazon.com.tr/urun/p-maybelline-mascara",
+          "stock": "inStock",
+          "sellerRating": 4.3,
+          "updatedAt": "2026-08-15T16:47:07.109257Z"
+        },
+        {
+          "marketplace": "n11",
+          "seller": "n11",
+          "price": 476.0,
+          "shipping": 0.0,
+          "storeUrl": "https://www.n11.com/urun/p-maybelline-mascara",
+          "stock": "inStock",
+          "sellerRating": 4.2,
+          "updatedAt": "2026-08-15T16:32:07.109261Z"
+        }
+      ]
+    },
+    {
+      "id": "p_xiaomi_purifier",
+      "slug": "xiaomi-smart-air-purifier-4-lite",
+      "brand": "Xiaomi",
+      "name": "Smart Air Purifier 4 Lite",
+      "category": "ev-yasam",
+      "glyph": "🌬️",
+      "score": 86,
+      "verdict": "buy",
+      "shortDescription": "Metrekare başına en uygun maliyetli HEPA hava temizleyici.",
+      "editorialSummary": "Bu fiyata 360 m³/sa temizleme hızı sınıfının üzerinde. HEPA filtre polen ve ince tozu gerçekten tutuyor. Filtre değişimi yıllık ek masraf — satın alma kararında bunu da hesaba katmak gerekiyor.",
+      "positives": [
+        {
+          "text": "Fiyatına göre yüksek temizleme hızı"
+        },
+        {
+          "text": "Gerçek HEPA filtre"
+        },
+        {
+          "text": "Uygulamadan kontrol ve hava kalitesi takibi"
+        }
+      ],
+      "negatives": [
+        {
+          "text": "Filtre yılda bir değişiyor, ek masraf"
+        },
+        {
+          "text": "En yüksek kademede sesi belirgin"
+        }
+      ],
+      "quickFacts": [
+        {
+          "icon": "💨",
+          "label": "CADR",
+          "value": "360 m³/sa"
+        },
+        {
+          "icon": "🧫",
+          "label": "Filtre",
+          "value": "HEPA"
+        },
+        {
+          "icon": "📐",
+          "label": "Alan",
+          "value": "43 m²"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Teknik Özellikler",
+          "icon": "⚙️",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Temizleme hızı (CADR)",
+              "value": "360 m³/saat",
+              "emphasized": true,
+              "sentiment": "good"
+            },
+            {
+              "label": "Önerilen alan",
+              "value": "25-43 m²"
+            },
+            {
+              "label": "Filtre",
+              "value": "HEPA H13",
+              "sentiment": "good"
+            },
+            {
+              "label": "Filtre değişimi",
+              "value": "Yılda 1",
+              "note": "Yıllık ek masraf",
+              "sentiment": "warning"
+            },
+            {
+              "label": "Gürültü",
+              "value": "24-61 dB"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "hava temizleyici",
+        "hepa",
+        "alerji",
+        "xiaomi"
+      ],
+      "trend": {
+        "score": 72,
+        "change": 0.23,
+        "socialMentions": 4400,
+        "startDate": "2026-07-24T14:10:07.106381Z"
+      },
+      "userRating": 4.6,
+      "reviewCount": 7900,
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 4299.0,
+          "oldPrice": 4999.0,
+          "shipping": 0.0,
+          "storeUrl": "https://www.trendyol.com/urun/p-xiaomi-purifier",
+          "stock": "inStock",
+          "sellerRating": 4.6,
+          "delivery": "1-3 iş günü",
+          "updatedAt": "2026-08-15T17:04:07.109265Z"
+        },
+        {
+          "marketplace": "hepsiburada",
+          "seller": "Hepsiburada",
+          "price": 4509.0,
+          "shipping": 0.0,
+          "storeUrl": "https://www.hepsiburada.com/urun/p-xiaomi-purifier",
+          "stock": "inStock",
+          "sellerRating": 4.7,
+          "updatedAt": "2026-08-15T16:56:07.109269Z"
+        },
+        {
+          "marketplace": "amazon",
+          "seller": "Amazon",
+          "price": 4169.0,
+          "shipping": 59.9,
+          "storeUrl": "https://www.amazon.com.tr/urun/p-xiaomi-purifier",
+          "stock": "inStock",
+          "sellerRating": 4.3,
+          "updatedAt": "2026-08-15T16:47:07.109272Z"
+        },
+        {
+          "marketplace": "n11",
+          "seller": "n11",
+          "price": 4769.0,
+          "shipping": 0.0,
+          "storeUrl": "https://www.n11.com/urun/p-xiaomi-purifier",
+          "stock": "inStock",
+          "sellerRating": 4.2,
+          "updatedAt": "2026-08-15T16:32:07.109276Z"
+        }
+      ]
+    },
+    {
+      "id": "p_levoit_core300",
+      "slug": "levoit-core-300s",
+      "brand": "Levoit",
+      "name": "Core 300S Hava Temizleyici",
+      "category": "ev-yasam",
+      "glyph": "🌬️",
+      "score": 82,
+      "verdict": "buy",
+      "shortDescription": "Yatak odası ölçeğinde sessiz çalışan kompakt temizleyici.",
+      "editorialSummary": "Uyku modunda 24 dB ile neredeyse duyulmuyor; yatak odası için doğru tercih. Küçük hacmi geniş salonlarda yetersiz kalıyor. Filtre fiyatı Xiaomi tarafına göre yüksek.",
+      "positives": [
+        {
+          "text": "Uyku modunda çok sessiz"
+        },
+        {
+          "text": "Küçük, yer kaplamıyor"
+        },
+        {
+          "text": "Filtre değişimi kolay"
+        }
+      ],
+      "negatives": [
+        {
+          "text": "Geniş salonlar için yetersiz"
+        },
+        {
+          "text": "Yedek filtre pahalı"
+        }
+      ],
+      "quickFacts": [
+        {
+          "icon": "💨",
+          "label": "CADR",
+          "value": "240 m³/sa"
+        },
+        {
+          "icon": "🔇",
+          "label": "Uyku modu",
+          "value": "24 dB"
+        },
+        {
+          "icon": "📐",
+          "label": "Alan",
+          "value": "30 m²"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Teknik Özellikler",
+          "icon": "⚙️",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Gürültü (uyku modu)",
+              "value": "24 dB",
+              "emphasized": true,
+              "sentiment": "good"
+            },
+            {
+              "label": "Temizleme hızı",
+              "value": "240 m³/saat"
+            },
+            {
+              "label": "Önerilen alan",
+              "value": "30 m²"
+            },
+            {
+              "label": "Yedek filtre",
+              "value": "Pahalı",
+              "sentiment": "warning"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "hava temizleyici",
+        "hepa",
+        "sessiz",
+        "yatak odası"
+      ],
+      "trend": {
+        "score": 64,
+        "change": 0.16,
+        "socialMentions": 2600,
+        "startDate": "2026-07-20T14:10:07.106386Z"
+      },
+      "userRating": 4.6,
+      "reviewCount": 5100,
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 5499.0,
+          "shipping": 0.0,
+          "storeUrl": "https://www.trendyol.com/urun/p-levoit-core300",
+          "stock": "inStock",
+          "sellerRating": 4.6,
+          "delivery": "1-3 iş günü",
+          "updatedAt": "2026-08-15T17:04:07.109279Z"
+        },
+        {
+          "marketplace": "hepsiburada",
+          "seller": "Hepsiburada",
+          "price": 5769.0,
+          "shipping": 0.0,
+          "storeUrl": "https://www.hepsiburada.com/urun/p-levoit-core300",
+          "stock": "inStock",
+          "sellerRating": 4.7,
+          "updatedAt": "2026-08-15T16:56:07.109283Z"
+        },
+        {
+          "marketplace": "amazon",
+          "seller": "Amazon",
+          "price": 5329.0,
+          "shipping": 59.9,
+          "storeUrl": "https://www.amazon.com.tr/urun/p-levoit-core300",
+          "stock": "inStock",
+          "sellerRating": 4.3,
+          "updatedAt": "2026-08-15T16:47:07.109286Z"
+        },
+        {
+          "marketplace": "n11",
+          "seller": "n11",
+          "price": 6099.0,
+          "shipping": 0.0,
+          "storeUrl": "https://www.n11.com/urun/p-levoit-core300",
+          "stock": "inStock",
+          "sellerRating": 4.2,
+          "updatedAt": "2026-08-15T16:32:07.109290Z"
+        }
+      ]
+    },
+    {
+      "id": "p_philips_purifier",
+      "slug": "philips-800i-hava-temizleyici",
+      "brand": "Philips",
+      "name": "800i Serisi Hava Temizleyici",
+      "category": "ev-yasam",
+      "glyph": "🌬️",
+      "score": 74,
+      "verdict": "conditional",
+      "shortDescription": "Marka güveni yüksek ama metrekare başına maliyeti pahalı.",
+      "editorialSummary": "Yapı kalitesi ve sensör hassasiyeti iyi. Ancak aynı temizleme hızını çok daha uygun modellerde bulmak mümkün — ödediğin farkın büyük kısmı marka ve tasarım. Filtre ekosistemi de pahalı.",
+      "positives": [
+        {
+          "text": "Hava kalitesi sensörü hassas"
+        },
+        {
+          "text": "Yapı kalitesi iyi"
+        },
+        {
+          "text": "Sade ve sessiz tasarım"
+        }
+      ],
+      "negatives": [
+        {
+          "text": "Metrekare başına maliyeti yüksek"
+        },
+        {
+          "text": "Yedek filtreler pahalı"
+        },
+        {
+          "text": "Uygulama desteği sınırlı"
+        }
+      ],
+      "quickFacts": [
+        {
+          "icon": "💨",
+          "label": "CADR",
+          "value": "190 m³/sa"
+        },
+        {
+          "icon": "🧫",
+          "label": "Filtre",
+          "value": "HEPA"
+        },
+        {
+          "icon": "📐",
+          "label": "Alan",
+          "value": "22 m²"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Teknik Özellikler",
+          "icon": "⚙️",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Temizleme hızı",
+              "value": "190 m³/saat",
+              "note": "Fiyatına göre düşük",
+              "emphasized": true,
+              "sentiment": "warning"
+            },
+            {
+              "label": "Önerilen alan",
+              "value": "22 m²"
+            },
+            {
+              "label": "Filtre",
+              "value": "HEPA"
+            },
+            {
+              "label": "Garanti",
+              "value": "2 yıl"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "hava temizleyici",
+        "philips",
+        "hepa"
+      ],
+      "trend": {
+        "score": 55,
+        "change": 0.06,
+        "socialMentions": 1300,
+        "startDate": "2026-06-16T14:10:07.106391Z"
+      },
+      "userRating": 4.4,
+      "reviewCount": 2800,
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 8999.0,
+          "shipping": 0.0,
+          "storeUrl": "https://www.trendyol.com/urun/p-philips-purifier",
+          "stock": "inStock",
+          "sellerRating": 4.6,
+          "delivery": "1-3 iş günü",
+          "updatedAt": "2026-08-15T17:04:07.109293Z"
+        },
+        {
+          "marketplace": "hepsiburada",
+          "seller": "Hepsiburada",
+          "price": 9449.0,
+          "shipping": 0.0,
+          "storeUrl": "https://www.hepsiburada.com/urun/p-philips-purifier",
+          "stock": "inStock",
+          "sellerRating": 4.7,
+          "updatedAt": "2026-08-15T16:56:07.109297Z"
+        },
+        {
+          "marketplace": "amazon",
+          "seller": "Amazon",
+          "price": 8729.0,
+          "shipping": 59.9,
+          "storeUrl": "https://www.amazon.com.tr/urun/p-philips-purifier",
+          "stock": "inStock",
+          "sellerRating": 4.3,
+          "updatedAt": "2026-08-15T16:47:07.109300Z"
+        },
+        {
+          "marketplace": "n11",
+          "seller": "n11",
+          "price": 9989.0,
+          "shipping": 0.0,
+          "storeUrl": "https://www.n11.com/urun/p-philips-purifier",
+          "stock": "inStock",
+          "sellerRating": 4.2,
+          "updatedAt": "2026-08-15T16:32:07.109304Z"
+        }
+      ]
+    },
+    {
+      "id": "p_uniqlo_tee",
+      "slug": "uniqlo-u-crew-neck-tisort",
+      "brand": "Uniqlo",
+      "name": "U Crew Neck Tişört",
+      "category": "moda",
+      "glyph": "👕",
+      "score": 87,
+      "verdict": "buy",
+      "shortDescription": "Kalın örgüsüyle yıkamada formunu koruyan temel tişört.",
+      "editorialSummary": "Bu listedeki en dayanıklı seçenek: kalın pamuk örgü defalarca yıkamadan sonra bile yaka formunu koruyor. Kalıbı bol; vücuda oturan bir görünüm isteyen bir beden küçük almalı.",
+      "positives": [
+        {
+          "text": "Kalın örgü, yıkamada yaka bozulmuyor"
+        },
+        {
+          "text": "Renk solmasına dirençli"
+        },
+        {
+          "text": "Fiyatına göre uzun ömürlü"
+        }
+      ],
+      "negatives": [
+        {
+          "text": "Kalıbı bol, beden küçültmek gerekebilir"
+        },
+        {
+          "text": "Kalın kumaş yazın sıcak tutuyor"
+        }
+      ],
+      "quickFacts": [
+        {
+          "icon": "🧵",
+          "label": "Kumaş",
+          "value": "%100 pamuk"
+        },
+        {
+          "icon": "⚖️",
+          "label": "Gramaj",
+          "value": "210 g/m²"
+        },
+        {
+          "icon": "👕",
+          "label": "Kalıp",
+          "value": "Bol"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Kumaş & Bakım",
+          "icon": "🧵",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Gramaj",
+              "value": "210 g/m²",
+              "note": "Yüksek gramaj = yıkamada dayanıklılık",
+              "emphasized": true,
+              "sentiment": "good"
+            },
+            {
+              "label": "Kumaş",
+              "value": "%100 pamuk"
+            },
+            {
+              "label": "Kalıp",
+              "value": "Bol",
+              "sentiment": "warning"
+            },
+            {
+              "label": "Yıkama",
+              "value": "30° makinede"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "tişört",
+        "basic",
+        "pamuk",
+        "uniqlo"
+      ],
+      "trend": {
+        "score": 68,
+        "change": 0.18,
+        "socialMentions": 5600,
+        "startDate": "2026-07-18T14:10:07.106395Z"
+      },
+      "userRating": 4.7,
+      "reviewCount": 14300,
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 799.0,
+          "shipping": 0.0,
+          "storeUrl": "https://www.trendyol.com/urun/p-uniqlo-tee",
+          "stock": "inStock",
+          "sellerRating": 4.6,
+          "delivery": "1-3 iş günü",
+          "updatedAt": "2026-08-15T17:04:07.109307Z"
+        },
+        {
+          "marketplace": "hepsiburada",
+          "seller": "Hepsiburada",
+          "price": 839.0,
+          "shipping": 0.0,
+          "storeUrl": "https://www.hepsiburada.com/urun/p-uniqlo-tee",
+          "stock": "inStock",
+          "sellerRating": 4.7,
+          "updatedAt": "2026-08-15T16:56:07.109311Z"
+        },
+        {
+          "marketplace": "amazon",
+          "seller": "Amazon",
+          "price": 775.0,
+          "shipping": 59.9,
+          "storeUrl": "https://www.amazon.com.tr/urun/p-uniqlo-tee",
+          "stock": "inStock",
+          "sellerRating": 4.3,
+          "updatedAt": "2026-08-15T16:47:07.109314Z"
+        },
+        {
+          "marketplace": "n11",
+          "seller": "n11",
+          "price": 887.0,
+          "shipping": 0.0,
+          "storeUrl": "https://www.n11.com/urun/p-uniqlo-tee",
+          "stock": "inStock",
+          "sellerRating": 4.2,
+          "updatedAt": "2026-08-15T16:32:07.109318Z"
+        }
+      ]
+    },
+    {
+      "id": "p_mavi_tee",
+      "slug": "mavi-basic-tisort",
+      "brand": "Mavi",
+      "name": "Basic Bisiklet Yaka Tişört",
+      "category": "moda",
+      "glyph": "👕",
+      "score": 76,
+      "verdict": "buy",
+      "shortDescription": "Orta gramajlı, günlük kullanım için dengeli tişört.",
+      "editorialSummary": "Fiyat ile dayanıklılık arasında makul bir denge. İlk yıkamada hafif çekme yapıyor, sonrasında sabitleniyor. Açık renklerde kumaş biraz şeffaf kalıyor.",
+      "positives": [
+        {
+          "text": "Fiyat/dayanıklılık dengesi iyi"
+        },
+        {
+          "text": "Kalıbı vücuda oturuyor"
+        },
+        {
+          "text": "Geniş beden aralığı"
+        }
+      ],
+      "negatives": [
+        {
+          "text": "İlk yıkamada hafif çekiyor"
+        },
+        {
+          "text": "Açık renklerde şeffaflık var"
+        }
+      ],
+      "quickFacts": [
+        {
+          "icon": "🧵",
+          "label": "Kumaş",
+          "value": "Pamuk karışım"
+        },
+        {
+          "icon": "⚖️",
+          "label": "Gramaj",
+          "value": "180 g/m²"
+        },
+        {
+          "icon": "👕",
+          "label": "Kalıp",
+          "value": "Normal"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Kumaş & Bakım",
+          "icon": "🧵",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Gramaj",
+              "value": "180 g/m²",
+              "emphasized": true
+            },
+            {
+              "label": "Kumaş",
+              "value": "%95 pamuk, %5 elastan"
+            },
+            {
+              "label": "İlk yıkamada çekme",
+              "value": "Hafif",
+              "sentiment": "warning"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "tişört",
+        "basic",
+        "mavi"
+      ],
+      "trend": {
+        "score": 57,
+        "change": 0.08,
+        "socialMentions": 1700,
+        "startDate": "2026-07-01T14:10:07.106399Z"
+      },
+      "userRating": 4.4,
+      "reviewCount": 6200,
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 549.0,
+          "shipping": 0.0,
+          "storeUrl": "https://www.trendyol.com/urun/p-mavi-tee",
+          "stock": "inStock",
+          "sellerRating": 4.6,
+          "delivery": "1-3 iş günü",
+          "updatedAt": "2026-08-15T17:04:07.109322Z"
+        },
+        {
+          "marketplace": "hepsiburada",
+          "seller": "Hepsiburada",
+          "price": 576.0,
+          "shipping": 0.0,
+          "storeUrl": "https://www.hepsiburada.com/urun/p-mavi-tee",
+          "stock": "inStock",
+          "sellerRating": 4.7,
+          "updatedAt": "2026-08-15T16:56:07.109325Z"
+        },
+        {
+          "marketplace": "amazon",
+          "seller": "Amazon",
+          "price": 533.0,
+          "shipping": 59.9,
+          "storeUrl": "https://www.amazon.com.tr/urun/p-mavi-tee",
+          "stock": "inStock",
+          "sellerRating": 4.3,
+          "updatedAt": "2026-08-15T16:47:07.109328Z"
+        },
+        {
+          "marketplace": "n11",
+          "seller": "n11",
+          "price": 609.0,
+          "shipping": 0.0,
+          "storeUrl": "https://www.n11.com/urun/p-mavi-tee",
+          "stock": "inStock",
+          "sellerRating": 4.2,
+          "updatedAt": "2026-08-15T16:32:07.109331Z"
+        }
+      ]
+    },
+    {
+      "id": "p_hm_tee",
+      "slug": "hm-regular-fit-tisort",
+      "brand": "H&M",
+      "name": "Regular Fit Tişört",
+      "category": "moda",
+      "glyph": "👕",
+      "score": 58,
+      "verdict": "skip",
+      "shortDescription": "Ucuz ama birkaç yıkamada formunu kaybediyor.",
+      "editorialSummary": "İlk giyişte sorun yok, ancak ince örgü nedeniyle birkaç yıkamadan sonra yaka gevşiyor ve kumaş inceliyor. Birim fiyatı düşük görünse de kısa ömrü hesaba katıldığında daha kalın bir tişört uzun vadede daha ucuza geliyor.",
+      "positives": [
+        {
+          "text": "Çok düşük etiket fiyatı"
+        },
+        {
+          "text": "Hafif, yazın serin tutuyor"
+        }
+      ],
+      "negatives": [
+        {
+          "text": "Birkaç yıkamada yaka gevşiyor"
+        },
+        {
+          "text": "Kumaş inceliyor ve şeffaflaşıyor"
+        },
+        {
+          "text": "Renkler soluyor"
+        }
+      ],
+      "quickFacts": [
+        {
+          "icon": "🧵",
+          "label": "Kumaş",
+          "value": "Pamuk"
+        },
+        {
+          "icon": "⚖️",
+          "label": "Gramaj",
+          "value": "140 g/m²"
+        },
+        {
+          "icon": "⚠️",
+          "label": "Ömür",
+          "value": "Kısa"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Kumaş & Bakım",
+          "icon": "🧵",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Gramaj",
+              "value": "140 g/m²",
+              "note": "Düşük gramaj = yıkamada çabuk deforme",
+              "emphasized": true,
+              "sentiment": "bad"
+            },
+            {
+              "label": "Kumaş",
+              "value": "%100 pamuk"
+            },
+            {
+              "label": "Yıkama dayanımı",
+              "value": "Düşük",
+              "sentiment": "bad"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "tişört",
+        "basic",
+        "ucuz"
+      ],
+      "trend": {
+        "score": 51,
+        "change": 0.02,
+        "socialMentions": 800,
+        "startDate": "2026-05-17T14:10:07.106403Z"
+      },
+      "userRating": 3.9,
+      "reviewCount": 4100,
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 299.0,
+          "shipping": 0.0,
+          "storeUrl": "https://www.trendyol.com/urun/p-hm-tee",
+          "stock": "inStock",
+          "sellerRating": 4.6,
+          "delivery": "1-3 iş günü",
+          "updatedAt": "2026-08-15T17:04:07.109334Z"
+        },
+        {
+          "marketplace": "hepsiburada",
+          "seller": "Hepsiburada",
+          "price": 314.0,
+          "shipping": 0.0,
+          "storeUrl": "https://www.hepsiburada.com/urun/p-hm-tee",
+          "stock": "inStock",
+          "sellerRating": 4.7,
+          "updatedAt": "2026-08-15T16:56:07.109338Z"
+        },
+        {
+          "marketplace": "amazon",
+          "seller": "Amazon",
+          "price": 290.0,
+          "shipping": 59.9,
+          "storeUrl": "https://www.amazon.com.tr/urun/p-hm-tee",
+          "stock": "inStock",
+          "sellerRating": 4.3,
+          "updatedAt": "2026-08-15T16:47:07.109341Z"
+        },
+        {
+          "marketplace": "n11",
+          "seller": "n11",
+          "price": 332.0,
+          "shipping": 0.0,
+          "storeUrl": "https://www.n11.com/urun/p-hm-tee",
+          "stock": "inStock",
+          "sellerRating": 4.2,
+          "updatedAt": "2026-08-15T16:32:07.109344Z"
+        }
+      ]
+    },
+    {
+      "id": "p_lego_classic",
+      "slug": "lego-classic-yaratici-kutu",
+      "brand": "LEGO",
+      "name": "Classic Yaratıcı Büyük Kutu (790 Parça)",
+      "category": "anne-bebek",
+      "glyph": "🧱",
+      "score": 90,
+      "verdict": "buy",
+      "shortDescription": "Yıllarca oynanan, açık uçlu oyunu destekleyen klasik set.",
+      "editorialSummary": "Belirli bir modeli olmayan açık uçlu setler, tek kullanımlık temalı kutulara göre çok daha uzun süre oynanıyor. Malzeme güvenliği ve parça uyumu standartların üzerinde. Küçük parçalar nedeniyle 3 yaş altı için uygun değil.",
+      "positives": [
+        {
+          "text": "Açık uçlu oyun, yıllarca kullanılıyor"
+        },
+        {
+          "text": "Parça kalitesi ve güvenliği yüksek"
+        },
+        {
+          "text": "Diğer setlerle uyumlu"
+        }
+      ],
+      "negatives": [
+        {
+          "text": "Küçük parçalar — 3 yaş altına uygun değil"
+        },
+        {
+          "text": "Kutu fiyatı yüksek"
+        }
+      ],
+      "quickFacts": [
+        {
+          "icon": "🧱",
+          "label": "Parça",
+          "value": "790"
+        },
+        {
+          "icon": "👶",
+          "label": "Yaş",
+          "value": "4+"
+        },
+        {
+          "icon": "♻️",
+          "label": "Ömür",
+          "value": "Yıllarca"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Güvenlik & İçerik",
+          "icon": "🧸",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Yaş aralığı",
+              "value": "4 yaş ve üzeri",
+              "note": "Küçük parça içerir",
+              "emphasized": true,
+              "sentiment": "warning"
+            },
+            {
+              "label": "Parça sayısı",
+              "value": "790"
+            },
+            {
+              "label": "Malzeme",
+              "value": "ABS, güvenlik sertifikalı",
+              "sentiment": "good"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "oyuncak",
+        "lego",
+        "yapı bloğu",
+        "çocuk"
+      ],
+      "trend": {
+        "score": 70,
+        "change": 0.17,
+        "socialMentions": 3800,
+        "startDate": "2026-07-11T14:10:07.106408Z"
+      },
+      "userRating": 4.9,
+      "reviewCount": 16700,
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 2199.0,
+          "oldPrice": 2599.0,
+          "shipping": 0.0,
+          "storeUrl": "https://www.trendyol.com/urun/p-lego-classic",
+          "stock": "inStock",
+          "sellerRating": 4.6,
+          "delivery": "1-3 iş günü",
+          "updatedAt": "2026-08-15T17:04:07.109348Z"
+        },
+        {
+          "marketplace": "hepsiburada",
+          "seller": "Hepsiburada",
+          "price": 2309.0,
+          "shipping": 0.0,
+          "storeUrl": "https://www.hepsiburada.com/urun/p-lego-classic",
+          "stock": "inStock",
+          "sellerRating": 4.7,
+          "updatedAt": "2026-08-15T16:56:07.109351Z"
+        },
+        {
+          "marketplace": "amazon",
+          "seller": "Amazon",
+          "price": 2129.0,
+          "shipping": 59.9,
+          "storeUrl": "https://www.amazon.com.tr/urun/p-lego-classic",
+          "stock": "inStock",
+          "sellerRating": 4.3,
+          "updatedAt": "2026-08-15T16:47:07.109355Z"
+        },
+        {
+          "marketplace": "n11",
+          "seller": "n11",
+          "price": 2439.0,
+          "shipping": 0.0,
+          "storeUrl": "https://www.n11.com/urun/p-lego-classic",
+          "stock": "inStock",
+          "sellerRating": 4.2,
+          "updatedAt": "2026-08-15T16:32:07.109359Z"
+        }
+      ]
+    },
+    {
+      "id": "p_wooden_blocks",
+      "slug": "ahsap-bloklar-montessori",
+      "brand": "Woodlife",
+      "name": "Ahşap Blok Seti (Boyasız, 100 Parça)",
+      "category": "anne-bebek",
+      "glyph": "🪵",
+      "score": 85,
+      "verdict": "buy",
+      "shortDescription": "Boyasız ahşap; ağza götüren yaş grubu için güvenli seçenek.",
+      "editorialSummary": "Boyasız ve verniksiz olması, oyuncakları ağzına götüren yaş grubu için en önemli özellik. Kenarlar zımparalı, çapak yok. Ahşap ağır olduğu için küçük çocuk üstüne devirebilir; yapıları alçak tutmakta fayda var.",
+      "positives": [
+        {
+          "text": "Boyasız ve verniksiz, ağza götürmeye uygun"
+        },
+        {
+          "text": "Kenarlar zımparalı, çapak yok"
+        },
+        {
+          "text": "Uzun ömürlü, kırılmıyor"
+        }
+      ],
+      "negatives": [
+        {
+          "text": "Ahşap ağır, devrilirse canını yakabilir"
+        },
+        {
+          "text": "Plastik setlere göre pahalı"
+        }
+      ],
+      "quickFacts": [
+        {
+          "icon": "🪵",
+          "label": "Malzeme",
+          "value": "Boyasız ahşap"
+        },
+        {
+          "icon": "👶",
+          "label": "Yaş",
+          "value": "2+"
+        },
+        {
+          "icon": "🧱",
+          "label": "Parça",
+          "value": "100"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Güvenlik & İçerik",
+          "icon": "🧸",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Yüzey",
+              "value": "Boyasız, verniksiz",
+              "note": "Ağza götüren yaş için güvenli",
+              "emphasized": true,
+              "sentiment": "good"
+            },
+            {
+              "label": "Yaş aralığı",
+              "value": "2 yaş ve üzeri"
+            },
+            {
+              "label": "Malzeme",
+              "value": "Kayın ağacı"
+            },
+            {
+              "label": "Ağırlık",
+              "value": "Yüksek",
+              "sentiment": "warning"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "oyuncak",
+        "ahşap",
+        "montessori",
+        "bebek"
+      ],
+      "trend": {
+        "score": 66,
+        "change": 0.25,
+        "socialMentions": 3100,
+        "startDate": "2026-07-26T14:10:07.106412Z",
+        "source": "Instagram"
+      },
+      "userRating": 4.8,
+      "reviewCount": 4900,
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 1299.0,
+          "shipping": 0.0,
+          "storeUrl": "https://www.trendyol.com/urun/p-wooden-blocks",
+          "stock": "inStock",
+          "sellerRating": 4.6,
+          "delivery": "1-3 iş günü",
+          "updatedAt": "2026-08-15T17:04:07.109362Z"
+        },
+        {
+          "marketplace": "hepsiburada",
+          "seller": "Hepsiburada",
+          "price": 1359.0,
+          "shipping": 0.0,
+          "storeUrl": "https://www.hepsiburada.com/urun/p-wooden-blocks",
+          "stock": "inStock",
+          "sellerRating": 4.7,
+          "updatedAt": "2026-08-15T16:56:07.109366Z"
+        },
+        {
+          "marketplace": "amazon",
+          "seller": "Amazon",
+          "price": 1259.0,
+          "shipping": 59.9,
+          "storeUrl": "https://www.amazon.com.tr/urun/p-wooden-blocks",
+          "stock": "inStock",
+          "sellerRating": 4.3,
+          "updatedAt": "2026-08-15T16:47:07.109369Z"
+        },
+        {
+          "marketplace": "n11",
+          "seller": "n11",
+          "price": 1439.0,
+          "shipping": 0.0,
+          "storeUrl": "https://www.n11.com/urun/p-wooden-blocks",
+          "stock": "inStock",
+          "sellerRating": 4.2,
+          "updatedAt": "2026-08-15T16:32:07.109374Z"
+        }
+      ]
+    },
+    {
+      "id": "p_playdoh",
+      "slug": "play-doh-oyun-hamuru-seti",
+      "brand": "Play-Doh",
+      "name": "Oyun Hamuru Seti (10 Kavanoz)",
+      "category": "anne-bebek",
+      "glyph": "🎨",
+      "score": 77,
+      "verdict": "buy",
+      "shortDescription": "Gıda bazlı, güvenlik sertifikalı klasik oyun hamuru.",
+      "editorialSummary": "İçeriği gıda bazlı ve güvenlik sertifikalı; ucuz muadillerde bu garanti yok. El becerisi gelişimi için iyi bir seçenek. Kapak açık kalırsa kuruyor ve halı gibi yüzeylere yapıştığında temizliği zor.",
+      "positives": [
+        {
+          "text": "Gıda bazlı içerik, güvenlik sertifikalı"
+        },
+        {
+          "text": "El becerisi gelişimini destekliyor"
+        },
+        {
+          "text": "Renkler canlı"
+        }
+      ],
+      "negatives": [
+        {
+          "text": "Kapağı açık kalırsa kuruyor"
+        },
+        {
+          "text": "Halı ve kumaşa yapışınca temizliği zor"
+        }
+      ],
+      "quickFacts": [
+        {
+          "icon": "🎨",
+          "label": "Kavanoz",
+          "value": "10"
+        },
+        {
+          "icon": "👶",
+          "label": "Yaş",
+          "value": "2+"
+        },
+        {
+          "icon": "🧪",
+          "label": "İçerik",
+          "value": "Gıda bazlı"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Güvenlik & İçerik",
+          "icon": "🧸",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "İçerik",
+              "value": "Gıda bazlı, sertifikalı",
+              "emphasized": true,
+              "sentiment": "good"
+            },
+            {
+              "label": "Yaş aralığı",
+              "value": "2 yaş ve üzeri"
+            },
+            {
+              "label": "Kavanoz sayısı",
+              "value": "10"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "oyuncak",
+        "oyun hamuru",
+        "çocuk",
+        "yaratıcılık"
+      ],
+      "trend": {
+        "score": 59,
+        "change": 0.12,
+        "socialMentions": 2200,
+        "startDate": "2026-06-26T14:10:07.106416Z"
+      },
+      "userRating": 4.6,
+      "reviewCount": 8300,
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 649.0,
+          "shipping": 0.0,
+          "storeUrl": "https://www.trendyol.com/urun/p-playdoh",
+          "stock": "inStock",
+          "sellerRating": 4.6,
+          "delivery": "1-3 iş günü",
+          "updatedAt": "2026-08-15T17:04:07.109377Z"
+        },
+        {
+          "marketplace": "hepsiburada",
+          "seller": "Hepsiburada",
+          "price": 681.0,
+          "shipping": 0.0,
+          "storeUrl": "https://www.hepsiburada.com/urun/p-playdoh",
+          "stock": "inStock",
+          "sellerRating": 4.7,
+          "updatedAt": "2026-08-15T16:56:07.109380Z"
+        },
+        {
+          "marketplace": "amazon",
+          "seller": "Amazon",
+          "price": 630.0,
+          "shipping": 59.9,
+          "storeUrl": "https://www.amazon.com.tr/urun/p-playdoh",
+          "stock": "inStock",
+          "sellerRating": 4.3,
+          "updatedAt": "2026-08-15T16:47:07.109383Z"
+        },
+        {
+          "marketplace": "n11",
+          "seller": "n11",
+          "price": 720.0,
+          "shipping": 0.0,
+          "storeUrl": "https://www.n11.com/urun/p-playdoh",
+          "stock": "inStock",
+          "sellerRating": 4.2,
+          "updatedAt": "2026-08-15T16:32:07.109385Z"
+        }
+      ]
+    }
+  ]
+}
