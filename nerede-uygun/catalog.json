@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-16T19:23:32Z",
+  "updatedAt": "2026-08-16T21:02:16Z",
   "collections": [
     {
       "id": "yaz_sicak",
@@ -98,9 +98,12 @@
       "subtitle": "Metrekare başına maliyete göre sıraladık",
       "icon": "🌬️",
       "products": [
-        "p_xiaomi_purifier",
-        "p_levoit_core300",
-        "p_philips_purifier"
+        "p_ty_411990799",
+        "p_ty_299018359",
+        "p_ty_953699296",
+        "p_ty_279780059",
+        "p_ty_809683127",
+        "p_ty_1083994253"
       ]
     },
     {
@@ -109,9 +112,13 @@
       "subtitle": "Gramaj yüksekse yaka bozulmaz — farkı test ettik",
       "icon": "👕",
       "products": [
-        "p_uniqlo_tee",
-        "p_mavi_tee",
-        "p_hm_tee"
+        "p_ty_37206082",
+        "p_ty_224555799",
+        "p_ty_220686963",
+        "p_ty_224080792",
+        "p_ty_43863229",
+        "p_ty_866696225",
+        "p_ty_827052317"
       ]
     },
     {
@@ -120,9 +127,21 @@
       "subtitle": "Malzeme güvenliği ve yaş uygunluğuna göre seçildi",
       "icon": "🧸",
       "products": [
-        "p_lego_classic",
-        "p_wooden_blocks",
-        "p_playdoh"
+        "p_ty_67201414",
+        "p_ty_409597832",
+        "p_ty_230665037",
+        "p_ty_156551426",
+        "p_ty_52125056",
+        "p_ty_971161885",
+        "p_ty_58893157",
+        "p_ty_959516754",
+        "p_ty_876839630",
+        "p_ty_34617433",
+        "p_ty_121313958",
+        "p_ty_106910836",
+        "p_ty_743658401",
+        "p_ty_163888347",
+        "p_ty_152863403"
       ]
     }
   ],
@@ -1836,1207 +1855,6 @@
           "stock": "inStock",
           "sellerRating": 4.4,
           "updatedAt": "2026-08-15T16:12:07.108815Z"
-        }
-      ],
-      "demo": true
-    },
-    {
-      "id": "p_xiaomi_purifier",
-      "slug": "xiaomi-smart-air-purifier-4-lite",
-      "brand": "Xiaomi",
-      "name": "Smart Air Purifier 4 Lite",
-      "category": "ev-yasam",
-      "glyph": "🌬️",
-      "score": 86,
-      "verdict": "buy",
-      "shortDescription": "Metrekare başına en uygun maliyetli HEPA hava temizleyici.",
-      "editorialSummary": "Bu fiyata 360 m³/sa temizleme hızı sınıfının üzerinde. HEPA filtre polen ve ince tozu gerçekten tutuyor. Filtre değişimi yıllık ek masraf — satın alma kararında bunu da hesaba katmak gerekiyor.",
-      "positives": [
-        {
-          "text": "Fiyatına göre yüksek temizleme hızı"
-        },
-        {
-          "text": "Gerçek HEPA filtre"
-        },
-        {
-          "text": "Uygulamadan kontrol ve hava kalitesi takibi"
-        }
-      ],
-      "negatives": [
-        {
-          "text": "Filtre yılda bir değişiyor, ek masraf"
-        },
-        {
-          "text": "En yüksek kademede sesi belirgin"
-        }
-      ],
-      "quickFacts": [
-        {
-          "icon": "💨",
-          "label": "CADR",
-          "value": "360 m³/sa"
-        },
-        {
-          "icon": "🧫",
-          "label": "Filtre",
-          "value": "HEPA"
-        },
-        {
-          "icon": "📐",
-          "label": "Alan",
-          "value": "43 m²"
-        }
-      ],
-      "attributeGroups": [
-        {
-          "title": "Teknik Özellikler",
-          "icon": "⚙️",
-          "initiallyExpanded": true,
-          "attributes": [
-            {
-              "label": "Temizleme hızı (CADR)",
-              "value": "360 m³/saat",
-              "emphasized": true,
-              "sentiment": "good"
-            },
-            {
-              "label": "Önerilen alan",
-              "value": "25-43 m²"
-            },
-            {
-              "label": "Filtre",
-              "value": "HEPA H13",
-              "sentiment": "good"
-            },
-            {
-              "label": "Filtre değişimi",
-              "value": "Yılda 1",
-              "note": "Yıllık ek masraf",
-              "sentiment": "warning"
-            },
-            {
-              "label": "Gürültü",
-              "value": "24-61 dB"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        "hava temizleyici",
-        "hepa",
-        "alerji",
-        "xiaomi"
-      ],
-      "trend": {
-        "score": 72,
-        "change": 0.23,
-        "socialMentions": 4400,
-        "startDate": "2026-07-24T14:10:07.106381Z"
-      },
-      "userRating": 4.6,
-      "reviewCount": 7900,
-      "offers": [
-        {
-          "marketplace": "trendyol",
-          "seller": "Trendyol",
-          "price": 4299.0,
-          "oldPrice": 4999.0,
-          "shipping": 0.0,
-          "storeUrl": "https://www.trendyol.com/urun/p-xiaomi-purifier",
-          "stock": "inStock",
-          "sellerRating": 4.6,
-          "delivery": "1-3 iş günü",
-          "updatedAt": "2026-08-15T17:04:07.109265Z"
-        },
-        {
-          "marketplace": "hepsiburada",
-          "seller": "Hepsiburada",
-          "price": 4509.0,
-          "shipping": 0.0,
-          "storeUrl": "https://www.hepsiburada.com/urun/p-xiaomi-purifier",
-          "stock": "inStock",
-          "sellerRating": 4.7,
-          "updatedAt": "2026-08-15T16:56:07.109269Z"
-        },
-        {
-          "marketplace": "amazon",
-          "seller": "Amazon",
-          "price": 4169.0,
-          "shipping": 59.9,
-          "storeUrl": "https://www.amazon.com.tr/urun/p-xiaomi-purifier",
-          "stock": "inStock",
-          "sellerRating": 4.3,
-          "updatedAt": "2026-08-15T16:47:07.109272Z"
-        },
-        {
-          "marketplace": "n11",
-          "seller": "n11",
-          "price": 4769.0,
-          "shipping": 0.0,
-          "storeUrl": "https://www.n11.com/urun/p-xiaomi-purifier",
-          "stock": "inStock",
-          "sellerRating": 4.2,
-          "updatedAt": "2026-08-15T16:32:07.109276Z"
-        }
-      ],
-      "demo": true
-    },
-    {
-      "id": "p_levoit_core300",
-      "slug": "levoit-core-300s",
-      "brand": "Levoit",
-      "name": "Core 300S Hava Temizleyici",
-      "category": "ev-yasam",
-      "glyph": "🌬️",
-      "score": 82,
-      "verdict": "buy",
-      "shortDescription": "Yatak odası ölçeğinde sessiz çalışan kompakt temizleyici.",
-      "editorialSummary": "Uyku modunda 24 dB ile neredeyse duyulmuyor; yatak odası için doğru tercih. Küçük hacmi geniş salonlarda yetersiz kalıyor. Filtre fiyatı Xiaomi tarafına göre yüksek.",
-      "positives": [
-        {
-          "text": "Uyku modunda çok sessiz"
-        },
-        {
-          "text": "Küçük, yer kaplamıyor"
-        },
-        {
-          "text": "Filtre değişimi kolay"
-        }
-      ],
-      "negatives": [
-        {
-          "text": "Geniş salonlar için yetersiz"
-        },
-        {
-          "text": "Yedek filtre pahalı"
-        }
-      ],
-      "quickFacts": [
-        {
-          "icon": "💨",
-          "label": "CADR",
-          "value": "240 m³/sa"
-        },
-        {
-          "icon": "🔇",
-          "label": "Uyku modu",
-          "value": "24 dB"
-        },
-        {
-          "icon": "📐",
-          "label": "Alan",
-          "value": "30 m²"
-        }
-      ],
-      "attributeGroups": [
-        {
-          "title": "Teknik Özellikler",
-          "icon": "⚙️",
-          "initiallyExpanded": true,
-          "attributes": [
-            {
-              "label": "Gürültü (uyku modu)",
-              "value": "24 dB",
-              "emphasized": true,
-              "sentiment": "good"
-            },
-            {
-              "label": "Temizleme hızı",
-              "value": "240 m³/saat"
-            },
-            {
-              "label": "Önerilen alan",
-              "value": "30 m²"
-            },
-            {
-              "label": "Yedek filtre",
-              "value": "Pahalı",
-              "sentiment": "warning"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        "hava temizleyici",
-        "hepa",
-        "sessiz",
-        "yatak odası"
-      ],
-      "trend": {
-        "score": 64,
-        "change": 0.16,
-        "socialMentions": 2600,
-        "startDate": "2026-07-20T14:10:07.106386Z"
-      },
-      "userRating": 4.6,
-      "reviewCount": 5100,
-      "offers": [
-        {
-          "marketplace": "trendyol",
-          "seller": "Trendyol",
-          "price": 5499.0,
-          "shipping": 0.0,
-          "storeUrl": "https://www.trendyol.com/urun/p-levoit-core300",
-          "stock": "inStock",
-          "sellerRating": 4.6,
-          "delivery": "1-3 iş günü",
-          "updatedAt": "2026-08-15T17:04:07.109279Z"
-        },
-        {
-          "marketplace": "hepsiburada",
-          "seller": "Hepsiburada",
-          "price": 5769.0,
-          "shipping": 0.0,
-          "storeUrl": "https://www.hepsiburada.com/urun/p-levoit-core300",
-          "stock": "inStock",
-          "sellerRating": 4.7,
-          "updatedAt": "2026-08-15T16:56:07.109283Z"
-        },
-        {
-          "marketplace": "amazon",
-          "seller": "Amazon",
-          "price": 5329.0,
-          "shipping": 59.9,
-          "storeUrl": "https://www.amazon.com.tr/urun/p-levoit-core300",
-          "stock": "inStock",
-          "sellerRating": 4.3,
-          "updatedAt": "2026-08-15T16:47:07.109286Z"
-        },
-        {
-          "marketplace": "n11",
-          "seller": "n11",
-          "price": 6099.0,
-          "shipping": 0.0,
-          "storeUrl": "https://www.n11.com/urun/p-levoit-core300",
-          "stock": "inStock",
-          "sellerRating": 4.2,
-          "updatedAt": "2026-08-15T16:32:07.109290Z"
-        }
-      ],
-      "demo": true
-    },
-    {
-      "id": "p_philips_purifier",
-      "slug": "philips-800i-hava-temizleyici",
-      "brand": "Philips",
-      "name": "800i Serisi Hava Temizleyici",
-      "category": "ev-yasam",
-      "glyph": "🌬️",
-      "score": 74,
-      "verdict": "conditional",
-      "shortDescription": "Marka güveni yüksek ama metrekare başına maliyeti pahalı.",
-      "editorialSummary": "Yapı kalitesi ve sensör hassasiyeti iyi. Ancak aynı temizleme hızını çok daha uygun modellerde bulmak mümkün — ödediğin farkın büyük kısmı marka ve tasarım. Filtre ekosistemi de pahalı.",
-      "positives": [
-        {
-          "text": "Hava kalitesi sensörü hassas"
-        },
-        {
-          "text": "Yapı kalitesi iyi"
-        },
-        {
-          "text": "Sade ve sessiz tasarım"
-        }
-      ],
-      "negatives": [
-        {
-          "text": "Metrekare başına maliyeti yüksek"
-        },
-        {
-          "text": "Yedek filtreler pahalı"
-        },
-        {
-          "text": "Uygulama desteği sınırlı"
-        }
-      ],
-      "quickFacts": [
-        {
-          "icon": "💨",
-          "label": "CADR",
-          "value": "190 m³/sa"
-        },
-        {
-          "icon": "🧫",
-          "label": "Filtre",
-          "value": "HEPA"
-        },
-        {
-          "icon": "📐",
-          "label": "Alan",
-          "value": "22 m²"
-        }
-      ],
-      "attributeGroups": [
-        {
-          "title": "Teknik Özellikler",
-          "icon": "⚙️",
-          "initiallyExpanded": true,
-          "attributes": [
-            {
-              "label": "Temizleme hızı",
-              "value": "190 m³/saat",
-              "note": "Fiyatına göre düşük",
-              "emphasized": true,
-              "sentiment": "warning"
-            },
-            {
-              "label": "Önerilen alan",
-              "value": "22 m²"
-            },
-            {
-              "label": "Filtre",
-              "value": "HEPA"
-            },
-            {
-              "label": "Garanti",
-              "value": "2 yıl"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        "hava temizleyici",
-        "philips",
-        "hepa"
-      ],
-      "trend": {
-        "score": 55,
-        "change": 0.06,
-        "socialMentions": 1300,
-        "startDate": "2026-06-16T14:10:07.106391Z"
-      },
-      "userRating": 4.4,
-      "reviewCount": 2800,
-      "offers": [
-        {
-          "marketplace": "trendyol",
-          "seller": "Trendyol",
-          "price": 8999.0,
-          "shipping": 0.0,
-          "storeUrl": "https://www.trendyol.com/urun/p-philips-purifier",
-          "stock": "inStock",
-          "sellerRating": 4.6,
-          "delivery": "1-3 iş günü",
-          "updatedAt": "2026-08-15T17:04:07.109293Z"
-        },
-        {
-          "marketplace": "hepsiburada",
-          "seller": "Hepsiburada",
-          "price": 9449.0,
-          "shipping": 0.0,
-          "storeUrl": "https://www.hepsiburada.com/urun/p-philips-purifier",
-          "stock": "inStock",
-          "sellerRating": 4.7,
-          "updatedAt": "2026-08-15T16:56:07.109297Z"
-        },
-        {
-          "marketplace": "amazon",
-          "seller": "Amazon",
-          "price": 8729.0,
-          "shipping": 59.9,
-          "storeUrl": "https://www.amazon.com.tr/urun/p-philips-purifier",
-          "stock": "inStock",
-          "sellerRating": 4.3,
-          "updatedAt": "2026-08-15T16:47:07.109300Z"
-        },
-        {
-          "marketplace": "n11",
-          "seller": "n11",
-          "price": 9989.0,
-          "shipping": 0.0,
-          "storeUrl": "https://www.n11.com/urun/p-philips-purifier",
-          "stock": "inStock",
-          "sellerRating": 4.2,
-          "updatedAt": "2026-08-15T16:32:07.109304Z"
-        }
-      ],
-      "demo": true
-    },
-    {
-      "id": "p_uniqlo_tee",
-      "slug": "uniqlo-u-crew-neck-tisort",
-      "brand": "Uniqlo",
-      "name": "U Crew Neck Tişört",
-      "category": "moda",
-      "glyph": "👕",
-      "score": 87,
-      "verdict": "buy",
-      "shortDescription": "Kalın örgüsüyle yıkamada formunu koruyan temel tişört.",
-      "editorialSummary": "Bu listedeki en dayanıklı seçenek: kalın pamuk örgü defalarca yıkamadan sonra bile yaka formunu koruyor. Kalıbı bol; vücuda oturan bir görünüm isteyen bir beden küçük almalı.",
-      "positives": [
-        {
-          "text": "Kalın örgü, yıkamada yaka bozulmuyor"
-        },
-        {
-          "text": "Renk solmasına dirençli"
-        },
-        {
-          "text": "Fiyatına göre uzun ömürlü"
-        }
-      ],
-      "negatives": [
-        {
-          "text": "Kalıbı bol, beden küçültmek gerekebilir"
-        },
-        {
-          "text": "Kalın kumaş yazın sıcak tutuyor"
-        }
-      ],
-      "quickFacts": [
-        {
-          "icon": "🧵",
-          "label": "Kumaş",
-          "value": "%100 pamuk"
-        },
-        {
-          "icon": "⚖️",
-          "label": "Gramaj",
-          "value": "210 g/m²"
-        },
-        {
-          "icon": "👕",
-          "label": "Kalıp",
-          "value": "Bol"
-        }
-      ],
-      "attributeGroups": [
-        {
-          "title": "Kumaş & Bakım",
-          "icon": "🧵",
-          "initiallyExpanded": true,
-          "attributes": [
-            {
-              "label": "Gramaj",
-              "value": "210 g/m²",
-              "note": "Yüksek gramaj = yıkamada dayanıklılık",
-              "emphasized": true,
-              "sentiment": "good"
-            },
-            {
-              "label": "Kumaş",
-              "value": "%100 pamuk"
-            },
-            {
-              "label": "Kalıp",
-              "value": "Bol",
-              "sentiment": "warning"
-            },
-            {
-              "label": "Yıkama",
-              "value": "30° makinede"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        "tişört",
-        "basic",
-        "pamuk",
-        "uniqlo"
-      ],
-      "trend": {
-        "score": 68,
-        "change": 0.18,
-        "socialMentions": 5600,
-        "startDate": "2026-07-18T14:10:07.106395Z"
-      },
-      "userRating": 4.7,
-      "reviewCount": 14300,
-      "offers": [
-        {
-          "marketplace": "trendyol",
-          "seller": "Trendyol",
-          "price": 799.0,
-          "shipping": 0.0,
-          "storeUrl": "https://www.trendyol.com/urun/p-uniqlo-tee",
-          "stock": "inStock",
-          "sellerRating": 4.6,
-          "delivery": "1-3 iş günü",
-          "updatedAt": "2026-08-15T17:04:07.109307Z"
-        },
-        {
-          "marketplace": "hepsiburada",
-          "seller": "Hepsiburada",
-          "price": 839.0,
-          "shipping": 0.0,
-          "storeUrl": "https://www.hepsiburada.com/urun/p-uniqlo-tee",
-          "stock": "inStock",
-          "sellerRating": 4.7,
-          "updatedAt": "2026-08-15T16:56:07.109311Z"
-        },
-        {
-          "marketplace": "amazon",
-          "seller": "Amazon",
-          "price": 775.0,
-          "shipping": 59.9,
-          "storeUrl": "https://www.amazon.com.tr/urun/p-uniqlo-tee",
-          "stock": "inStock",
-          "sellerRating": 4.3,
-          "updatedAt": "2026-08-15T16:47:07.109314Z"
-        },
-        {
-          "marketplace": "n11",
-          "seller": "n11",
-          "price": 887.0,
-          "shipping": 0.0,
-          "storeUrl": "https://www.n11.com/urun/p-uniqlo-tee",
-          "stock": "inStock",
-          "sellerRating": 4.2,
-          "updatedAt": "2026-08-15T16:32:07.109318Z"
-        }
-      ],
-      "demo": true
-    },
-    {
-      "id": "p_mavi_tee",
-      "slug": "mavi-basic-tisort",
-      "brand": "Mavi",
-      "name": "Basic Bisiklet Yaka Tişört",
-      "category": "moda",
-      "glyph": "👕",
-      "score": 76,
-      "verdict": "buy",
-      "shortDescription": "Orta gramajlı, günlük kullanım için dengeli tişört.",
-      "editorialSummary": "Fiyat ile dayanıklılık arasında makul bir denge. İlk yıkamada hafif çekme yapıyor, sonrasında sabitleniyor. Açık renklerde kumaş biraz şeffaf kalıyor.",
-      "positives": [
-        {
-          "text": "Fiyat/dayanıklılık dengesi iyi"
-        },
-        {
-          "text": "Kalıbı vücuda oturuyor"
-        },
-        {
-          "text": "Geniş beden aralığı"
-        }
-      ],
-      "negatives": [
-        {
-          "text": "İlk yıkamada hafif çekiyor"
-        },
-        {
-          "text": "Açık renklerde şeffaflık var"
-        }
-      ],
-      "quickFacts": [
-        {
-          "icon": "🧵",
-          "label": "Kumaş",
-          "value": "Pamuk karışım"
-        },
-        {
-          "icon": "⚖️",
-          "label": "Gramaj",
-          "value": "180 g/m²"
-        },
-        {
-          "icon": "👕",
-          "label": "Kalıp",
-          "value": "Normal"
-        }
-      ],
-      "attributeGroups": [
-        {
-          "title": "Kumaş & Bakım",
-          "icon": "🧵",
-          "initiallyExpanded": true,
-          "attributes": [
-            {
-              "label": "Gramaj",
-              "value": "180 g/m²",
-              "emphasized": true
-            },
-            {
-              "label": "Kumaş",
-              "value": "%95 pamuk, %5 elastan"
-            },
-            {
-              "label": "İlk yıkamada çekme",
-              "value": "Hafif",
-              "sentiment": "warning"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        "tişört",
-        "basic",
-        "mavi"
-      ],
-      "trend": {
-        "score": 57,
-        "change": 0.08,
-        "socialMentions": 1700,
-        "startDate": "2026-07-01T14:10:07.106399Z"
-      },
-      "userRating": 4.4,
-      "reviewCount": 6200,
-      "offers": [
-        {
-          "marketplace": "trendyol",
-          "seller": "Trendyol",
-          "price": 549.0,
-          "shipping": 0.0,
-          "storeUrl": "https://www.trendyol.com/urun/p-mavi-tee",
-          "stock": "inStock",
-          "sellerRating": 4.6,
-          "delivery": "1-3 iş günü",
-          "updatedAt": "2026-08-15T17:04:07.109322Z"
-        },
-        {
-          "marketplace": "hepsiburada",
-          "seller": "Hepsiburada",
-          "price": 576.0,
-          "shipping": 0.0,
-          "storeUrl": "https://www.hepsiburada.com/urun/p-mavi-tee",
-          "stock": "inStock",
-          "sellerRating": 4.7,
-          "updatedAt": "2026-08-15T16:56:07.109325Z"
-        },
-        {
-          "marketplace": "amazon",
-          "seller": "Amazon",
-          "price": 533.0,
-          "shipping": 59.9,
-          "storeUrl": "https://www.amazon.com.tr/urun/p-mavi-tee",
-          "stock": "inStock",
-          "sellerRating": 4.3,
-          "updatedAt": "2026-08-15T16:47:07.109328Z"
-        },
-        {
-          "marketplace": "n11",
-          "seller": "n11",
-          "price": 609.0,
-          "shipping": 0.0,
-          "storeUrl": "https://www.n11.com/urun/p-mavi-tee",
-          "stock": "inStock",
-          "sellerRating": 4.2,
-          "updatedAt": "2026-08-15T16:32:07.109331Z"
-        }
-      ],
-      "demo": true
-    },
-    {
-      "id": "p_hm_tee",
-      "slug": "hm-regular-fit-tisort",
-      "brand": "H&M",
-      "name": "Regular Fit Tişört",
-      "category": "moda",
-      "glyph": "👕",
-      "score": 58,
-      "verdict": "skip",
-      "shortDescription": "Ucuz ama birkaç yıkamada formunu kaybediyor.",
-      "editorialSummary": "İlk giyişte sorun yok, ancak ince örgü nedeniyle birkaç yıkamadan sonra yaka gevşiyor ve kumaş inceliyor. Birim fiyatı düşük görünse de kısa ömrü hesaba katıldığında daha kalın bir tişört uzun vadede daha ucuza geliyor.",
-      "positives": [
-        {
-          "text": "Çok düşük etiket fiyatı"
-        },
-        {
-          "text": "Hafif, yazın serin tutuyor"
-        }
-      ],
-      "negatives": [
-        {
-          "text": "Birkaç yıkamada yaka gevşiyor"
-        },
-        {
-          "text": "Kumaş inceliyor ve şeffaflaşıyor"
-        },
-        {
-          "text": "Renkler soluyor"
-        }
-      ],
-      "quickFacts": [
-        {
-          "icon": "🧵",
-          "label": "Kumaş",
-          "value": "Pamuk"
-        },
-        {
-          "icon": "⚖️",
-          "label": "Gramaj",
-          "value": "140 g/m²"
-        },
-        {
-          "icon": "⚠️",
-          "label": "Ömür",
-          "value": "Kısa"
-        }
-      ],
-      "attributeGroups": [
-        {
-          "title": "Kumaş & Bakım",
-          "icon": "🧵",
-          "initiallyExpanded": true,
-          "attributes": [
-            {
-              "label": "Gramaj",
-              "value": "140 g/m²",
-              "note": "Düşük gramaj = yıkamada çabuk deforme",
-              "emphasized": true,
-              "sentiment": "bad"
-            },
-            {
-              "label": "Kumaş",
-              "value": "%100 pamuk"
-            },
-            {
-              "label": "Yıkama dayanımı",
-              "value": "Düşük",
-              "sentiment": "bad"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        "tişört",
-        "basic",
-        "ucuz"
-      ],
-      "trend": {
-        "score": 51,
-        "change": 0.02,
-        "socialMentions": 800,
-        "startDate": "2026-05-17T14:10:07.106403Z"
-      },
-      "userRating": 3.9,
-      "reviewCount": 4100,
-      "offers": [
-        {
-          "marketplace": "trendyol",
-          "seller": "Trendyol",
-          "price": 299.0,
-          "shipping": 0.0,
-          "storeUrl": "https://www.trendyol.com/urun/p-hm-tee",
-          "stock": "inStock",
-          "sellerRating": 4.6,
-          "delivery": "1-3 iş günü",
-          "updatedAt": "2026-08-15T17:04:07.109334Z"
-        },
-        {
-          "marketplace": "hepsiburada",
-          "seller": "Hepsiburada",
-          "price": 314.0,
-          "shipping": 0.0,
-          "storeUrl": "https://www.hepsiburada.com/urun/p-hm-tee",
-          "stock": "inStock",
-          "sellerRating": 4.7,
-          "updatedAt": "2026-08-15T16:56:07.109338Z"
-        },
-        {
-          "marketplace": "amazon",
-          "seller": "Amazon",
-          "price": 290.0,
-          "shipping": 59.9,
-          "storeUrl": "https://www.amazon.com.tr/urun/p-hm-tee",
-          "stock": "inStock",
-          "sellerRating": 4.3,
-          "updatedAt": "2026-08-15T16:47:07.109341Z"
-        },
-        {
-          "marketplace": "n11",
-          "seller": "n11",
-          "price": 332.0,
-          "shipping": 0.0,
-          "storeUrl": "https://www.n11.com/urun/p-hm-tee",
-          "stock": "inStock",
-          "sellerRating": 4.2,
-          "updatedAt": "2026-08-15T16:32:07.109344Z"
-        }
-      ],
-      "demo": true
-    },
-    {
-      "id": "p_lego_classic",
-      "slug": "lego-classic-yaratici-kutu",
-      "brand": "LEGO",
-      "name": "Classic Yaratıcı Büyük Kutu (790 Parça)",
-      "category": "anne-bebek",
-      "glyph": "🧱",
-      "score": 90,
-      "verdict": "buy",
-      "shortDescription": "Yıllarca oynanan, açık uçlu oyunu destekleyen klasik set.",
-      "editorialSummary": "Belirli bir modeli olmayan açık uçlu setler, tek kullanımlık temalı kutulara göre çok daha uzun süre oynanıyor. Malzeme güvenliği ve parça uyumu standartların üzerinde. Küçük parçalar nedeniyle 3 yaş altı için uygun değil.",
-      "positives": [
-        {
-          "text": "Açık uçlu oyun, yıllarca kullanılıyor"
-        },
-        {
-          "text": "Parça kalitesi ve güvenliği yüksek"
-        },
-        {
-          "text": "Diğer setlerle uyumlu"
-        }
-      ],
-      "negatives": [
-        {
-          "text": "Küçük parçalar — 3 yaş altına uygun değil"
-        },
-        {
-          "text": "Kutu fiyatı yüksek"
-        }
-      ],
-      "quickFacts": [
-        {
-          "icon": "🧱",
-          "label": "Parça",
-          "value": "790"
-        },
-        {
-          "icon": "👶",
-          "label": "Yaş",
-          "value": "4+"
-        },
-        {
-          "icon": "♻️",
-          "label": "Ömür",
-          "value": "Yıllarca"
-        }
-      ],
-      "attributeGroups": [
-        {
-          "title": "Güvenlik & İçerik",
-          "icon": "🧸",
-          "initiallyExpanded": true,
-          "attributes": [
-            {
-              "label": "Yaş aralığı",
-              "value": "4 yaş ve üzeri",
-              "note": "Küçük parça içerir",
-              "emphasized": true,
-              "sentiment": "warning"
-            },
-            {
-              "label": "Parça sayısı",
-              "value": "790"
-            },
-            {
-              "label": "Malzeme",
-              "value": "ABS, güvenlik sertifikalı",
-              "sentiment": "good"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        "oyuncak",
-        "lego",
-        "yapı bloğu",
-        "çocuk"
-      ],
-      "trend": {
-        "score": 70,
-        "change": 0.17,
-        "socialMentions": 3800,
-        "startDate": "2026-07-11T14:10:07.106408Z"
-      },
-      "userRating": 4.9,
-      "reviewCount": 16700,
-      "offers": [
-        {
-          "marketplace": "trendyol",
-          "seller": "Trendyol",
-          "price": 2199.0,
-          "oldPrice": 2599.0,
-          "shipping": 0.0,
-          "storeUrl": "https://www.trendyol.com/urun/p-lego-classic",
-          "stock": "inStock",
-          "sellerRating": 4.6,
-          "delivery": "1-3 iş günü",
-          "updatedAt": "2026-08-15T17:04:07.109348Z"
-        },
-        {
-          "marketplace": "hepsiburada",
-          "seller": "Hepsiburada",
-          "price": 2309.0,
-          "shipping": 0.0,
-          "storeUrl": "https://www.hepsiburada.com/urun/p-lego-classic",
-          "stock": "inStock",
-          "sellerRating": 4.7,
-          "updatedAt": "2026-08-15T16:56:07.109351Z"
-        },
-        {
-          "marketplace": "amazon",
-          "seller": "Amazon",
-          "price": 2129.0,
-          "shipping": 59.9,
-          "storeUrl": "https://www.amazon.com.tr/urun/p-lego-classic",
-          "stock": "inStock",
-          "sellerRating": 4.3,
-          "updatedAt": "2026-08-15T16:47:07.109355Z"
-        },
-        {
-          "marketplace": "n11",
-          "seller": "n11",
-          "price": 2439.0,
-          "shipping": 0.0,
-          "storeUrl": "https://www.n11.com/urun/p-lego-classic",
-          "stock": "inStock",
-          "sellerRating": 4.2,
-          "updatedAt": "2026-08-15T16:32:07.109359Z"
-        }
-      ],
-      "demo": true
-    },
-    {
-      "id": "p_wooden_blocks",
-      "slug": "ahsap-bloklar-montessori",
-      "brand": "Woodlife",
-      "name": "Ahşap Blok Seti (Boyasız, 100 Parça)",
-      "category": "anne-bebek",
-      "glyph": "🪵",
-      "score": 85,
-      "verdict": "buy",
-      "shortDescription": "Boyasız ahşap; ağza götüren yaş grubu için güvenli seçenek.",
-      "editorialSummary": "Boyasız ve verniksiz olması, oyuncakları ağzına götüren yaş grubu için en önemli özellik. Kenarlar zımparalı, çapak yok. Ahşap ağır olduğu için küçük çocuk üstüne devirebilir; yapıları alçak tutmakta fayda var.",
-      "positives": [
-        {
-          "text": "Boyasız ve verniksiz, ağza götürmeye uygun"
-        },
-        {
-          "text": "Kenarlar zımparalı, çapak yok"
-        },
-        {
-          "text": "Uzun ömürlü, kırılmıyor"
-        }
-      ],
-      "negatives": [
-        {
-          "text": "Ahşap ağır, devrilirse canını yakabilir"
-        },
-        {
-          "text": "Plastik setlere göre pahalı"
-        }
-      ],
-      "quickFacts": [
-        {
-          "icon": "🪵",
-          "label": "Malzeme",
-          "value": "Boyasız ahşap"
-        },
-        {
-          "icon": "👶",
-          "label": "Yaş",
-          "value": "2+"
-        },
-        {
-          "icon": "🧱",
-          "label": "Parça",
-          "value": "100"
-        }
-      ],
-      "attributeGroups": [
-        {
-          "title": "Güvenlik & İçerik",
-          "icon": "🧸",
-          "initiallyExpanded": true,
-          "attributes": [
-            {
-              "label": "Yüzey",
-              "value": "Boyasız, verniksiz",
-              "note": "Ağza götüren yaş için güvenli",
-              "emphasized": true,
-              "sentiment": "good"
-            },
-            {
-              "label": "Yaş aralığı",
-              "value": "2 yaş ve üzeri"
-            },
-            {
-              "label": "Malzeme",
-              "value": "Kayın ağacı"
-            },
-            {
-              "label": "Ağırlık",
-              "value": "Yüksek",
-              "sentiment": "warning"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        "oyuncak",
-        "ahşap",
-        "montessori",
-        "bebek"
-      ],
-      "trend": {
-        "score": 66,
-        "change": 0.25,
-        "socialMentions": 3100,
-        "startDate": "2026-07-26T14:10:07.106412Z",
-        "source": "Instagram"
-      },
-      "userRating": 4.8,
-      "reviewCount": 4900,
-      "offers": [
-        {
-          "marketplace": "trendyol",
-          "seller": "Trendyol",
-          "price": 1299.0,
-          "shipping": 0.0,
-          "storeUrl": "https://www.trendyol.com/urun/p-wooden-blocks",
-          "stock": "inStock",
-          "sellerRating": 4.6,
-          "delivery": "1-3 iş günü",
-          "updatedAt": "2026-08-15T17:04:07.109362Z"
-        },
-        {
-          "marketplace": "hepsiburada",
-          "seller": "Hepsiburada",
-          "price": 1359.0,
-          "shipping": 0.0,
-          "storeUrl": "https://www.hepsiburada.com/urun/p-wooden-blocks",
-          "stock": "inStock",
-          "sellerRating": 4.7,
-          "updatedAt": "2026-08-15T16:56:07.109366Z"
-        },
-        {
-          "marketplace": "amazon",
-          "seller": "Amazon",
-          "price": 1259.0,
-          "shipping": 59.9,
-          "storeUrl": "https://www.amazon.com.tr/urun/p-wooden-blocks",
-          "stock": "inStock",
-          "sellerRating": 4.3,
-          "updatedAt": "2026-08-15T16:47:07.109369Z"
-        },
-        {
-          "marketplace": "n11",
-          "seller": "n11",
-          "price": 1439.0,
-          "shipping": 0.0,
-          "storeUrl": "https://www.n11.com/urun/p-wooden-blocks",
-          "stock": "inStock",
-          "sellerRating": 4.2,
-          "updatedAt": "2026-08-15T16:32:07.109374Z"
-        }
-      ],
-      "demo": true
-    },
-    {
-      "id": "p_playdoh",
-      "slug": "play-doh-oyun-hamuru-seti",
-      "brand": "Play-Doh",
-      "name": "Oyun Hamuru Seti (10 Kavanoz)",
-      "category": "anne-bebek",
-      "glyph": "🎨",
-      "score": 77,
-      "verdict": "buy",
-      "shortDescription": "Gıda bazlı, güvenlik sertifikalı klasik oyun hamuru.",
-      "editorialSummary": "İçeriği gıda bazlı ve güvenlik sertifikalı; ucuz muadillerde bu garanti yok. El becerisi gelişimi için iyi bir seçenek. Kapak açık kalırsa kuruyor ve halı gibi yüzeylere yapıştığında temizliği zor.",
-      "positives": [
-        {
-          "text": "Gıda bazlı içerik, güvenlik sertifikalı"
-        },
-        {
-          "text": "El becerisi gelişimini destekliyor"
-        },
-        {
-          "text": "Renkler canlı"
-        }
-      ],
-      "negatives": [
-        {
-          "text": "Kapağı açık kalırsa kuruyor"
-        },
-        {
-          "text": "Halı ve kumaşa yapışınca temizliği zor"
-        }
-      ],
-      "quickFacts": [
-        {
-          "icon": "🎨",
-          "label": "Kavanoz",
-          "value": "10"
-        },
-        {
-          "icon": "👶",
-          "label": "Yaş",
-          "value": "2+"
-        },
-        {
-          "icon": "🧪",
-          "label": "İçerik",
-          "value": "Gıda bazlı"
-        }
-      ],
-      "attributeGroups": [
-        {
-          "title": "Güvenlik & İçerik",
-          "icon": "🧸",
-          "initiallyExpanded": true,
-          "attributes": [
-            {
-              "label": "İçerik",
-              "value": "Gıda bazlı, sertifikalı",
-              "emphasized": true,
-              "sentiment": "good"
-            },
-            {
-              "label": "Yaş aralığı",
-              "value": "2 yaş ve üzeri"
-            },
-            {
-              "label": "Kavanoz sayısı",
-              "value": "10"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        "oyuncak",
-        "oyun hamuru",
-        "çocuk",
-        "yaratıcılık"
-      ],
-      "trend": {
-        "score": 59,
-        "change": 0.12,
-        "socialMentions": 2200,
-        "startDate": "2026-06-26T14:10:07.106416Z"
-      },
-      "userRating": 4.6,
-      "reviewCount": 8300,
-      "offers": [
-        {
-          "marketplace": "trendyol",
-          "seller": "Trendyol",
-          "price": 649.0,
-          "shipping": 0.0,
-          "storeUrl": "https://www.trendyol.com/urun/p-playdoh",
-          "stock": "inStock",
-          "sellerRating": 4.6,
-          "delivery": "1-3 iş günü",
-          "updatedAt": "2026-08-15T17:04:07.109377Z"
-        },
-        {
-          "marketplace": "hepsiburada",
-          "seller": "Hepsiburada",
-          "price": 681.0,
-          "shipping": 0.0,
-          "storeUrl": "https://www.hepsiburada.com/urun/p-playdoh",
-          "stock": "inStock",
-          "sellerRating": 4.7,
-          "updatedAt": "2026-08-15T16:56:07.109380Z"
-        },
-        {
-          "marketplace": "amazon",
-          "seller": "Amazon",
-          "price": 630.0,
-          "shipping": 59.9,
-          "storeUrl": "https://www.amazon.com.tr/urun/p-playdoh",
-          "stock": "inStock",
-          "sellerRating": 4.3,
-          "updatedAt": "2026-08-15T16:47:07.109383Z"
-        },
-        {
-          "marketplace": "n11",
-          "seller": "n11",
-          "price": 720.0,
-          "shipping": 0.0,
-          "storeUrl": "https://www.n11.com/urun/p-playdoh",
-          "stock": "inStock",
-          "sellerRating": 4.2,
-          "updatedAt": "2026-08-15T16:32:07.109385Z"
         }
       ],
       "demo": true
@@ -7109,6 +5927,1670 @@
           "stock": "inStock",
           "sellerRating": 4.1,
           "updatedAt": "2026-08-16T00:00:00Z",
+          "shipping": 0
+        }
+      ]
+    },
+    {
+      "id": "p_ty_411990799",
+      "slug": "xiaomi-smart-air-purifier-4-compact-akilli-hava-temizleyici",
+      "brand": "Xiaomi",
+      "name": "Smart Air Purifier 4 Compact Akıllı Hava Temizleyici",
+      "category": "ev-yasam",
+      "glyph": "🌬️",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1801/prod/QC_PREP/20251220/00/c0c565b5-d70b-3b1b-a98b-7b97547aee3d/1_org_zoom.jpg"
+      ],
+      "score": 96,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.5 (10245)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "🌬️",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Xiaomi"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.5 (10245 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "en fiyat performans hava temizleme",
+        "xiaomi"
+      ],
+      "userRating": 4.5,
+      "reviewCount": 10245,
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 5299,
+          "storeUrl": "https://www.trendyol.com/xiaomi/smart-air-purifier-4-compact-akilli-hava-temizleyici-xiaomi-turkiye-garantili-p-411990799",
+          "affiliateUrl": "https://ty.gl/hxotbbzi9ckdq",
+          "stock": "inStock",
+          "sellerRating": 4.5,
+          "updatedAt": "2026-08-17T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "p_ty_299018359",
+      "slug": "xiaomi-air-purifier-4-lite-akilli-hava-temizleyici",
+      "brand": "Xiaomi",
+      "name": "Air Purifier 4 Lite Akıllı Hava Temizleyici",
+      "category": "ev-yasam",
+      "glyph": "🌬️",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1812/prod/QC_ENRICHMENT/20260121/14/cfe33eca-bcb3-3507-9409-3c8e8031d612/1_org_zoom.jpg"
+      ],
+      "score": 96,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.5 (3648)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "🌬️",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Xiaomi"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.5 (3648 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "en fiyat performans hava temizleme",
+        "xiaomi"
+      ],
+      "userRating": 4.5,
+      "reviewCount": 3648,
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 7599,
+          "storeUrl": "https://www.trendyol.com/xiaomi/air-purifier-4-lite-akilli-hava-temizleyici-beyaz-xiaomi-turkiye-garantili-p-299018359",
+          "affiliateUrl": "https://ty.gl/hxotbbzi9ckdq",
+          "stock": "inStock",
+          "sellerRating": 4.5,
+          "updatedAt": "2026-08-17T00:00:00Z",
+          "shipping": 0
+        }
+      ]
+    },
+    {
+      "id": "p_ty_953699296",
+      "slug": "shark-neverchange5-compact-pro-hava-temizleyici",
+      "brand": "Shark",
+      "name": "NeverChange5 Compact Pro Hava Temizleyici",
+      "category": "ev-yasam",
+      "glyph": "🌬️",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1739/prod/QC_ENRICHMENT/20250828/12/459b7e86-1221-377a-ab86-3b00784fd2b4/1_org_zoom.jpg"
+      ],
+      "score": 96,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.5 (757)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "🌬️",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Shark"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.5 (757 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "en fiyat performans hava temizleme",
+        "shark"
+      ],
+      "userRating": 4.5,
+      "reviewCount": 757,
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 6999,
+          "storeUrl": "https://www.trendyol.com/shark/neverchange5-compact-pro-hava-temizleyici-p-953699296",
+          "affiliateUrl": "https://ty.gl/hxotbbzi9ckdq",
+          "stock": "inStock",
+          "sellerRating": 4.5,
+          "updatedAt": "2026-08-17T00:00:00Z",
+          "shipping": 0
+        }
+      ]
+    },
+    {
+      "id": "p_ty_279780059",
+      "slug": "xiaomi-smart-air-purifier-4-pro-akilli-hava-temizleyici",
+      "brand": "Xiaomi",
+      "name": "Smart Air Purifier 4 Pro Akıllı Hava Temizleyici",
+      "category": "ev-yasam",
+      "glyph": "🌬️",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1000035/product/media/images/prod/PIM/20251126/11/8d4fddbe-8913-4a95-99a6-ae8f3fb3285d/1_org_zoom.jpg"
+      ],
+      "score": 96,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.5 (673)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "🌬️",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Xiaomi"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.5 (673 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "en fiyat performans hava temizleme",
+        "xiaomi"
+      ],
+      "userRating": 4.5,
+      "reviewCount": 673,
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 13999,
+          "storeUrl": "https://www.trendyol.com/xiaomi/smart-air-purifier-4-pro-akilli-hava-temizleyici-xiami-turkiye-garantili-p-279780059",
+          "affiliateUrl": "https://ty.gl/hxotbbzi9ckdq",
+          "stock": "inStock",
+          "sellerRating": 4.5,
+          "updatedAt": "2026-08-17T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "p_ty_809683127",
+      "slug": "philips-600-serisi-hava-temizleyici-44-m",
+      "brand": "Philips",
+      "name": "600 Serisi Hava Temizleyici (44 m²)",
+      "category": "ev-yasam",
+      "glyph": "🌬️",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1898/prod/QC_ENRICHMENT/20260520/15/41a4650e-202d-3bc2-bf5b-85c1dd1665eb/1_org_zoom.jpg"
+      ],
+      "score": 94,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.3 (354)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "🌬️",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Philips"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.3 (354 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "en fiyat performans hava temizleme",
+        "philips"
+      ],
+      "userRating": 4.3,
+      "reviewCount": 354,
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 6959,
+          "storeUrl": "https://www.trendyol.com/philips/600-serisi-hava-temizleyici-44-m2-ye-kadar-etkili-170-m3-sa-temiz-hava-hizi-ac0651-10-p-809683127",
+          "affiliateUrl": "https://ty.gl/hxotbbzi9ckdq",
+          "stock": "inStock",
+          "sellerRating": 4.3,
+          "updatedAt": "2026-08-17T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "p_ty_1083994253",
+      "slug": "dyson-hushjet-kompakt-hava-temizleyici-100-m",
+      "brand": "Dyson",
+      "name": "HushJet Kompakt Hava Temizleyici (100 m²)",
+      "category": "ev-yasam",
+      "glyph": "🌬️",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1811/prod/QC_PREP/20260113/12/3d8ca870-3282-3b2b-9507-a0d73fb9488a/1_org_zoom.jpg"
+      ],
+      "score": 98,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.6 (117)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "🌬️",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Dyson"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.6 (117 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "en fiyat performans hava temizleme",
+        "dyson"
+      ],
+      "userRating": 4.6,
+      "reviewCount": 117,
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 19303,
+          "storeUrl": "https://www.trendyol.com/dyson/hushjet-kompakt-hava-temizleyici-100-m2-ye-kadar-etkili-fisilti-kadar-sessiz-elektrostatik-ve-aktif-karbon-filtre-siyah-turkuaz-p-1083994253",
+          "affiliateUrl": "https://ty.gl/hxotbbzi9ckdq",
+          "stock": "inStock",
+          "sellerRating": 4.6,
+          "updatedAt": "2026-08-17T00:00:00Z",
+          "shipping": 0
+        }
+      ]
+    },
+    {
+      "id": "p_ty_37206082",
+      "slug": "ac-co-altinyildiz-classics-cekmeyen-pamuklu-slim-fit-polo-yaka-t-shirt",
+      "brand": "AC&Co / Altınyıldız Classics",
+      "name": "Çekmeyen Pamuklu Slim Fit Polo Yaka T-Shirt",
+      "category": "moda",
+      "glyph": "👕",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1000394/product/media/images/prod/PIM/20260430/13/4c8cafa6-42dd-43dd-bd3a-41f3481d3972/1_org_zoom.jpg"
+      ],
+      "score": 98,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.6 (24313)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "👕",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "AC&Co / Altınyıldız Classics"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.6 (24313 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "tek yıkamada dağılmayacak tişörtler",
+        "ac&co / altınyıldız classics"
+      ],
+      "userRating": 4.6,
+      "reviewCount": 24313,
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 449.99,
+          "storeUrl": "https://www.trendyol.com/ac-co-altinyildiz-classics/erkek-cekmeyen-pamuklu-kumas-slim-fit-dar-kesim-beyaz-kivrilmaz-polo-yaka-t-shirt-p-37206082",
+          "affiliateUrl": "https://ty.gl/uks7f7go2ma9u",
+          "stock": "inStock",
+          "sellerRating": 4.6,
+          "updatedAt": "2026-08-17T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "p_ty_224555799",
+      "slug": "ac-co-altinyildiz-classics-beyaz-100-pamuk-slim-fit-bisiklet-yaka-basi",
+      "brand": "AC&Co / Altınyıldız Classics",
+      "name": "Beyaz %100 Pamuk Slim Fit Bisiklet Yaka Basic Tişört",
+      "category": "moda",
+      "glyph": "👕",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1917/prod/QC_ENRICHMENT/20260810/09/98293625-6416-3aad-8915-51e77c430572/1_org_zoom.jpg"
+      ],
+      "score": 96,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.5 (20896)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "👕",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "AC&Co / Altınyıldız Classics"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.5 (20896 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "tek yıkamada dağılmayacak tişörtler",
+        "ac&co / altınyıldız classics"
+      ],
+      "userRating": 4.5,
+      "reviewCount": 20896,
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 343.99,
+          "storeUrl": "https://www.trendyol.com/ac-co-altinyildiz-classics/erkek-unisex-beyaz-100-pamuk-slim-fit-dar-kesim-bisiklet-yaka-basic-tisort-p-224555799",
+          "affiliateUrl": "https://ty.gl/uks7f7go2ma9u",
+          "stock": "inStock",
+          "sellerRating": 4.5,
+          "updatedAt": "2026-08-17T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "p_ty_220686963",
+      "slug": "ac-co-altinyildiz-classics-siyah-100-pamuk-slim-fit-bisiklet-yaka-basi",
+      "brand": "AC&Co / Altınyıldız Classics",
+      "name": "Siyah %100 Pamuk Slim Fit Bisiklet Yaka Basic Tişört",
+      "category": "moda",
+      "glyph": "👕",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1908/prod/QC_ENRICHMENT/20260810/09/baa65d74-dda1-3b8a-bf2a-481544592809/1_org_zoom.jpg"
+      ],
+      "score": 98,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.6 (18983)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "👕",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "AC&Co / Altınyıldız Classics"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.6 (18983 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "tek yıkamada dağılmayacak tişörtler",
+        "ac&co / altınyıldız classics"
+      ],
+      "userRating": 4.6,
+      "reviewCount": 18983,
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 349.99,
+          "storeUrl": "https://www.trendyol.com/ac-co-altinyildiz-classics/erkek-unisex-siyah-100-pamuk-slim-fit-dar-kesim-bisiklet-yaka-basic-tisort-p-220686963",
+          "affiliateUrl": "https://ty.gl/uks7f7go2ma9u",
+          "stock": "inStock",
+          "sellerRating": 4.6,
+          "updatedAt": "2026-08-17T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "p_ty_224080792",
+      "slug": "ac-co-altinyildiz-classics-lacivert-100-pamuk-slim-fit-bisiklet-yaka-b",
+      "brand": "AC&Co / Altınyıldız Classics",
+      "name": "Lacivert %100 Pamuk Slim Fit Bisiklet Yaka Basic Tişört",
+      "category": "moda",
+      "glyph": "👕",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1939/prod/QC_ENRICHMENT/20260810/09/b8782f70-8593-30e6-a62e-8cce10db3717/1_org_zoom.jpg"
+      ],
+      "score": 98,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.6 (8606)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "👕",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "AC&Co / Altınyıldız Classics"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.6 (8606 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "tek yıkamada dağılmayacak tişörtler",
+        "ac&co / altınyıldız classics"
+      ],
+      "userRating": 4.6,
+      "reviewCount": 8606,
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 349.99,
+          "storeUrl": "https://www.trendyol.com/ac-co-altinyildiz-classics/erkek-unisex-lacivert-100-pamuk-slim-fit-dar-kesim-bisiklet-yaka-basic-tisort-p-224080792",
+          "affiliateUrl": "https://ty.gl/uks7f7go2ma9u",
+          "stock": "inStock",
+          "sellerRating": 4.6,
+          "updatedAt": "2026-08-17T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "p_ty_43863229",
+      "slug": "grimelange-jett-oversize-100-organik-pamuk-kalin-dokulu-t-shirt",
+      "brand": "GRIMELANGE",
+      "name": "Jett Oversize %100 Organik Pamuk Kalın Dokulu T-Shirt",
+      "category": "moda",
+      "glyph": "👕",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1617/prod/QC/20241231/18/d476447c-2a8a-3fc4-8898-354707cb1c2e/1_org_zoom.jpg"
+      ],
+      "score": 95,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.4 (6283)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "👕",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "GRIMELANGE"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.4 (6283 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "tek yıkamada dağılmayacak tişörtler",
+        "grimelange"
+      ],
+      "userRating": 4.4,
+      "reviewCount": 6283,
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 420.68,
+          "storeUrl": "https://www.trendyol.com/grimelange/jett-erkek-oversize-fit-100-organik-pamuk-kalin-dokulu-bisiklet-yakali-beyaz-t-shirt-p-43863229",
+          "affiliateUrl": "https://ty.gl/uks7f7go2ma9u",
+          "stock": "inStock",
+          "sellerRating": 4.4,
+          "updatedAt": "2026-08-17T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "p_ty_866696225",
+      "slug": "grimelange-lagertha-kadin-100-organik-pamuk-oversize-t-shirt",
+      "brand": "GRIMELANGE",
+      "name": "Lagertha Kadın %100 Organik Pamuk Oversize T-Shirt",
+      "category": "moda",
+      "glyph": "👕",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1626/prod/QC/20250120/17/b8a8e137-f5cb-3fc9-aece-c4449016a0a6/1_org_zoom.jpg"
+      ],
+      "score": 96,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.5 (4228)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "👕",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "GRIMELANGE"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.5 (4228 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "tek yıkamada dağılmayacak tişörtler",
+        "grimelange"
+      ],
+      "userRating": 4.5,
+      "reviewCount": 4228,
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 353.34,
+          "storeUrl": "https://www.trendyol.com/grimelange/lagertha-kadin-100-organik-pamuklu-kalin-dokulu-oversize-fit-yuvarlak-yakali-siyah-t-shirt-p-866696225",
+          "affiliateUrl": "https://ty.gl/uks7f7go2ma9u",
+          "stock": "inStock",
+          "sellerRating": 4.5,
+          "updatedAt": "2026-08-17T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "p_ty_827052317",
+      "slug": "tudors-3-lu-paket-100-pamuk-slim-fit-bisiklet-yaka-tisort",
+      "brand": "Tudors",
+      "name": "3'lü Paket %100 Pamuk Slim Fit Bisiklet Yaka Tişört",
+      "category": "moda",
+      "glyph": "👕",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1637/prod/QC/20250212/23/c7661828-4fe5-3d4e-8173-31879eb92229/1_org_zoom.jpg"
+      ],
+      "score": 98,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.6 (1510)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "👕",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Tudors"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.6 (1510 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "tek yıkamada dağılmayacak tişörtler",
+        "tudors"
+      ],
+      "userRating": 4.6,
+      "reviewCount": 1510,
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 723.07,
+          "storeUrl": "https://www.trendyol.com/tudors/unisex-3-lu-paket-siyah-beyaz-tas-rengi-slim-fit-dar-kesim-100-pamuk-bisiklet-yaka-tisort-p-827052317",
+          "affiliateUrl": "https://ty.gl/uks7f7go2ma9u",
+          "stock": "inStock",
+          "sellerRating": 4.6,
+          "updatedAt": "2026-08-17T00:00:00Z",
+          "shipping": 0
+        }
+      ]
+    },
+    {
+      "id": "p_ty_67201414",
+      "slug": "miniq-toys-ahsap-turkce-6-li-mega-set-egitici-yapboz",
+      "brand": "minİQ toys",
+      "name": "Ahşap Türkçe 6'lı Mega Set Eğitici Yapboz",
+      "category": "anne-bebek",
+      "glyph": "🧩",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty31/product/media/images/20201208/13/35974372/116902065/1/1_org_zoom.jpg"
+      ],
+      "score": 98,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.6 (4664)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "🧩",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "minİQ toys"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.6 (4664 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "çocuğunuz için en sağlıklı oyuncaklar",
+        "mini̇q toys"
+      ],
+      "userRating": 4.6,
+      "reviewCount": 4664,
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 399.99,
+          "storeUrl": "https://www.trendyol.com/miniq-toys/ahsap-turkce-6-li-mega-set-egitici-ogretici-yapboz-p-67201414",
+          "affiliateUrl": "https://ty.gl/5sbwpyfh3f0ky",
+          "stock": "inStock",
+          "sellerRating": 4.6,
+          "updatedAt": "2026-08-17T00:00:00Z",
+          "shipping": 0
+        }
+      ]
+    },
+    {
+      "id": "p_ty_409597832",
+      "slug": "esatoys-6-parcali-montessori-ahsap-puzzle-seti-2-3-yas",
+      "brand": "esatoys",
+      "name": "6 Parçalı Montessori Ahşap Puzzle Seti (2-3 Yaş)",
+      "category": "anne-bebek",
+      "glyph": "🧩",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1474/product/media/images/prod/QC/20240809/20/1f13f533-7d9c-3811-a146-9d12615a67d2/1_org_zoom.jpg"
+      ],
+      "score": 95,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.4 (2767)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "🧩",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "esatoys"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.4 (2767 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "çocuğunuz için en sağlıklı oyuncaklar",
+        "esatoys"
+      ],
+      "userRating": 4.4,
+      "reviewCount": 2767,
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 249.99,
+          "storeUrl": "https://www.trendyol.com/esatoys/6-parcali-montessori-ahsap-puzzle-seti-2-3-yas-egitsel-oyun-p-409597832",
+          "affiliateUrl": "https://ty.gl/5sbwpyfh3f0ky",
+          "stock": "inStock",
+          "sellerRating": 4.4,
+          "updatedAt": "2026-08-17T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "p_ty_230665037",
+      "slug": "hobby-house-ahsap-boyali-oyuncak-mutfak-elizya",
+      "brand": "HOBBY HOUSE",
+      "name": "Ahşap Boyalı Oyuncak Mutfak - Elizya",
+      "category": "anne-bebek",
+      "glyph": "🍳",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1677/prod/QC/20250516/16/3f78ee0d-5fd0-3b87-9999-2bda2d553fd3/1_org_zoom.jpg"
+      ],
+      "score": 98,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.6 (2419)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "🍳",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "HOBBY HOUSE"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.6 (2419 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "çocuğunuz için en sağlıklı oyuncaklar",
+        "hobby house"
+      ],
+      "userRating": 4.6,
+      "reviewCount": 2419,
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 2499,
+          "storeUrl": "https://www.trendyol.com/hobby-house/pembe-ahsap-boyali-mutfak-elizya-p-230665037",
+          "affiliateUrl": "https://ty.gl/5sbwpyfh3f0ky",
+          "stock": "inStock",
+          "sellerRating": 4.6,
+          "updatedAt": "2026-08-17T00:00:00Z",
+          "shipping": 0
+        }
+      ]
+    },
+    {
+      "id": "p_ty_156551426",
+      "slug": "miniq-toys-ahsap-turkce-ciftlik-hayvanlari-4-lu-egitici-set",
+      "brand": "minİQ toys",
+      "name": "Ahşap Türkçe Çiftlik Hayvanları 4'lü Eğitici Set",
+      "category": "anne-bebek",
+      "glyph": "🧩",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1721/prod/QC_ENRICHMENT/20250803/21/4787b5af-227e-3ef9-af59-df12cb4353ad/1_org_zoom.jpg"
+      ],
+      "score": 98,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.6 (1642)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "🧩",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "minİQ toys"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.6 (1642 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "çocuğunuz için en sağlıklı oyuncaklar",
+        "mini̇q toys"
+      ],
+      "userRating": 4.6,
+      "reviewCount": 1642,
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 299.99,
+          "storeUrl": "https://www.trendyol.com/miniq-toys/ahsap-turkce-ciftlik-hayv-meyveler-sekiller-sayilar-4-lu-set-egitici-ogretici-yapboz-p-156551426",
+          "affiliateUrl": "https://ty.gl/5sbwpyfh3f0ky",
+          "stock": "inStock",
+          "sellerRating": 4.6,
+          "updatedAt": "2026-08-17T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "p_ty_52125056",
+      "slug": "play-doh-4-renk-oyun-hamuru-448-gr-x-3-paket",
+      "brand": "Play-Doh",
+      "name": "4 Renk Oyun Hamuru 448 gr x 3 Paket",
+      "category": "anne-bebek",
+      "glyph": "🎨",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1695/prod/QC_ENRICHMENT/20250621/01/d86185e7-a8b8-36a0-aac0-41f32766f4f9/1_org_zoom.jpg"
+      ],
+      "score": 96,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.5 (817)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "🎨",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Play-Doh"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.5 (817 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "çocuğunuz için en sağlıklı oyuncaklar",
+        "play-doh"
+      ],
+      "userRating": 4.5,
+      "reviewCount": 817,
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 377.71,
+          "storeUrl": "https://www.trendyol.com/hasbro/4-renk-oyun-hamuru-448gr-x-3-paket-p-52125056",
+          "affiliateUrl": "https://ty.gl/5sbwpyfh3f0ky",
+          "stock": "inStock",
+          "sellerRating": 4.5,
+          "updatedAt": "2026-08-17T00:00:00Z",
+          "shipping": 0
+        }
+      ]
+    },
+    {
+      "id": "p_ty_971161885",
+      "slug": "circle-toys-egitici-ahsap-ksilofon-8-tonlu",
+      "brand": "Circle Toys",
+      "name": "Eğitici Ahşap Ksilofon (8 Tonlu)",
+      "category": "anne-bebek",
+      "glyph": "🎵",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1920/prod/QC_ENRICHMENT/20260724/06/5270803b-a73d-32d9-bb3a-01834c79d6ce/1_org_zoom.jpg"
+      ],
+      "score": 95,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.4 (777)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "🎵",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Circle Toys"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.4 (777 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "çocuğunuz için en sağlıklı oyuncaklar",
+        "circle toys"
+      ],
+      "userRating": 4.4,
+      "reviewCount": 777,
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 335.88,
+          "storeUrl": "https://www.trendyol.com/circle-toys/egitici-ahsap-ksilofon-8-tonlu-renkli-muzik-oyuncagi-p-971161885",
+          "affiliateUrl": "https://ty.gl/5sbwpyfh3f0ky",
+          "stock": "inStock",
+          "sellerRating": 4.4,
+          "updatedAt": "2026-08-17T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "p_ty_58893157",
+      "slug": "circle-toys-5-li-ahsap-geometrik-sekiller",
+      "brand": "Circle Toys",
+      "name": "5'li Ahşap Geometrik Şekiller",
+      "category": "anne-bebek",
+      "glyph": "🔷",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1594/prod/QC/20241025/14/3d997536-a738-35a7-952a-24400fd4698f/1_org_zoom.jpg"
+      ],
+      "score": 100,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.8 (730)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "🔷",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Circle Toys"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.8 (730 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "çocuğunuz için en sağlıklı oyuncaklar",
+        "circle toys"
+      ],
+      "userRating": 4.8,
+      "reviewCount": 730,
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 624.88,
+          "storeUrl": "https://www.trendyol.com/circle-toys/5-li-ahsap-geometrik-sekiller-p-58893157",
+          "affiliateUrl": "https://ty.gl/5sbwpyfh3f0ky",
+          "stock": "inStock",
+          "sellerRating": 4.8,
+          "updatedAt": "2026-08-17T00:00:00Z",
+          "shipping": 0
+        }
+      ]
+    },
+    {
+      "id": "p_ty_959516754",
+      "slug": "go-toys-go-magnetic-series-72-parca-manyetik-yapi-bloklari",
+      "brand": "Go Toys",
+      "name": "Go Magnetic Series 72 Parça Manyetik Yapı Blokları",
+      "category": "anne-bebek",
+      "glyph": "🧲",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1000388/product/media/images/prod/PIM/20260417/06/199e148e-a776-48e6-963e-bef3603d28f4/1_org_zoom.jpg"
+      ],
+      "score": 92,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.2 (11159)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "🧲",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Go Toys"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.2 (11159 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "çocuğunuz için en sağlıklı oyuncaklar",
+        "go toys"
+      ],
+      "userRating": 4.2,
+      "reviewCount": 11159,
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 2195,
+          "storeUrl": "https://www.trendyol.com/go-toys/go-magnetic-series-72-parca-manyetik-yapi-bloklari-original-miknatisli-manyetik-bloklar-p-959516754",
+          "affiliateUrl": "https://ty.gl/5sbwpyfh3f0ky",
+          "stock": "inStock",
+          "sellerRating": 4.2,
+          "updatedAt": "2026-08-17T00:00:00Z",
+          "shipping": 0
+        }
+      ]
+    },
+    {
+      "id": "p_ty_876839630",
+      "slug": "magly-manyetik-yapi-bloklari-72-parca-3-boyutlu-karo-seti",
+      "brand": "Magly",
+      "name": "Manyetik Yapı Blokları 72 Parça 3 Boyutlu Karo Seti",
+      "category": "anne-bebek",
+      "glyph": "🧲",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1602/prod/QC/20241118/16/18962b5a-dc5e-3472-b1bb-56962270878a/1_org_zoom.jpg"
+      ],
+      "score": 99,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.7 (10811)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "🧲",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Magly"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.7 (10811 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "çocuğunuz için en sağlıklı oyuncaklar",
+        "magly"
+      ],
+      "userRating": 4.7,
+      "reviewCount": 10811,
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 2745,
+          "storeUrl": "https://www.trendyol.com/magly/manyetik-yapi-bloklari-cocuklar-icin-renkli-3-boyutlu-72-parca-manyetik-karo-oyun-seti-p-876839630",
+          "affiliateUrl": "https://ty.gl/5sbwpyfh3f0ky",
+          "stock": "inStock",
+          "sellerRating": 4.7,
+          "updatedAt": "2026-08-17T00:00:00Z",
+          "shipping": 0
+        }
+      ]
+    },
+    {
+      "id": "p_ty_34617433",
+      "slug": "lego-duplo-classic-yapim-parcasi-kutusu-10913-1-5-yas",
+      "brand": "LEGO",
+      "name": "DUPLO Classic Yapım Parçası Kutusu 10913 (1,5+ yaş)",
+      "category": "anne-bebek",
+      "glyph": "🧱",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1744/product/media/images/prod/PIM/20250919/17/f07f213e-778b-49ad-b114-44f355bbcaf1/1_org_zoom.jpg"
+      ],
+      "score": 100,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.8 (1079)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "🧱",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "LEGO"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.8 (1079 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "çocuğunuz için en sağlıklı oyuncaklar",
+        "lego"
+      ],
+      "userRating": 4.8,
+      "reviewCount": 1079,
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 1247.94,
+          "storeUrl": "https://www.trendyol.com/lego/duplo-classic-yapim-parcasi-kutusu-10913-1-2-yaratici-oyuncak-yapim-seti-65p-p-34617433",
+          "affiliateUrl": "https://ty.gl/5sbwpyfh3f0ky",
+          "stock": "inStock",
+          "sellerRating": 4.8,
+          "updatedAt": "2026-08-17T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "p_ty_121313958",
+      "slug": "lego-duplo-ilk-sayi-treni-10954-1-5-yas",
+      "brand": "LEGO",
+      "name": "DUPLO İlk Sayı Treni 10954 (1,5+ yaş)",
+      "category": "anne-bebek",
+      "glyph": "🚂",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1747/product/media/images/prod/PIM/20251007/08/919c7b08-e7af-4fed-b96f-a6162a2cc67e/1_org_zoom.jpg"
+      ],
+      "score": 100,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.9 (813)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "🚂",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "LEGO"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.9 (813 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "çocuğunuz için en sağlıklı oyuncaklar",
+        "lego"
+      ],
+      "userRating": 4.9,
+      "reviewCount": 813,
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 1040,
+          "storeUrl": "https://www.trendyol.com/lego/duplo-ilk-sayi-treni-saymayi-ogren-10954-1-2-egitici-oyuncak-yapim-seti-23p-p-121313958",
+          "affiliateUrl": "https://ty.gl/5sbwpyfh3f0ky",
+          "stock": "inStock",
+          "sellerRating": 4.9,
+          "updatedAt": "2026-08-17T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "p_ty_106910836",
+      "slug": "metafortoys-60-cm-isikli-ahsap-oyun-evi",
+      "brand": "metafortoys",
+      "name": "60 cm Işıklı Ahşap Oyun Evi",
+      "category": "anne-bebek",
+      "glyph": "🏠",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1632/prod/QC/20250204/08/510b942a-cc39-3636-8eb1-675ee9ddf9bf/1_org_zoom.jpg"
+      ],
+      "score": 92,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.2 (1123)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "🏠",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "metafortoys"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.2 (1123 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "çocuğunuz için en sağlıklı oyuncaklar",
+        "metafortoys"
+      ],
+      "userRating": 4.2,
+      "reviewCount": 1123,
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 1250,
+          "storeUrl": "https://www.trendyol.com/metafortoys/60-cm-isikli-ahsap-oyun-evi-pembe-p-106910836",
+          "affiliateUrl": "https://ty.gl/5sbwpyfh3f0ky",
+          "stock": "inStock",
+          "sellerRating": 4.2,
+          "updatedAt": "2026-08-17T00:00:00Z",
+          "shipping": 0
+        }
+      ]
+    },
+    {
+      "id": "p_ty_743658401",
+      "slug": "byens-montessori-cop-adam-ahsap-egitici-oyuncak",
+      "brand": "BYENS",
+      "name": "Montessori Çöp Adam Ahşap Eğitici Oyuncak",
+      "category": "anne-bebek",
+      "glyph": "🪵",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1918/prod/QC_ENRICHMENT/20260501/11/964e941f-73c1-38be-ad38-83d9bc473341/1_org_zoom.jpg"
+      ],
+      "score": 98,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.6 (674)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "🪵",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "BYENS"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.6 (674 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "çocuğunuz için en sağlıklı oyuncaklar",
+        "byens"
+      ],
+      "userRating": 4.6,
+      "reviewCount": 674,
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 161.4,
+          "storeUrl": "https://www.trendyol.com/byens/ahsap-egitici-oyuncak-montessori-cop-adam-ahsap-oyuncak-ahsap-yapboz-aktivite-egitici-oyuncak-ahsap-p-743658401",
+          "affiliateUrl": "https://ty.gl/5sbwpyfh3f0ky",
+          "stock": "inStock",
+          "sellerRating": 4.6,
+          "updatedAt": "2026-08-17T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "p_ty_163888347",
+      "slug": "akropolis-7-parca-ahsap-tangram-akil-ve-zeka-oyunu",
+      "brand": "Akropolis",
+      "name": "7 Parça Ahşap Tangram Akıl ve Zeka Oyunu",
+      "category": "anne-bebek",
+      "glyph": "🔺",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty25/product/media/images/20201125/13/32135810/112351891/1/1_org_zoom.jpg"
+      ],
+      "score": 91,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.1 (637)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "🔺",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Akropolis"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.1 (637 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "çocuğunuz için en sağlıklı oyuncaklar",
+        "akropolis"
+      ],
+      "userRating": 4.1,
+      "reviewCount": 637,
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 138.6,
+          "storeUrl": "https://www.trendyol.com/akropolis/7-parca-egitici-renkli-ahsap-orta-boy-tangram-akil-zeka-mantik-ve-strateji-oyunu-p-163888347",
+          "affiliateUrl": "https://ty.gl/5sbwpyfh3f0ky",
+          "stock": "inStock",
+          "sellerRating": 4.1,
+          "updatedAt": "2026-08-17T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "p_ty_152863403",
+      "slug": "dede-art-craft-kinetik-kum-oyun-seti-13-parca",
+      "brand": "Dede",
+      "name": "Art Craft Kinetik Kum Oyun Seti 13 Parça",
+      "category": "anne-bebek",
+      "glyph": "🏖️",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1832/prod/QC_ENRICHMENT/20260302/19/68ccbc89-1ae7-3aef-9b8e-e4644ce82cc7/1_org_zoom.jpg"
+      ],
+      "score": 99,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.7 (336)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "🏖️",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Dede"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.7 (336 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "çocuğunuz için en sağlıklı oyuncaklar",
+        "dede"
+      ],
+      "userRating": 4.7,
+      "reviewCount": 336,
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 559.9,
+          "storeUrl": "https://www.trendyol.com/genel-markalar/dede-art-craft-kinetik-kum-oyun-seti-13-parca-sand-house-p-152863403",
+          "affiliateUrl": "https://ty.gl/5sbwpyfh3f0ky",
+          "stock": "inStock",
+          "sellerRating": 4.7,
+          "updatedAt": "2026-08-17T00:00:00Z",
           "shipping": 0
         }
       ]
