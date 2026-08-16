@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-16T13:27:28Z",
+  "updatedAt": "2026-08-16T13:37:51Z",
   "collections": [
     {
       "id": "yaz_sicak",
@@ -12,7 +12,7 @@
         "p_mini_fan",
         "p_cooling_pillow",
         "p_stanley_quencher",
-        "p_joseon_sun"
+        "p_ty_267748711"
       ]
     },
     {
@@ -43,7 +43,11 @@
         "p_ty_767609956",
         "p_ty_897016688",
         "p_ty_766017948",
-        "p_ty_36496290"
+        "p_ty_36496290",
+        "p_ty_3748245",
+        "p_ty_157360249",
+        "p_ty_132481",
+        "p_ty_1263063"
       ]
     },
     {
@@ -105,184 +109,6 @@
     }
   ],
   "products": [
-    {
-      "id": "p_joseon_sun",
-      "slug": "beauty-of-joseon-relief-sun-spf50",
-      "brand": "Beauty of Joseon",
-      "name": "Relief Sun Rice + Probiotics SPF50+",
-      "category": "kozmetik",
-      "glyph": "🧴",
-      "score": 87,
-      "verdict": "buy",
-      "shortDescription": "Günlük kullanım için hafif dokulu, yüksek korumalı Kore güneş kremi.",
-      "editorialSummary": "Günlük kullanım için başarılı bir güneş kremi. Hafif yapısı ve güçlü UV korumasıyla fiyatına göre iyi bir seçenek. Beyaz iz bırakmaması ve makyaj altında sorun çıkarmaması en çok konuşulan yanı. Çok yağlı ciltlerde gün içinde parlama yapabilir.",
-      "positives": [
-        {
-          "text": "Hafif yapı, beyaz iz bırakmıyor",
-          "detail": "Kimyasal filtre karışımı sayesinde ciltte film tabakası hissettirmiyor, makyaj altında topaklanmıyor."
-        },
-        {
-          "text": "Güçlü UV koruması (SPF50+ PA++++)"
-        },
-        {
-          "text": "İyi fiyat/performans",
-          "detail": "Aynı koruma seviyesindeki eczane markalarına göre mililitre başına yaklaşık %35 daha uygun."
-        },
-        {
-          "text": "Nemlendirici içerik, kuru ciltte gerginlik yapmıyor"
-        }
-      ],
-      "negatives": [
-        {
-          "text": "Çok yağlı ciltlerde parlama yapabilir",
-          "detail": "Mat bitişli değil; T bölgesi yağlanan ciltlerde gün ortasında pudra ihtiyacı doğabilir."
-        },
-        {
-          "text": "Hafif parfüm içeriyor"
-        }
-      ],
-      "quickFacts": [
-        {
-          "icon": "☀️",
-          "label": "Koruma",
-          "value": "SPF50+"
-        },
-        {
-          "icon": "💧",
-          "label": "Doku",
-          "value": "Hafif"
-        },
-        {
-          "icon": "📦",
-          "label": "Hacim",
-          "value": "50 ml"
-        }
-      ],
-      "attributeGroups": [
-        {
-          "title": "Öne Çıkan Özellikler",
-          "icon": "✨",
-          "initiallyExpanded": true,
-          "attributes": [
-            {
-              "label": "SPF",
-              "value": "50+ / PA++++",
-              "emphasized": true,
-              "sentiment": "good"
-            },
-            {
-              "label": "Cilt tipi",
-              "value": "Kuru, normal, karma",
-              "note": "Çok yağlı ciltler için ideal değil"
-            },
-            {
-              "label": "Doku",
-              "value": "Hafif losyon",
-              "sentiment": "good"
-            },
-            {
-              "label": "Hacim",
-              "value": "50 ml"
-            }
-          ]
-        },
-        {
-          "title": "İçerik",
-          "icon": "🧪",
-          "footnote": "İçerik listesi üreticinin beyanına dayanır.",
-          "initiallyExpanded": false,
-          "attributes": [
-            {
-              "label": "Aktif içerikler",
-              "value": "Pirinç özü, probiyotik, niasinamid",
-              "sentiment": "good"
-            },
-            {
-              "label": "Parfüm",
-              "value": "Var",
-              "note": "Hassas ciltlerde tahriş ihtimali",
-              "sentiment": "warning"
-            },
-            {
-              "label": "Alkol",
-              "value": "Yok",
-              "sentiment": "good"
-            },
-            {
-              "label": "Filtre tipi",
-              "value": "Kimyasal"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        "güneş kremi",
-        "spf",
-        "kore kozmetiği",
-        "cilt bakımı"
-      ],
-      "trend": {
-        "score": 93,
-        "change": 0.48,
-        "socialMentions": 18400,
-        "startDate": "2026-08-06T14:10:07.103384Z",
-        "source": "TikTok"
-      },
-      "alternatives": [
-        "p_anthelios",
-        "p_cerave_moist"
-      ],
-      "userRating": 4.7,
-      "reviewCount": 12480,
-      "offers": [
-        {
-          "marketplace": "amazon",
-          "seller": "Amazon",
-          "price": 599.0,
-          "oldPrice": 749.0,
-          "shipping": 0.0,
-          "storeUrl": "https://www.amazon.com.tr/urun/p-joseon-sun",
-          "stock": "inStock",
-          "sellerRating": 4.8,
-          "delivery": "Yarın kargoda",
-          "updatedAt": "2026-08-15T17:06:07.108254Z"
-        },
-        {
-          "marketplace": "trendyol",
-          "seller": "K-Beauty Store",
-          "price": 629.0,
-          "oldPrice": 749.0,
-          "shipping": 0.0,
-          "storeUrl": "https://www.trendyol.com/urun/p-joseon-sun",
-          "stock": "inStock",
-          "sellerRating": 4.6,
-          "delivery": "1-3 iş günü",
-          "updatedAt": "2026-08-15T17:01:07.108331Z"
-        },
-        {
-          "marketplace": "n11",
-          "seller": "Kore Kozmetik",
-          "price": 580.0,
-          "shipping": 49.9,
-          "storeUrl": "https://www.n11.com/urun/p-joseon-sun",
-          "stock": "inStock",
-          "sellerRating": 4.3,
-          "delivery": "2-4 iş günü",
-          "updatedAt": "2026-08-15T16:49:07.108336Z"
-        },
-        {
-          "marketplace": "hepsiburada",
-          "seller": "Hepsiburada",
-          "price": 649.0,
-          "shipping": 0.0,
-          "storeUrl": "https://www.hepsiburada.com/urun/p-joseon-sun",
-          "stock": "inStock",
-          "sellerRating": 4.7,
-          "updatedAt": "2026-08-15T16:55:07.108340Z"
-        }
-      ],
-      "demo": true
-    },
     {
       "id": "p_anthelios",
       "slug": "la-roche-posay-anthelios-uvmune-400",
@@ -395,7 +221,7 @@
         "source": "Instagram"
       },
       "alternatives": [
-        "p_joseon_sun"
+        "p_ty_267748711"
       ],
       "userRating": 4.6,
       "reviewCount": 8900,
@@ -6213,6 +6039,335 @@
           "affiliateUrl": "https://ty.gl/xzpxnyi9q1tsb",
           "stock": "inStock",
           "sellerRating": 4.3,
+          "updatedAt": "2026-08-16T00:00:00Z",
+          "shipping": 0
+        }
+      ]
+    },
+    {
+      "id": "p_ty_3748245",
+      "slug": "cerave-nemlendirici-krem-kuru-ve-cok-kuru-ciltler-50-ml",
+      "brand": "CeraVe",
+      "name": "Nemlendirici Krem Kuru ve Çok Kuru Ciltler 50 ml",
+      "category": "kozmetik",
+      "glyph": "🧴",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1840/prod/QC_ENRICHMENT/20260318/12/705be170-ddee-3010-8f1a-54394ebab231/1_org_zoom.jpg"
+      ],
+      "score": 96,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.5 (8128)"
+        },
+        {
+          "icon": "🧴",
+          "label": "Hacim",
+          "value": "50 ml"
+        },
+        {
+          "icon": "💸",
+          "label": "ml başı",
+          "value": "9,74 TL"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "🧴",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "CeraVe"
+            },
+            {
+              "label": "Öne çıkan içerik",
+              "value": "3 seramid + hyalüronik asit · parfümsüz",
+              "emphasized": true,
+              "sentiment": "good"
+            },
+            {
+              "label": "Hacim",
+              "value": "50 ml"
+            },
+            {
+              "label": "ML başına fiyat",
+              "value": "9,74 TL"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.5 (8128 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "kozmetik",
+        "cilt bakımı",
+        "tiktok",
+        "viral",
+        "cerave"
+      ],
+      "userRating": 4.5,
+      "reviewCount": 8128,
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 487,
+          "storeUrl": "https://www.trendyol.com/cerave/nemlendirici-krem-kuru-ve-cok-kuru-ciltler-50-ml-p-3748245",
+          "affiliateUrl": "https://ty.gl/xzpxnyi9q1tsb",
+          "stock": "inStock",
+          "sellerRating": 4.5,
+          "updatedAt": "2026-08-16T00:00:00Z",
+          "shipping": 0
+        }
+      ]
+    },
+    {
+      "id": "p_ty_157360249",
+      "slug": "garnier-vitamin-c-super-parlaklik-yuz-serumu-30-ml",
+      "brand": "Garnier",
+      "name": "Vitamin C+ Süper Parlaklık Yüz Serumu 30 ml",
+      "category": "kozmetik",
+      "glyph": "🍊",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1000391/product/media/images/prod/PIM/20260421/06/a2f73dfb-3eee-4336-91bb-15c1b0cb818b/1_org_zoom.jpg"
+      ],
+      "score": 95,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.4 (17709)"
+        },
+        {
+          "icon": "🧴",
+          "label": "Hacim",
+          "value": "30 ml"
+        },
+        {
+          "icon": "💸",
+          "label": "ml başı",
+          "value": "12,47 TL"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "🍊",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Garnier"
+            },
+            {
+              "label": "Öne çıkan içerik",
+              "value": "C vitamini + niasinamid + salisilik asit",
+              "emphasized": true,
+              "sentiment": "good"
+            },
+            {
+              "label": "Hacim",
+              "value": "30 ml"
+            },
+            {
+              "label": "ML başına fiyat",
+              "value": "12,47 TL"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.4 (17709 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "kozmetik",
+        "cilt bakımı",
+        "tiktok",
+        "viral",
+        "garnier"
+      ],
+      "userRating": 4.4,
+      "reviewCount": 17709,
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 373.96,
+          "storeUrl": "https://www.trendyol.com/garnier/vitamin-c-super-parlaklik-yuz-serumu-30ml-niasinamid-salisilik-asit-melasyl-aydinlatici-serum-p-157360249",
+          "affiliateUrl": "https://ty.gl/xzpxnyi9q1tsb",
+          "stock": "inStock",
+          "sellerRating": 4.4,
+          "updatedAt": "2026-08-16T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "p_ty_132481",
+      "slug": "la-roche-posay-cicaplast-balm-b5-yatistirici-bakim-kremi-40-ml",
+      "brand": "La Roche-Posay",
+      "name": "Cicaplast Balm B5+ Yatıştırıcı Bakım Kremi 40 ml",
+      "category": "kozmetik",
+      "glyph": "🩹",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1912/prod/QC_ENRICHMENT/20260807/14/5d2284a9-cbcd-363d-b6ea-895b9a1f36d1/1_org_zoom.jpg"
+      ],
+      "score": 96,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.5 (21467)"
+        },
+        {
+          "icon": "🧴",
+          "label": "Hacim",
+          "value": "40 ml"
+        },
+        {
+          "icon": "💸",
+          "label": "ml başı",
+          "value": "15,50 TL"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "🩹",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "La Roche-Posay"
+            },
+            {
+              "label": "Öne çıkan içerik",
+              "value": "%5 pantenol · bariyer onarıcı",
+              "emphasized": true,
+              "sentiment": "good"
+            },
+            {
+              "label": "Hacim",
+              "value": "40 ml"
+            },
+            {
+              "label": "ML başına fiyat",
+              "value": "15,50 TL"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.5 (21467 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "kozmetik",
+        "cilt bakımı",
+        "tiktok",
+        "viral",
+        "la roche-posay"
+      ],
+      "userRating": 4.5,
+      "reviewCount": 21467,
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 619.9,
+          "storeUrl": "https://www.trendyol.com/la-roche-posay/cicaplast-balm-b5-tahris-olmus-ciltlere-yatistirici-ve-bariyer-onarici-yuz-vucut-bakim-kremi-40-ml-p-132481",
+          "affiliateUrl": "https://ty.gl/xzpxnyi9q1tsb",
+          "stock": "inStock",
+          "sellerRating": 4.5,
+          "updatedAt": "2026-08-16T00:00:00Z",
+          "shipping": 0
+        }
+      ]
+    },
+    {
+      "id": "p_ty_1263063",
+      "slug": "maybelline-new-york-lash-sensational-yelpaze-etkili-maskara-ekstra-siy",
+      "brand": "Maybelline New York",
+      "name": "Lash Sensational Yelpaze Etkili Maskara - Ekstra Siyah",
+      "category": "kozmetik",
+      "glyph": "👁️",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1818/prod/QC_ENRICHMENT/20260130/17/42581c3a-5748-3eb7-84ae-f65ff05c441e/1_org_zoom.jpg"
+      ],
+      "score": 99,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.7 (32011)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "👁️",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Maybelline New York"
+            },
+            {
+              "label": "Öne çıkan içerik",
+              "value": "Yelpaze fırça · 32 bin değerlendirme",
+              "emphasized": true,
+              "sentiment": "good"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.7 (32011 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "kozmetik",
+        "cilt bakımı",
+        "tiktok",
+        "viral",
+        "maybelline new york"
+      ],
+      "userRating": 4.7,
+      "reviewCount": 32011,
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 514.79,
+          "storeUrl": "https://www.trendyol.com/maybelline-new-york/lash-sensational-yelpaze-etkili-intense-black-maskara-ekstra-siyah-p-1263063",
+          "affiliateUrl": "https://ty.gl/xzpxnyi9q1tsb",
+          "stock": "inStock",
+          "sellerRating": 4.7,
           "updatedAt": "2026-08-16T00:00:00Z",
           "shipping": 0
         }
