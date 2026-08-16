@@ -31,7 +31,16 @@ from google.oauth2 import service_account
 from google.auth.transport.requests import Request
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
-PATH = ROOT / "notifications" / "notifications.json"
+
+# Dosya iki yerde durabiliyor: uygulama deposunda `notifications/` altında,
+# yayın deposunda ise doğrudan `nerede-uygun/` içinde. Betik tek kopya olsun
+# diye ikisini de tanır — yol uyuşmazlığı sessizce "gönderilecek bildirim yok"
+# sonucunu verirdi ve fark edilmezdi.
+_CANDIDATES = [
+    ROOT / "notifications" / "notifications.json",
+    ROOT / "notifications.json",
+]
+PATH = next((p for p in _CANDIDATES if p.exists()), _CANDIDATES[0])
 
 # Bu süreden daha eski bir bildirim artık gönderilmez.
 MAX_DELAY = timedelta(minutes=90)
