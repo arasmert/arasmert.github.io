@@ -1,0 +1,50 @@
+name: Zamanlanmış bildirimleri gönder
+
+# Beş dakikada bir zamanı gelen bildirimleri gönderir.
+# GitHub cron'u dakikası dakikasına değildir; yoğun saatlerde birkaç dakika
+# gecikebilir. Panelde "20:00" seçilen bildirim 20:00–20:10 arasında gider.
+on:
+  schedule:
+    - cron: '*/5 * * * *'
+  workflow_dispatch:      # elle tetiklemek için
+
+# Gönderilen bildirimi "gönderildi" diye işaretleyip geri yazacağız.
+permissions:
+  contents: write
+
+concurrency:
+  # Aynı anda iki çalıştırma olursa aynı bildirim iki kez gidebilir.
+  group: push-notifications
+  cancel-in-progress: false
+
+jobs:
+  send:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Bağımlılıklar
+        run: pip install --quiet requests google-auth
+
+      - name: Zamanı gelenleri gönder
+        env:
+          FCM_SERVICE_ACCOUNT: ${{ secrets.FCM_SERVICE_ACCOUNT }}
+        run: python nerede-uygun/tools/send_due_notifications.py
+
+      - name: Durumu geri yaz
+        run: |
+          if [ -n "$(git status --porcelain nerede-uygun/notifications.json)" ]; then
+            git config user.name  "nerede-uygun-bot"
+            git config user.email "bot@users.noreply.github.com"
+            git add nerede-uygun/notifications.json
+            git commit -m "Bildirim durumu güncellendi [skip ci]"
+            # Bu arada panelden yeni bildirim eklenmiş olabilir; üstüne yazma.
+            git pull --rebase --autostash
+            git push
+          else
+            echo "Gönderilen bildirim yok, değişiklik de yok."
+          fi
