@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-16T13:37:51Z",
+  "updatedAt": "2026-08-16T14:23:31Z",
   "collections": [
     {
       "id": "yaz_sicak",
@@ -21,11 +21,11 @@
       "subtitle": "Bir yıl dayanacak seçimler — ucuza değil, doğruya bak",
       "icon": "🎒",
       "products": [
-        "p_backpack",
-        "p_lunch_box",
-        "p_student_tablet",
-        "p_pencil_case",
-        "p_soundcore_q30"
+        "p_hb_HBCV00008O31RB",
+        "p_hb_HBCV0000514IL0",
+        "p_hb_ofisfx82es",
+        "p_hb_HBV000000ZJMU",
+        "p_hb_HB00001AVVDJ"
       ]
     },
     {
@@ -754,155 +754,6 @@
           "stock": "inStock",
           "sellerRating": 4.7,
           "updatedAt": "2026-08-15T16:45:07.108402Z"
-        }
-      ],
-      "demo": true
-    },
-    {
-      "id": "p_soundcore_q30",
-      "slug": "anker-soundcore-life-q30",
-      "brand": "Anker",
-      "name": "Soundcore Life Q30 Kulak Üstü",
-      "category": "teknoloji",
-      "glyph": "🎧",
-      "score": 82,
-      "verdict": "buy",
-      "shortDescription": "Uzun pil ömrü ve etkili gürültü engellemeyle bütçe dostu kulak üstü.",
-      "editorialSummary": "Fiyat/performansta uzun süredir tahtını koruyan bir model. 40 saatlik pil ömrü ve iyi çalışan gürültü engelleme bu segmentte nadir. Ses imzası bas ağırlıklı; detay bekleyenler hayal kırıklığına uğrayabilir.",
-      "positives": [
-        {
-          "text": "40 saate varan pil ömrü",
-          "detail": "ANC açıkken bile bir haftalık kullanım."
-        },
-        {
-          "text": "Bu fiyata beklenmeyecek gürültü engelleme"
-        },
-        {
-          "text": "Uygulama üzerinden ses ayarı yapılabiliyor"
-        }
-      ],
-      "negatives": [
-        {
-          "text": "Bas ağırlıklı ses imzası",
-          "detail": "Varsayılan ayarda orta frekanslar geri planda kalıyor."
-        },
-        {
-          "text": "Plastik gövde premium hissettirmiyor"
-        },
-        {
-          "text": "Mikrofon kalitesi görüşmelerde ortalama"
-        }
-      ],
-      "quickFacts": [
-        {
-          "icon": "🔋",
-          "label": "Pil",
-          "value": "40 sa"
-        },
-        {
-          "icon": "🔇",
-          "label": "ANC",
-          "value": "Var"
-        },
-        {
-          "icon": "⚖️",
-          "label": "Ağırlık",
-          "value": "260 g"
-        }
-      ],
-      "attributeGroups": [
-        {
-          "title": "Teknik Özellikler",
-          "icon": "⚙️",
-          "initiallyExpanded": true,
-          "attributes": [
-            {
-              "label": "Pil ömrü",
-              "value": "40 saat (ANC açık)",
-              "emphasized": true,
-              "sentiment": "good"
-            },
-            {
-              "label": "Gürültü engelleme",
-              "value": "Aktif, 3 kademeli"
-            },
-            {
-              "label": "Sürücü",
-              "value": "40 mm"
-            },
-            {
-              "label": "Bağlantı",
-              "value": "Bluetooth 5.0 + 3.5mm"
-            },
-            {
-              "label": "Suya dayanıklılık",
-              "value": "Yok",
-              "sentiment": "warning"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        "kulaklık",
-        "kulak üstü",
-        "anker",
-        "anc",
-        "bütçe"
-      ],
-      "trend": {
-        "score": 62,
-        "change": 0.09,
-        "socialMentions": 2400,
-        "startDate": "2026-05-17T14:10:07.104324Z",
-        "source": "YouTube"
-      },
-      "alternatives": [
-        "p_airpods_pro2"
-      ],
-      "userRating": 4.5,
-      "reviewCount": 18900,
-      "offers": [
-        {
-          "marketplace": "amazon",
-          "seller": "Anker Türkiye",
-          "price": 2199.0,
-          "oldPrice": 2499.0,
-          "shipping": 0.0,
-          "storeUrl": "https://www.amazon.com.tr/urun/p-soundcore-q30",
-          "stock": "inStock",
-          "sellerRating": 4.8,
-          "delivery": "Yarın kargoda",
-          "updatedAt": "2026-08-15T16:53:07.108406Z"
-        },
-        {
-          "marketplace": "trendyol",
-          "seller": "Teknoloji Dünyası",
-          "price": 2149.0,
-          "shipping": 79.9,
-          "storeUrl": "https://www.trendyol.com/urun/p-soundcore-q30",
-          "stock": "inStock",
-          "sellerRating": 4.4,
-          "updatedAt": "2026-08-15T16:47:07.108409Z"
-        },
-        {
-          "marketplace": "n11",
-          "seller": "n11",
-          "price": 2249.0,
-          "shipping": 0.0,
-          "storeUrl": "https://www.n11.com/urun/p-soundcore-q30",
-          "stock": "inStock",
-          "sellerRating": 4.3,
-          "updatedAt": "2026-08-15T16:32:07.108413Z"
-        },
-        {
-          "marketplace": "hepsiburada",
-          "seller": "Hepsiburada",
-          "price": 2299.0,
-          "shipping": 0.0,
-          "storeUrl": "https://www.hepsiburada.com/urun/p-soundcore-q30",
-          "stock": "inStock",
-          "sellerRating": 4.6,
-          "updatedAt": "2026-08-15T16:41:07.108416Z"
         }
       ],
       "demo": true
@@ -2513,536 +2364,6 @@
           "stock": "inStock",
           "sellerRating": 4.2,
           "updatedAt": "2026-08-15T16:32:07.109170Z"
-        }
-      ],
-      "demo": true
-    },
-    {
-      "id": "p_backpack",
-      "slug": "eastpak-sirt-cantasi",
-      "brand": "Eastpak",
-      "name": "Padded Pak’r Sırt Çantası (24 L)",
-      "category": "moda",
-      "glyph": "🎒",
-      "score": 85,
-      "verdict": "buy",
-      "shortDescription": "Yıllarca dayanan, 30 yıl garantili klasik okul çantası.",
-      "editorialSummary": "Sadeliği ve dayanıklılığıyla yıllardır aynı: kalın kumaş, sağlam fermuar, 30 yıl garanti. Sırt kısmında ekstra destek yok; çok ağır kitap taşıyan öğrenciler için ergonomik bir model daha uygun olur.",
-      "positives": [
-        {
-          "text": "30 yıl üretici garantisi"
-        },
-        {
-          "text": "Kalın kumaş ve sağlam fermuar"
-        },
-        {
-          "text": "Dizüstü bilgisayar sığıyor"
-        }
-      ],
-      "negatives": [
-        {
-          "text": "Sırt desteği ve bel kemeri yok"
-        },
-        {
-          "text": "İç bölmesi tek, düzen kurmak zor"
-        }
-      ],
-      "quickFacts": [
-        {
-          "icon": "📦",
-          "label": "Hacim",
-          "value": "24 L"
-        },
-        {
-          "icon": "🛡️",
-          "label": "Garanti",
-          "value": "30 yıl"
-        },
-        {
-          "icon": "💻",
-          "label": "Dizüstü",
-          "value": "Sığar"
-        }
-      ],
-      "attributeGroups": [
-        {
-          "title": "Ürün Bilgileri",
-          "icon": "🎒",
-          "initiallyExpanded": true,
-          "attributes": [
-            {
-              "label": "Garanti",
-              "value": "30 yıl",
-              "emphasized": true,
-              "sentiment": "good"
-            },
-            {
-              "label": "Hacim",
-              "value": "24 litre"
-            },
-            {
-              "label": "Malzeme",
-              "value": "Polyester, su itici"
-            },
-            {
-              "label": "Sırt desteği",
-              "value": "Yok",
-              "sentiment": "warning"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        "sırt çantası",
-        "okul",
-        "çanta"
-      ],
-      "trend": {
-        "score": 69,
-        "change": 0.26,
-        "socialMentions": 4100,
-        "startDate": "2026-08-01T14:10:07.106356Z"
-      },
-      "userRating": 4.7,
-      "reviewCount": 8800,
-      "offers": [
-        {
-          "marketplace": "trendyol",
-          "seller": "Trendyol",
-          "price": 2299.0,
-          "oldPrice": 2699.0,
-          "shipping": 0.0,
-          "storeUrl": "https://www.trendyol.com/urun/p-backpack",
-          "stock": "inStock",
-          "sellerRating": 4.6,
-          "delivery": "1-3 iş günü",
-          "updatedAt": "2026-08-15T17:04:07.109173Z"
-        },
-        {
-          "marketplace": "hepsiburada",
-          "seller": "Hepsiburada",
-          "price": 2409.0,
-          "shipping": 0.0,
-          "storeUrl": "https://www.hepsiburada.com/urun/p-backpack",
-          "stock": "inStock",
-          "sellerRating": 4.7,
-          "updatedAt": "2026-08-15T16:56:07.109176Z"
-        },
-        {
-          "marketplace": "amazon",
-          "seller": "Amazon",
-          "price": 2229.0,
-          "shipping": 59.9,
-          "storeUrl": "https://www.amazon.com.tr/urun/p-backpack",
-          "stock": "inStock",
-          "sellerRating": 4.3,
-          "updatedAt": "2026-08-15T16:47:07.109179Z"
-        },
-        {
-          "marketplace": "n11",
-          "seller": "n11",
-          "price": 2549.0,
-          "shipping": 0.0,
-          "storeUrl": "https://www.n11.com/urun/p-backpack",
-          "stock": "inStock",
-          "sellerRating": 4.2,
-          "updatedAt": "2026-08-15T16:32:07.109182Z"
-        }
-      ],
-      "demo": true
-    },
-    {
-      "id": "p_lunch_box",
-      "slug": "beslenme-cantasi-termos-set",
-      "brand": "Tefal",
-      "name": "Beslenme Çantası ve Saklama Kabı Seti",
-      "category": "ev-yasam",
-      "glyph": "🍱",
-      "score": 78,
-      "verdict": "buy",
-      "shortDescription": "Sızdırmaz kapaklı, yalıtımlı beslenme çantası seti.",
-      "editorialSummary": "Kapak contaları gerçekten sızdırmıyor — çantada yemek taşımanın en sık şikâyeti bu olduğu için önemli. Yalıtım öğle saatine kadar serin tutuyor. Bulaşık makinesinde üst raf şart.",
-      "positives": [
-        {
-          "text": "Sızdırmaz kapak contaları"
-        },
-        {
-          "text": "Öğlene kadar serin tutan yalıtım"
-        },
-        {
-          "text": "Parçalar iç içe geçip yer kaplamıyor"
-        }
-      ],
-      "negatives": [
-        {
-          "text": "Bulaşık makinesinde yalnızca üst raf"
-        },
-        {
-          "text": "Çanta kumaşı lekeyi çabuk gösteriyor"
-        }
-      ],
-      "quickFacts": [
-        {
-          "icon": "💧",
-          "label": "Sızdırmaz",
-          "value": "Evet"
-        },
-        {
-          "icon": "🧊",
-          "label": "Serin",
-          "value": "5 sa"
-        },
-        {
-          "icon": "📦",
-          "label": "Parça",
-          "value": "4"
-        }
-      ],
-      "attributeGroups": [
-        {
-          "title": "Ürün Bilgileri",
-          "icon": "🍱",
-          "initiallyExpanded": true,
-          "attributes": [
-            {
-              "label": "Sızdırmazlık",
-              "value": "Contalı kapak",
-              "emphasized": true,
-              "sentiment": "good"
-            },
-            {
-              "label": "Parça sayısı",
-              "value": "4"
-            },
-            {
-              "label": "Bulaşık makinesi",
-              "value": "Üst raf",
-              "sentiment": "warning"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        "beslenme çantası",
-        "okul",
-        "saklama kabı"
-      ],
-      "trend": {
-        "score": 63,
-        "change": 0.24,
-        "socialMentions": 2900,
-        "startDate": "2026-08-04T14:10:07.106360Z"
-      },
-      "userRating": 4.5,
-      "reviewCount": 4600,
-      "offers": [
-        {
-          "marketplace": "trendyol",
-          "seller": "Trendyol",
-          "price": 899.0,
-          "shipping": 0.0,
-          "storeUrl": "https://www.trendyol.com/urun/p-lunch-box",
-          "stock": "inStock",
-          "sellerRating": 4.6,
-          "delivery": "1-3 iş günü",
-          "updatedAt": "2026-08-15T17:04:07.109185Z"
-        },
-        {
-          "marketplace": "hepsiburada",
-          "seller": "Hepsiburada",
-          "price": 944.0,
-          "shipping": 0.0,
-          "storeUrl": "https://www.hepsiburada.com/urun/p-lunch-box",
-          "stock": "inStock",
-          "sellerRating": 4.7,
-          "updatedAt": "2026-08-15T16:56:07.109190Z"
-        },
-        {
-          "marketplace": "amazon",
-          "seller": "Amazon",
-          "price": 872.0,
-          "shipping": 59.9,
-          "storeUrl": "https://www.amazon.com.tr/urun/p-lunch-box",
-          "stock": "inStock",
-          "sellerRating": 4.3,
-          "updatedAt": "2026-08-15T16:47:07.109193Z"
-        },
-        {
-          "marketplace": "n11",
-          "seller": "n11",
-          "price": 998.0,
-          "shipping": 0.0,
-          "storeUrl": "https://www.n11.com/urun/p-lunch-box",
-          "stock": "inStock",
-          "sellerRating": 4.2,
-          "updatedAt": "2026-08-15T16:32:07.109196Z"
-        }
-      ],
-      "demo": true
-    },
-    {
-      "id": "p_student_tablet",
-      "slug": "lenovo-tab-m11",
-      "brand": "Lenovo",
-      "name": "Tab M11 (128 GB, Kalemli)",
-      "category": "teknoloji",
-      "glyph": "📱",
-      "score": 77,
-      "verdict": "buy",
-      "shortDescription": "Ders takibi ve not alma için yeterli, uygun fiyatlı tablet.",
-      "editorialSummary": "Video ders izlemek, PDF okumak ve not almak için fazlasıyla yeterli. Kalem kutudan çıkıyor — bu fiyat aralığında nadir. Ağır oyun ve yoğun düzenleme işleri için işlemcisi yavaş kalıyor.",
-      "positives": [
-        {
-          "text": "Kalem kutudan çıkıyor"
-        },
-        {
-          "text": "90 Hz ekran, kaydırma akıcı"
-        },
-        {
-          "text": "Pil ömrü uzun"
-        }
-      ],
-      "negatives": [
-        {
-          "text": "Ağır uygulamalarda işlemci yetersiz"
-        },
-        {
-          "text": "Hoparlör sesi zayıf"
-        }
-      ],
-      "quickFacts": [
-        {
-          "icon": "📺",
-          "label": "Ekran",
-          "value": "11\" 90Hz"
-        },
-        {
-          "icon": "💾",
-          "label": "Depolama",
-          "value": "128 GB"
-        },
-        {
-          "icon": "✏️",
-          "label": "Kalem",
-          "value": "Dahil"
-        }
-      ],
-      "attributeGroups": [
-        {
-          "title": "Teknik Özellikler",
-          "icon": "⚙️",
-          "initiallyExpanded": true,
-          "attributes": [
-            {
-              "label": "Ekran",
-              "value": "11 inç, 90 Hz",
-              "emphasized": true
-            },
-            {
-              "label": "Depolama",
-              "value": "128 GB (kart ile artar)"
-            },
-            {
-              "label": "Kalem",
-              "value": "Kutudan çıkıyor",
-              "sentiment": "good"
-            },
-            {
-              "label": "Pil",
-              "value": "7040 mAh"
-            },
-            {
-              "label": "Garanti",
-              "value": "2 yıl"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        "tablet",
-        "okul",
-        "ders",
-        "lenovo"
-      ],
-      "trend": {
-        "score": 67,
-        "change": 0.29,
-        "socialMentions": 5200,
-        "startDate": "2026-08-02T14:10:07.106364Z"
-      },
-      "userRating": 4.4,
-      "reviewCount": 6300,
-      "offers": [
-        {
-          "marketplace": "trendyol",
-          "seller": "Trendyol",
-          "price": 7999.0,
-          "oldPrice": 9499.0,
-          "shipping": 0.0,
-          "storeUrl": "https://www.trendyol.com/urun/p-student-tablet",
-          "stock": "inStock",
-          "sellerRating": 4.6,
-          "delivery": "1-3 iş günü",
-          "updatedAt": "2026-08-15T17:04:07.109200Z"
-        },
-        {
-          "marketplace": "hepsiburada",
-          "seller": "Hepsiburada",
-          "price": 8399.0,
-          "shipping": 0.0,
-          "storeUrl": "https://www.hepsiburada.com/urun/p-student-tablet",
-          "stock": "inStock",
-          "sellerRating": 4.7,
-          "updatedAt": "2026-08-15T16:56:07.109203Z"
-        },
-        {
-          "marketplace": "amazon",
-          "seller": "Amazon",
-          "price": 7759.0,
-          "shipping": 59.9,
-          "storeUrl": "https://www.amazon.com.tr/urun/p-student-tablet",
-          "stock": "inStock",
-          "sellerRating": 4.3,
-          "updatedAt": "2026-08-15T16:47:07.109207Z"
-        },
-        {
-          "marketplace": "n11",
-          "seller": "n11",
-          "price": 8879.0,
-          "shipping": 0.0,
-          "storeUrl": "https://www.n11.com/urun/p-student-tablet",
-          "stock": "inStock",
-          "sellerRating": 4.2,
-          "updatedAt": "2026-08-15T16:32:07.109210Z"
-        }
-      ],
-      "demo": true
-    },
-    {
-      "id": "p_pencil_case",
-      "slug": "faber-castell-kalem-seti",
-      "brand": "Faber-Castell",
-      "name": "Kuru Boya ve Kalem Seti (36 Renk)",
-      "category": "ev-yasam",
-      "glyph": "✏️",
-      "score": 84,
-      "verdict": "buy",
-      "shortDescription": "Kırılmayan uçlarıyla yıllardır standart olan boya seti.",
-      "editorialSummary": "Uçları kolay kırılmıyor ve renkler kâğıtta canlı çıkıyor — ucuz setlerdeki iki büyük sorun burada yok. Okul listesi için fazlasıyla yeterli; profesyonel çizim için farklı bir seri gerekir.",
-      "positives": [
-        {
-          "text": "Uçlar kolay kırılmıyor"
-        },
-        {
-          "text": "Renkler canlı ve düzgün dağılıyor"
-        },
-        {
-          "text": "Metal kutu uzun ömürlü"
-        }
-      ],
-      "negatives": [
-        {
-          "text": "Ucuz setlere göre pahalı"
-        },
-        {
-          "text": "Profesyonel çizim için yeterli tonlama yok"
-        }
-      ],
-      "quickFacts": [
-        {
-          "icon": "🎨",
-          "label": "Renk",
-          "value": "36"
-        },
-        {
-          "icon": "📦",
-          "label": "Kutu",
-          "value": "Metal"
-        },
-        {
-          "icon": "✏️",
-          "label": "Uç",
-          "value": "Dayanıklı"
-        }
-      ],
-      "attributeGroups": [
-        {
-          "title": "Ürün Bilgileri",
-          "icon": "✏️",
-          "initiallyExpanded": true,
-          "attributes": [
-            {
-              "label": "Renk sayısı",
-              "value": "36",
-              "emphasized": true
-            },
-            {
-              "label": "Uç dayanıklılığı",
-              "value": "Yüksek",
-              "sentiment": "good"
-            },
-            {
-              "label": "Kutu",
-              "value": "Metal"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        "kuru boya",
-        "kalem",
-        "okul",
-        "kırtasiye"
-      ],
-      "trend": {
-        "score": 58,
-        "change": 0.21,
-        "socialMentions": 1800,
-        "startDate": "2026-07-31T14:10:07.106369Z"
-      },
-      "userRating": 4.8,
-      "reviewCount": 9700,
-      "offers": [
-        {
-          "marketplace": "trendyol",
-          "seller": "Trendyol",
-          "price": 749.0,
-          "shipping": 0.0,
-          "storeUrl": "https://www.trendyol.com/urun/p-pencil-case",
-          "stock": "inStock",
-          "sellerRating": 4.6,
-          "delivery": "1-3 iş günü",
-          "updatedAt": "2026-08-15T17:04:07.109214Z"
-        },
-        {
-          "marketplace": "hepsiburada",
-          "seller": "Hepsiburada",
-          "price": 786.0,
-          "shipping": 0.0,
-          "storeUrl": "https://www.hepsiburada.com/urun/p-pencil-case",
-          "stock": "inStock",
-          "sellerRating": 4.7,
-          "updatedAt": "2026-08-15T16:56:07.109217Z"
-        },
-        {
-          "marketplace": "amazon",
-          "seller": "Amazon",
-          "price": 727.0,
-          "shipping": 59.9,
-          "storeUrl": "https://www.amazon.com.tr/urun/p-pencil-case",
-          "stock": "inStock",
-          "sellerRating": 4.3,
-          "updatedAt": "2026-08-15T16:47:07.109222Z"
-        },
-        {
-          "marketplace": "n11",
-          "seller": "n11",
-          "price": 831.0,
-          "shipping": 0.0,
-          "storeUrl": "https://www.n11.com/urun/p-pencil-case",
-          "stock": "inStock",
-          "sellerRating": 4.2,
-          "updatedAt": "2026-08-15T16:32:07.109226Z"
         }
       ],
       "demo": true
@@ -6366,6 +5687,441 @@
           "price": 514.79,
           "storeUrl": "https://www.trendyol.com/maybelline-new-york/lash-sensational-yelpaze-etkili-intense-black-maskara-ekstra-siyah-p-1263063",
           "affiliateUrl": "https://ty.gl/xzpxnyi9q1tsb",
+          "stock": "inStock",
+          "sellerRating": 4.7,
+          "updatedAt": "2026-08-16T00:00:00Z",
+          "shipping": 0
+        }
+      ]
+    },
+    {
+      "id": "p_hb_HBCV00008O31RB",
+      "slug": "lenovo-ideapad-slim-3-i5-13420h-16gb-512gb-ssd-15-3",
+      "brand": "Lenovo",
+      "name": "IdeaPad Slim 3 i5-13420H 16GB 512GB SSD 15.3\"",
+      "category": "teknoloji",
+      "glyph": "💻",
+      "images": [
+        "https://productimages.hepsiburada.net/s/777/222-222/110001236688713.jpg"
+      ],
+      "score": 96,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.5 (147)"
+        },
+        {
+          "icon": "🏷️",
+          "label": "Trendyol'da",
+          "value": "30.899,00 TL"
+        },
+        {
+          "icon": "💸",
+          "label": "Fark",
+          "value": "650,00 TL uygun"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün ve Fiyat",
+          "icon": "💻",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Lenovo"
+            },
+            {
+              "label": "Öne çıkan",
+              "value": "Intel Core i5 · 16 GB RAM · 512 GB SSD",
+              "emphasized": true,
+              "sentiment": "good"
+            },
+            {
+              "label": "Hepsiburada",
+              "value": "30.249,00 TL",
+              "sentiment": "good"
+            },
+            {
+              "label": "Trendyol",
+              "value": "30.899,00 TL"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.5 (147 değerlendirme)"
+            }
+          ],
+          "footnote": "Fiyatlar 16 Ağustos 2026 tarihinde iki mağazadan alınmıştır."
+        }
+      ],
+      "tags": [
+        "okula dönüş",
+        "teknoloji",
+        "lenovo"
+      ],
+      "userRating": 4.5,
+      "reviewCount": 147,
+      "offers": [
+        {
+          "marketplace": "hepsiburada",
+          "seller": "Hepsiburada",
+          "price": 30249,
+          "storeUrl": "https://www.hepsiburada.com/lenovo-ideapad-slim-3-intel-core-i5-13420h-16gb-512gb-ssd-freedos-15-3-tasinabilir-bilgisayar-83k1003mtr-p-HBCV00008O31RB",
+          "affiliateUrl": "https://app.hb.biz/9MpiCdwshXv9",
+          "stock": "inStock",
+          "sellerRating": 4.5,
+          "updatedAt": "2026-08-16T00:00:00Z",
+          "shipping": 0
+        }
+      ]
+    },
+    {
+      "id": "p_hb_HBCV0000514IL0",
+      "slug": "samsung-galaxy-tab-a9-wi-fi-64gb-8-7-tablet",
+      "brand": "Samsung",
+      "name": "Galaxy Tab A9 Wi-Fi 64GB 8.7\" Tablet",
+      "category": "teknoloji",
+      "glyph": "📱",
+      "images": [
+        "https://productimages.hepsiburada.net/s/473/222-222/110000516178961.jpg"
+      ],
+      "score": 99,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.7 (3289)"
+        },
+        {
+          "icon": "🏷️",
+          "label": "Trendyol'da",
+          "value": "8.900,00 TL"
+        },
+        {
+          "icon": "💸",
+          "label": "Fark",
+          "value": "1.901,00 TL uygun"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün ve Fiyat",
+          "icon": "📱",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Samsung"
+            },
+            {
+              "label": "Öne çıkan",
+              "value": "8.7 inç · 64 GB · Wi-Fi",
+              "emphasized": true,
+              "sentiment": "good"
+            },
+            {
+              "label": "Hepsiburada",
+              "value": "6.999,00 TL",
+              "sentiment": "good"
+            },
+            {
+              "label": "Trendyol",
+              "value": "8.900,00 TL"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.7 (3289 değerlendirme)"
+            }
+          ],
+          "footnote": "Fiyatlar 16 Ağustos 2026 tarihinde iki mağazadan alınmıştır."
+        }
+      ],
+      "tags": [
+        "okula dönüş",
+        "teknoloji",
+        "samsung"
+      ],
+      "userRating": 4.7,
+      "reviewCount": 3289,
+      "offers": [
+        {
+          "marketplace": "hepsiburada",
+          "seller": "Hepsiburada",
+          "price": 6999,
+          "storeUrl": "https://www.hepsiburada.com/samsung-galaxy-tab-a9-wi-fi-sm-x110-4gb-64gb-8-7-tablet-graphite-p-HBCV0000514IL0",
+          "affiliateUrl": "https://app.hb.biz/9MpiCdwshXv9",
+          "stock": "inStock",
+          "sellerRating": 4.7,
+          "updatedAt": "2026-08-16T00:00:00Z",
+          "shipping": 0
+        }
+      ]
+    },
+    {
+      "id": "p_hb_ofisfx82es",
+      "slug": "casio-fx-82es-plus-bilimsel-hesap-makinesi",
+      "brand": "Casio",
+      "name": "FX-82ES Plus Bilimsel Hesap Makinesi",
+      "category": "teknoloji",
+      "glyph": "🧮",
+      "images": [
+        "https://productimages.hepsiburada.net/s/777/222-222/110001660304736.jpg"
+      ],
+      "score": 99,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.7 (989)"
+        },
+        {
+          "icon": "🏷️",
+          "label": "Trendyol'da",
+          "value": "740,00 TL"
+        },
+        {
+          "icon": "💸",
+          "label": "Fark",
+          "value": "152,97 TL uygun"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün ve Fiyat",
+          "icon": "🧮",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Casio"
+            },
+            {
+              "label": "Öne çıkan",
+              "value": "252 fonksiyon · sınavlarda kabul edilen model",
+              "emphasized": true,
+              "sentiment": "good"
+            },
+            {
+              "label": "Hepsiburada",
+              "value": "587,03 TL",
+              "sentiment": "good"
+            },
+            {
+              "label": "Trendyol",
+              "value": "740,00 TL"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.7 (989 değerlendirme)"
+            }
+          ],
+          "footnote": "Fiyatlar 16 Ağustos 2026 tarihinde iki mağazadan alınmıştır."
+        }
+      ],
+      "tags": [
+        "okula dönüş",
+        "teknoloji",
+        "casio"
+      ],
+      "userRating": 4.7,
+      "reviewCount": 989,
+      "offers": [
+        {
+          "marketplace": "hepsiburada",
+          "seller": "Hepsiburada",
+          "price": 587.03,
+          "storeUrl": "https://www.hepsiburada.com/casio-fx-82es-plus-bilimsel-fonksiyonlu-hesap-makinesi-pm-ofisfx82es",
+          "affiliateUrl": "https://app.hb.biz/9MpiCdwshXv9",
+          "stock": "inStock",
+          "sellerRating": 4.7,
+          "updatedAt": "2026-08-16T00:00:00Z",
+          "shipping": 0
+        }
+      ]
+    },
+    {
+      "id": "p_hb_HBV000000ZJMU",
+      "slug": "logitech-m171-kablosuz-mouse",
+      "brand": "Logitech",
+      "name": "M171 Kablosuz Mouse",
+      "category": "teknoloji",
+      "glyph": "🖱️",
+      "images": [
+        "https://productimages.hepsiburada.net/s/777/222-222/110001042441443.jpg"
+      ],
+      "score": 99,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.7 (2320)"
+        },
+        {
+          "icon": "🏷️",
+          "label": "Trendyol'da",
+          "value": "489,00 TL"
+        },
+        {
+          "icon": "💸",
+          "label": "Fark",
+          "value": "105,00 TL uygun"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün ve Fiyat",
+          "icon": "🖱️",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Logitech"
+            },
+            {
+              "label": "Öne çıkan",
+              "value": "USB alıcılı · 12 ay pil ömrü",
+              "emphasized": true,
+              "sentiment": "good"
+            },
+            {
+              "label": "Hepsiburada",
+              "value": "384,00 TL",
+              "sentiment": "good"
+            },
+            {
+              "label": "Trendyol",
+              "value": "489,00 TL"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.7 (2320 değerlendirme)"
+            }
+          ],
+          "footnote": "Fiyatlar 16 Ağustos 2026 tarihinde iki mağazadan alınmıştır."
+        }
+      ],
+      "tags": [
+        "okula dönüş",
+        "teknoloji",
+        "logitech"
+      ],
+      "userRating": 4.7,
+      "reviewCount": 2320,
+      "offers": [
+        {
+          "marketplace": "hepsiburada",
+          "seller": "Hepsiburada",
+          "price": 384,
+          "storeUrl": "https://www.hepsiburada.com/logitech-m171-kablosuz-usb-siyah-mouse-p-HBV000000ZJMU",
+          "affiliateUrl": "https://app.hb.biz/9MpiCdwshXv9",
+          "stock": "inStock",
+          "sellerRating": 4.7,
+          "updatedAt": "2026-08-16T00:00:00Z",
+          "shipping": 0
+        }
+      ]
+    },
+    {
+      "id": "p_hb_HB00001AVVDJ",
+      "slug": "kingston-datatraveler-exodia-64-gb-usb-3-2",
+      "brand": "Kingston",
+      "name": "DataTraveler Exodia 64 GB USB 3.2",
+      "category": "teknoloji",
+      "glyph": "💾",
+      "images": [
+        "https://productimages.hepsiburada.net/s/777/222-222/110000887259167.jpg"
+      ],
+      "score": 99,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.7 (9457)"
+        },
+        {
+          "icon": "🏷️",
+          "label": "Trendyol'da",
+          "value": "539,00 TL"
+        },
+        {
+          "icon": "💸",
+          "label": "Fark",
+          "value": "138,00 TL uygun"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün ve Fiyat",
+          "icon": "💾",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Kingston"
+            },
+            {
+              "label": "Öne çıkan",
+              "value": "USB 3.2 Gen 1 · 64 GB",
+              "emphasized": true,
+              "sentiment": "good"
+            },
+            {
+              "label": "Hepsiburada",
+              "value": "401,00 TL",
+              "sentiment": "good"
+            },
+            {
+              "label": "Trendyol",
+              "value": "539,00 TL"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.7 (9457 değerlendirme)"
+            }
+          ],
+          "footnote": "Fiyatlar 16 Ağustos 2026 tarihinde iki mağazadan alınmıştır."
+        }
+      ],
+      "tags": [
+        "okula dönüş",
+        "teknoloji",
+        "kingston"
+      ],
+      "userRating": 4.7,
+      "reviewCount": 9457,
+      "offers": [
+        {
+          "marketplace": "hepsiburada",
+          "seller": "Hepsiburada",
+          "price": 401,
+          "storeUrl": "https://www.hepsiburada.com/kingston-64gb-usb3-2-datatrav-ex-usb-bellek-dtx-64gb-pm-HB00001AVVDJ",
+          "affiliateUrl": "https://app.hb.biz/9MpiCdwshXv9",
           "stock": "inStock",
           "sellerRating": 4.7,
           "updatedAt": "2026-08-16T00:00:00Z",
