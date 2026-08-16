@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-16T12:29:40Z",
+  "updatedAt": "2026-08-16T13:27:28Z",
   "collections": [
     {
       "id": "yaz_sicak",
@@ -34,11 +34,16 @@
       "subtitle": "Herkesin konuştuğu ürünler — hangisi gerçekten işe yarıyor?",
       "icon": "💄",
       "products": [
-        "p_laneige_lip",
-        "p_joseon_sun",
-        "p_maybelline_mascara",
-        "p_ordinary_niacinamide",
-        "p_cerave_moist"
+        "p_ty_1068907",
+        "p_ty_3184549",
+        "p_ty_906055076",
+        "p_ty_267748711",
+        "p_ty_338877323",
+        "p_ty_159186217",
+        "p_ty_767609956",
+        "p_ty_897016688",
+        "p_ty_766017948",
+        "p_ty_36496290"
       ]
     },
     {
@@ -3217,267 +3222,6 @@
       "demo": true
     },
     {
-      "id": "p_laneige_lip",
-      "slug": "laneige-lip-sleeping-mask",
-      "brand": "Laneige",
-      "name": "Lip Sleeping Mask",
-      "category": "kozmetik",
-      "glyph": "💋",
-      "score": 85,
-      "verdict": "buy",
-      "shortDescription": "Gece boyunca dudak kurumasını gerçekten önleyen yoğun bakım.",
-      "editorialSummary": "Sosyal medyadaki ilginin aksine işini gerçekten yapıyor: sabaha kadar kalıyor ve kuru dudakta belirgin fark yaratıyor. Kavanoz ambalaj hijyen açısından ideal değil, spatula kullanmak gerekiyor.",
-      "positives": [
-        {
-          "text": "Sabaha kadar kalıcı, kurumayı önlüyor"
-        },
-        {
-          "text": "Çok az miktar yetiyor, uzun süre gidiyor"
-        },
-        {
-          "text": "Kokusu ağır değil"
-        }
-      ],
-      "negatives": [
-        {
-          "text": "Kavanoz ambalaj, parmakla almak hijyenik değil"
-        },
-        {
-          "text": "Gündüz kullanımda fazla yapışkan"
-        }
-      ],
-      "quickFacts": [
-        {
-          "icon": "🌙",
-          "label": "Kullanım",
-          "value": "Gece"
-        },
-        {
-          "icon": "📦",
-          "label": "Hacim",
-          "value": "20 g"
-        },
-        {
-          "icon": "⏳",
-          "label": "Ömür",
-          "value": "6+ ay"
-        }
-      ],
-      "attributeGroups": [
-        {
-          "title": "İçerik",
-          "icon": "🧪",
-          "initiallyExpanded": true,
-          "attributes": [
-            {
-              "label": "Aktif içerik",
-              "value": "Shea yağı, C vitamini kompleksi",
-              "emphasized": true,
-              "sentiment": "good"
-            },
-            {
-              "label": "Hacim",
-              "value": "20 g"
-            },
-            {
-              "label": "Parfüm",
-              "value": "Var (hafif)",
-              "sentiment": "warning"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        "dudak bakımı",
-        "kore kozmetiği",
-        "gece maskesi"
-      ],
-      "trend": {
-        "score": 89,
-        "change": 0.41,
-        "socialMentions": 16800,
-        "startDate": "2026-08-05T14:10:07.106373Z",
-        "source": "TikTok"
-      },
-      "userRating": 4.7,
-      "reviewCount": 21300,
-      "offers": [
-        {
-          "marketplace": "trendyol",
-          "seller": "Trendyol",
-          "price": 899.0,
-          "oldPrice": 1049.0,
-          "shipping": 0.0,
-          "storeUrl": "https://www.trendyol.com/urun/p-laneige-lip",
-          "stock": "inStock",
-          "sellerRating": 4.6,
-          "delivery": "1-3 iş günü",
-          "updatedAt": "2026-08-15T17:04:07.109230Z"
-        },
-        {
-          "marketplace": "hepsiburada",
-          "seller": "Hepsiburada",
-          "price": 944.0,
-          "shipping": 0.0,
-          "storeUrl": "https://www.hepsiburada.com/urun/p-laneige-lip",
-          "stock": "inStock",
-          "sellerRating": 4.7,
-          "updatedAt": "2026-08-15T16:56:07.109234Z"
-        },
-        {
-          "marketplace": "amazon",
-          "seller": "Amazon",
-          "price": 872.0,
-          "shipping": 59.9,
-          "storeUrl": "https://www.amazon.com.tr/urun/p-laneige-lip",
-          "stock": "inStock",
-          "sellerRating": 4.3,
-          "updatedAt": "2026-08-15T16:47:07.109238Z"
-        },
-        {
-          "marketplace": "n11",
-          "seller": "n11",
-          "price": 998.0,
-          "shipping": 0.0,
-          "storeUrl": "https://www.n11.com/urun/p-laneige-lip",
-          "stock": "inStock",
-          "sellerRating": 4.2,
-          "updatedAt": "2026-08-15T16:32:07.109242Z"
-        }
-      ],
-      "demo": true
-    },
-    {
-      "id": "p_maybelline_mascara",
-      "slug": "maybelline-sky-high-maskara",
-      "brand": "Maybelline",
-      "name": "Lash Sensational Sky High Maskara",
-      "category": "kozmetik",
-      "glyph": "👁️",
-      "score": 79,
-      "verdict": "buy",
-      "shortDescription": "Uzatma etkisi güçlü, esnek fırçalı popüler maskara.",
-      "editorialSummary": "Uzatma konusunda fiyatının üzerinde iş çıkarıyor; esnek fırça alt kirpiklere de rahat ulaşıyor. Hacim beklentisi yüksek olanlar için yeterli değil ve gün sonuna doğru hafif dökülme yapabiliyor.",
-      "positives": [
-        {
-          "text": "Uzatma etkisi belirgin"
-        },
-        {
-          "text": "Esnek fırça, alt kirpiklere ulaşıyor"
-        },
-        {
-          "text": "Topaklanma yapmıyor"
-        }
-      ],
-      "negatives": [
-        {
-          "text": "Hacim etkisi sınırlı"
-        },
-        {
-          "text": "Gün sonunda hafif dökülme olabiliyor"
-        }
-      ],
-      "quickFacts": [
-        {
-          "icon": "📏",
-          "label": "Etki",
-          "value": "Uzatma"
-        },
-        {
-          "icon": "🖌️",
-          "label": "Fırça",
-          "value": "Esnek"
-        },
-        {
-          "icon": "💧",
-          "label": "Suya dayanım",
-          "value": "Yok"
-        }
-      ],
-      "attributeGroups": [
-        {
-          "title": "Ürün Bilgileri",
-          "icon": "👁️",
-          "initiallyExpanded": true,
-          "attributes": [
-            {
-              "label": "Ana etki",
-              "value": "Uzatma",
-              "emphasized": true,
-              "sentiment": "good"
-            },
-            {
-              "label": "Fırça",
-              "value": "Esnek, ince"
-            },
-            {
-              "label": "Suya dayanıklılık",
-              "value": "Yok",
-              "sentiment": "warning"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        "maskara",
-        "makyaj",
-        "kozmetik"
-      ],
-      "trend": {
-        "score": 83,
-        "change": 0.34,
-        "socialMentions": 12400,
-        "startDate": "2026-08-03T14:10:07.106377Z",
-        "source": "TikTok"
-      },
-      "userRating": 4.5,
-      "reviewCount": 18900,
-      "offers": [
-        {
-          "marketplace": "trendyol",
-          "seller": "Trendyol",
-          "price": 429.0,
-          "shipping": 0.0,
-          "storeUrl": "https://www.trendyol.com/urun/p-maybelline-mascara",
-          "stock": "inStock",
-          "sellerRating": 4.6,
-          "delivery": "1-3 iş günü",
-          "updatedAt": "2026-08-15T17:04:07.109247Z"
-        },
-        {
-          "marketplace": "hepsiburada",
-          "seller": "Hepsiburada",
-          "price": 450.0,
-          "shipping": 0.0,
-          "storeUrl": "https://www.hepsiburada.com/urun/p-maybelline-mascara",
-          "stock": "inStock",
-          "sellerRating": 4.7,
-          "updatedAt": "2026-08-15T16:56:07.109251Z"
-        },
-        {
-          "marketplace": "amazon",
-          "seller": "Amazon",
-          "price": 416.0,
-          "shipping": 59.9,
-          "storeUrl": "https://www.amazon.com.tr/urun/p-maybelline-mascara",
-          "stock": "inStock",
-          "sellerRating": 4.3,
-          "updatedAt": "2026-08-15T16:47:07.109257Z"
-        },
-        {
-          "marketplace": "n11",
-          "seller": "n11",
-          "price": 476.0,
-          "shipping": 0.0,
-          "storeUrl": "https://www.n11.com/urun/p-maybelline-mascara",
-          "stock": "inStock",
-          "sellerRating": 4.2,
-          "updatedAt": "2026-08-15T16:32:07.109261Z"
-        }
-      ],
-      "demo": true
-    },
-    {
       "id": "p_xiaomi_purifier",
       "slug": "xiaomi-smart-air-purifier-4-lite",
       "brand": "Xiaomi",
@@ -5623,6 +5367,856 @@
         }
       ],
       "score": 93
+    },
+    {
+      "id": "p_ty_1068907",
+      "slug": "bioderma-sensibio-h2o-micellar-makyaj-temizleme-suyu-500-ml",
+      "brand": "Bioderma",
+      "name": "Sensibio H2O Micellar Makyaj Temizleme Suyu 500 ml",
+      "category": "kozmetik",
+      "glyph": "💧",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1000062/product/media/images/prod/PIM/20260123/07/56c11634-ec90-4244-998a-79c73be27c48/1_org_zoom.jpg"
+      ],
+      "score": 99,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.7 (7337)"
+        },
+        {
+          "icon": "🧴",
+          "label": "Hacim",
+          "value": "500 ml"
+        },
+        {
+          "icon": "💸",
+          "label": "ml başı",
+          "value": "1,82 TL"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "💧",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Bioderma"
+            },
+            {
+              "label": "Öne çıkan içerik",
+              "value": "Misel su · parfümsüz",
+              "emphasized": true,
+              "sentiment": "good"
+            },
+            {
+              "label": "Hacim",
+              "value": "500 ml"
+            },
+            {
+              "label": "ML başına fiyat",
+              "value": "1,82 TL"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.7 (7337 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "kozmetik",
+        "cilt bakımı",
+        "tiktok",
+        "viral",
+        "bioderma"
+      ],
+      "userRating": 4.7,
+      "reviewCount": 7337,
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 909,
+          "storeUrl": "https://www.trendyol.com/bioderma/sensibio-h2o-hassas-ve-normal-ciltler-icin-micellar-arindirici-makyaj-temizleme-suyu-500-ml-p-1068907",
+          "affiliateUrl": "https://ty.gl/xzpxnyi9q1tsb",
+          "stock": "inStock",
+          "sellerRating": 4.7,
+          "updatedAt": "2026-08-16T00:00:00Z",
+          "shipping": 0
+        }
+      ]
+    },
+    {
+      "id": "p_ty_3184549",
+      "slug": "cosrx-advanced-snail-96-mucin-power-essence-100-ml",
+      "brand": "Cosrx",
+      "name": "Advanced Snail 96 Mucin Power Essence 100 ml",
+      "category": "kozmetik",
+      "glyph": "🐌",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1718/prod/QC_ENRICHMENT/20250728/14/a23e93c3-c45e-3076-89c0-8d19bc6d0253/1_org_zoom.jpg"
+      ],
+      "score": 95,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.4 (7574)"
+        },
+        {
+          "icon": "🧴",
+          "label": "Hacim",
+          "value": "100 ml"
+        },
+        {
+          "icon": "💸",
+          "label": "ml başı",
+          "value": "7,05 TL"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "🐌",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Cosrx"
+            },
+            {
+              "label": "Öne çıkan içerik",
+              "value": "%96 salyangoz mukini",
+              "emphasized": true,
+              "sentiment": "good"
+            },
+            {
+              "label": "Hacim",
+              "value": "100 ml"
+            },
+            {
+              "label": "ML başına fiyat",
+              "value": "7,05 TL"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.4 (7574 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "kozmetik",
+        "cilt bakımı",
+        "tiktok",
+        "viral",
+        "cosrx"
+      ],
+      "userRating": 4.4,
+      "reviewCount": 7574,
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 705,
+          "storeUrl": "https://www.trendyol.com/cosrx/advanced-snail-96-mucin-power-essence-100ml-salyangoz-ozlu-nemlendirici-ve-besleyici-esans-p-3184549",
+          "affiliateUrl": "https://ty.gl/xzpxnyi9q1tsb",
+          "stock": "inStock",
+          "sellerRating": 4.4,
+          "updatedAt": "2026-08-16T00:00:00Z",
+          "shipping": 0
+        }
+      ]
+    },
+    {
+      "id": "p_ty_906055076",
+      "slug": "the-ordinary-niacinamide-10-zinc-1-serum-30-ml",
+      "brand": "The Ordinary",
+      "name": "Niacinamide 10% + Zinc 1% Serum 30 ml",
+      "category": "kozmetik",
+      "glyph": "🧪",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1744/product/media/images/prod/PIM/20251015/09/4d9fa0f4-f850-4ce7-b0fe-dc86a05ac533/1_org_zoom.jpg"
+      ],
+      "score": 94,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.3 (5626)"
+        },
+        {
+          "icon": "🧴",
+          "label": "Hacim",
+          "value": "30 ml"
+        },
+        {
+          "icon": "💸",
+          "label": "ml başı",
+          "value": "14,83 TL"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "🧪",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "The Ordinary"
+            },
+            {
+              "label": "Öne çıkan içerik",
+              "value": "%10 niasinamid + %1 çinko",
+              "emphasized": true,
+              "sentiment": "good"
+            },
+            {
+              "label": "Hacim",
+              "value": "30 ml"
+            },
+            {
+              "label": "ML başına fiyat",
+              "value": "14,83 TL"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.3 (5626 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "kozmetik",
+        "cilt bakımı",
+        "tiktok",
+        "viral",
+        "the ordinary"
+      ],
+      "userRating": 4.3,
+      "reviewCount": 5626,
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 445,
+          "storeUrl": "https://www.trendyol.com/the-ordinary/niacinamide-10-zinc-1-leke-ve-gozenek-gorunumu-karsiti-serum-30ml-p-906055076",
+          "affiliateUrl": "https://ty.gl/xzpxnyi9q1tsb",
+          "stock": "inStock",
+          "sellerRating": 4.3,
+          "updatedAt": "2026-08-16T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "p_ty_267748711",
+      "slug": "beauty-of-joseon-relief-sun-rice-probiotics-spf50-pa-50-ml",
+      "brand": "Beauty of Joseon",
+      "name": "Relief Sun Rice + Probiotics SPF50+ PA++++ 50 ml",
+      "category": "kozmetik",
+      "glyph": "☀️",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1741/prod/QC_ENRICHMENT/20250831/12/37b30124-311f-3d1a-9d69-e27f8eb9272e/1_org_zoom.jpg"
+      ],
+      "score": 96,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.5 (4070)"
+        },
+        {
+          "icon": "🧴",
+          "label": "Hacim",
+          "value": "50 ml"
+        },
+        {
+          "icon": "💸",
+          "label": "ml başı",
+          "value": "11,78 TL"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "☀️",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Beauty of Joseon"
+            },
+            {
+              "label": "Öne çıkan içerik",
+              "value": "SPF50+ PA++++ · pirinç özü",
+              "emphasized": true,
+              "sentiment": "good"
+            },
+            {
+              "label": "Hacim",
+              "value": "50 ml"
+            },
+            {
+              "label": "ML başına fiyat",
+              "value": "11,78 TL"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.5 (4070 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "kozmetik",
+        "cilt bakımı",
+        "tiktok",
+        "viral",
+        "beauty of joseon"
+      ],
+      "userRating": 4.5,
+      "reviewCount": 4070,
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 589,
+          "storeUrl": "https://www.trendyol.com/beauty-of-joseon/relief-sun-rice-probiotics-spf-50-pa-aydinlatici-kimyasal-filtreli-uv-koruyucu-gunes-kremi-50ml-p-267748711",
+          "affiliateUrl": "https://ty.gl/xzpxnyi9q1tsb",
+          "stock": "inStock",
+          "sellerRating": 4.5,
+          "updatedAt": "2026-08-16T00:00:00Z",
+          "shipping": 0
+        }
+      ]
+    },
+    {
+      "id": "p_ty_338877323",
+      "slug": "skin1004-centella-hyalu-cica-su-bazli-gunes-kremi-spf50-pa-50-ml",
+      "brand": "Skin1004",
+      "name": "Centella Hyalu-Cica Su Bazlı Güneş Kremi SPF50+ PA++++ 50 ml",
+      "category": "kozmetik",
+      "glyph": "☀️",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1814/prod/QC_ENRICHMENT/20260119/11/52afec5f-ad3f-3b14-87d2-c6bc2dd16435/1_org_zoom.jpg"
+      ],
+      "score": 98,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.6 (1480)"
+        },
+        {
+          "icon": "🧴",
+          "label": "Hacim",
+          "value": "50 ml"
+        },
+        {
+          "icon": "💸",
+          "label": "ml başı",
+          "value": "14,20 TL"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "☀️",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Skin1004"
+            },
+            {
+              "label": "Öne çıkan içerik",
+              "value": "SPF50+ PA++++ · centella",
+              "emphasized": true,
+              "sentiment": "good"
+            },
+            {
+              "label": "Hacim",
+              "value": "50 ml"
+            },
+            {
+              "label": "ML başına fiyat",
+              "value": "14,20 TL"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.6 (1480 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "kozmetik",
+        "cilt bakımı",
+        "tiktok",
+        "viral",
+        "skin1004"
+      ],
+      "userRating": 4.6,
+      "reviewCount": 1480,
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 710,
+          "storeUrl": "https://www.trendyol.com/skin1004/madagaskar-centella-hyalu-cica-su-bazli-gunes-kremi-spf-50-pa-50-ml-p-338877323",
+          "affiliateUrl": "https://ty.gl/xzpxnyi9q1tsb",
+          "stock": "inStock",
+          "sellerRating": 4.6,
+          "updatedAt": "2026-08-16T00:00:00Z",
+          "shipping": 0
+        }
+      ]
+    },
+    {
+      "id": "p_ty_159186217",
+      "slug": "round-lab-birch-juice-moisturizing-sunscreen-50-ml",
+      "brand": "Round Lab",
+      "name": "Birch Juice Moisturizing Sunscreen 50 ml",
+      "category": "kozmetik",
+      "glyph": "☀️",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1784/prod/QC_ENRICHMENT/20251031/03/1cfd5fd9-eb75-3a63-b4c6-628634e6f2b4/1_org_zoom.jpg"
+      ],
+      "score": 96,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.5 (1046)"
+        },
+        {
+          "icon": "🧴",
+          "label": "Hacim",
+          "value": "50 ml"
+        },
+        {
+          "icon": "💸",
+          "label": "ml başı",
+          "value": "14,78 TL"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "☀️",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Round Lab"
+            },
+            {
+              "label": "Öne çıkan içerik",
+              "value": "Huş özsuyu · nemlendirici",
+              "emphasized": true,
+              "sentiment": "good"
+            },
+            {
+              "label": "Hacim",
+              "value": "50 ml"
+            },
+            {
+              "label": "ML başına fiyat",
+              "value": "14,78 TL"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.5 (1046 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "kozmetik",
+        "cilt bakımı",
+        "tiktok",
+        "viral",
+        "round lab"
+      ],
+      "userRating": 4.5,
+      "reviewCount": 1046,
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 739,
+          "storeUrl": "https://www.trendyol.com/round-lab/birch-juice-moisturizing-sunscreen-nemlendirici-aydinlatici-gunes-kremi-50-ml-p-159186217",
+          "affiliateUrl": "https://ty.gl/xzpxnyi9q1tsb",
+          "stock": "inStock",
+          "sellerRating": 4.5,
+          "updatedAt": "2026-08-16T00:00:00Z",
+          "shipping": 0
+        }
+      ]
+    },
+    {
+      "id": "p_ty_767609956",
+      "slug": "anua-heartleaf-77-soothing-toner-250-ml",
+      "brand": "ANUA",
+      "name": "Heartleaf 77% Soothing Toner 250 ml",
+      "category": "kozmetik",
+      "glyph": "🍃",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1631/prod/QC/20250128/14/ae8e6f99-3d6a-3fe9-929b-926606103e6a/1_org_zoom.jpg"
+      ],
+      "score": 96,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.5 (380)"
+        },
+        {
+          "icon": "🧴",
+          "label": "Hacim",
+          "value": "250 ml"
+        },
+        {
+          "icon": "💸",
+          "label": "ml başı",
+          "value": "5,66 TL"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "🍃",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "ANUA"
+            },
+            {
+              "label": "Öne çıkan içerik",
+              "value": "%77 heartleaf özü",
+              "emphasized": true,
+              "sentiment": "good"
+            },
+            {
+              "label": "Hacim",
+              "value": "250 ml"
+            },
+            {
+              "label": "ML başına fiyat",
+              "value": "5,66 TL"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.5 (380 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "kozmetik",
+        "cilt bakımı",
+        "tiktok",
+        "viral",
+        "anua"
+      ],
+      "userRating": 4.5,
+      "reviewCount": 380,
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 1414.71,
+          "storeUrl": "https://www.trendyol.com/anua/heartleaf-77-soothing-toner-nemlendirici-yatistirici-tonik-250ml-p-767609956",
+          "affiliateUrl": "https://ty.gl/xzpxnyi9q1tsb",
+          "stock": "inStock",
+          "sellerRating": 4.5,
+          "updatedAt": "2026-08-16T00:00:00Z",
+          "shipping": 0
+        }
+      ]
+    },
+    {
+      "id": "p_ty_897016688",
+      "slug": "medicube-pdrn-pink-peptide-serum",
+      "brand": "Medicube",
+      "name": "PDRN Pink Peptide Serum",
+      "category": "kozmetik",
+      "glyph": "🧴",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1934/prod/QC_ENRICHMENT/20260612/10/cd7807c5-321b-3aeb-953a-0d4a433da86b/1_org_zoom.jpg"
+      ],
+      "score": 95,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.4 (208)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "🧴",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Medicube"
+            },
+            {
+              "label": "Öne çıkan içerik",
+              "value": "PDRN + peptit",
+              "emphasized": true,
+              "sentiment": "good"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.4 (208 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "kozmetik",
+        "cilt bakımı",
+        "tiktok",
+        "viral",
+        "medicube"
+      ],
+      "userRating": 4.4,
+      "reviewCount": 208,
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 797.49,
+          "storeUrl": "https://www.trendyol.com/medicube/medicube-pdrn-pink-peptide-serum-p-897016688",
+          "affiliateUrl": "https://ty.gl/xzpxnyi9q1tsb",
+          "stock": "inStock",
+          "sellerRating": 4.4,
+          "updatedAt": "2026-08-16T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "p_ty_766017948",
+      "slug": "torriden-dive-in-low-molecular-hyaluronic-acid-serum-50-ml",
+      "brand": "Torriden",
+      "name": "Dive-In Low Molecular Hyaluronic Acid Serum 50 ml",
+      "category": "kozmetik",
+      "glyph": "💦",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1513/product/media/images/prod/QC/20240830/00/37ac7c68-4af5-3069-89c3-bafcc25fd798/1_org_zoom.jpg"
+      ],
+      "score": 98,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.6 (129)"
+        },
+        {
+          "icon": "🧴",
+          "label": "Hacim",
+          "value": "50 ml"
+        },
+        {
+          "icon": "💸",
+          "label": "ml başı",
+          "value": "24,10 TL"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "💦",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Torriden"
+            },
+            {
+              "label": "Öne çıkan içerik",
+              "value": "5 tip hyalüronik asit",
+              "emphasized": true,
+              "sentiment": "good"
+            },
+            {
+              "label": "Hacim",
+              "value": "50 ml"
+            },
+            {
+              "label": "ML başına fiyat",
+              "value": "24,10 TL"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.6 (129 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "kozmetik",
+        "cilt bakımı",
+        "tiktok",
+        "viral",
+        "torriden"
+      ],
+      "userRating": 4.6,
+      "reviewCount": 129,
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 1205,
+          "storeUrl": "https://www.trendyol.com/torriden/dive-in-low-molecular-hyaluronic-acid-serum-mikro-hyaluronik-asit-serumu-50ml-p-766017948",
+          "affiliateUrl": "https://ty.gl/xzpxnyi9q1tsb",
+          "stock": "inStock",
+          "sellerRating": 4.6,
+          "updatedAt": "2026-08-16T00:00:00Z",
+          "shipping": 0
+        }
+      ]
+    },
+    {
+      "id": "p_ty_36496290",
+      "slug": "laneige-lip-sleeping-mask-berry-20-g",
+      "brand": "Laneige",
+      "name": "Lip Sleeping Mask (Berry) 20 g",
+      "category": "kozmetik",
+      "glyph": "💋",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1794/prod/QC_ENRICHMENT/20251129/17/2d0634f8-f7a9-3436-9b72-6ff433b73828/1_org_zoom.jpg"
+      ],
+      "score": 94,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.3 (203)"
+        },
+        {
+          "icon": "🧴",
+          "label": "Hacim",
+          "value": "20 g"
+        },
+        {
+          "icon": "💸",
+          "label": "g başı",
+          "value": "61,68 TL"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "💋",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Laneige"
+            },
+            {
+              "label": "Öne çıkan içerik",
+              "value": "Gece dudak maskesi",
+              "emphasized": true,
+              "sentiment": "good"
+            },
+            {
+              "label": "Hacim",
+              "value": "20 g"
+            },
+            {
+              "label": "G başına fiyat",
+              "value": "61,68 TL"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.3 (203 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "kozmetik",
+        "cilt bakımı",
+        "tiktok",
+        "viral",
+        "laneige"
+      ],
+      "userRating": 4.3,
+      "reviewCount": 203,
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 1233.51,
+          "storeUrl": "https://www.trendyol.com/laneige/lip-sleeping-mask-berry-20-g-dudak-icin-gece-maskesi-p-36496290",
+          "affiliateUrl": "https://ty.gl/xzpxnyi9q1tsb",
+          "stock": "inStock",
+          "sellerRating": 4.3,
+          "updatedAt": "2026-08-16T00:00:00Z",
+          "shipping": 0
+        }
+      ]
     }
   ]
 }
