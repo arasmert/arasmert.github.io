@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-15T17:10:07.100338Z",
+  "updatedAt": "2026-08-16T12:16:04Z",
   "collections": [
     {
       "id": "yaz_sicak",
@@ -49,16 +49,20 @@
       "rule": "priceDrops"
     },
     {
-      "id": "spor_takviye",
-      "title": "Sağlıklı spor takviyeleri",
-      "subtitle": "Etkisi kanıtlanmış olanlar, pahalı olanlar değil",
+      "id": "spor_atistirmalik",
+      "title": "Sağlıklı spor atıştırmalıkları",
       "icon": "💪",
       "products": [
-        "p_whey_impact",
-        "p_creatine_mono",
-        "p_magnesium",
-        "p_grenade_bar",
-        "p_multivitamin"
+        "p_ty_772605184",
+        "p_ty_772605282",
+        "p_ty_772603643",
+        "p_ty_1104855931",
+        "p_ty_1151561488",
+        "p_ty_1121484896",
+        "p_ty_1151556669",
+        "p_ty_1124148987",
+        "p_ty_1175151598",
+        "p_ty_1121448966"
       ]
     },
     {
@@ -271,7 +275,8 @@
           "sellerRating": 4.7,
           "updatedAt": "2026-08-15T16:55:07.108340Z"
         }
-      ]
+      ],
+      "demo": true
     },
     {
       "id": "p_anthelios",
@@ -432,7 +437,8 @@
           "sellerRating": 4.8,
           "updatedAt": "2026-08-15T17:03:07.108353Z"
         }
-      ]
+      ],
+      "demo": true
     },
     {
       "id": "p_ordinary_niacinamide",
@@ -593,7 +599,8 @@
           "sellerRating": 4.2,
           "updatedAt": "2026-08-15T16:29:07.108369Z"
         }
-      ]
+      ],
+      "demo": true
     },
     {
       "id": "p_cerave_moist",
@@ -731,7 +738,8 @@
           "sellerRating": 4.7,
           "updatedAt": "2026-08-15T16:22:07.108382Z"
         }
-      ]
+      ],
+      "demo": true
     },
     {
       "id": "p_airpods_pro2",
@@ -916,7 +924,8 @@
           "sellerRating": 4.7,
           "updatedAt": "2026-08-15T16:45:07.108402Z"
         }
-      ]
+      ],
+      "demo": true
     },
     {
       "id": "p_soundcore_q30",
@@ -1064,7 +1073,8 @@
           "sellerRating": 4.6,
           "updatedAt": "2026-08-15T16:41:07.108416Z"
         }
-      ]
+      ],
+      "demo": true
     },
     {
       "id": "p_redmi_watch5",
@@ -1208,7 +1218,8 @@
           "sellerRating": 4.8,
           "updatedAt": "2026-08-15T16:18:07.108430Z"
         }
-      ]
+      ],
+      "demo": true
     },
     {
       "id": "p_philips_lattego",
@@ -1360,7 +1371,8 @@
           "sellerRating": 4.8,
           "updatedAt": "2026-08-15T16:57:07.108443Z"
         }
-      ]
+      ],
+      "demo": true
     },
     {
       "id": "p_xiaomi_airfryer",
@@ -1504,7 +1516,8 @@
           "sellerRating": 4.8,
           "updatedAt": "2026-08-15T17:01:07.108458Z"
         }
-      ]
+      ],
+      "demo": true
     },
     {
       "id": "p_dyson_v12",
@@ -1660,7 +1673,8 @@
           "sellerRating": 4.7,
           "updatedAt": "2026-08-15T16:39:07.108471Z"
         }
-      ]
+      ],
+      "demo": true
     },
     {
       "id": "p_air_force_1",
@@ -1809,7 +1823,8 @@
           "sellerRating": 4.7,
           "updatedAt": "2026-08-15T16:51:07.108489Z"
         }
-      ]
+      ],
+      "demo": true
     },
     {
       "id": "p_samba_og",
@@ -1952,7 +1967,8 @@
           "sellerRating": 3.9,
           "updatedAt": "2026-08-15T16:15:07.108769Z"
         }
-      ]
+      ],
+      "demo": true
     },
     {
       "id": "p_grenade_bar",
@@ -2121,7 +2137,8 @@
           "sellerRating": 4.4,
           "updatedAt": "2026-08-15T16:12:07.108815Z"
         }
-      ]
+      ],
+      "demo": true
     },
     {
       "id": "p_stanley_quencher",
@@ -2271,527 +2288,8 @@
           "sellerRating": 4.7,
           "updatedAt": "2026-08-15T16:43:07.108832Z"
         }
-      ]
-    },
-    {
-      "id": "p_whey_impact",
-      "slug": "myprotein-impact-whey-2kg",
-      "brand": "MyProtein",
-      "name": "Impact Whey Protein (2 kg)",
-      "category": "spor",
-      "glyph": "🥛",
-      "score": 82,
-      "verdict": "buy",
-      "shortDescription": "Kilogram başına en uygun temel whey protein tozlarından.",
-      "editorialSummary": "Gereksiz katkı içermeyen, sade bir whey konsantresi. Gram protein başına maliyeti bu segmentte en düşüklerden. Karıştırma kolaylığı ortalama; shaker olmadan topaklanabiliyor.",
-      "positives": [
-        {
-          "text": "Gram protein başına çok uygun maliyet"
-        },
-        {
-          "text": "Porsiyon başına 21 g protein"
-        },
-        {
-          "text": "Geniş aroma seçeneği"
-        }
       ],
-      "negatives": [
-        {
-          "text": "Shakersız karıştırıldığında topaklanıyor"
-        },
-        {
-          "text": "Bazı aromalar fazla tatlı"
-        }
-      ],
-      "quickFacts": [
-        {
-          "icon": "💪",
-          "label": "Protein",
-          "value": "21 g"
-        },
-        {
-          "icon": "📦",
-          "label": "Boy",
-          "value": "2 kg"
-        },
-        {
-          "icon": "🍬",
-          "label": "Şeker",
-          "value": "1 g"
-        }
-      ],
-      "attributeGroups": [
-        {
-          "title": "Besin Değerleri",
-          "icon": "🥗",
-          "initiallyExpanded": true,
-          "attributes": [
-            {
-              "label": "Protein (porsiyon)",
-              "value": "21 g",
-              "emphasized": true,
-              "sentiment": "good"
-            },
-            {
-              "label": "Porsiyon sayısı",
-              "value": "80"
-            },
-            {
-              "label": "Tip",
-              "value": "Whey konsantre"
-            },
-            {
-              "label": "Alerjen",
-              "value": "Süt, soya",
-              "sentiment": "warning"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        "protein",
-        "whey",
-        "takviye",
-        "spor"
-      ],
-      "trend": {
-        "score": 64,
-        "change": 0.09,
-        "socialMentions": 2100,
-        "startDate": "2026-07-06T14:10:07.106307Z"
-      },
-      "userRating": 4.6,
-      "reviewCount": 18400,
-      "offers": [
-        {
-          "marketplace": "trendyol",
-          "seller": "Trendyol",
-          "price": 1899.0,
-          "oldPrice": 2199.0,
-          "shipping": 0.0,
-          "storeUrl": "https://www.trendyol.com/urun/p-whey-impact",
-          "stock": "inStock",
-          "sellerRating": 4.6,
-          "delivery": "1-3 iş günü",
-          "updatedAt": "2026-08-15T17:04:07.109052Z"
-        },
-        {
-          "marketplace": "hepsiburada",
-          "seller": "Hepsiburada",
-          "price": 1989.0,
-          "shipping": 0.0,
-          "storeUrl": "https://www.hepsiburada.com/urun/p-whey-impact",
-          "stock": "inStock",
-          "sellerRating": 4.7,
-          "updatedAt": "2026-08-15T16:56:07.109074Z"
-        },
-        {
-          "marketplace": "amazon",
-          "seller": "Amazon",
-          "price": 1839.0,
-          "shipping": 59.9,
-          "storeUrl": "https://www.amazon.com.tr/urun/p-whey-impact",
-          "stock": "inStock",
-          "sellerRating": 4.3,
-          "updatedAt": "2026-08-15T16:47:07.109080Z"
-        },
-        {
-          "marketplace": "n11",
-          "seller": "n11",
-          "price": 2109.0,
-          "shipping": 0.0,
-          "storeUrl": "https://www.n11.com/urun/p-whey-impact",
-          "stock": "inStock",
-          "sellerRating": 4.2,
-          "updatedAt": "2026-08-15T16:32:07.109086Z"
-        }
-      ]
-    },
-    {
-      "id": "p_creatine_mono",
-      "slug": "hardline-kreatin-monohidrat",
-      "brand": "Hardline",
-      "name": "Creatine Monohydrate (300 g)",
-      "category": "spor",
-      "glyph": "⚗️",
-      "score": 80,
-      "verdict": "buy",
-      "shortDescription": "En çok araştırılmış takviye; sade kreatin monohidrat.",
-      "editorialSummary": "Kreatin monohidrat, etkisi en iyi belgelenmiş sporcu takviyesi. Pahalı \"yeni nesil\" kreatin türlerinin monohidrata belirgin bir üstünlüğü gösterilebilmiş değil — bu yüzden sade olanı almak mantıklı. İlk haftalarda su tutulmasına bağlı 1-2 kilo artış normal.",
-      "positives": [
-        {
-          "text": "Etkisi en iyi belgelenmiş takviye türü"
-        },
-        {
-          "text": "Günlük maliyeti çok düşük"
-        },
-        {
-          "text": "Katkısız, tek içerikli"
-        }
-      ],
-      "negatives": [
-        {
-          "text": "İlk haftalarda su tutulması yapabilir"
-        },
-        {
-          "text": "Suda tam çözünmüyor, tortu bırakıyor"
-        }
-      ],
-      "quickFacts": [
-        {
-          "icon": "⚗️",
-          "label": "Tip",
-          "value": "Monohidrat"
-        },
-        {
-          "icon": "📅",
-          "label": "Yeter",
-          "value": "60 gün"
-        },
-        {
-          "icon": "🧪",
-          "label": "Katkı",
-          "value": "Yok"
-        }
-      ],
-      "attributeGroups": [
-        {
-          "title": "İçerik",
-          "icon": "🧪",
-          "initiallyExpanded": true,
-          "attributes": [
-            {
-              "label": "İçerik",
-              "value": "%100 kreatin monohidrat",
-              "emphasized": true,
-              "sentiment": "good"
-            },
-            {
-              "label": "Günlük doz",
-              "value": "5 g"
-            },
-            {
-              "label": "Porsiyon sayısı",
-              "value": "60"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        "kreatin",
-        "takviye",
-        "spor",
-        "performans"
-      ],
-      "trend": {
-        "score": 71,
-        "change": 0.22,
-        "socialMentions": 4800,
-        "startDate": "2026-07-28T14:10:07.106329Z",
-        "source": "TikTok"
-      },
-      "userRating": 4.7,
-      "reviewCount": 9200,
-      "offers": [
-        {
-          "marketplace": "trendyol",
-          "seller": "Trendyol",
-          "price": 549.0,
-          "shipping": 0.0,
-          "storeUrl": "https://www.trendyol.com/urun/p-creatine-mono",
-          "stock": "inStock",
-          "sellerRating": 4.6,
-          "delivery": "1-3 iş günü",
-          "updatedAt": "2026-08-15T17:04:07.109091Z"
-        },
-        {
-          "marketplace": "hepsiburada",
-          "seller": "Hepsiburada",
-          "price": 576.0,
-          "shipping": 0.0,
-          "storeUrl": "https://www.hepsiburada.com/urun/p-creatine-mono",
-          "stock": "inStock",
-          "sellerRating": 4.7,
-          "updatedAt": "2026-08-15T16:56:07.109094Z"
-        },
-        {
-          "marketplace": "amazon",
-          "seller": "Amazon",
-          "price": 533.0,
-          "shipping": 59.9,
-          "storeUrl": "https://www.amazon.com.tr/urun/p-creatine-mono",
-          "stock": "inStock",
-          "sellerRating": 4.3,
-          "updatedAt": "2026-08-15T16:47:07.109098Z"
-        },
-        {
-          "marketplace": "n11",
-          "seller": "n11",
-          "price": 609.0,
-          "shipping": 0.0,
-          "storeUrl": "https://www.n11.com/urun/p-creatine-mono",
-          "stock": "inStock",
-          "sellerRating": 4.2,
-          "updatedAt": "2026-08-15T16:32:07.109102Z"
-        }
-      ]
-    },
-    {
-      "id": "p_magnesium",
-      "slug": "solgar-magnezyum-sitrat",
-      "brand": "Solgar",
-      "name": "Magnezyum Sitrat 200 mg",
-      "category": "spor",
-      "glyph": "💊",
-      "score": 83,
-      "verdict": "buy",
-      "shortDescription": "Emilimi yüksek sitrat formunda magnezyum.",
-      "editorialSummary": "Sitrat formu, ucuz takviyelerde sık kullanılan okside göre belirgin şekilde daha iyi emiliyor. Kas krampı ve uyku kalitesi için sık tercih ediliyor. Tablet boyu büyük; yutmakta zorlananlar için not.",
-      "positives": [
-        {
-          "text": "Sitrat formu, okside göre daha iyi emiliyor"
-        },
-        {
-          "text": "Şeker ve gluten içermiyor"
-        },
-        {
-          "text": "Güvenilir üretici"
-        }
-      ],
-      "negatives": [
-        {
-          "text": "Tabletler büyük, yutması zor olabilir"
-        },
-        {
-          "text": "Yüksek dozda sindirim sistemini gevşetebilir"
-        }
-      ],
-      "quickFacts": [
-        {
-          "icon": "💊",
-          "label": "Doz",
-          "value": "200 mg"
-        },
-        {
-          "icon": "🧬",
-          "label": "Form",
-          "value": "Sitrat"
-        },
-        {
-          "icon": "📅",
-          "label": "Yeter",
-          "value": "60 gün"
-        }
-      ],
-      "attributeGroups": [
-        {
-          "title": "İçerik",
-          "icon": "🧪",
-          "initiallyExpanded": true,
-          "attributes": [
-            {
-              "label": "Form",
-              "value": "Magnezyum sitrat",
-              "note": "Emilimi okside göre yüksek",
-              "emphasized": true,
-              "sentiment": "good"
-            },
-            {
-              "label": "Tablet sayısı",
-              "value": "60"
-            },
-            {
-              "label": "Gluten / şeker",
-              "value": "Yok",
-              "sentiment": "good"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        "magnezyum",
-        "vitamin",
-        "takviye",
-        "uyku"
-      ],
-      "trend": {
-        "score": 66,
-        "change": 0.14,
-        "socialMentions": 3300,
-        "startDate": "2026-07-16T14:10:07.106334Z"
-      },
-      "userRating": 4.7,
-      "reviewCount": 12600,
-      "offers": [
-        {
-          "marketplace": "trendyol",
-          "seller": "Trendyol",
-          "price": 429.0,
-          "shipping": 0.0,
-          "storeUrl": "https://www.trendyol.com/urun/p-magnesium",
-          "stock": "inStock",
-          "sellerRating": 4.6,
-          "delivery": "1-3 iş günü",
-          "updatedAt": "2026-08-15T17:04:07.109105Z"
-        },
-        {
-          "marketplace": "hepsiburada",
-          "seller": "Hepsiburada",
-          "price": 450.0,
-          "shipping": 0.0,
-          "storeUrl": "https://www.hepsiburada.com/urun/p-magnesium",
-          "stock": "inStock",
-          "sellerRating": 4.7,
-          "updatedAt": "2026-08-15T16:56:07.109108Z"
-        },
-        {
-          "marketplace": "amazon",
-          "seller": "Amazon",
-          "price": 416.0,
-          "shipping": 59.9,
-          "storeUrl": "https://www.amazon.com.tr/urun/p-magnesium",
-          "stock": "inStock",
-          "sellerRating": 4.3,
-          "updatedAt": "2026-08-15T16:47:07.109111Z"
-        },
-        {
-          "marketplace": "n11",
-          "seller": "n11",
-          "price": 476.0,
-          "shipping": 0.0,
-          "storeUrl": "https://www.n11.com/urun/p-magnesium",
-          "stock": "inStock",
-          "sellerRating": 4.2,
-          "updatedAt": "2026-08-15T16:32:07.109114Z"
-        }
-      ]
-    },
-    {
-      "id": "p_multivitamin",
-      "slug": "natures-bounty-multivitamin",
-      "brand": "Nature's Bounty",
-      "name": "Multivitamin & Mineral",
-      "category": "spor",
-      "glyph": "🟠",
-      "score": 68,
-      "verdict": "conditional",
-      "shortDescription": "Dengeli beslenen çoğu kişi için gereksiz olabilen genel takviye.",
-      "editorialSummary": "İçerik dengeli ve fiyatı makul. Ancak dengeli beslenen sağlıklı bir yetişkinde multivitaminin ölçülebilir bir faydası genelde gösterilemiyor. Eksiği olduğunu bilerek almak mantıklı; \"garanti olsun\" diye almak çoğu zaman gereksiz masraf.",
-      "positives": [
-        {
-          "text": "Geniş vitamin-mineral yelpazesi"
-        },
-        {
-          "text": "Günlük maliyeti düşük"
-        }
-      ],
-      "negatives": [
-        {
-          "text": "Eksiklik yoksa ölçülebilir faydası belirsiz"
-        },
-        {
-          "text": "Bazı vitaminler günlük ihtiyacın çok üzerinde"
-        },
-        {
-          "text": "Demir içeriği herkes için uygun değil"
-        }
-      ],
-      "quickFacts": [
-        {
-          "icon": "🟠",
-          "label": "Tablet",
-          "value": "100 adet"
-        },
-        {
-          "icon": "📅",
-          "label": "Yeter",
-          "value": "100 gün"
-        },
-        {
-          "icon": "⚠️",
-          "label": "Demir",
-          "value": "İçerir"
-        }
-      ],
-      "attributeGroups": [
-        {
-          "title": "İçerik",
-          "icon": "🧪",
-          "initiallyExpanded": true,
-          "attributes": [
-            {
-              "label": "Tablet sayısı",
-              "value": "100"
-            },
-            {
-              "label": "Demir",
-              "value": "İçerir",
-              "note": "Demir fazlalığı olanlar için uygun değil",
-              "sentiment": "warning"
-            },
-            {
-              "label": "Günlük doz",
-              "value": "1 tablet"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        "multivitamin",
-        "takviye",
-        "vitamin"
-      ],
-      "trend": {
-        "score": 52,
-        "change": 0.03,
-        "socialMentions": 900,
-        "startDate": "2026-04-17T14:10:07.106338Z"
-      },
-      "userRating": 4.4,
-      "reviewCount": 7100,
-      "offers": [
-        {
-          "marketplace": "trendyol",
-          "seller": "Trendyol",
-          "price": 379.0,
-          "shipping": 0.0,
-          "storeUrl": "https://www.trendyol.com/urun/p-multivitamin",
-          "stock": "inStock",
-          "sellerRating": 4.6,
-          "delivery": "1-3 iş günü",
-          "updatedAt": "2026-08-15T17:04:07.109117Z"
-        },
-        {
-          "marketplace": "hepsiburada",
-          "seller": "Hepsiburada",
-          "price": 398.0,
-          "shipping": 0.0,
-          "storeUrl": "https://www.hepsiburada.com/urun/p-multivitamin",
-          "stock": "inStock",
-          "sellerRating": 4.7,
-          "updatedAt": "2026-08-15T16:56:07.109121Z"
-        },
-        {
-          "marketplace": "amazon",
-          "seller": "Amazon",
-          "price": 368.0,
-          "shipping": 59.9,
-          "storeUrl": "https://www.amazon.com.tr/urun/p-multivitamin",
-          "stock": "inStock",
-          "sellerRating": 4.3,
-          "updatedAt": "2026-08-15T16:47:07.109124Z"
-        },
-        {
-          "marketplace": "n11",
-          "seller": "n11",
-          "price": 421.0,
-          "shipping": 0.0,
-          "storeUrl": "https://www.n11.com/urun/p-multivitamin",
-          "stock": "inStock",
-          "sellerRating": 4.2,
-          "updatedAt": "2026-08-15T16:32:07.109127Z"
-        }
-      ]
+      "demo": true
     },
     {
       "id": "p_tower_fan",
@@ -2925,7 +2423,8 @@
           "sellerRating": 4.2,
           "updatedAt": "2026-08-15T16:32:07.109143Z"
         }
-      ]
+      ],
+      "demo": true
     },
     {
       "id": "p_mini_fan",
@@ -3054,7 +2553,8 @@
           "sellerRating": 4.2,
           "updatedAt": "2026-08-15T16:32:07.109156Z"
         }
-      ]
+      ],
+      "demo": true
     },
     {
       "id": "p_cooling_pillow",
@@ -3183,7 +2683,8 @@
           "sellerRating": 4.2,
           "updatedAt": "2026-08-15T16:32:07.109170Z"
         }
-      ]
+      ],
+      "demo": true
     },
     {
       "id": "p_backpack",
@@ -3316,7 +2817,8 @@
           "sellerRating": 4.2,
           "updatedAt": "2026-08-15T16:32:07.109182Z"
         }
-      ]
+      ],
+      "demo": true
     },
     {
       "id": "p_lunch_box",
@@ -3444,7 +2946,8 @@
           "sellerRating": 4.2,
           "updatedAt": "2026-08-15T16:32:07.109196Z"
         }
-      ]
+      ],
+      "demo": true
     },
     {
       "id": "p_student_tablet",
@@ -3581,7 +3084,8 @@
           "sellerRating": 4.2,
           "updatedAt": "2026-08-15T16:32:07.109210Z"
         }
-      ]
+      ],
+      "demo": true
     },
     {
       "id": "p_pencil_case",
@@ -3709,7 +3213,8 @@
           "sellerRating": 4.2,
           "updatedAt": "2026-08-15T16:32:07.109226Z"
         }
-      ]
+      ],
+      "demo": true
     },
     {
       "id": "p_laneige_lip",
@@ -3839,7 +3344,8 @@
           "sellerRating": 4.2,
           "updatedAt": "2026-08-15T16:32:07.109242Z"
         }
-      ]
+      ],
+      "demo": true
     },
     {
       "id": "p_maybelline_mascara",
@@ -3968,7 +3474,8 @@
           "sellerRating": 4.2,
           "updatedAt": "2026-08-15T16:32:07.109261Z"
         }
-      ]
+      ],
+      "demo": true
     },
     {
       "id": "p_xiaomi_purifier",
@@ -4108,7 +3615,8 @@
           "sellerRating": 4.2,
           "updatedAt": "2026-08-15T16:32:07.109276Z"
         }
-      ]
+      ],
+      "demo": true
     },
     {
       "id": "p_levoit_core300",
@@ -4241,7 +3749,8 @@
           "sellerRating": 4.2,
           "updatedAt": "2026-08-15T16:32:07.109290Z"
         }
-      ]
+      ],
+      "demo": true
     },
     {
       "id": "p_philips_purifier",
@@ -4376,7 +3885,8 @@
           "sellerRating": 4.2,
           "updatedAt": "2026-08-15T16:32:07.109304Z"
         }
-      ]
+      ],
+      "demo": true
     },
     {
       "id": "p_uniqlo_tee",
@@ -4510,7 +4020,8 @@
           "sellerRating": 4.2,
           "updatedAt": "2026-08-15T16:32:07.109318Z"
         }
-      ]
+      ],
+      "demo": true
     },
     {
       "id": "p_mavi_tee",
@@ -4637,7 +4148,8 @@
           "sellerRating": 4.2,
           "updatedAt": "2026-08-15T16:32:07.109331Z"
         }
-      ]
+      ],
+      "demo": true
     },
     {
       "id": "p_hm_tee",
@@ -4766,7 +4278,8 @@
           "sellerRating": 4.2,
           "updatedAt": "2026-08-15T16:32:07.109344Z"
         }
-      ]
+      ],
+      "demo": true
     },
     {
       "id": "p_lego_classic",
@@ -4897,7 +4410,8 @@
           "sellerRating": 4.2,
           "updatedAt": "2026-08-15T16:32:07.109359Z"
         }
-      ]
+      ],
+      "demo": true
     },
     {
       "id": "p_wooden_blocks",
@@ -5032,7 +4546,8 @@
           "sellerRating": 4.2,
           "updatedAt": "2026-08-15T16:32:07.109374Z"
         }
-      ]
+      ],
+      "demo": true
     },
     {
       "id": "p_playdoh",
@@ -5159,6 +4674,943 @@
           "stock": "inStock",
           "sellerRating": 4.2,
           "updatedAt": "2026-08-15T16:32:07.109385Z"
+        }
+      ],
+      "demo": true
+    },
+    {
+      "id": "p_ty_772605184",
+      "slug": "bite-more-protein-cocoa-pancake-proteinli-kakao-pankek-50-gram-x-12-ad",
+      "brand": "bite & more",
+      "name": "Protein Cocoa Pancake / Proteinli Kakao Pankek 50 Gram X 12 Adet - Blueberries",
+      "category": "spor",
+      "glyph": "🥞",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1017/product/media/images/prod/SPM/PIM/20231020/18/bec593b5-ba2d-3f87-846a-25f068617f4f/1_org_zoom.jpg"
+      ],
+      "protein": 10.0,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "💪",
+          "label": "Protein",
+          "value": "10 g / porsiyon"
+        },
+        {
+          "icon": "💸",
+          "label": "Adet başı",
+          "value": "99,08 TL"
+        },
+        {
+          "icon": "📦",
+          "label": "Adet",
+          "value": "12 adet"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Besin ve Paket Bilgisi",
+          "icon": "🥞",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "bite & more"
+            },
+            {
+              "label": "Porsiyon başına protein",
+              "value": "10 g",
+              "emphasized": true,
+              "sentiment": "good"
+            },
+            {
+              "label": "Porsiyon başına lif",
+              "value": "3 g"
+            },
+            {
+              "label": "Porsiyon",
+              "value": "50 g"
+            },
+            {
+              "label": "Paket",
+              "value": "12 adet"
+            },
+            {
+              "label": "Adet başı fiyat",
+              "value": "99,08 TL"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "5.0 (3 değerlendirme)"
+            }
+          ],
+          "footnote": "Değerler ürünün ambalajında yazan bilgilerden alınmıştır."
+        }
+      ],
+      "tags": [
+        "protein",
+        "atıştırmalık",
+        "fit",
+        "spor gıdası",
+        "bite & more"
+      ],
+      "userRating": 5.0,
+      "reviewCount": 3,
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 1189,
+          "storeUrl": "https://www.trendyol.com/bite-more/protein-cocoa-pancake-proteinli-kakao-pankek-50-gram-x-12-adet-blueberries-p-772605184",
+          "affiliateUrl": "https://ty.gl/g5peit7dbyn05",
+          "stock": "lowStock",
+          "sellerRating": 5.0,
+          "updatedAt": "2026-08-16T00:00:00Z",
+          "shipping": 0
+        }
+      ]
+    },
+    {
+      "id": "p_ty_772605282",
+      "slug": "bite-more-protein-cocoa-pancake-proteinli-kakao-pankek-50-gram-x-12-ad",
+      "brand": "bite & more",
+      "name": "Protein Cocoa Pancake / Proteinli Kakao Pankek 50 Gram X 12 Adet - Speculoos",
+      "category": "spor",
+      "glyph": "🥞",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1330/product/media/images/prod/QC/20240525/04/1e92a5ca-9e46-33e3-841f-23defaff43fd/1_org_zoom.jpg"
+      ],
+      "protein": 10.0,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "💪",
+          "label": "Protein",
+          "value": "10 g / porsiyon"
+        },
+        {
+          "icon": "💸",
+          "label": "Adet başı",
+          "value": "99,08 TL"
+        },
+        {
+          "icon": "📦",
+          "label": "Adet",
+          "value": "12 adet"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Besin ve Paket Bilgisi",
+          "icon": "🥞",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "bite & more"
+            },
+            {
+              "label": "Porsiyon başına protein",
+              "value": "10 g",
+              "emphasized": true,
+              "sentiment": "good"
+            },
+            {
+              "label": "Porsiyon başına lif",
+              "value": "3,5 g"
+            },
+            {
+              "label": "Porsiyon",
+              "value": "50 g"
+            },
+            {
+              "label": "Paket",
+              "value": "12 adet"
+            },
+            {
+              "label": "Adet başı fiyat",
+              "value": "99,08 TL"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "5.0 (5 değerlendirme)"
+            }
+          ],
+          "footnote": "Değerler ürünün ambalajında yazan bilgilerden alınmıştır."
+        }
+      ],
+      "tags": [
+        "protein",
+        "atıştırmalık",
+        "fit",
+        "spor gıdası",
+        "bite & more"
+      ],
+      "userRating": 5.0,
+      "reviewCount": 5,
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 1189,
+          "storeUrl": "https://www.trendyol.com/bite-more/protein-cocoa-pancake-proteinli-kakao-pankek-50-gram-x-12-adet-speculoos-p-772605282",
+          "affiliateUrl": "https://ty.gl/g5peit7dbyn05",
+          "stock": "lowStock",
+          "sellerRating": 5.0,
+          "updatedAt": "2026-08-16T00:00:00Z",
+          "shipping": 0
+        }
+      ]
+    },
+    {
+      "id": "p_ty_772603643",
+      "slug": "bite-more-protein-cocoa-pancake-proteinli-kakao-pankek-50-gram-x-12-ad",
+      "brand": "bite & more",
+      "name": "Protein Cocoa Pancake / Proteinli Kakao Pankek 50 Gram X 12 Adet - Double Chocolate",
+      "category": "spor",
+      "glyph": "🥞",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1018/product/media/images/prod/SPM/PIM/20231020/18/58d1c642-79e3-31b1-b7cb-5dbfcc7f9c67/1_org_zoom.jpg"
+      ],
+      "protein": 10.0,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "💪",
+          "label": "Protein",
+          "value": "10 g / porsiyon"
+        },
+        {
+          "icon": "💸",
+          "label": "Adet başı",
+          "value": "99,08 TL"
+        },
+        {
+          "icon": "📦",
+          "label": "Adet",
+          "value": "12 adet"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Besin ve Paket Bilgisi",
+          "icon": "🥞",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "bite & more"
+            },
+            {
+              "label": "Porsiyon başına protein",
+              "value": "10 g",
+              "emphasized": true,
+              "sentiment": "good"
+            },
+            {
+              "label": "Porsiyon başına lif",
+              "value": "4 g"
+            },
+            {
+              "label": "Porsiyon",
+              "value": "50 g"
+            },
+            {
+              "label": "Paket",
+              "value": "12 adet"
+            },
+            {
+              "label": "Adet başı fiyat",
+              "value": "99,08 TL"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "5.0 (9 değerlendirme)"
+            }
+          ],
+          "footnote": "Değerler ürünün ambalajında yazan bilgilerden alınmıştır."
+        }
+      ],
+      "tags": [
+        "protein",
+        "atıştırmalık",
+        "fit",
+        "spor gıdası",
+        "bite & more"
+      ],
+      "userRating": 5.0,
+      "reviewCount": 9,
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 1189,
+          "storeUrl": "https://www.trendyol.com/bite-more/protein-cocoa-pancake-proteinli-kakao-pankek-50-gram-x-12-adet-double-chocolate-p-772603643",
+          "affiliateUrl": "https://ty.gl/g5peit7dbyn05",
+          "stock": "lowStock",
+          "sellerRating": 5.0,
+          "updatedAt": "2026-08-16T00:00:00Z",
+          "shipping": 0
+        }
+      ]
+    },
+    {
+      "id": "p_ty_1104855931",
+      "slug": "clean-powders-protein-pancake-55-gr-12-adet-red-velvet",
+      "brand": "Clean Powders",
+      "name": "Protein Pancake 55 Gr 12 Adet - Red Velvet",
+      "category": "spor",
+      "glyph": "🥞",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1842/prod/QC_ENRICHMENT/20260324/17/6e33a97f-4542-3c58-a602-641990ac01ef/1_org_zoom.jpg"
+      ],
+      "protein": 15.0,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "💪",
+          "label": "Protein",
+          "value": "15 g / porsiyon"
+        },
+        {
+          "icon": "💸",
+          "label": "Adet başı",
+          "value": "83,25 TL"
+        },
+        {
+          "icon": "📦",
+          "label": "Adet",
+          "value": "12 adet"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Besin ve Paket Bilgisi",
+          "icon": "🥞",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Clean Powders"
+            },
+            {
+              "label": "Porsiyon başına protein",
+              "value": "15 g",
+              "emphasized": true,
+              "sentiment": "good"
+            },
+            {
+              "label": "Porsiyon başına lif",
+              "value": "4,1 g"
+            },
+            {
+              "label": "Porsiyon",
+              "value": "55 g"
+            },
+            {
+              "label": "Paket",
+              "value": "12 adet"
+            },
+            {
+              "label": "Adet başı fiyat",
+              "value": "83,25 TL"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.5 (19 değerlendirme)"
+            }
+          ],
+          "footnote": "Değerler ürünün ambalajında yazan bilgilerden alınmıştır."
+        }
+      ],
+      "tags": [
+        "protein",
+        "atıştırmalık",
+        "fit",
+        "spor gıdası",
+        "clean powders"
+      ],
+      "userRating": 4.5,
+      "reviewCount": 19,
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 999,
+          "storeUrl": "https://www.trendyol.com/clean-powders/protein-pancake-55-gr-12-adet-red-velvet-p-1104855931",
+          "affiliateUrl": "https://ty.gl/g5peit7dbyn05",
+          "stock": "lowStock",
+          "sellerRating": 4.5,
+          "updatedAt": "2026-08-16T00:00:00Z",
+          "shipping": 0
+        }
+      ]
+    },
+    {
+      "id": "p_ty_1151561488",
+      "slug": "clean-powders-deluxe-protein-bar-36-protein-55-gr-1-adet-cikolata",
+      "brand": "Clean Powders",
+      "name": "Deluxe Protein Bar %36 Protein 55 Gr 1 Adet - Çikolata",
+      "category": "spor",
+      "glyph": "🍫",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1904/prod/QC_PREP/20260601/11/01a7aa42-70f9-3bf5-839d-b71b79b0373b/1_org_zoom.jpg"
+      ],
+      "protein": 20.0,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "💪",
+          "label": "Protein",
+          "value": "20 g / porsiyon"
+        },
+        {
+          "icon": "📦",
+          "label": "Adet",
+          "value": "1 adet"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Besin ve Paket Bilgisi",
+          "icon": "🍫",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Clean Powders"
+            },
+            {
+              "label": "Porsiyon başına protein",
+              "value": "20 g",
+              "emphasized": true,
+              "sentiment": "good"
+            },
+            {
+              "label": "Porsiyon",
+              "value": "55 g"
+            },
+            {
+              "label": "Paket",
+              "value": "1 adet"
+            },
+            {
+              "label": "Adet başı fiyat",
+              "value": "200,00 TL"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.2 (5 değerlendirme)"
+            }
+          ],
+          "footnote": "Değerler ürünün ambalajında yazan bilgilerden alınmıştır."
+        }
+      ],
+      "tags": [
+        "protein",
+        "atıştırmalık",
+        "fit",
+        "spor gıdası",
+        "clean powders"
+      ],
+      "userRating": 4.2,
+      "reviewCount": 5,
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 200,
+          "storeUrl": "https://www.trendyol.com/clean-powders/deluxe-protein-bar-36-protein-55-gr-1-adet-cikolata-p-1151561488",
+          "affiliateUrl": "https://ty.gl/g5peit7dbyn05",
+          "stock": "lowStock",
+          "sellerRating": 4.2,
+          "updatedAt": "2026-08-16T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "p_ty_1121484896",
+      "slug": "clean-powders-protein-pancake-55-gr-3-adet-kurabiye-kremasi",
+      "brand": "Clean Powders",
+      "name": "Protein Pancake 55 Gr 3 Adet - Kurabiye Kreması",
+      "category": "spor",
+      "glyph": "🥞",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1841/prod/QC_PREP/20260319/11/b9151fac-c86f-34ca-ab6c-62c5c86031c2/1_org_zoom.jpg"
+      ],
+      "protein": 13.0,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "💪",
+          "label": "Protein",
+          "value": "13 g / porsiyon"
+        },
+        {
+          "icon": "💸",
+          "label": "Adet başı",
+          "value": "99,67 TL"
+        },
+        {
+          "icon": "📦",
+          "label": "Adet",
+          "value": "3 adet"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Besin ve Paket Bilgisi",
+          "icon": "🥞",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Clean Powders"
+            },
+            {
+              "label": "Porsiyon başına protein",
+              "value": "13 g",
+              "emphasized": true,
+              "sentiment": "good"
+            },
+            {
+              "label": "Porsiyon başına lif",
+              "value": "4,4 g"
+            },
+            {
+              "label": "Porsiyon",
+              "value": "55 g"
+            },
+            {
+              "label": "Paket",
+              "value": "3 adet"
+            },
+            {
+              "label": "Adet başı fiyat",
+              "value": "99,67 TL"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.0 (15 değerlendirme)"
+            }
+          ],
+          "footnote": "Değerler ürünün ambalajında yazan bilgilerden alınmıştır."
+        }
+      ],
+      "tags": [
+        "protein",
+        "atıştırmalık",
+        "fit",
+        "spor gıdası",
+        "clean powders"
+      ],
+      "userRating": 4.0,
+      "reviewCount": 15,
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 299,
+          "storeUrl": "https://www.trendyol.com/clean-powders/protein-pancake-55-gr-3-adet-kurabiye-kremasi-p-1121484896",
+          "affiliateUrl": "https://ty.gl/g5peit7dbyn05",
+          "stock": "lowStock",
+          "sellerRating": 4.0,
+          "updatedAt": "2026-08-16T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "p_ty_1151556669",
+      "slug": "clean-powders-deluxe-protein-bar-36-protein-55-gr-12-adet-beyaz-cikola",
+      "brand": "Clean Powders",
+      "name": "Deluxe Protein Bar %36 Protein 55 Gr 12 Adet - Beyaz Çikolata Kurabiye",
+      "category": "spor",
+      "glyph": "🍫",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1896/prod/QC_ENRICHMENT/20260605/16/d1ce3150-da10-3933-811a-69b93b0bc010/1_org_zoom.jpg"
+      ],
+      "protein": 20.0,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "💪",
+          "label": "Protein",
+          "value": "20 g / porsiyon"
+        },
+        {
+          "icon": "💸",
+          "label": "Adet başı",
+          "value": "137,42 TL"
+        },
+        {
+          "icon": "📦",
+          "label": "Adet",
+          "value": "12 adet"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Besin ve Paket Bilgisi",
+          "icon": "🍫",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Clean Powders"
+            },
+            {
+              "label": "Porsiyon başına protein",
+              "value": "20 g",
+              "emphasized": true,
+              "sentiment": "good"
+            },
+            {
+              "label": "Porsiyon",
+              "value": "55 g"
+            },
+            {
+              "label": "Paket",
+              "value": "12 adet"
+            },
+            {
+              "label": "Adet başı fiyat",
+              "value": "137,42 TL"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "5.0 (15 değerlendirme)"
+            }
+          ],
+          "footnote": "Değerler ürünün ambalajında yazan bilgilerden alınmıştır."
+        }
+      ],
+      "tags": [
+        "protein",
+        "atıştırmalık",
+        "fit",
+        "spor gıdası",
+        "clean powders"
+      ],
+      "userRating": 5.0,
+      "reviewCount": 15,
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 1649,
+          "storeUrl": "https://www.trendyol.com/clean-powders/deluxe-protein-bar-36-protein-55-gr-12-adet-beyaz-cikolata-kurabiye-p-1151556669",
+          "affiliateUrl": "https://ty.gl/g5peit7dbyn05",
+          "stock": "inStock",
+          "sellerRating": 5.0,
+          "updatedAt": "2026-08-16T00:00:00Z",
+          "shipping": 0
+        }
+      ]
+    },
+    {
+      "id": "p_ty_1124148987",
+      "slug": "clean-powders-protein-coffee-proteinli-kahve-500-gr",
+      "brand": "Clean Powders",
+      "name": "Protein Coffee (Proteinli Kahve) 500 Gr",
+      "category": "spor",
+      "glyph": "☕",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1845/prod/QC_ENRICHMENT/20260326/18/43caec80-eb88-391d-8e19-385ec1bcec4c/1_org_zoom.jpg"
+      ],
+      "protein": 18.0,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "💪",
+          "label": "Protein",
+          "value": "18 g / porsiyon"
+        },
+        {
+          "icon": "💸",
+          "label": "Adet başı",
+          "value": "84,95 TL"
+        },
+        {
+          "icon": "📦",
+          "label": "Adet",
+          "value": "20 adet"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Besin ve Paket Bilgisi",
+          "icon": "☕",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Clean Powders"
+            },
+            {
+              "label": "Porsiyon başına protein",
+              "value": "18 g",
+              "emphasized": true,
+              "sentiment": "good"
+            },
+            {
+              "label": "Porsiyon",
+              "value": "25 g"
+            },
+            {
+              "label": "Paket",
+              "value": "20 adet"
+            },
+            {
+              "label": "Adet başı fiyat",
+              "value": "84,95 TL"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.3 (4 değerlendirme)"
+            }
+          ],
+          "footnote": "Değerler ürünün ambalajında yazan bilgilerden alınmıştır."
+        }
+      ],
+      "tags": [
+        "protein",
+        "atıştırmalık",
+        "fit",
+        "spor gıdası",
+        "clean powders"
+      ],
+      "userRating": 4.3,
+      "reviewCount": 4,
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 1699,
+          "storeUrl": "https://www.trendyol.com/clean-powders/protein-coffee-proteinli-kahve-500-gr-p-1124148987",
+          "affiliateUrl": "https://ty.gl/g5peit7dbyn05",
+          "stock": "lowStock",
+          "sellerRating": 4.3,
+          "updatedAt": "2026-08-16T00:00:00Z",
+          "shipping": 0
+        }
+      ]
+    },
+    {
+      "id": "p_ty_1175151598",
+      "slug": "clean-powders-yuksek-proteinli-tortilla-lavasi-6-li-420-gr",
+      "brand": "Clean Powders",
+      "name": "Yüksek Proteinli Tortilla Lavaşı 6'lı 420 Gr",
+      "category": "spor",
+      "glyph": "🌯",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1918/prod/QC_PREP/20260723/17/06dd27b6-cbdd-36ac-88ad-9f60e79b7e49/1_org_zoom.jpg"
+      ],
+      "protein": 14.0,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "💪",
+          "label": "Protein",
+          "value": "14 g / porsiyon"
+        },
+        {
+          "icon": "💸",
+          "label": "Adet başı",
+          "value": "61,50 TL"
+        },
+        {
+          "icon": "📦",
+          "label": "Adet",
+          "value": "6 adet"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Besin ve Paket Bilgisi",
+          "icon": "🌯",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Clean Powders"
+            },
+            {
+              "label": "Porsiyon başına protein",
+              "value": "14 g",
+              "emphasized": true,
+              "sentiment": "good"
+            },
+            {
+              "label": "Porsiyon",
+              "value": "70 g"
+            },
+            {
+              "label": "Paket",
+              "value": "6 adet"
+            },
+            {
+              "label": "Adet başı fiyat",
+              "value": "61,50 TL"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "5.0 (11 değerlendirme)"
+            }
+          ],
+          "footnote": "Değerler ürünün ambalajında yazan bilgilerden alınmıştır."
+        }
+      ],
+      "tags": [
+        "protein",
+        "atıştırmalık",
+        "fit",
+        "spor gıdası",
+        "clean powders"
+      ],
+      "userRating": 5.0,
+      "reviewCount": 11,
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 369,
+          "storeUrl": "https://www.trendyol.com/clean-powders/yuksek-proteinli-tortilla-lavasi-6-li-420-gr-p-1175151598",
+          "affiliateUrl": "https://ty.gl/g5peit7dbyn05",
+          "stock": "inStock",
+          "sellerRating": 5.0,
+          "updatedAt": "2026-08-16T00:00:00Z",
+          "shipping": 0
+        }
+      ]
+    },
+    {
+      "id": "p_ty_1121448966",
+      "slug": "clean-powders-protein-pancake-55-gr-3-adet-cikolata",
+      "brand": "Clean Powders",
+      "name": "Protein Pancake 55 Gr 3 Adet - Çikolata",
+      "category": "spor",
+      "glyph": "🥞",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1843/prod/QC_ENRICHMENT/20260323/11/e0779c2a-30e2-3457-b532-8098e15aa388/1_org_zoom.jpg"
+      ],
+      "protein": 13.0,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "💪",
+          "label": "Protein",
+          "value": "13 g / porsiyon"
+        },
+        {
+          "icon": "💸",
+          "label": "Adet başı",
+          "value": "99,67 TL"
+        },
+        {
+          "icon": "📦",
+          "label": "Adet",
+          "value": "3 adet"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Besin ve Paket Bilgisi",
+          "icon": "🥞",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Clean Powders"
+            },
+            {
+              "label": "Porsiyon başına protein",
+              "value": "13 g",
+              "emphasized": true,
+              "sentiment": "good"
+            },
+            {
+              "label": "Porsiyon başına lif",
+              "value": "4,4 g"
+            },
+            {
+              "label": "Porsiyon",
+              "value": "55 g"
+            },
+            {
+              "label": "Paket",
+              "value": "3 adet"
+            },
+            {
+              "label": "Adet başı fiyat",
+              "value": "99,67 TL"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.4 (22 değerlendirme)"
+            }
+          ],
+          "footnote": "Değerler ürünün ambalajında yazan bilgilerden alınmıştır."
+        }
+      ],
+      "tags": [
+        "protein",
+        "atıştırmalık",
+        "fit",
+        "spor gıdası",
+        "clean powders"
+      ],
+      "userRating": 4.4,
+      "reviewCount": 22,
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 299,
+          "storeUrl": "https://www.trendyol.com/clean-powders/protein-pancake-55-gr-3-adet-cikolata-p-1121448966",
+          "affiliateUrl": "https://ty.gl/g5peit7dbyn05",
+          "stock": "lowStock",
+          "sellerRating": 4.4,
+          "updatedAt": "2026-08-16T00:00:00Z"
         }
       ]
     }
