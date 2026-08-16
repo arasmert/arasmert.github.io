@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-16T14:56:36Z",
+  "updatedAt": "2026-08-16T19:23:32Z",
   "collections": [
     {
       "id": "yaz_sicak",
@@ -27,7 +27,23 @@
         "p_hb_HBCV0000514IL0",
         "p_hb_ofisfx82es",
         "p_hb_HBV000000ZJMU",
-        "p_hb_HB00001AVVDJ"
+        "p_hb_HB00001AVVDJ",
+        "p_ty_115467713",
+        "p_ty_280812342",
+        "p_ty_335408061",
+        "p_ty_671157474",
+        "p_ty_923400245",
+        "p_ty_929595744",
+        "p_ty_41193503",
+        "p_ty_48361052",
+        "p_ty_39137382",
+        "p_ty_46145131",
+        "p_ty_3968329",
+        "p_ty_120453524",
+        "p_ty_929697232",
+        "p_ty_904298041",
+        "p_ty_702010835",
+        "p_ty_53562023"
       ]
     },
     {
@@ -6125,6 +6141,973 @@
           "affiliateUrl": "https://ty.gl/95ilngmj03sh3",
           "stock": "inStock",
           "sellerRating": 4.7,
+          "updatedAt": "2026-08-16T00:00:00Z",
+          "shipping": 0
+        }
+      ]
+    },
+    {
+      "id": "p_ty_115467713",
+      "slug": "cambridge-polo-club-3-lu-set-ilkokul-cantasi",
+      "brand": "Cambridge Polo Club",
+      "name": "3'lü Set İlkokul Çantası",
+      "category": "moda",
+      "glyph": "🎒",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1697/prod/QC/20250612/12/6a8eb267-3ded-9bd4-2765d5a8b045/1_org_zoom.jpg"
+      ],
+      "score": 94,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.3 (1795)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "🎒",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Cambridge Polo Club"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.3 (1795 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "okula dönüş",
+        "moda",
+        "cambridge polo club"
+      ],
+      "userRating": 4.3,
+      "reviewCount": 1795,
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 609,
+          "storeUrl": "https://www.trendyol.com/cambridge-polo-club/3-lu-set-ilkokul-cantasi-p-115467713",
+          "affiliateUrl": "https://ty.gl/2z0gszjthip2q",
+          "stock": "inStock",
+          "sellerRating": 4.3,
+          "updatedAt": "2026-08-16T00:00:00Z",
+          "shipping": 0
+        }
+      ]
+    },
+    {
+      "id": "p_ty_280812342",
+      "slug": "smart-bags-3092-suet-detayli-sirt-cantasi-laptop-bolmeli",
+      "brand": "Smart Bags",
+      "name": "3092 Süet Detaylı Sırt Çantası (Laptop Bölmeli)",
+      "category": "moda",
+      "glyph": "🎒",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1000426/product/media/images/21/100918648/447217728/1/1_org_zoom.jpg"
+      ],
+      "score": 99,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.7 (119)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "🎒",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Smart Bags"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.7 (119 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "okula dönüş",
+        "moda",
+        "smart bags"
+      ],
+      "userRating": 4.7,
+      "reviewCount": 119,
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 972.1,
+          "storeUrl": "https://www.trendyol.com/smart-bags/3092-suet-detayli-sirt-cantasi-siyah-okul-laptop-bolmeli-p-280812342",
+          "affiliateUrl": "https://ty.gl/2z0gszjthip2q",
+          "stock": "inStock",
+          "sellerRating": 4.7,
+          "updatedAt": "2026-08-16T00:00:00Z",
+          "shipping": 0
+        }
+      ]
+    },
+    {
+      "id": "p_ty_335408061",
+      "slug": "wia-termoslu-beslenme-cantasi",
+      "brand": "Wia",
+      "name": "Termoslu Beslenme Çantası",
+      "category": "ev-yasam",
+      "glyph": "🍱",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1620/prod/QC/20250104/09/3f8b41a4-34cd-ac05-1fa3e6533d67/1_org_zoom.jpg"
+      ],
+      "score": 96,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.5 (1761)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "🍱",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Wia"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.5 (1761 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "okula dönüş",
+        "kırtasiye",
+        "wia"
+      ],
+      "userRating": 4.5,
+      "reviewCount": 1761,
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 262.7,
+          "storeUrl": "https://www.trendyol.com/wia/termoslu-beslenme-cantasi-siyah-p-335408061",
+          "affiliateUrl": "https://ty.gl/2z0gszjthip2q",
+          "stock": "inStock",
+          "sellerRating": 4.5,
+          "updatedAt": "2026-08-16T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "p_ty_671157474",
+      "slug": "weather-forecast-celik-matara-750-ml",
+      "brand": "Weather Forecast",
+      "name": "Çelik Matara 750 ml",
+      "category": "ev-yasam",
+      "glyph": "🥤",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1615/prod/QC/20241228/11/6a0f01d7-3f55-bac7-3895e01e7829/1_org_zoom.jpg"
+      ],
+      "score": 91,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.1 (323)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "🥤",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Weather Forecast"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.1 (323 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "okula dönüş",
+        "kırtasiye",
+        "weather forecast"
+      ],
+      "userRating": 4.1,
+      "reviewCount": 323,
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 401.99,
+          "storeUrl": "https://www.trendyol.com/weather-forecast/celik-siyah-kapak-750-ml-sporcu-matara-suluk-sicak-soguk-tutmaz-cin426-p-671157474",
+          "affiliateUrl": "https://ty.gl/2z0gszjthip2q",
+          "stock": "inStock",
+          "sellerRating": 4.1,
+          "updatedAt": "2026-08-16T00:00:00Z",
+          "shipping": 0
+        }
+      ]
+    },
+    {
+      "id": "p_ty_923400245",
+      "slug": "paperora-a5-spiralli-okul-defteri-2-li-set",
+      "brand": "PAPERORA",
+      "name": "A5 Spiralli Okul Defteri 2'li Set",
+      "category": "ev-yasam",
+      "glyph": "📓",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1731/prod/QC/20250815/12/8c3e9a9c-3eb2-a654-336db927cc11/1_org_zoom.jpg"
+      ],
+      "score": 100,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.9 (2874)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "📓",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "PAPERORA"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.9 (2874 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "okula dönüş",
+        "kırtasiye",
+        "paperora"
+      ],
+      "userRating": 4.9,
+      "reviewCount": 2874,
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 299,
+          "storeUrl": "https://www.trendyol.com/paperora/a5-spiralli-karton-kapak-2-li-set-kareli-okul-defteri-80-yaprak-ders-programli-ayicik-p-923400245",
+          "affiliateUrl": "https://ty.gl/2z0gszjthip2q",
+          "stock": "inStock",
+          "sellerRating": 4.9,
+          "updatedAt": "2026-08-16T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "p_ty_929595744",
+      "slug": "matt-notebook-a4-spiralli-okul-defteri-4-lu-set",
+      "brand": "Matt Notebook",
+      "name": "A4 Spiralli Okul Defteri 4'lü Set",
+      "category": "ev-yasam",
+      "glyph": "📓",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1671/product/media/images/prod/PIM/20250502/10/cc547f10-093d-4d0f-aac9-482aea98685f/1_org_zoom.jpg"
+      ],
+      "score": 100,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.9 (926)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "📓",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Matt Notebook"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.9 (926 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "okula dönüş",
+        "kırtasiye",
+        "matt notebook"
+      ],
+      "userRating": 4.9,
+      "reviewCount": 926,
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 799,
+          "storeUrl": "https://www.trendyol.com/matt-notebook/a4-spiralli-okul-defteri-80-yaprak-4-lu-set-kareli-p-929595744",
+          "affiliateUrl": "https://ty.gl/2z0gszjthip2q",
+          "stock": "inStock",
+          "sellerRating": 4.9,
+          "updatedAt": "2026-08-16T00:00:00Z",
+          "shipping": 0
+        }
+      ]
+    },
+    {
+      "id": "p_ty_41193503",
+      "slug": "faber-castell-1425-tukenmez-kalem-seti-10-renk",
+      "brand": "Faber Castell",
+      "name": "1425 Tükenmez Kalem Seti 10 Renk",
+      "category": "ev-yasam",
+      "glyph": "🖊️",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1752/prod/QC_ENRICHMENT/20250916/18/c71175fd-311c-384c-90eb-b2f174fa04c3/1_org_zoom.jpg"
+      ],
+      "score": 99,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.7 (5519)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "🖊️",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Faber Castell"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.7 (5519 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "okula dönüş",
+        "kırtasiye",
+        "faber castell"
+      ],
+      "userRating": 4.7,
+      "reviewCount": 5519,
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 210,
+          "storeUrl": "https://www.trendyol.com/faber-castell/1425-tukenmez-kalem-seti-10-farkli-renk-rahat-ve-yumusak-yazim-ergonomik-tutus-p-41193503",
+          "affiliateUrl": "https://ty.gl/2z0gszjthip2q",
+          "stock": "inStock",
+          "sellerRating": 4.7,
+          "updatedAt": "2026-08-16T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "p_ty_48361052",
+      "slug": "fatih-mercanli-kursun-kalem-12-li",
+      "brand": "Fatih",
+      "name": "Mercanlı Kurşun Kalem 12'li",
+      "category": "ev-yasam",
+      "glyph": "✏️",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1548/prod/QC/20240917/03/65e122a8-d725-39f4-b041-145a79298fe7/1_org_zoom.jpg"
+      ],
+      "score": 96,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.5 (7315)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "✏️",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Fatih"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.5 (7315 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "okula dönüş",
+        "kırtasiye",
+        "fatih"
+      ],
+      "userRating": 4.5,
+      "reviewCount": 7315,
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 73,
+          "storeUrl": "https://www.trendyol.com/fatih/mercanlikursun-kalem-12-li-paket-p-48361052",
+          "affiliateUrl": "https://ty.gl/2z0gszjthip2q",
+          "stock": "inStock",
+          "sellerRating": 4.5,
+          "updatedAt": "2026-08-16T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "p_ty_39137382",
+      "slug": "faber-castell-sinav-silgisi-dust-free-3-lu-set",
+      "brand": "Faber Castell",
+      "name": "Sınav Silgisi Dust-Free 3'lü Set",
+      "category": "ev-yasam",
+      "glyph": "🧽",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1000423/product/media/images/prod/PIM/20260804/11/716cb5e8-7a37-4d94-8c2f-db3caf522601/1_org_zoom.jpg"
+      ],
+      "score": 98,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.6 (4073)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "🧽",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Faber Castell"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.6 (4073 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "okula dönüş",
+        "kırtasiye",
+        "faber castell"
+      ],
+      "userRating": 4.6,
+      "reviewCount": 4073,
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 63,
+          "storeUrl": "https://www.trendyol.com/faber-castell/sinav-silgisi-dust-free-3-lu-set-yumusak-kenar-kompakt-form-pvc-fitalat-lateks-icermez-p-39137382",
+          "affiliateUrl": "https://ty.gl/2z0gszjthip2q",
+          "stock": "inStock",
+          "sellerRating": 4.6,
+          "updatedAt": "2026-08-16T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "p_ty_46145131",
+      "slug": "stabilo-boss-original-pastel-10-renk-fosforlu",
+      "brand": "Stabilo",
+      "name": "Boss Original Pastel 10 Renk Fosforlu",
+      "category": "ev-yasam",
+      "glyph": "🖍️",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1839/prod/QC_ENRICHMENT/20260318/18/5f29ae0b-1acf-3d51-8c98-47099dc48769/1_org_zoom.jpg"
+      ],
+      "score": 99,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.7 (8878)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "🖍️",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Stabilo"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.7 (8878 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "okula dönüş",
+        "kırtasiye",
+        "stabilo"
+      ],
+      "userRating": 4.7,
+      "reviewCount": 8878,
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 727,
+          "storeUrl": "https://www.trendyol.com/stabilo/boss-original-pastel-10-renk-fosforlu-kalem-seti-p-46145131",
+          "affiliateUrl": "https://ty.gl/2z0gszjthip2q",
+          "stock": "inStock",
+          "sellerRating": 4.7,
+          "updatedAt": "2026-08-16T00:00:00Z",
+          "shipping": 0
+        }
+      ]
+    },
+    {
+      "id": "p_ty_3968329",
+      "slug": "fatih-tam-boy-kuru-boya-36-renk",
+      "brand": "Fatih",
+      "name": "Tam Boy Kuru Boya 36 Renk",
+      "category": "ev-yasam",
+      "glyph": "🎨",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1624/prod/QC/20250110/18/5e768b91-8406-3664-84dd-75dac0bb00a0/1_org_zoom.jpg"
+      ],
+      "score": 98,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.6 (3734)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "🎨",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Fatih"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.6 (3734 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "okula dönüş",
+        "kırtasiye",
+        "fatih"
+      ],
+      "userRating": 4.6,
+      "reviewCount": 3734,
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 199.5,
+          "storeUrl": "https://www.trendyol.com/fatih/tam-boy-kuru-boya-36-renk-kirtasiye-p-3968329",
+          "affiliateUrl": "https://ty.gl/2z0gszjthip2q",
+          "stock": "inStock",
+          "sellerRating": 4.6,
+          "updatedAt": "2026-08-16T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "p_ty_120453524",
+      "slug": "copier-bond-fotokopi-kagidi-a4-80-gr-500-adet",
+      "brand": "Copier Bond",
+      "name": "Fotokopi Kağıdı A4 80 gr 500 Adet",
+      "category": "ev-yasam",
+      "glyph": "📄",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1791/prod/QC_ENRICHMENT/20251126/19/09987c31-8b09-316b-96c1-c7ad50e9b083/1_org_zoom.jpg"
+      ],
+      "score": 98,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.6 (5606)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "📄",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Copier Bond"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.6 (5606 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "okula dönüş",
+        "kırtasiye",
+        "copier bond"
+      ],
+      "userRating": 4.6,
+      "reviewCount": 5606,
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 228,
+          "storeUrl": "https://www.trendyol.com/copierbond/fotokopi-kagidi-a4-80gr-500-adet-p-120453524",
+          "affiliateUrl": "https://ty.gl/2z0gszjthip2q",
+          "stock": "inStock",
+          "sellerRating": 4.6,
+          "updatedAt": "2026-08-16T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "p_ty_929697232",
+      "slug": "hp-victus-ryzen-5-8645hs-16gb-512gb-rtx3050",
+      "brand": "HP",
+      "name": "Victus Ryzen 5-8645HS 16GB 512GB RTX3050",
+      "category": "teknoloji",
+      "glyph": "💻",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1829/prod/QC_ENRICHMENT/20260220/10/001ac54f-0899-3a79-818f-391d399f0b0e/1_org_zoom.jpg"
+      ],
+      "score": 95,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.4 (397)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "💻",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "HP"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.4 (397 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "okula dönüş",
+        "teknoloji",
+        "hp"
+      ],
+      "userRating": 4.4,
+      "reviewCount": 397,
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 33999,
+          "storeUrl": "https://www.trendyol.com/hp/victus-amd-ryzen-5-8645hs-16gb-512gb-rtx3050-6gb-freedos-15-6-fhd-ips-144hz-gaming-laptop-b9km2ea-p-929697232",
+          "affiliateUrl": "https://ty.gl/2z0gszjthip2q",
+          "stock": "inStock",
+          "sellerRating": 4.4,
+          "updatedAt": "2026-08-16T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "p_ty_904298041",
+      "slug": "apple-11-ipad-wi-fi-128-gb",
+      "brand": "Apple",
+      "name": "11\" iPad Wi-Fi 128 GB",
+      "category": "teknoloji",
+      "glyph": "📱",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1645/product/media/images/prod/PIM/20250305/07/6434ca80-2aaa-4a81-9baf-39b478f51e21/1_org_zoom.jpg"
+      ],
+      "score": 99,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.7 (3153)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "📱",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Apple"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.7 (3153 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "okula dönüş",
+        "teknoloji",
+        "apple"
+      ],
+      "userRating": 4.7,
+      "reviewCount": 3153,
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 21399,
+          "storeUrl": "https://www.trendyol.com/apple/11-ipad-wi-fi-128gb-gumus-p-904298041",
+          "affiliateUrl": "https://ty.gl/2z0gszjthip2q",
+          "stock": "inStock",
+          "sellerRating": 4.7,
+          "updatedAt": "2026-08-16T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "p_ty_702010835",
+      "slug": "jbl-t520bt-kulak-ustu-bluetooth-kulaklik",
+      "brand": "JBL",
+      "name": "T520BT Kulak Üstü Bluetooth Kulaklık",
+      "category": "teknoloji",
+      "glyph": "🎧",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1814/prod/QC_ENRICHMENT/20260122/13/4fbe5db2-6964-3625-a76d-88364fde8eb9/1_org_zoom.jpg"
+      ],
+      "score": 98,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.6 (7402)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "🎧",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "JBL"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.6 (7402 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "okula dönüş",
+        "teknoloji",
+        "jbl"
+      ],
+      "userRating": 4.6,
+      "reviewCount": 7402,
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 1799,
+          "storeUrl": "https://www.trendyol.com/jbl/t520bt-siyah-wireless-bluetooth-kulak-ustu-kulaklik-jb-t520btblkeu-ty-p-702010835",
+          "affiliateUrl": "https://ty.gl/2z0gszjthip2q",
+          "stock": "inStock",
+          "sellerRating": 4.6,
+          "updatedAt": "2026-08-16T00:00:00Z",
+          "shipping": 0
+        }
+      ]
+    },
+    {
+      "id": "p_ty_53562023",
+      "slug": "xiaomi-redmi-20-000-mah-powerbank",
+      "brand": "Xiaomi",
+      "name": "Redmi 20.000 mAh Powerbank",
+      "category": "teknoloji",
+      "glyph": "🔋",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty5/product/media/images/20201019/12/17305053/95019386/0/0_org_zoom.jpg"
+      ],
+      "score": 91,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.1 (5981)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "🔋",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Xiaomi"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.1 (5981 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "okula dönüş",
+        "teknoloji",
+        "xiaomi"
+      ],
+      "userRating": 4.1,
+      "reviewCount": 5981,
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 1244,
+          "storeUrl": "https://www.trendyol.com/xiaomi/redmi-20000-mah-tasinabilir-hizli-sarj-cihazi-usb-c-18w-2-cikisli-powerbank-siyah-p-53562023",
+          "affiliateUrl": "https://ty.gl/2z0gszjthip2q",
+          "stock": "inStock",
+          "sellerRating": 4.1,
           "updatedAt": "2026-08-16T00:00:00Z",
           "shipping": 0
         }
