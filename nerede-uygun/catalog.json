@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-16T21:02:16Z",
+  "updatedAt": "2026-08-17T19:15:30Z",
   "collections": [
     {
       "id": "yaz_sicak",
@@ -146,1719 +146,6 @@
     }
   ],
   "products": [
-    {
-      "id": "p_anthelios",
-      "slug": "la-roche-posay-anthelios-uvmune-400",
-      "brand": "La Roche-Posay",
-      "name": "Anthelios UVMune 400 Oil Control SPF50+",
-      "category": "kozmetik",
-      "glyph": "🧴",
-      "score": 84,
-      "verdict": "buy",
-      "shortDescription": "Yağlı ve karma ciltler için mat bitişli, eczane tipi güneş koruyucu.",
-      "editorialSummary": "Yağlı ciltler için tasarlanmış, gün boyu matlığını koruyan güçlü bir güneş kremi. UVA korumasında piyasadaki en iyilerden biri. Fiyatı Kore alternatiflerine göre yüksek; asıl avantajı yağ kontrolü.",
-      "positives": [
-        {
-          "text": "Gün boyu mat bitiş, yağ kontrolü güçlü"
-        },
-        {
-          "text": "Çok geniş UVA koruması",
-          "detail": "Mexoryal 400 filtresi uzun dalga boylu UVA ışınlarını da tutar."
-        },
-        {
-          "text": "Dermatolojik test edilmiş, hassas ciltlere uygun"
-        }
-      ],
-      "negatives": [
-        {
-          "text": "Fiyatı yüksek",
-          "detail": "Mililitre başına maliyeti Kore muadillerinin yaklaşık 2 katı."
-        },
-        {
-          "text": "Kuru ciltlerde gerginlik hissi yapabilir"
-        }
-      ],
-      "quickFacts": [
-        {
-          "icon": "☀️",
-          "label": "Koruma",
-          "value": "SPF50+"
-        },
-        {
-          "icon": "🪞",
-          "label": "Bitiş",
-          "value": "Mat"
-        },
-        {
-          "icon": "📦",
-          "label": "Hacim",
-          "value": "50 ml"
-        }
-      ],
-      "attributeGroups": [
-        {
-          "title": "Öne Çıkan Özellikler",
-          "icon": "✨",
-          "initiallyExpanded": true,
-          "attributes": [
-            {
-              "label": "SPF",
-              "value": "50+ / UVA 400nm",
-              "emphasized": true,
-              "sentiment": "good"
-            },
-            {
-              "label": "Cilt tipi",
-              "value": "Yağlı, karma",
-              "sentiment": "good"
-            },
-            {
-              "label": "Doku",
-              "value": "Jel-krem, mat"
-            },
-            {
-              "label": "Hacim",
-              "value": "50 ml"
-            }
-          ]
-        },
-        {
-          "title": "İçerik",
-          "icon": "🧪",
-          "initiallyExpanded": false,
-          "attributes": [
-            {
-              "label": "Parfüm",
-              "value": "Yok",
-              "sentiment": "good"
-            },
-            {
-              "label": "Alkol",
-              "value": "Var (denat.)",
-              "sentiment": "warning"
-            },
-            {
-              "label": "Filtre tipi",
-              "value": "Kimyasal"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        "güneş kremi",
-        "spf",
-        "yağlı cilt",
-        "eczane"
-      ],
-      "trend": {
-        "score": 71,
-        "change": 0.12,
-        "socialMentions": 5300,
-        "startDate": "2026-07-06T14:10:07.103865Z",
-        "source": "Instagram"
-      },
-      "alternatives": [
-        "p_ty_267748711"
-      ],
-      "userRating": 4.6,
-      "reviewCount": 8900,
-      "offers": [
-        {
-          "marketplace": "gratis",
-          "seller": "Gratis",
-          "price": 1049.0,
-          "shipping": 0.0,
-          "storeUrl": "https://www.gratis.com/urun/p-anthelios",
-          "stock": "inStock",
-          "sellerRating": 4.7,
-          "delivery": "2-3 iş günü",
-          "updatedAt": "2026-08-15T16:59:07.108343Z"
-        },
-        {
-          "marketplace": "trendyol",
-          "seller": "Eczane Deposu",
-          "price": 999.0,
-          "oldPrice": 1149.0,
-          "shipping": 59.9,
-          "storeUrl": "https://www.trendyol.com/urun/p-anthelios",
-          "stock": "inStock",
-          "sellerRating": 4.5,
-          "updatedAt": "2026-08-15T16:52:07.108347Z"
-        },
-        {
-          "marketplace": "hepsiburada",
-          "seller": "Hepsiburada",
-          "price": 1079.0,
-          "shipping": 0.0,
-          "storeUrl": "https://www.hepsiburada.com/urun/p-anthelios",
-          "stock": "inStock",
-          "sellerRating": 4.6,
-          "updatedAt": "2026-08-15T16:44:07.108350Z"
-        },
-        {
-          "marketplace": "amazon",
-          "seller": "Amazon",
-          "price": 1099.0,
-          "shipping": 0.0,
-          "storeUrl": "https://www.amazon.com.tr/urun/p-anthelios",
-          "stock": "inStock",
-          "sellerRating": 4.8,
-          "updatedAt": "2026-08-15T17:03:07.108353Z"
-        }
-      ],
-      "demo": true
-    },
-    {
-      "id": "p_ordinary_niacinamide",
-      "slug": "the-ordinary-niacinamide-10-zinc-1",
-      "brand": "The Ordinary",
-      "name": "Niacinamide %10 + Zinc %1 Serum",
-      "category": "kozmetik",
-      "glyph": "💧",
-      "score": 76,
-      "verdict": "conditional",
-      "shortDescription": "Gözenek görünümü ve yağlanma için uygun fiyatlı yüksek doz serum.",
-      "editorialSummary": "Fiyatına göre etkili bir serum, ancak %10 niasinamid herkes için gereğinden yüksek bir doz. Hassas ciltlerde kızarıklık ve pullanma yapabiliyor. Yağlanma ve gözenek görünümü sorunu olanlar için mantıklı; kuru ve hassas ciltler daha düşük doza yönelmeli.",
-      "positives": [
-        {
-          "text": "Çok uygun fiyat",
-          "detail": "Mililitre maliyeti sınıfının en düşüğü."
-        },
-        {
-          "text": "Yağlanma ve gözenek görünümünde belirgin etki"
-        },
-        {
-          "text": "Sade içerik listesi, gereksiz katkı yok"
-        }
-      ],
-      "negatives": [
-        {
-          "text": "Doz yüksek, hassas ciltte tahriş edebilir",
-          "detail": "%5 üzeri niasinamid dozları hassas ciltlerde kızarıklık ve pullanmaya yol açabiliyor. Haftada 2–3 kullanımla başlamak gerekir."
-        },
-        {
-          "text": "Yapışkan bir his bırakıyor"
-        },
-        {
-          "text": "C vitamini ile aynı seansta kullanımı önerilmiyor"
-        }
-      ],
-      "quickFacts": [
-        {
-          "icon": "🧪",
-          "label": "Aktif",
-          "value": "%10 Niasinamid"
-        },
-        {
-          "icon": "📦",
-          "label": "Hacim",
-          "value": "30 ml"
-        },
-        {
-          "icon": "⚠️",
-          "label": "Doz",
-          "value": "Yüksek"
-        }
-      ],
-      "attributeGroups": [
-        {
-          "title": "Öne Çıkan Özellikler",
-          "icon": "✨",
-          "initiallyExpanded": true,
-          "attributes": [
-            {
-              "label": "Aktif içerik",
-              "value": "Niasinamid %10, Çinko PCA %1",
-              "note": "Başlangıç için yüksek doz",
-              "emphasized": true,
-              "sentiment": "warning"
-            },
-            {
-              "label": "Cilt tipi",
-              "value": "Yağlı, karma",
-              "note": "Hassas ciltler için uygun değil",
-              "sentiment": "warning"
-            },
-            {
-              "label": "Hacim",
-              "value": "30 ml"
-            }
-          ]
-        },
-        {
-          "title": "İçerik",
-          "icon": "🧪",
-          "initiallyExpanded": false,
-          "attributes": [
-            {
-              "label": "Parfüm",
-              "value": "Yok",
-              "sentiment": "good"
-            },
-            {
-              "label": "Alkol",
-              "value": "Yok",
-              "sentiment": "good"
-            },
-            {
-              "label": "Vegan",
-              "value": "Evet"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        "serum",
-        "niasinamid",
-        "cilt bakımı",
-        "gözenek"
-      ],
-      "trend": {
-        "score": 64,
-        "change": 0.05,
-        "socialMentions": 3100,
-        "startDate": "2026-03-08T14:10:07.103979Z",
-        "source": "TikTok"
-      },
-      "alternatives": [
-        "p_cerave_moist"
-      ],
-      "userRating": 4.2,
-      "reviewCount": 22100,
-      "offers": [
-        {
-          "marketplace": "trendyol",
-          "seller": "Trendyol",
-          "price": 329.0,
-          "shipping": 0.0,
-          "storeUrl": "https://www.trendyol.com/urun/p-ordinary-niacinamide",
-          "stock": "inStock",
-          "sellerRating": 4.6,
-          "delivery": "1-3 iş günü",
-          "updatedAt": "2026-08-15T16:44:07.108357Z"
-        },
-        {
-          "marketplace": "gratis",
-          "seller": "Gratis",
-          "price": 299.0,
-          "shipping": 49.9,
-          "storeUrl": "https://www.gratis.com/urun/p-ordinary-niacinamide",
-          "stock": "inStock",
-          "sellerRating": 4.7,
-          "updatedAt": "2026-08-15T16:36:07.108361Z"
-        },
-        {
-          "marketplace": "amazon",
-          "seller": "Amazon",
-          "price": 349.0,
-          "shipping": 0.0,
-          "storeUrl": "https://www.amazon.com.tr/urun/p-ordinary-niacinamide",
-          "stock": "inStock",
-          "sellerRating": 4.8,
-          "updatedAt": "2026-08-15T16:58:07.108365Z"
-        },
-        {
-          "marketplace": "hepsiburada",
-          "seller": "Beauty Point",
-          "price": 359.0,
-          "shipping": 0.0,
-          "storeUrl": "https://www.hepsiburada.com/urun/p-ordinary-niacinamide",
-          "stock": "lowStock",
-          "sellerRating": 4.2,
-          "updatedAt": "2026-08-15T16:29:07.108369Z"
-        }
-      ],
-      "demo": true
-    },
-    {
-      "id": "p_cerave_moist",
-      "slug": "cerave-moisturising-lotion",
-      "brand": "CeraVe",
-      "name": "Nemlendirici Losyon (Seramidli)",
-      "category": "kozmetik",
-      "glyph": "🫙",
-      "score": 83,
-      "verdict": "buy",
-      "shortDescription": "Seramid ve hyaluronik asitli, parfümsüz günlük nemlendirici.",
-      "editorialSummary": "Kuru ve hassas ciltler için güvenli bir tercih. Parfümsüz, sade ve iyi çalışan bir formül. Büyük boy alındığında birim maliyeti belirgin şekilde düşüyor.",
-      "positives": [
-        {
-          "text": "Parfümsüz, hassas ciltlere uygun"
-        },
-        {
-          "text": "Seramid içeriği cilt bariyerini destekliyor"
-        },
-        {
-          "text": "Büyük boyda çok uygun birim fiyat"
-        }
-      ],
-      "negatives": [
-        {
-          "text": "Yağlı ciltlerde ağır gelebilir"
-        },
-        {
-          "text": "Pompa başlığı bazı partilerde sorun çıkarıyor"
-        }
-      ],
-      "quickFacts": [
-        {
-          "icon": "💧",
-          "label": "Etki",
-          "value": "Nemlendirici"
-        },
-        {
-          "icon": "🌸",
-          "label": "Parfüm",
-          "value": "Yok"
-        },
-        {
-          "icon": "📦",
-          "label": "Hacim",
-          "value": "473 ml"
-        }
-      ],
-      "attributeGroups": [
-        {
-          "title": "Öne Çıkan Özellikler",
-          "icon": "✨",
-          "initiallyExpanded": true,
-          "attributes": [
-            {
-              "label": "Aktif içerik",
-              "value": "Seramid 1-3-6II, Hyaluronik asit",
-              "emphasized": true,
-              "sentiment": "good"
-            },
-            {
-              "label": "Cilt tipi",
-              "value": "Kuru, normal, hassas"
-            },
-            {
-              "label": "Parfüm",
-              "value": "Yok",
-              "sentiment": "good"
-            },
-            {
-              "label": "Hacim",
-              "value": "473 ml"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        "nemlendirici",
-        "seramid",
-        "cilt bakımı",
-        "parfümsüz"
-      ],
-      "trend": {
-        "score": 58,
-        "change": 0.03,
-        "socialMentions": 1900,
-        "startDate": "2026-01-07T14:10:07.104059Z",
-        "source": "Instagram"
-      },
-      "alternatives": [
-        "p_ordinary_niacinamide"
-      ],
-      "userRating": 4.6,
-      "reviewCount": 15600,
-      "offers": [
-        {
-          "marketplace": "amazon",
-          "seller": "Amazon",
-          "price": 549.0,
-          "oldPrice": 629.0,
-          "shipping": 0.0,
-          "storeUrl": "https://www.amazon.com.tr/urun/p-cerave-moist",
-          "stock": "inStock",
-          "sellerRating": 4.8,
-          "delivery": "Yarın kargoda",
-          "updatedAt": "2026-08-15T17:02:07.108372Z"
-        },
-        {
-          "marketplace": "trendyol",
-          "seller": "Dermo Market",
-          "price": 529.0,
-          "shipping": 39.9,
-          "storeUrl": "https://www.trendyol.com/urun/p-cerave-moist",
-          "stock": "inStock",
-          "sellerRating": 4.4,
-          "updatedAt": "2026-08-15T16:48:07.108376Z"
-        },
-        {
-          "marketplace": "hepsiburada",
-          "seller": "Hepsiburada",
-          "price": 559.0,
-          "shipping": 0.0,
-          "storeUrl": "https://www.hepsiburada.com/urun/p-cerave-moist",
-          "stock": "inStock",
-          "sellerRating": 4.6,
-          "updatedAt": "2026-08-15T16:40:07.108379Z"
-        },
-        {
-          "marketplace": "gratis",
-          "seller": "Gratis",
-          "price": 579.0,
-          "shipping": 0.0,
-          "storeUrl": "https://www.gratis.com/urun/p-cerave-moist",
-          "stock": "inStock",
-          "sellerRating": 4.7,
-          "updatedAt": "2026-08-15T16:22:07.108382Z"
-        }
-      ],
-      "demo": true
-    },
-    {
-      "id": "p_airpods_pro2",
-      "slug": "apple-airpods-pro-2-usb-c",
-      "brand": "Apple",
-      "name": "AirPods Pro 2 (USB-C)",
-      "category": "teknoloji",
-      "glyph": "🎧",
-      "score": 91,
-      "verdict": "buy",
-      "shortDescription": "Sınıfının en iyi gürültü engellemesine sahip kablosuz kulaklık.",
-      "editorialSummary": "Gürültü engelleme ve şeffaflık modunda hâlâ rakipsiz. iPhone kullanıcıları için tartışmasız en iyi seçenek. Android tarafında özelliklerin bir kısmı çalışmıyor; bu durumda aynı paraya daha mantıklı alternatifler var.",
-      "positives": [
-        {
-          "text": "Sınıfının en iyi gürültü engellemesi",
-          "detail": "Uçak ve metro gibi sabit gürültüde belirgin fark yaratıyor."
-        },
-        {
-          "text": "Apple cihazlarla kusursuz geçiş"
-        },
-        {
-          "text": "Şeffaflık modu doğal ses veriyor"
-        },
-        {
-          "text": "USB-C ile tek kabloya indi"
-        }
-      ],
-      "negatives": [
-        {
-          "text": "Android tarafında özellik kaybı",
-          "detail": "Uzamsal ses, otomatik geçiş ve kulaklık testi yalnızca Apple cihazlarda çalışıyor."
-        },
-        {
-          "text": "Pil ömrü rakiplerinin gerisinde"
-        },
-        {
-          "text": "Fiyatı yüksek"
-        }
-      ],
-      "quickFacts": [
-        {
-          "icon": "🔇",
-          "label": "ANC",
-          "value": "Çok güçlü"
-        },
-        {
-          "icon": "🔋",
-          "label": "Pil",
-          "value": "6 sa"
-        },
-        {
-          "icon": "💧",
-          "label": "Suya dayanım",
-          "value": "IP54"
-        }
-      ],
-      "attributeGroups": [
-        {
-          "title": "Teknik Özellikler",
-          "icon": "⚙️",
-          "initiallyExpanded": true,
-          "attributes": [
-            {
-              "label": "Gürültü engelleme",
-              "value": "Aktif (ANC)",
-              "emphasized": true,
-              "sentiment": "good"
-            },
-            {
-              "label": "Pil ömrü",
-              "value": "6 saat (kutu ile 30 saat)",
-              "note": "ANC açıkken"
-            },
-            {
-              "label": "Bağlantı",
-              "value": "Bluetooth 5.3"
-            },
-            {
-              "label": "Şarj",
-              "value": "USB-C, MagSafe, Qi"
-            },
-            {
-              "label": "Suya dayanıklılık",
-              "value": "IP54",
-              "sentiment": "good"
-            },
-            {
-              "label": "Ağırlık",
-              "value": "5,3 g (tek kulaklık)"
-            }
-          ]
-        },
-        {
-          "title": "Garanti & Kutu İçeriği",
-          "icon": "📦",
-          "initiallyExpanded": false,
-          "attributes": [
-            {
-              "label": "Garanti",
-              "value": "2 yıl (Apple TR)",
-              "note": "Yurt dışı garantili ürünlerde servis sorunu çıkabilir",
-              "sentiment": "good"
-            },
-            {
-              "label": "Kutu içeriği",
-              "value": "4 boy silikon, USB-C kablo"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        "kulaklık",
-        "airpods",
-        "bluetooth",
-        "anc",
-        "apple"
-      ],
-      "trend": {
-        "score": 88,
-        "change": 0.39,
-        "socialMentions": 24200,
-        "startDate": "2026-08-09T14:10:07.104229Z",
-        "source": "TikTok"
-      },
-      "alternatives": [
-        "p_soundcore_q30"
-      ],
-      "userRating": 4.8,
-      "reviewCount": 31200,
-      "offers": [
-        {
-          "marketplace": "amazon",
-          "seller": "Amazon",
-          "price": 8499.0,
-          "oldPrice": 9999.0,
-          "shipping": 0.0,
-          "storeUrl": "https://www.amazon.com.tr/urun/p-airpods-pro2",
-          "stock": "inStock",
-          "sellerRating": 4.9,
-          "delivery": "Yarın kargoda",
-          "updatedAt": "2026-08-15T17:08:07.108387Z"
-        },
-        {
-          "marketplace": "vatan",
-          "seller": "Vatan Bilgisayar",
-          "price": 8399.0,
-          "shipping": 149.0,
-          "storeUrl": "https://www.vatanbilgisayar.com/urun/p-airpods-pro2",
-          "stock": "inStock",
-          "sellerRating": 4.6,
-          "delivery": "1-2 iş günü",
-          "updatedAt": "2026-08-15T16:56:07.108391Z"
-        },
-        {
-          "marketplace": "trendyol",
-          "seller": "Trendyol",
-          "price": 8649.0,
-          "oldPrice": 9999.0,
-          "shipping": 0.0,
-          "storeUrl": "https://www.trendyol.com/urun/p-airpods-pro2",
-          "stock": "inStock",
-          "sellerRating": 4.7,
-          "updatedAt": "2026-08-15T17:04:07.108395Z"
-        },
-        {
-          "marketplace": "mediamarkt",
-          "seller": "MediaMarkt",
-          "price": 8799.0,
-          "shipping": 0.0,
-          "storeUrl": "https://www.mediamarkt.com.tr/urun/p-airpods-pro2",
-          "stock": "inStock",
-          "sellerRating": 4.8,
-          "updatedAt": "2026-08-15T16:51:07.108398Z"
-        },
-        {
-          "marketplace": "hepsiburada",
-          "seller": "Hepsiburada",
-          "price": 8999.0,
-          "shipping": 0.0,
-          "storeUrl": "https://www.hepsiburada.com/urun/p-airpods-pro2",
-          "stock": "inStock",
-          "sellerRating": 4.7,
-          "updatedAt": "2026-08-15T16:45:07.108402Z"
-        }
-      ],
-      "demo": true
-    },
-    {
-      "id": "p_redmi_watch5",
-      "slug": "xiaomi-redmi-watch-5-active",
-      "brand": "Xiaomi",
-      "name": "Redmi Watch 5 Active",
-      "category": "teknoloji",
-      "glyph": "⌚",
-      "score": 69,
-      "verdict": "conditional",
-      "shortDescription": "Giriş seviyesi, uzun pil ömürlü akıllı saat.",
-      "editorialSummary": "Bildirim takibi ve adım sayımı için yeterli, bu fiyata rakibi az. Ancak sağlık ölçümleri referans alınacak hassasiyette değil ve uygulama ekosistemi sınırlı. Spor takibi ciddi bir beklentiyse bu segment yetmiyor.",
-      "positives": [
-        {
-          "text": "Çok uygun fiyat"
-        },
-        {
-          "text": "18 güne varan pil ömrü"
-        },
-        {
-          "text": "Büyük ve okunaklı ekran"
-        }
-      ],
-      "negatives": [
-        {
-          "text": "Nabız ölçümü hareket halinde şaşıyor",
-          "detail": "Yüksek tempolu antrenmanda göğüs bandı kadar güvenilir değil."
-        },
-        {
-          "text": "GPS yok, konum telefona bağlı"
-        },
-        {
-          "text": "Uygulama desteği sınırlı"
-        }
-      ],
-      "quickFacts": [
-        {
-          "icon": "🔋",
-          "label": "Pil",
-          "value": "18 gün"
-        },
-        {
-          "icon": "📺",
-          "label": "Ekran",
-          "value": "2.0\" LCD"
-        },
-        {
-          "icon": "📍",
-          "label": "GPS",
-          "value": "Yok"
-        }
-      ],
-      "attributeGroups": [
-        {
-          "title": "Teknik Özellikler",
-          "icon": "⚙️",
-          "initiallyExpanded": true,
-          "attributes": [
-            {
-              "label": "Ekran",
-              "value": "2.0 inç LCD, 450 nit",
-              "emphasized": true
-            },
-            {
-              "label": "Pil ömrü",
-              "value": "18 gün",
-              "sentiment": "good"
-            },
-            {
-              "label": "GPS",
-              "value": "Yok (telefona bağlı)",
-              "sentiment": "warning"
-            },
-            {
-              "label": "Suya dayanıklılık",
-              "value": "5 ATM"
-            },
-            {
-              "label": "Garanti",
-              "value": "2 yıl"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        "akıllı saat",
-        "xiaomi",
-        "redmi",
-        "giyilebilir"
-      ],
-      "trend": {
-        "score": 55,
-        "change": 0.02,
-        "socialMentions": 900,
-        "startDate": "2026-03-18T14:10:07.104427Z"
-      },
-      "alternatives": [
-        "p_airpods_pro2"
-      ],
-      "userRating": 4.3,
-      "reviewCount": 4200,
-      "offers": [
-        {
-          "marketplace": "trendyol",
-          "seller": "Xiaomi Türkiye",
-          "price": 1799.0,
-          "oldPrice": 1999.0,
-          "shipping": 0.0,
-          "storeUrl": "https://www.trendyol.com/urun/p-redmi-watch5",
-          "stock": "inStock",
-          "sellerRating": 4.7,
-          "updatedAt": "2026-08-15T16:37:07.108420Z"
-        },
-        {
-          "marketplace": "amazon",
-          "seller": "Amazon",
-          "price": 1849.0,
-          "shipping": 0.0,
-          "storeUrl": "https://www.amazon.com.tr/urun/p-redmi-watch5",
-          "stock": "inStock",
-          "sellerRating": 4.8,
-          "updatedAt": "2026-08-15T16:49:07.108423Z"
-        },
-        {
-          "marketplace": "hepsiburada",
-          "seller": "Hepsiburada",
-          "price": 1899.0,
-          "shipping": 0.0,
-          "storeUrl": "https://www.hepsiburada.com/urun/p-redmi-watch5",
-          "stock": "inStock",
-          "sellerRating": 4.6,
-          "updatedAt": "2026-08-15T16:26:07.108426Z"
-        },
-        {
-          "marketplace": "mediamarkt",
-          "seller": "MediaMarkt",
-          "price": 1949.0,
-          "shipping": 0.0,
-          "storeUrl": "https://www.mediamarkt.com.tr/urun/p-redmi-watch5",
-          "stock": "outOfStock",
-          "sellerRating": 4.8,
-          "updatedAt": "2026-08-15T16:18:07.108430Z"
-        }
-      ],
-      "demo": true
-    },
-    {
-      "id": "p_philips_lattego",
-      "slug": "philips-3200-lattego-tam-otomatik",
-      "brand": "Philips",
-      "name": "3200 Serisi LatteGo Tam Otomatik Kahve Makinesi",
-      "category": "ev-yasam",
-      "glyph": "☕",
-      "score": 85,
-      "verdict": "buy",
-      "shortDescription": "Süt sistemi kolay temizlenen, ev için tam otomatik espresso makinesi.",
-      "editorialSummary": "Ev tipi tam otomatikler arasında bakımı en kolay modellerden biri. LatteGo süt haznesi iki parçadan oluşuyor ve bulaşık makinesinde yıkanabiliyor — bu segmentte en çok şikâyet edilen konuyu çözüyor. Öğütücü sesli, sabah sessizlik bekleyenler için not düşelim.",
-      "positives": [
-        {
-          "text": "Süt sistemi iki parça, temizliği çok kolay",
-          "detail": "Hortum yok; parçalar bulaşık makinesinde yıkanabiliyor."
-        },
-        {
-          "text": "Seramik öğütücü, 12 kademe ayar"
-        },
-        {
-          "text": "Tek dokunuşla 5 içecek"
-        }
-      ],
-      "negatives": [
-        {
-          "text": "Öğütme sesi yüksek"
-        },
-        {
-          "text": "Su haznesi kapasitesi mütevazı (1,8 L)"
-        },
-        {
-          "text": "Yedek parça fiyatları pahalı"
-        }
-      ],
-      "quickFacts": [
-        {
-          "icon": "☕",
-          "label": "İçecek",
-          "value": "5 çeşit"
-        },
-        {
-          "icon": "⚙️",
-          "label": "Öğütücü",
-          "value": "Seramik"
-        },
-        {
-          "icon": "🧼",
-          "label": "Temizlik",
-          "value": "Kolay"
-        }
-      ],
-      "attributeGroups": [
-        {
-          "title": "Teknik Özellikler",
-          "icon": "⚙️",
-          "initiallyExpanded": true,
-          "attributes": [
-            {
-              "label": "Öğütücü",
-              "value": "Seramik, 12 kademe",
-              "emphasized": true,
-              "sentiment": "good"
-            },
-            {
-              "label": "Basınç",
-              "value": "15 bar"
-            },
-            {
-              "label": "Su haznesi",
-              "value": "1,8 L"
-            },
-            {
-              "label": "Çekirdek haznesi",
-              "value": "275 g"
-            },
-            {
-              "label": "Süt sistemi",
-              "value": "LatteGo (2 parça)",
-              "sentiment": "good"
-            },
-            {
-              "label": "Garanti",
-              "value": "2 yıl"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        "kahve makinesi",
-        "espresso",
-        "philips",
-        "tam otomatik"
-      ],
-      "trend": {
-        "score": 67,
-        "change": 0.21,
-        "socialMentions": 3400,
-        "startDate": "2026-07-21T14:10:07.104521Z",
-        "source": "Instagram"
-      },
-      "alternatives": [
-        "p_xiaomi_airfryer"
-      ],
-      "userRating": 4.6,
-      "reviewCount": 5600,
-      "offers": [
-        {
-          "marketplace": "vatan",
-          "seller": "Vatan Bilgisayar",
-          "price": 18749.0,
-          "oldPrice": 21999.0,
-          "shipping": 199.0,
-          "storeUrl": "https://www.vatanbilgisayar.com/urun/p-philips-lattego",
-          "stock": "inStock",
-          "sellerRating": 4.6,
-          "delivery": "2-4 iş günü",
-          "updatedAt": "2026-08-15T16:54:07.108433Z"
-        },
-        {
-          "marketplace": "mediamarkt",
-          "seller": "MediaMarkt",
-          "price": 18999.0,
-          "oldPrice": 22999.0,
-          "shipping": 0.0,
-          "storeUrl": "https://www.mediamarkt.com.tr/urun/p-philips-lattego",
-          "stock": "inStock",
-          "sellerRating": 4.8,
-          "delivery": "1-3 iş günü",
-          "updatedAt": "2026-08-15T17:02:07.108437Z"
-        },
-        {
-          "marketplace": "hepsiburada",
-          "seller": "Hepsiburada",
-          "price": 19499.0,
-          "shipping": 0.0,
-          "storeUrl": "https://www.hepsiburada.com/urun/p-philips-lattego",
-          "stock": "inStock",
-          "sellerRating": 4.7,
-          "updatedAt": "2026-08-15T16:43:07.108440Z"
-        },
-        {
-          "marketplace": "amazon",
-          "seller": "Amazon",
-          "price": 19999.0,
-          "shipping": 0.0,
-          "storeUrl": "https://www.amazon.com.tr/urun/p-philips-lattego",
-          "stock": "inStock",
-          "sellerRating": 4.8,
-          "updatedAt": "2026-08-15T16:57:07.108443Z"
-        }
-      ],
-      "demo": true
-    },
-    {
-      "id": "p_xiaomi_airfryer",
-      "slug": "xiaomi-smart-air-fryer-6-5l",
-      "brand": "Xiaomi",
-      "name": "Smart Air Fryer 6.5L",
-      "category": "ev-yasam",
-      "glyph": "🍟",
-      "score": 79,
-      "verdict": "buy",
-      "shortDescription": "Uygulamadan kontrol edilebilen geniş hazneli fritöz.",
-      "editorialSummary": "Kalabalık haneler için hazne boyutu yeterli, uygulama desteği bu fiyata beklenmedik bir artı. Sepetin kaplaması zamanla yıpranıyor; metal aparat kullanmamak gerekiyor.",
-      "positives": [
-        {
-          "text": "6,5 L geniş hazne, 4-5 kişilik"
-        },
-        {
-          "text": "Uygulamadan kontrol ve tarif desteği"
-        },
-        {
-          "text": "Sessiz çalışıyor"
-        }
-      ],
-      "negatives": [
-        {
-          "text": "Sepet kaplaması zamanla çiziliyor",
-          "detail": "Metal maşa kullanımı kaplamayı hızla yıpratıyor."
-        },
-        {
-          "text": "Tezgahta yer kaplıyor"
-        }
-      ],
-      "quickFacts": [
-        {
-          "icon": "🥘",
-          "label": "Hazne",
-          "value": "6,5 L"
-        },
-        {
-          "icon": "⚡",
-          "label": "Güç",
-          "value": "1800 W"
-        },
-        {
-          "icon": "📱",
-          "label": "Uygulama",
-          "value": "Var"
-        }
-      ],
-      "attributeGroups": [
-        {
-          "title": "Teknik Özellikler",
-          "icon": "⚙️",
-          "initiallyExpanded": true,
-          "attributes": [
-            {
-              "label": "Hazne kapasitesi",
-              "value": "6,5 L",
-              "emphasized": true,
-              "sentiment": "good"
-            },
-            {
-              "label": "Güç",
-              "value": "1800 W"
-            },
-            {
-              "label": "Sıcaklık aralığı",
-              "value": "40–200 °C"
-            },
-            {
-              "label": "Uygulama desteği",
-              "value": "Mi Home",
-              "sentiment": "good"
-            },
-            {
-              "label": "Garanti",
-              "value": "2 yıl"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        "air fryer",
-        "fritöz",
-        "xiaomi",
-        "mutfak"
-      ],
-      "trend": {
-        "score": 74,
-        "change": 0.28,
-        "socialMentions": 6100,
-        "startDate": "2026-08-01T14:10:07.104606Z",
-        "source": "TikTok"
-      },
-      "alternatives": [
-        "p_philips_lattego"
-      ],
-      "userRating": 4.4,
-      "reviewCount": 9800,
-      "offers": [
-        {
-          "marketplace": "hepsiburada",
-          "seller": "Hepsiburada",
-          "price": 3299.0,
-          "oldPrice": 3999.0,
-          "shipping": 0.0,
-          "storeUrl": "https://www.hepsiburada.com/urun/p-xiaomi-airfryer",
-          "stock": "inStock",
-          "sellerRating": 4.7,
-          "delivery": "1-2 iş günü",
-          "updatedAt": "2026-08-15T16:49:07.108448Z"
-        },
-        {
-          "marketplace": "trendyol",
-          "seller": "Xiaomi Türkiye",
-          "price": 3349.0,
-          "oldPrice": 3999.0,
-          "shipping": 0.0,
-          "storeUrl": "https://www.trendyol.com/urun/p-xiaomi-airfryer",
-          "stock": "inStock",
-          "sellerRating": 4.8,
-          "updatedAt": "2026-08-15T16:55:07.108451Z"
-        },
-        {
-          "marketplace": "n11",
-          "seller": "Ev Aletleri Merkezi",
-          "price": 3199.0,
-          "shipping": 159.0,
-          "storeUrl": "https://www.n11.com/urun/p-xiaomi-airfryer",
-          "stock": "inStock",
-          "sellerRating": 4.1,
-          "updatedAt": "2026-08-15T16:23:07.108455Z"
-        },
-        {
-          "marketplace": "amazon",
-          "seller": "Amazon",
-          "price": 3449.0,
-          "shipping": 0.0,
-          "storeUrl": "https://www.amazon.com.tr/urun/p-xiaomi-airfryer",
-          "stock": "inStock",
-          "sellerRating": 4.8,
-          "updatedAt": "2026-08-15T17:01:07.108458Z"
-        }
-      ],
-      "demo": true
-    },
-    {
-      "id": "p_dyson_v12",
-      "slug": "dyson-v12-detect-slim-absolute",
-      "brand": "Dyson",
-      "name": "V12 Detect Slim Absolute Dikey Süpürge",
-      "category": "ev-yasam",
-      "glyph": "🧹",
-      "score": 88,
-      "verdict": "conditional",
-      "shortDescription": "Lazerli başlığıyla toz gösteren güçlü dikey süpürge.",
-      "editorialSummary": "Emiş gücü ve hafifliğiyle sınıfının en iyilerinden. Lazerli başlık gözle görülmeyen tozu ortaya çıkarıyor — etkileyici ama pazarlama kadar hayati değil. Asıl mesele fiyat: aynı temizlik performansına çok daha uygun alternatiflerle ulaşmak mümkün.",
-      "positives": [
-        {
-          "text": "Sınıfının en güçlü emişlerinden"
-        },
-        {
-          "text": "Hafif ve dengeli, tek elle kullanılabiliyor"
-        },
-        {
-          "text": "Lazerli başlık ince tozu görünür kılıyor",
-          "detail": "Sert zeminde gözle fark edilmeyen tozu yakalamayı kolaylaştırıyor."
-        },
-        {
-          "text": "HEPA filtreleme, alerji için uygun"
-        }
-      ],
-      "negatives": [
-        {
-          "text": "Fiyatı çok yüksek",
-          "detail": "Benzer emiş performansı sunan alternatifler yaklaşık yarı fiyata bulunabiliyor. Fark daha çok yapı kalitesi ve başlıklarda."
-        },
-        {
-          "text": "Maksimum modda pil 5 dakikaya iniyor"
-        },
-        {
-          "text": "Yedek pil ve başlık fiyatları pahalı"
-        }
-      ],
-      "quickFacts": [
-        {
-          "icon": "💨",
-          "label": "Emiş",
-          "value": "150 AW"
-        },
-        {
-          "icon": "🔋",
-          "label": "Pil",
-          "value": "60 dk"
-        },
-        {
-          "icon": "⚖️",
-          "label": "Ağırlık",
-          "value": "2,2 kg"
-        }
-      ],
-      "attributeGroups": [
-        {
-          "title": "Teknik Özellikler",
-          "icon": "⚙️",
-          "initiallyExpanded": true,
-          "attributes": [
-            {
-              "label": "Emiş gücü",
-              "value": "150 AW",
-              "emphasized": true,
-              "sentiment": "good"
-            },
-            {
-              "label": "Pil ömrü",
-              "value": "60 dk (eko), 5 dk (maks.)",
-              "sentiment": "warning"
-            },
-            {
-              "label": "Hazne",
-              "value": "0,35 L"
-            },
-            {
-              "label": "Filtre",
-              "value": "HEPA, yıkanabilir",
-              "sentiment": "good"
-            },
-            {
-              "label": "Ağırlık",
-              "value": "2,2 kg"
-            },
-            {
-              "label": "Garanti",
-              "value": "2 yıl"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        "süpürge",
-        "dikey süpürge",
-        "dyson",
-        "ev aleti"
-      ],
-      "trend": {
-        "score": 70,
-        "change": 0.18,
-        "socialMentions": 4700,
-        "startDate": "2026-07-16T14:10:07.104697Z",
-        "source": "Instagram"
-      },
-      "alternatives": [
-        "p_xiaomi_airfryer"
-      ],
-      "userRating": 4.7,
-      "reviewCount": 3100,
-      "offers": [
-        {
-          "marketplace": "amazon",
-          "seller": "Amazon",
-          "price": 24999.0,
-          "oldPrice": 29999.0,
-          "shipping": 0.0,
-          "storeUrl": "https://www.amazon.com.tr/urun/p-dyson-v12",
-          "stock": "inStock",
-          "sellerRating": 4.9,
-          "delivery": "Yarın kargoda",
-          "updatedAt": "2026-08-15T17:04:07.108461Z"
-        },
-        {
-          "marketplace": "mediamarkt",
-          "seller": "MediaMarkt",
-          "price": 25499.0,
-          "oldPrice": 29999.0,
-          "shipping": 0.0,
-          "storeUrl": "https://www.mediamarkt.com.tr/urun/p-dyson-v12",
-          "stock": "inStock",
-          "sellerRating": 4.8,
-          "updatedAt": "2026-08-15T16:52:07.108465Z"
-        },
-        {
-          "marketplace": "vatan",
-          "seller": "Vatan Bilgisayar",
-          "price": 25999.0,
-          "shipping": 0.0,
-          "storeUrl": "https://www.vatanbilgisayar.com/urun/p-dyson-v12",
-          "stock": "inStock",
-          "sellerRating": 4.6,
-          "updatedAt": "2026-08-15T16:46:07.108468Z"
-        },
-        {
-          "marketplace": "hepsiburada",
-          "seller": "Hepsiburada",
-          "price": 26499.0,
-          "shipping": 0.0,
-          "storeUrl": "https://www.hepsiburada.com/urun/p-dyson-v12",
-          "stock": "inStock",
-          "sellerRating": 4.7,
-          "updatedAt": "2026-08-15T16:39:07.108471Z"
-        }
-      ],
-      "demo": true
-    },
-    {
-      "id": "p_air_force_1",
-      "slug": "nike-air-force-1-07",
-      "brand": "Nike",
-      "name": "Air Force 1 '07",
-      "category": "moda",
-      "glyph": "👟",
-      "score": 74,
-      "verdict": "conditional",
-      "shortDescription": "Klasikleşmiş, her kombine uyan beyaz deri spor ayakkabı.",
-      "editorialSummary": "Tasarım olarak zamansız ve dayanıklı. Ancak taban sert, uzun yürüyüş için konforlu değil ve beyaz deri çabuk kirleniyor. Günlük stil için alınır; yürüyüş ayakkabısı arayan başka modele bakmalı.",
-      "positives": [
-        {
-          "text": "Zamansız tasarım, her kombine uyuyor"
-        },
-        {
-          "text": "Deri üst malzeme dayanıklı"
-        },
-        {
-          "text": "Geniş beden aralığı"
-        }
-      ],
-      "negatives": [
-        {
-          "text": "Taban sert, uzun yürüyüşte yoruyor",
-          "detail": "Air yastıklama topukta sınırlı; günde 10 bin adım üzeri konforsuz."
-        },
-        {
-          "text": "Beyaz deri çabuk kirleniyor"
-        },
-        {
-          "text": "Ağır bir ayakkabı"
-        }
-      ],
-      "quickFacts": [
-        {
-          "icon": "🎨",
-          "label": "Renk",
-          "value": "Beyaz"
-        },
-        {
-          "icon": "🧵",
-          "label": "Malzeme",
-          "value": "Deri"
-        },
-        {
-          "icon": "👣",
-          "label": "Kalıp",
-          "value": "Normal"
-        }
-      ],
-      "attributeGroups": [
-        {
-          "title": "Ürün Bilgileri",
-          "icon": "👟",
-          "initiallyExpanded": true,
-          "attributes": [
-            {
-              "label": "Üst malzeme",
-              "value": "Gerçek deri",
-              "emphasized": true,
-              "sentiment": "good"
-            },
-            {
-              "label": "Taban",
-              "value": "Kauçuk + Air yastıklama"
-            },
-            {
-              "label": "Kalıp",
-              "value": "Normal",
-              "note": "Geniş ayaklarda yarım numara büyük önerilir"
-            },
-            {
-              "label": "Kullanım",
-              "value": "Günlük"
-            },
-            {
-              "label": "Ağırlık",
-              "value": "~510 g (tek tek)",
-              "sentiment": "warning"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        "spor ayakkabı",
-        "sneaker",
-        "nike",
-        "beyaz",
-        "air force"
-      ],
-      "trend": {
-        "score": 61,
-        "change": 0.04,
-        "socialMentions": 8200,
-        "startDate": "2025-07-11T14:10:07.104789Z",
-        "source": "Instagram"
-      },
-      "alternatives": [
-        "p_samba_og"
-      ],
-      "userRating": 4.5,
-      "reviewCount": 26400,
-      "offers": [
-        {
-          "marketplace": "n11",
-          "seller": "Sneaker House",
-          "price": 4099.0,
-          "shipping": 89.9,
-          "storeUrl": "https://www.n11.com/urun/p-air-force-1",
-          "stock": "inStock",
-          "sellerRating": 4.2,
-          "delivery": "2-4 iş günü",
-          "updatedAt": "2026-08-15T16:37:07.108475Z"
-        },
-        {
-          "marketplace": "trendyol",
-          "seller": "Nike Türkiye",
-          "price": 4199.0,
-          "oldPrice": 4699.0,
-          "shipping": 0.0,
-          "storeUrl": "https://www.trendyol.com/urun/p-air-force-1",
-          "stock": "inStock",
-          "sellerRating": 4.8,
-          "delivery": "1-3 iş günü",
-          "updatedAt": "2026-08-15T16:58:07.108478Z"
-        },
-        {
-          "marketplace": "hepsiburada",
-          "seller": "Hepsiburada",
-          "price": 4399.0,
-          "shipping": 0.0,
-          "storeUrl": "https://www.hepsiburada.com/urun/p-air-force-1",
-          "stock": "inStock",
-          "sellerRating": 4.6,
-          "updatedAt": "2026-08-15T16:42:07.108482Z"
-        },
-        {
-          "marketplace": "amazon",
-          "seller": "Amazon",
-          "price": 4549.0,
-          "shipping": 0.0,
-          "storeUrl": "https://www.amazon.com.tr/urun/p-air-force-1",
-          "stock": "inStock",
-          "sellerRating": 4.7,
-          "updatedAt": "2026-08-15T16:51:07.108489Z"
-        }
-      ],
-      "demo": true
-    },
-    {
-      "id": "p_samba_og",
-      "slug": "adidas-samba-og",
-      "brand": "adidas",
-      "name": "Samba OG",
-      "category": "moda",
-      "glyph": "👟",
-      "score": 80,
-      "verdict": "buy",
-      "shortDescription": "İnce tabanlı, son iki yılın en çok konuşulan sneakerı.",
-      "editorialSummary": "Retro silueti ve hafifliğiyle günlük kullanımda çok rahat. Kalıbı dar; yarım numara büyük almak neredeyse zorunlu. Popülerlik nedeniyle bazı satıcılarda fiyat şişmiş durumda — mağaza karşılaştırması burada gerçekten fark yaratıyor.",
-      "positives": [
-        {
-          "text": "Hafif ve rahat"
-        },
-        {
-          "text": "Süet detaylı klasik tasarım"
-        },
-        {
-          "text": "Geniş renk seçeneği"
-        }
-      ],
-      "negatives": [
-        {
-          "text": "Kalıp dar",
-          "detail": "Neredeyse tüm kullanıcılar yarım numara büyük öneriyor."
-        },
-        {
-          "text": "İnce taban, uzun süre ayakta durmaya uygun değil"
-        },
-        {
-          "text": "Bazı satıcılarda fiyat şişirilmiş"
-        }
-      ],
-      "quickFacts": [
-        {
-          "icon": "🧵",
-          "label": "Malzeme",
-          "value": "Deri + süet"
-        },
-        {
-          "icon": "👣",
-          "label": "Kalıp",
-          "value": "Dar"
-        },
-        {
-          "icon": "⚖️",
-          "label": "Ağırlık",
-          "value": "Hafif"
-        }
-      ],
-      "attributeGroups": [
-        {
-          "title": "Ürün Bilgileri",
-          "icon": "👟",
-          "initiallyExpanded": true,
-          "attributes": [
-            {
-              "label": "Kalıp",
-              "value": "Dar — yarım numara büyük alın",
-              "emphasized": true,
-              "sentiment": "warning"
-            },
-            {
-              "label": "Üst malzeme",
-              "value": "Deri + süet"
-            },
-            {
-              "label": "Taban",
-              "value": "Kauçuk, ince"
-            },
-            {
-              "label": "Kullanım",
-              "value": "Günlük"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        "spor ayakkabı",
-        "sneaker",
-        "adidas",
-        "samba",
-        "retro"
-      ],
-      "trend": {
-        "score": 86,
-        "change": 0.37,
-        "socialMentions": 15900,
-        "startDate": "2026-08-07T14:10:07.104867Z",
-        "source": "TikTok"
-      },
-      "alternatives": [
-        "p_air_force_1"
-      ],
-      "userRating": 4.6,
-      "reviewCount": 11200,
-      "offers": [
-        {
-          "marketplace": "amazon",
-          "seller": "Amazon",
-          "price": 4799.0,
-          "oldPrice": 5499.0,
-          "shipping": 0.0,
-          "storeUrl": "https://www.amazon.com.tr/urun/p-samba-og",
-          "stock": "inStock",
-          "sellerRating": 4.8,
-          "delivery": "Yarın kargoda",
-          "updatedAt": "2026-08-15T16:57:07.108494Z"
-        },
-        {
-          "marketplace": "trendyol",
-          "seller": "adidas Türkiye",
-          "price": 4899.0,
-          "oldPrice": 5499.0,
-          "shipping": 0.0,
-          "storeUrl": "https://www.trendyol.com/urun/p-samba-og",
-          "stock": "inStock",
-          "sellerRating": 4.8,
-          "updatedAt": "2026-08-15T17:00:07.108498Z"
-        },
-        {
-          "marketplace": "hepsiburada",
-          "seller": "Moda Sepeti",
-          "price": 5299.0,
-          "shipping": 0.0,
-          "storeUrl": "https://www.hepsiburada.com/urun/p-samba-og",
-          "stock": "inStock",
-          "sellerRating": 4.1,
-          "updatedAt": "2026-08-15T16:34:07.108502Z"
-        },
-        {
-          "marketplace": "n11",
-          "seller": "Ayakkabı Dünyası",
-          "price": 5499.0,
-          "shipping": 0.0,
-          "storeUrl": "https://www.n11.com/urun/p-samba-og",
-          "stock": "lowStock",
-          "sellerRating": 3.9,
-          "updatedAt": "2026-08-15T16:15:07.108769Z"
-        }
-      ],
-      "demo": true
-    },
-    {
-      "id": "p_grenade_bar",
-      "slug": "grenade-protein-bar-carb-killa",
-      "brand": "Grenade",
-      "name": "Carb Killa Protein Bar (60 g)",
-      "category": "market",
-      "glyph": "🍫",
-      "score": 68,
-      "verdict": "conditional",
-      "shortDescription": "Yüksek proteinli, düşük şekerli ara öğün barı.",
-      "editorialSummary": "Protein miktarı ve tadı iyi, ancak \"sağlıklı atıştırmalık\" olarak konumlandırılmasına rağmen 214 kalori ve ciddi miktarda tatlandırıcı içeriyor. Antrenman sonrası pratik bir seçenek; günlük atıştırmalık olarak düşünülmemeli.",
-      "positives": [
-        {
-          "text": "60 g barda 20 g protein"
-        },
-        {
-          "text": "Tat ve doku çoğu rakibinden iyi"
-        },
-        {
-          "text": "Yanında taşıması pratik"
-        }
-      ],
-      "negatives": [
-        {
-          "text": "Kalorisi düşük değil",
-          "detail": "214 kcal — bir öğünün yerini tutmuyor ama hafif de sayılmaz."
-        },
-        {
-          "text": "Yoğun tatlandırıcı içeriyor",
-          "detail": "Maltitol hassas kişilerde şişkinlik yapabiliyor."
-        },
-        {
-          "text": "Birim fiyatı yüksek"
-        }
-      ],
-      "quickFacts": [
-        {
-          "icon": "💪",
-          "label": "Protein",
-          "value": "20 g"
-        },
-        {
-          "icon": "🔥",
-          "label": "Kalori",
-          "value": "214 kcal"
-        },
-        {
-          "icon": "🍬",
-          "label": "Şeker",
-          "value": "1,4 g"
-        }
-      ],
-      "attributeGroups": [
-        {
-          "title": "Besin Değerleri (60 g)",
-          "icon": "🥗",
-          "initiallyExpanded": true,
-          "attributes": [
-            {
-              "label": "Protein",
-              "value": "20 g",
-              "emphasized": true,
-              "sentiment": "good"
-            },
-            {
-              "label": "Şeker",
-              "value": "1,4 g",
-              "sentiment": "good"
-            },
-            {
-              "label": "Kalori",
-              "value": "214 kcal",
-              "sentiment": "warning"
-            },
-            {
-              "label": "Yağ",
-              "value": "8,6 g"
-            },
-            {
-              "label": "Lif",
-              "value": "4,3 g"
-            }
-          ]
-        },
-        {
-          "title": "İçerik & Alerjenler",
-          "icon": "⚠️",
-          "footnote": "Alerjen bilgisi ambalaj üzerindeki beyandan alınmıştır.",
-          "initiallyExpanded": false,
-          "attributes": [
-            {
-              "label": "Tatlandırıcı",
-              "value": "Maltitol, sukraloz",
-              "note": "Fazla tüketimde sindirim sorunu yapabilir",
-              "sentiment": "warning"
-            },
-            {
-              "label": "Alerjenler",
-              "value": "Süt, soya, fındık",
-              "sentiment": "warning"
-            },
-            {
-              "label": "Katkı maddesi",
-              "value": "Emülgatör içerir"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        "protein bar",
-        "atıştırmalık",
-        "spor",
-        "grenade"
-      ],
-      "trend": {
-        "score": 59,
-        "change": 0.11,
-        "socialMentions": 1400,
-        "startDate": "2026-06-16T14:10:07.104992Z"
-      },
-      "alternatives": [
-        "p_stanley_quencher"
-      ],
-      "userRating": 4.4,
-      "reviewCount": 3800,
-      "offers": [
-        {
-          "marketplace": "amazon",
-          "seller": "Amazon",
-          "price": 139.9,
-          "shipping": 0.0,
-          "storeUrl": "https://www.amazon.com.tr/urun/p-grenade-bar",
-          "stock": "inStock",
-          "sellerRating": 4.7,
-          "updatedAt": "2026-08-15T16:31:07.108784Z"
-        },
-        {
-          "marketplace": "migros",
-          "seller": "Migros",
-          "price": 119.9,
-          "shipping": 29.9,
-          "storeUrl": "https://www.migros.com.tr/urun/p-grenade-bar",
-          "stock": "inStock",
-          "sellerRating": 4.6,
-          "delivery": "Aynı gün teslim",
-          "updatedAt": "2026-08-15T16:26:07.108789Z"
-        },
-        {
-          "marketplace": "hepsiburada",
-          "seller": "Sporcu Gıdası",
-          "price": 144.9,
-          "shipping": 0.0,
-          "storeUrl": "https://www.hepsiburada.com/urun/p-grenade-bar",
-          "stock": "inStock",
-          "sellerRating": 4.3,
-          "updatedAt": "2026-08-15T16:19:07.108810Z"
-        },
-        {
-          "marketplace": "trendyol",
-          "seller": "Supplement Market",
-          "price": 134.9,
-          "shipping": 39.9,
-          "storeUrl": "https://www.trendyol.com/urun/p-grenade-bar",
-          "stock": "inStock",
-          "sellerRating": 4.4,
-          "updatedAt": "2026-08-15T16:12:07.108815Z"
-        }
-      ],
-      "demo": true
-    },
     {
       "id": "p_ty_772605184",
       "slug": "bite-more-protein-cocoa-pancake-proteinli-kakao-pankek-50-gram-x-12-ad",
@@ -7592,6 +5879,582 @@
           "sellerRating": 4.7,
           "updatedAt": "2026-08-17T00:00:00Z",
           "shipping": 0
+        }
+      ]
+    },
+    {
+      "id": "p_hb_HB00000IWKZ8",
+      "slug": "la-roche-posay-anthelios-uvmune-400-spf50-gunes-kremi-50-ml",
+      "brand": "La Roche-Posay",
+      "name": "Anthelios UVMune 400 SPF50+ Güneş Kremi 50 ml",
+      "category": "kozmetik",
+      "glyph": "☀️",
+      "images": [
+        "https://productimages.hepsiburada.net/s/777/222-222/110001194161610.jpg"
+      ],
+      "score": 94,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.3 (15237)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "☀️",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "La Roche-Posay"
+            },
+            {
+              "label": "Öne çıkan",
+              "value": "SPF50+ · UVMune 400 filtresi · tüm cilt tipleri",
+              "emphasized": true,
+              "sentiment": "good"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.3 (15237 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "la roche-posay",
+        "kozmetik"
+      ],
+      "userRating": 4.3,
+      "reviewCount": 15237,
+      "offers": [
+        {
+          "marketplace": "hepsiburada",
+          "seller": "Hepsiburada",
+          "price": 762.42,
+          "storeUrl": "https://www.hepsiburada.com/anthelios-uvmune-400-spf-50-gunes-kremi-50-ml-tum-cilt-tipleri-icin-pm-HB00000IWKZ8",
+          "stock": "inStock",
+          "sellerRating": 4.3,
+          "updatedAt": "2026-08-17T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "p_hb_HBCV000070O8E7",
+      "slug": "xiaomi-redmi-watch-5-active-akilli-saat",
+      "brand": "Xiaomi",
+      "name": "Redmi Watch 5 Active Akıllı Saat",
+      "category": "teknoloji",
+      "glyph": "⌚",
+      "images": [
+        "https://productimages.hepsiburada.net/s/777/222-222/110000775706253.jpg"
+      ],
+      "score": 99,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.7 (3345)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "⌚",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Xiaomi"
+            },
+            {
+              "label": "Öne çıkan",
+              "value": "Sesli görüşme · 2 inç ekran",
+              "emphasized": true,
+              "sentiment": "good"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.7 (3345 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "xiaomi",
+        "teknoloji"
+      ],
+      "userRating": 4.7,
+      "reviewCount": 3345,
+      "offers": [
+        {
+          "marketplace": "hepsiburada",
+          "seller": "Hepsiburada",
+          "price": 1848.7,
+          "storeUrl": "https://www.hepsiburada.com/xiaomi-redmi-watch-5-active-black-akilli-saat-sesli-gorusme-ozellikli-p-HBCV000070O8E7",
+          "stock": "inStock",
+          "sellerRating": 4.7,
+          "updatedAt": "2026-08-17T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "p_hb_HBC00000PVC2V",
+      "slug": "xiaomi-mi-smart-air-fryer-3-5-l-fritoz",
+      "brand": "Xiaomi",
+      "name": "Mi Smart Air Fryer 3,5 L Fritöz",
+      "category": "ev-yasam",
+      "glyph": "🍟",
+      "images": [
+        "https://productimages.hepsiburada.net/s/554/222-222/110000616035481.jpg"
+      ],
+      "score": 99,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.7 (28298)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "🍟",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Xiaomi"
+            },
+            {
+              "label": "Öne çıkan",
+              "value": "3,5 L · OLED ekran · uygulamadan kontrol",
+              "emphasized": true,
+              "sentiment": "good"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.7 (28298 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "xiaomi",
+        "ev-yasam"
+      ],
+      "userRating": 4.7,
+      "reviewCount": 28298,
+      "offers": [
+        {
+          "marketplace": "hepsiburada",
+          "seller": "Hepsiburada",
+          "price": 4469.91,
+          "storeUrl": "https://www.hepsiburada.com/xiaomi-mi-smart-airfryer-3-5-l-pm-HBC00000PVC2V",
+          "stock": "inStock",
+          "sellerRating": 4.7,
+          "updatedAt": "2026-08-17T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "p_hb_HBV0000187HS6",
+      "slug": "anker-soundcore-q30-kulak-ustu-bluetooth-kulaklik",
+      "brand": "Anker",
+      "name": "Soundcore Q30 Kulak Üstü Bluetooth Kulaklık",
+      "category": "teknoloji",
+      "glyph": "🎧",
+      "images": [
+        "https://productimages.hepsiburada.net/s/777/222-222/110001155582681.jpg"
+      ],
+      "score": 98,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.6 (4715)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "🎧",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Anker"
+            },
+            {
+              "label": "Öne çıkan",
+              "value": "Hibrit aktif gürültü engelleme · 40 saat pil",
+              "emphasized": true,
+              "sentiment": "good"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.6 (4715 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "anker",
+        "teknoloji"
+      ],
+      "userRating": 4.6,
+      "reviewCount": 4715,
+      "offers": [
+        {
+          "marketplace": "hepsiburada",
+          "seller": "Hepsiburada",
+          "price": 4499,
+          "storeUrl": "https://www.hepsiburada.com/anker-soundcore-q30-kulak-ustu-bluetooth-kulaklik-hibrit-aktif-gurultu-engelleme-siyah-a3028-p-HBV0000187HS6",
+          "stock": "inStock",
+          "sellerRating": 4.6,
+          "updatedAt": "2026-08-17T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "p_hb_HBC00009Z66PA",
+      "slug": "apple-airpods-pro-3",
+      "brand": "Apple",
+      "name": "AirPods Pro 3",
+      "category": "teknoloji",
+      "glyph": "🎧",
+      "images": [
+        "https://productimages.hepsiburada.net/s/777/222-222/110001191828560.jpg"
+      ],
+      "score": 99,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.7 (1514)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "🎧",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Apple"
+            },
+            {
+              "label": "Öne çıkan",
+              "value": "Aktif gürültü önleme · suya dayanıklı",
+              "emphasized": true,
+              "sentiment": "good"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.7 (1514 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "apple",
+        "teknoloji"
+      ],
+      "userRating": 4.7,
+      "reviewCount": 1514,
+      "offers": [
+        {
+          "marketplace": "hepsiburada",
+          "seller": "Hepsiburada",
+          "price": 12690.59,
+          "storeUrl": "https://www.hepsiburada.com/apple-airpods-pro-3-kulakici-tws-bluetooth-kulaklik-aktif-gurultu-onleme-suya-dayanikli-pm-HBC00009Z66PA",
+          "stock": "inStock",
+          "sellerRating": 4.7,
+          "updatedAt": "2026-08-17T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "p_hb_HBC0000670A4Z",
+      "slug": "philips-5500-serisi-lattego-tam-otomatik-espresso-ep5543-80",
+      "brand": "Philips",
+      "name": "5500 Serisi LatteGo Tam Otomatik Espresso (EP5543/80)",
+      "category": "ev-yasam",
+      "glyph": "☕",
+      "images": [
+        "https://productimages.hepsiburada.net/s/777/222-222/110000693869765.jpg"
+      ],
+      "score": 95,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.4 (2101)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "☕",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Philips"
+            },
+            {
+              "label": "Öne çıkan",
+              "value": "20 içecek · LatteGo süt sistemi · dokunmatik ekran",
+              "emphasized": true,
+              "sentiment": "good"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.4 (2101 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "philips",
+        "ev-yasam"
+      ],
+      "userRating": 4.4,
+      "reviewCount": 2101,
+      "offers": [
+        {
+          "marketplace": "hepsiburada",
+          "seller": "Hepsiburada",
+          "price": 22298.08,
+          "storeUrl": "https://www.hepsiburada.com/5500-serisi-lattego-tam-otomatik-espresso-makinesi-20-sicak-ve-soguk-icecek-renkli-dokunmatik-ekran-ep5543-80-pm-HBC0000670A4Z",
+          "stock": "inStock",
+          "sellerRating": 4.4,
+          "updatedAt": "2026-08-17T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "p_hb_HBCV0000A01M89",
+      "slug": "tcl-55p79k-55-4k-qled-google-tv",
+      "brand": "TCL",
+      "name": "55P79K 55\" 4K QLED Google TV",
+      "category": "teknoloji",
+      "glyph": "📺",
+      "images": [
+        "https://productimages.hepsiburada.net/s/777/222-222/110001195288575.jpg"
+      ],
+      "score": 98,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.6 (220)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "📺",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "TCL"
+            },
+            {
+              "label": "Öne çıkan",
+              "value": "55 inç · 4K QLED · Google TV",
+              "emphasized": true,
+              "sentiment": "good"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.6 (220 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "tcl",
+        "teknoloji"
+      ],
+      "userRating": 4.6,
+      "reviewCount": 220,
+      "offers": [
+        {
+          "marketplace": "hepsiburada",
+          "seller": "Hepsiburada",
+          "price": 32899.84,
+          "storeUrl": "https://www.hepsiburada.com/tcl-55p79k-55-140-ekran-uydu-alicili-4k-ultra-hd-google-smart-qled-tv-p-HBCV0000A01M89",
+          "stock": "inStock",
+          "sellerRating": 4.6,
+          "updatedAt": "2026-08-17T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "p_hb_HBC00004UJY73",
+      "slug": "dyson-v12-detect-slim-absolute-kablosuz-supurge",
+      "brand": "Dyson",
+      "name": "V12 Detect Slim Absolute Kablosuz Süpürge",
+      "category": "ev-yasam",
+      "glyph": "🧹",
+      "images": [
+        "https://productimages.hepsiburada.net/s/777/222-222/110000668050145.jpg"
+      ],
+      "score": 96,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.5 (3819)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "🧹",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Dyson"
+            },
+            {
+              "label": "Öne çıkan",
+              "value": "Lazerli toz algılama · 60 dk çalışma",
+              "emphasized": true,
+              "sentiment": "good"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.5 (3819 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "dyson",
+        "ev-yasam"
+      ],
+      "userRating": 4.5,
+      "reviewCount": 3819,
+      "offers": [
+        {
+          "marketplace": "hepsiburada",
+          "seller": "Hepsiburada",
+          "price": 36999,
+          "storeUrl": "https://www.hepsiburada.com/dyson-v12-detect-slim-absolute-kablosuz-supurge-pm-HBC00004UJY73",
+          "stock": "inStock",
+          "sellerRating": 4.5,
+          "updatedAt": "2026-08-17T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "p_hb_HBCV00008WG0S8",
+      "slug": "lg-oled55b56la-55-4k-oled-tv",
+      "brand": "LG",
+      "name": "OLED55B56LA 55\" 4K OLED TV",
+      "category": "teknoloji",
+      "glyph": "📺",
+      "images": [
+        "https://productimages.hepsiburada.net/s/777/222-222/110001045108532.jpg"
+      ],
+      "score": 100,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.8 (274)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "📺",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "LG"
+            },
+            {
+              "label": "Öne çıkan",
+              "value": "55 inç · 4K OLED · webOS",
+              "emphasized": true,
+              "sentiment": "good"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.8 (274 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "lg",
+        "teknoloji"
+      ],
+      "userRating": 4.8,
+      "reviewCount": 274,
+      "offers": [
+        {
+          "marketplace": "hepsiburada",
+          "seller": "Hepsiburada",
+          "price": 75312.71,
+          "storeUrl": "https://www.hepsiburada.com/lg-oled55b56la-55-138-ekran-uydu-alicili-4k-smart-webos-oled-tv-p-HBCV00008WG0S8",
+          "stock": "inStock",
+          "sellerRating": 4.8,
+          "updatedAt": "2026-08-17T00:00:00Z"
         }
       ]
     }
