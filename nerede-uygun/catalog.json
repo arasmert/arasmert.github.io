@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-20T12:27:04Z",
+  "updatedAt": "2026-08-20T12:49:10Z",
   "collections": [
     {
       "id": "yaz_sicak",
@@ -2295,13 +2295,13 @@
         },
         {
           "icon": "🏷️",
-          "label": "Trendyol'da",
-          "value": "30.899,00 TL"
+          "label": "Hepsiburada'da",
+          "value": "31.095,45 TL"
         },
         {
           "icon": "💸",
           "label": "Fark",
-          "value": "650,00 TL uygun"
+          "value": "96,45 TL uygun"
         }
       ],
       "attributeGroups": [
@@ -2322,12 +2322,12 @@
             },
             {
               "label": "Hepsiburada",
-              "value": "30.249,00 TL",
+              "value": "31.095,45 TL",
               "sentiment": "good"
             },
             {
               "label": "Trendyol",
-              "value": "30.899,00 TL"
+              "value": "30.999,00 TL"
             },
             {
               "label": "Mağaza puanı",
@@ -2354,6 +2354,16 @@
           "stock": "inStock",
           "sellerRating": 4.5,
           "updatedAt": "2026-08-16T00:00:00Z",
+          "shipping": 0
+        },
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 30999.0,
+          "storeUrl": "https://www.trendyol.com/lenovo/ideapad-slim3-intel-core-i5-13420h-16gb-512gb-ssd-15-3-wuxga-freedos-dizustu-bilgisayar-83k1003mtr-p-898876056",
+          "stock": "inStock",
+          "sellerRating": 4.5,
+          "updatedAt": "2026-08-20T12:45:16Z",
           "shipping": 0
         }
       ]
@@ -2388,7 +2398,7 @@
         {
           "icon": "💸",
           "label": "Fark",
-          "value": "1.901,00 TL uygun"
+          "value": "1.800,00 TL uygun"
         }
       ],
       "attributeGroups": [
@@ -2409,7 +2419,7 @@
             },
             {
               "label": "Hepsiburada",
-              "value": "6.999,00 TL",
+              "value": "7.100,00 TL",
               "sentiment": "good"
             },
             {
@@ -2442,6 +2452,16 @@
           "sellerRating": 4.7,
           "updatedAt": "2026-08-16T00:00:00Z",
           "shipping": 0
+        },
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 8900.0,
+          "storeUrl": "https://www.trendyol.com/samsung/galaxy-tab-a9-wi-fi-sm-x110-4gb-64gb-8-7-tablet-graphite-p-767487787",
+          "stock": "inStock",
+          "sellerRating": 4.7,
+          "updatedAt": "2026-08-20T12:45:16Z",
+          "shipping": 0
         }
       ]
     },
@@ -2470,12 +2490,12 @@
         {
           "icon": "🏷️",
           "label": "Trendyol'da",
-          "value": "740,00 TL"
+          "value": "720,00 TL"
         },
         {
           "icon": "💸",
           "label": "Fark",
-          "value": "152,97 TL uygun"
+          "value": "121,00 TL uygun"
         }
       ],
       "attributeGroups": [
@@ -2496,12 +2516,12 @@
             },
             {
               "label": "Hepsiburada",
-              "value": "587,03 TL",
+              "value": "599,00 TL",
               "sentiment": "good"
             },
             {
               "label": "Trendyol",
-              "value": "740,00 TL"
+              "value": "720,00 TL"
             },
             {
               "label": "Mağaza puanı",
@@ -2528,6 +2548,16 @@
           "stock": "inStock",
           "sellerRating": 4.7,
           "updatedAt": "2026-08-16T00:00:00Z",
+          "shipping": 0
+        },
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 720.0,
+          "storeUrl": "https://www.trendyol.com/casio/fx-82es-plus-252-fonksiyon-2-nesil-bilimsel-hesap-makinesi-p-359504534",
+          "stock": "inStock",
+          "sellerRating": 4.7,
+          "updatedAt": "2026-08-20T12:45:16Z",
           "shipping": 0
         }
       ]
@@ -2557,12 +2587,12 @@
         {
           "icon": "🏷️",
           "label": "Trendyol'da",
-          "value": "489,00 TL"
+          "value": "490,00 TL"
         },
         {
           "icon": "💸",
           "label": "Fark",
-          "value": "105,00 TL uygun"
+          "value": "102,14 TL uygun"
         }
       ],
       "attributeGroups": [
@@ -2583,12 +2613,12 @@
             },
             {
               "label": "Hepsiburada",
-              "value": "384,00 TL",
+              "value": "387,86 TL",
               "sentiment": "good"
             },
             {
               "label": "Trendyol",
-              "value": "489,00 TL"
+              "value": "490,00 TL"
             },
             {
               "label": "Mağaza puanı",
@@ -2615,6 +2645,16 @@
           "stock": "inStock",
           "sellerRating": 4.7,
           "updatedAt": "2026-08-16T00:00:00Z",
+          "shipping": 0
+        },
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 490.0,
+          "storeUrl": "https://www.trendyol.com/logitech/m171-usb-alicili-kablosuz-kompakt-mouse-siyah-910-004424-p-2478845",
+          "stock": "inStock",
+          "sellerRating": 4.7,
+          "updatedAt": "2026-08-20T12:45:16Z",
           "shipping": 0
         }
       ]
@@ -2644,12 +2684,12 @@
         {
           "icon": "🏷️",
           "label": "Trendyol'da",
-          "value": "539,00 TL"
+          "value": "599,00 TL"
         },
         {
           "icon": "💸",
           "label": "Fark",
-          "value": "138,00 TL uygun"
+          "value": "98,99 TL uygun"
         }
       ],
       "attributeGroups": [
@@ -2670,12 +2710,12 @@
             },
             {
               "label": "Hepsiburada",
-              "value": "401,00 TL",
+              "value": "500,01 TL",
               "sentiment": "good"
             },
             {
               "label": "Trendyol",
-              "value": "539,00 TL"
+              "value": "599,00 TL"
             },
             {
               "label": "Mağaza puanı",
@@ -2702,6 +2742,16 @@
           "stock": "inStock",
           "sellerRating": 4.7,
           "updatedAt": "2026-08-16T00:00:00Z",
+          "shipping": 0
+        },
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 599.0,
+          "storeUrl": "https://www.trendyol.com/kingston/kingston-64gb-datatraveler-exodia-usb-3-2-gen-1-flash-bellek-dtx-64gb-p-94089943",
+          "stock": "inStock",
+          "sellerRating": 4.7,
+          "updatedAt": "2026-08-20T12:45:16Z",
           "shipping": 0
         }
       ]
