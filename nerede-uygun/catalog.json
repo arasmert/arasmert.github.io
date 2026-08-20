@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-20T12:49:10Z",
+  "updatedAt": "2026-08-20T13:10:54Z",
   "collections": [
     {
       "id": "yaz_sicak",
@@ -6507,6 +6507,93 @@
           "updatedAt": "2026-08-17T00:00:00Z"
         }
       ]
+    }
+  ],
+  "editorial": [
+    {
+      "id": "ed_stanley",
+      "placement": "home_1",
+      "eyebrow": "GÜNDEMDEKİ ÜRÜN",
+      "title": "Salyangoz özlü esans gerçekten işe yarıyor mu?",
+      "body": "7 binden fazla kişi aldı ve puanladı. İçinde ne var, kime uygun, kime değil — hepsine baktık.",
+      "cta": "İncele",
+      "accent": "#2E6BFF",
+      "tint": "#EEF4FF",
+      "glyph": "🐌",
+      "target": {
+        "type": "product",
+        "productId": "p_ty_3184549"
+      }
+    },
+    {
+      "id": "ed_compare_tv",
+      "placement": "home_4",
+      "eyebrow": "KARŞILAŞTIRMA",
+      "title": "Aynı 55 inç, iki ayrı dünya",
+      "body": "Aradaki farkın büyük kısmı OLED panelini alıyor — karanlık odada film izlemiyorsan bu farkı görür müsün?",
+      "cta": "Karşılaştır",
+      "accent": "#7A5AF8",
+      "tint": "#F4F3FF",
+      "glyph": "📺",
+      "target": {
+        "type": "compare",
+        "firstId": "p_hb_HBCV0000A01M89",
+        "secondId": "p_hb_HBCV00008WG0S8"
+      }
+    },
+    {
+      "id": "ed_discover_hero",
+      "placement": "discover_hero",
+      "eyebrow": "HAFTANIN DOSYASI",
+      "title": "Herkesin konuştuğu cilt bakım ürünleri",
+      "body": "Bu hafta en çok konuşulan ürünleri ml başına fiyatıyla inceledik: hangisi gerçekten işe yarıyor?",
+      "cta": "Dosyayı Aç",
+      "accent": "#DB2777",
+      "tint": "#FDF2F8",
+      "glyph": "💄",
+      "target": {
+        "type": "collection",
+        "title": "Herkesin Konuştuğu Cilt Bakımı",
+        "subtitle": "ml başına fiyatıyla karşılaştırdık",
+        "productIds": [
+          "p_ty_267748711",
+          "p_ty_906055076",
+          "p_hb_HB00000IWKZ8",
+          "p_ty_3748245",
+          "p_ty_3184549"
+        ]
+      }
+    },
+    {
+      "id": "ed_discover_kitchen",
+      "placement": "discover_extra",
+      "eyebrow": "MUTFAK",
+      "title": "Air fryer almadan önce",
+      "body": "Hazne boyutu mu, güç mü? Yanlış modeli almamak için bilmen gereken üç şey.",
+      "cta": "İncele",
+      "accent": "#B54708",
+      "tint": "#FFFAEB",
+      "glyph": "🍟",
+      "target": {
+        "type": "product",
+        "productId": "p_hb_HBC00000PVC2V"
+      }
+    },
+    {
+      "id": "ed_discover_blocks",
+      "placement": "discover_extra",
+      "eyebrow": "OYUNCAK",
+      "title": "İki blok seti, aynı 72 parça",
+      "body": "Fiyatları farklı, parça sayıları aynı. Aradaki fark mıknatıs gücünde ve kullanıcı puanında ortaya çıkıyor.",
+      "cta": "Karşılaştır",
+      "accent": "#7A5AF8",
+      "tint": "#F4F3FF",
+      "glyph": "🧲",
+      "target": {
+        "type": "compare",
+        "firstId": "p_ty_959516754",
+        "secondId": "p_ty_876839630"
+      }
     }
   ]
 }
