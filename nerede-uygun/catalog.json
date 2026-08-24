@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-23T05:05:09Z",
+  "updatedAt": "2026-08-24T05:04:54Z",
   "collections": [
     {
       "id": "yaz_sicak",
@@ -1469,7 +1469,7 @@
         {
           "icon": "💸",
           "label": "ml başı",
-          "value": "9,98 TL"
+          "value": "11,98 TL"
         }
       ],
       "attributeGroups": [
@@ -1516,7 +1516,7 @@
         {
           "marketplace": "trendyol",
           "seller": "Trendyol",
-          "price": 499.0,
+          "price": 599.0,
           "storeUrl": "https://www.trendyol.com/skin1004/madagaskar-centella-hyalu-cica-su-bazli-gunes-kremi-spf-50-pa-50-ml-p-338877323",
           "affiliateUrl": "https://ty.gl/xzpxnyi9q1tsb",
           "stock": "inStock",
@@ -1556,7 +1556,7 @@
         {
           "icon": "💸",
           "label": "ml başı",
-          "value": "13,25 TL"
+          "value": "14,08 TL"
         }
       ],
       "attributeGroups": [
@@ -1603,7 +1603,7 @@
         {
           "marketplace": "trendyol",
           "seller": "Trendyol",
-          "price": 662.31,
+          "price": 704.0,
           "storeUrl": "https://www.trendyol.com/round-lab/birch-juice-moisturizing-sunscreen-nemlendirici-aydinlatici-gunes-kremi-50-ml-p-159186217",
           "affiliateUrl": "https://ty.gl/xzpxnyi9q1tsb",
           "stock": "inStock",
@@ -1885,7 +1885,7 @@
         {
           "icon": "💸",
           "label": "g başı",
-          "value": "61,68 TL"
+          "value": "62,40 TL"
         }
       ],
       "attributeGroups": [
@@ -1932,7 +1932,7 @@
         {
           "marketplace": "trendyol",
           "seller": "Trendyol",
-          "price": 1233.51,
+          "price": 1248.0,
           "storeUrl": "https://www.trendyol.com/laneige/lip-sleeping-mask-berry-20-g-dudak-icin-gece-maskesi-p-36496290",
           "affiliateUrl": "https://ty.gl/xzpxnyi9q1tsb",
           "stock": "inStock",
@@ -2261,7 +2261,7 @@
         {
           "marketplace": "trendyol",
           "seller": "Trendyol",
-          "price": 541.61,
+          "price": 539.9,
           "storeUrl": "https://www.trendyol.com/maybelline-new-york/lash-sensational-yelpaze-etkili-intense-black-maskara-ekstra-siyah-p-1263063",
           "affiliateUrl": "https://ty.gl/xzpxnyi9q1tsb",
           "stock": "inStock",
@@ -2296,12 +2296,12 @@
         {
           "icon": "🏷️",
           "label": "Hepsiburada'da",
-          "value": "31.965,34 TL"
+          "value": "31.879,25 TL"
         },
         {
           "icon": "💸",
           "label": "Fark",
-          "value": "466,34 TL uygun"
+          "value": "380,25 TL uygun"
         }
       ],
       "attributeGroups": [
@@ -2322,7 +2322,7 @@
             },
             {
               "label": "Hepsiburada",
-              "value": "31.965,34 TL",
+              "value": "31.879,25 TL",
               "sentiment": "good"
             },
             {
@@ -2348,7 +2348,7 @@
         {
           "marketplace": "hepsiburada",
           "seller": "Hepsiburada",
-          "price": 31965.34,
+          "price": 31879.25,
           "storeUrl": "https://www.hepsiburada.com/lenovo-ideapad-slim-3-intel-core-i5-13420h-16gb-512gb-ssd-freedos-15-3-tasinabilir-bilgisayar-83k1003mtr-p-HBCV00008O31RB",
           "affiliateUrl": "https://app.hb.biz/9MpiCdwshXv9",
           "stock": "inStock",
@@ -3213,7 +3213,7 @@
         {
           "marketplace": "trendyol",
           "seller": "Trendyol",
-          "price": 990.0,
+          "price": 961.02,
           "storeUrl": "https://www.trendyol.com/moen/sarjli-turbo-masa-fani-duvara-monte-edilebilir-yuksek-ufleme-gucu-5-kademe-ayarlanabilir-hiz-p-927136439",
           "affiliateUrl": "https://ty.gl/95ilngmj03sh3",
           "stock": "inStock",
@@ -3474,7 +3474,7 @@
         {
           "marketplace": "trendyol",
           "seller": "Trendyol",
-          "price": 223.46,
+          "price": 384.01,
           "storeUrl": "https://www.trendyol.com/wia/termoslu-beslenme-cantasi-siyah-p-335408061",
           "affiliateUrl": "https://ty.gl/2z0gszjthip2q",
           "stock": "inStock",
@@ -3957,7 +3957,7 @@
         {
           "marketplace": "trendyol",
           "seller": "Trendyol",
-          "price": 199.9,
+          "price": 220.7,
           "storeUrl": "https://www.trendyol.com/fatih/tam-boy-kuru-boya-36-renk-kirtasiye-p-3968329",
           "affiliateUrl": "https://ty.gl/2z0gszjthip2q",
           "stock": "inStock",
@@ -4017,7 +4017,7 @@
         {
           "marketplace": "trendyol",
           "seller": "Trendyol",
-          "price": 227.05,
+          "price": 234.55,
           "storeUrl": "https://www.trendyol.com/copierbond/fotokopi-kagidi-a4-80gr-500-adet-p-120453524",
           "affiliateUrl": "https://ty.gl/2z0gszjthip2q",
           "stock": "inStock",
@@ -4077,7 +4077,7 @@
         {
           "marketplace": "trendyol",
           "seller": "Trendyol",
-          "price": 38299.0,
+          "price": 37990.0,
           "storeUrl": "https://www.trendyol.com/hp/victus-amd-ryzen-5-8645hs-16gb-512gb-rtx3050-6gb-freedos-15-6-fhd-ips-144hz-gaming-laptop-b9km2ea-p-929697232",
           "affiliateUrl": "https://ty.gl/2z0gszjthip2q",
           "stock": "inStock",
@@ -4197,7 +4197,7 @@
         {
           "marketplace": "trendyol",
           "seller": "Trendyol",
-          "price": 1790.0,
+          "price": 1799.0,
           "storeUrl": "https://www.trendyol.com/jbl/t520bt-siyah-wireless-bluetooth-kulak-ustu-kulaklik-jb-t520btblkeu-ty-p-702010835",
           "affiliateUrl": "https://ty.gl/2z0gszjthip2q",
           "stock": "inStock",
@@ -4258,7 +4258,7 @@
         {
           "marketplace": "trendyol",
           "seller": "Trendyol",
-          "price": 1196.65,
+          "price": 1199.0,
           "storeUrl": "https://www.trendyol.com/xiaomi/redmi-20000-mah-tasinabilir-hizli-sarj-cihazi-usb-c-18w-2-cikisli-powerbank-siyah-p-53562023",
           "affiliateUrl": "https://ty.gl/2z0gszjthip2q",
           "stock": "inStock",
@@ -4615,7 +4615,7 @@
         {
           "marketplace": "trendyol",
           "seller": "Trendyol",
-          "price": 19441.11,
+          "price": 19441.0,
           "storeUrl": "https://www.trendyol.com/dyson/hushjet-kompakt-hava-temizleyici-100-m2-ye-kadar-etkili-fisilti-kadar-sessiz-elektrostatik-ve-aktif-karbon-filtre-siyah-turkuaz-p-1083994253",
           "affiliateUrl": "https://ty.gl/hxotbbzi9ckdq",
           "stock": "inStock",
@@ -5685,7 +5685,7 @@
         {
           "marketplace": "trendyol",
           "seller": "Trendyol",
-          "price": 939.0,
+          "price": 889.0,
           "storeUrl": "https://www.trendyol.com/lego/duplo-ilk-sayi-treni-saymayi-ogren-10954-1-2-egitici-oyuncak-yapim-seti-23p-p-121313958",
           "affiliateUrl": "https://ty.gl/5sbwpyfh3f0ky",
           "stock": "inStock",
@@ -6052,7 +6052,7 @@
         {
           "marketplace": "hepsiburada",
           "seller": "Hepsiburada",
-          "price": 2075.26,
+          "price": 1971.5,
           "storeUrl": "https://www.hepsiburada.com/xiaomi-redmi-watch-5-active-black-akilli-saat-sesli-gorusme-ozellikli-p-HBCV000070O8E7",
           "stock": "inStock",
           "sellerRating": 4.7,
@@ -6116,7 +6116,7 @@
         {
           "marketplace": "hepsiburada",
           "seller": "Hepsiburada",
-          "price": 6999.0,
+          "price": 7864.0,
           "storeUrl": "https://www.hepsiburada.com/xiaomi-mi-smart-airfryer-3-5-l-pm-HBC00000PVC2V",
           "stock": "inStock",
           "sellerRating": 4.7,
@@ -6244,7 +6244,7 @@
         {
           "marketplace": "hepsiburada",
           "seller": "Hepsiburada",
-          "price": 11970.0,
+          "price": 12957.76,
           "storeUrl": "https://www.hepsiburada.com/apple-airpods-pro-3-kulakici-tws-bluetooth-kulaklik-aktif-gurultu-onleme-suya-dayanikli-pm-HBC00009Z66PA",
           "stock": "inStock",
           "sellerRating": 4.7,
@@ -6372,7 +6372,7 @@
         {
           "marketplace": "hepsiburada",
           "seller": "Hepsiburada",
-          "price": 31377.07,
+          "price": 32899.84,
           "storeUrl": "https://www.hepsiburada.com/tcl-55p79k-55-140-ekran-uydu-alicili-4k-ultra-hd-google-smart-qled-tv-p-HBCV0000A01M89",
           "stock": "inStock",
           "sellerRating": 4.6,
