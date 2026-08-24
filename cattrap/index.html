@@ -34,7 +34,7 @@ footer a{color:#fff}
   <img src="img/icon.png" alt="Cat Trap simgesi">
   <h1>Cat Trap</h1>
   <p class="tag">Kediyi kapana kıstır — kaçmasına izin verme.</p>
-  <p><a class="cta" href="https://apps.apple.com/tr/app/cat-trap/id1613197272">App Store'dan indir</a></p>
+  <p><a class="cta" id="store" href="https://apps.apple.com/tr/app/cat-trap/id1613197272">App Store'dan indir</a></p>
   <p class="note">iPhone ve iPad için ücretsiz</p>
 </header>
 
@@ -67,4 +67,31 @@ footer a{color:#fff}
   <p>Polyque Games · <a href="mailto:mert@polyque.com">mert@polyque.com</a></p>
 </footer>
 
-</div></body></html>
+</div>
+
+<script>
+// Meta Pixel. Kimlik bos birakilirsa hicbir istek gidilmez; asagidaki numarayi
+// Events Manager > Veri Kaynaklari'ndaki piksel kimligiyle degistir.
+var PIXEL_ID = "";
+
+if (PIXEL_ID) {
+  !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+  n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}
+  (window,document,'script','https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', PIXEL_ID);
+  fbq('track', 'PageView');
+}
+
+document.getElementById('store').addEventListener('click', function (event) {
+  if (!window.fbq) return;              // piksel yoksa link normal calissin
+  fbq('track', 'Lead');
+  // Olay istegi yola cikmadan sayfa degisirse tiklama kaybolur; kisa bir an beklenir.
+  event.preventDefault();
+  var href = this.href;
+  setTimeout(function () { window.location.href = href; }, 300);
+});
+</script>
+
+</body></html>
