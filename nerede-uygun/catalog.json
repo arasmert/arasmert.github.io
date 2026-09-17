@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-16T15:35:03Z",
+  "updatedAt": "2026-09-17T05:05:11Z",
   "collections": [
     {
       "id": "yaz_sicak",
@@ -1021,7 +1021,7 @@
         {
           "icon": "💸",
           "label": "Adet başı",
-          "value": "100,00 TL"
+          "value": "109,67 TL"
         },
         {
           "icon": "📦",
@@ -1082,7 +1082,7 @@
         {
           "marketplace": "trendyol",
           "seller": "Trendyol",
-          "price": 300.0,
+          "price": 329.0,
           "storeUrl": "https://www.trendyol.com/clean-powders/protein-pancake-55-gr-3-adet-cikolata-p-1121448966",
           "affiliateUrl": "https://ty.gl/g5peit7dbyn05",
           "stock": "lowStock",
@@ -1122,7 +1122,7 @@
         {
           "icon": "💸",
           "label": "ml başı",
-          "value": "1,85 TL"
+          "value": "1,96 TL"
         }
       ],
       "attributeGroups": [
@@ -1169,7 +1169,7 @@
         {
           "marketplace": "trendyol",
           "seller": "Trendyol",
-          "price": 924.0,
+          "price": 979.0,
           "storeUrl": "https://www.trendyol.com/bioderma/sensibio-h2o-hassas-ve-normal-ciltler-icin-micellar-arindirici-makyaj-temizleme-suyu-500-ml-p-1068907",
           "affiliateUrl": "https://ty.gl/xzpxnyi9q1tsb",
           "stock": "inStock",
@@ -1209,7 +1209,7 @@
         {
           "icon": "💸",
           "label": "ml başı",
-          "value": "5,82 TL"
+          "value": "6,85 TL"
         }
       ],
       "attributeGroups": [
@@ -1256,7 +1256,7 @@
         {
           "marketplace": "trendyol",
           "seller": "Trendyol",
-          "price": 582.25,
+          "price": 685.0,
           "storeUrl": "https://www.trendyol.com/cosrx/advanced-snail-96-mucin-power-essence-100ml-salyangoz-ozlu-nemlendirici-ve-besleyici-esans-p-3184549",
           "affiliateUrl": "https://ty.gl/xzpxnyi9q1tsb",
           "stock": "inStock",
@@ -1759,7 +1759,7 @@
         {
           "marketplace": "trendyol",
           "seller": "Trendyol",
-          "price": 933.34,
+          "price": 1040.42,
           "storeUrl": "https://www.trendyol.com/medicube/medicube-pdrn-pink-peptide-serum-p-897016688",
           "affiliateUrl": "https://ty.gl/xzpxnyi9q1tsb",
           "stock": "inStock",
@@ -1798,7 +1798,7 @@
         {
           "icon": "💸",
           "label": "ml başı",
-          "value": "21,69 TL"
+          "value": "24,10 TL"
         }
       ],
       "attributeGroups": [
@@ -1845,7 +1845,7 @@
         {
           "marketplace": "trendyol",
           "seller": "Trendyol",
-          "price": 1084.5,
+          "price": 1205.0,
           "storeUrl": "https://www.trendyol.com/torriden/dive-in-low-molecular-hyaluronic-acid-serum-mikro-hyaluronik-asit-serumu-50ml-p-766017948",
           "affiliateUrl": "https://ty.gl/xzpxnyi9q1tsb",
           "stock": "inStock",
@@ -2145,7 +2145,7 @@
         {
           "icon": "💸",
           "label": "ml başı",
-          "value": "15,72 TL"
+          "value": "15,97 TL"
         }
       ],
       "attributeGroups": [
@@ -2192,7 +2192,7 @@
         {
           "marketplace": "trendyol",
           "seller": "Trendyol",
-          "price": 629.0,
+          "price": 639.0,
           "storeUrl": "https://www.trendyol.com/la-roche-posay/cicaplast-balm-b5-tahris-olmus-ciltlere-yatistirici-ve-bariyer-onarici-yuz-vucut-bakim-kremi-40-ml-p-132481",
           "affiliateUrl": "https://ty.gl/xzpxnyi9q1tsb",
           "stock": "inStock",
@@ -2584,12 +2584,12 @@
         {
           "icon": "🏷️",
           "label": "Trendyol'da",
-          "value": "629,53 TL"
+          "value": "668,33 TL"
         },
         {
           "icon": "💸",
           "label": "Fark",
-          "value": "141,67 TL uygun"
+          "value": "180,47 TL uygun"
         }
       ],
       "attributeGroups": [
@@ -2615,7 +2615,7 @@
             },
             {
               "label": "Trendyol",
-              "value": "629,53 TL"
+              "value": "668,33 TL"
             },
             {
               "label": "Mağaza puanı",
@@ -2646,7 +2646,7 @@
         {
           "marketplace": "trendyol",
           "seller": "Trendyol",
-          "price": 629.53,
+          "price": 668.33,
           "storeUrl": "https://www.trendyol.com/logitech/m171-usb-alicili-kablosuz-kompakt-mouse-siyah-910-004424-p-2478845",
           "stock": "inStock",
           "sellerRating": 4.7,
@@ -2680,12 +2680,12 @@
         {
           "icon": "🏷️",
           "label": "Trendyol'da",
-          "value": "979,00 TL"
+          "value": "598,80 TL"
         },
         {
           "icon": "💸",
           "label": "Fark",
-          "value": "460,00 TL uygun"
+          "value": "79,80 TL uygun"
         }
       ],
       "attributeGroups": [
@@ -2711,7 +2711,7 @@
             },
             {
               "label": "Trendyol",
-              "value": "979,00 TL"
+              "value": "598,80 TL"
             },
             {
               "label": "Mağaza puanı",
@@ -2742,7 +2742,7 @@
         {
           "marketplace": "trendyol",
           "seller": "Trendyol",
-          "price": 979.0,
+          "price": 598.8,
           "storeUrl": "https://www.trendyol.com/kingston/kingston-64gb-datatraveler-exodia-usb-3-2-gen-1-flash-bellek-dtx-64gb-p-94089943",
           "stock": "inStock",
           "sellerRating": 4.7,
@@ -2819,7 +2819,7 @@
         {
           "marketplace": "trendyol",
           "seller": "Trendyol",
-          "price": 25442.01,
+          "price": 25699.0,
           "storeUrl": "https://www.trendyol.com/airfel/ltxm35n-12000-btu-r32-a-inverter-duvar-tipi-klima-p-316897170",
           "affiliateUrl": "https://ty.gl/95ilngmj03sh3",
           "stock": "inStock",
@@ -3130,7 +3130,7 @@
         {
           "marketplace": "trendyol",
           "seller": "Trendyol",
-          "price": 1053.99,
+          "price": 1064.64,
           "storeUrl": "https://www.trendyol.com/kumtel/ktf-345-siyah-18-inc-ayakli-vantilator-60-w-5-pervaneli-3-kademeli-132-cm-p-1139403146",
           "affiliateUrl": "https://ty.gl/95ilngmj03sh3",
           "stock": "inStock",
@@ -3286,7 +3286,7 @@
         {
           "marketplace": "trendyol",
           "seller": "Trendyol",
-          "price": 490.05,
+          "price": 495.0,
           "storeUrl": "https://www.trendyol.com/nextbuy/mini-sogutucu-vantilator-type-c-sarjli-masa-ustu-fan-tasinabilir-4-mod-hiz-ayarli-pervane-p-836379368",
           "affiliateUrl": "https://ty.gl/95ilngmj03sh3",
           "stock": "inStock",
@@ -3771,7 +3771,7 @@
         {
           "marketplace": "trendyol",
           "seller": "Trendyol",
-          "price": 93.23,
+          "price": 98.0,
           "storeUrl": "https://www.trendyol.com/fatih/mercanlikursun-kalem-12-li-paket-p-48361052",
           "affiliateUrl": "https://ty.gl/2z0gszjthip2q",
           "stock": "inStock",
@@ -3831,7 +3831,7 @@
         {
           "marketplace": "trendyol",
           "seller": "Trendyol",
-          "price": 73.0,
+          "price": 71.0,
           "storeUrl": "https://www.trendyol.com/faber-castell/sinav-silgisi-dust-free-3-lu-set-yumusak-kenar-kompakt-form-pvc-fitalat-lateks-icermez-p-39137382",
           "affiliateUrl": "https://ty.gl/2z0gszjthip2q",
           "stock": "inStock",
@@ -4132,7 +4132,7 @@
         {
           "marketplace": "trendyol",
           "seller": "Trendyol",
-          "price": 25279.0,
+          "price": 25299.0,
           "storeUrl": "https://www.trendyol.com/apple/11-ipad-wi-fi-128gb-gumus-p-904298041",
           "affiliateUrl": "https://ty.gl/2z0gszjthip2q",
           "stock": "inStock",
@@ -4432,7 +4432,7 @@
         {
           "marketplace": "trendyol",
           "seller": "Trendyol",
-          "price": 7835.0,
+          "price": 7749.0,
           "storeUrl": "https://www.trendyol.com/shark/neverchange5-compact-pro-hava-temizleyici-p-953699296",
           "affiliateUrl": "https://ty.gl/hxotbbzi9ckdq",
           "stock": "inStock",
@@ -4610,7 +4610,7 @@
         {
           "marketplace": "trendyol",
           "seller": "Trendyol",
-          "price": 16990.0,
+          "price": 16950.0,
           "storeUrl": "https://www.trendyol.com/dyson/hushjet-kompakt-hava-temizleyici-100-m2-ye-kadar-etkili-fisilti-kadar-sessiz-elektrostatik-ve-aktif-karbon-filtre-siyah-turkuaz-p-1083994253",
           "affiliateUrl": "https://ty.gl/hxotbbzi9ckdq",
           "stock": "inStock",
@@ -5621,7 +5621,7 @@
         {
           "marketplace": "trendyol",
           "seller": "Trendyol",
-          "price": 1197.4,
+          "price": 1294.09,
           "storeUrl": "https://www.trendyol.com/lego/duplo-classic-yapim-parcasi-kutusu-10913-1-2-yaratici-oyuncak-yapim-seti-65p-p-34617433",
           "affiliateUrl": "https://ty.gl/5sbwpyfh3f0ky",
           "stock": "inStock",
@@ -5680,7 +5680,7 @@
         {
           "marketplace": "trendyol",
           "seller": "Trendyol",
-          "price": 809.1,
+          "price": 980.0,
           "storeUrl": "https://www.trendyol.com/lego/duplo-ilk-sayi-treni-saymayi-ogren-10954-1-2-egitici-oyuncak-yapim-seti-23p-p-121313958",
           "affiliateUrl": "https://ty.gl/5sbwpyfh3f0ky",
           "stock": "inStock",
@@ -6239,7 +6239,7 @@
         {
           "marketplace": "hepsiburada",
           "seller": "Hepsiburada",
-          "price": 13199.0,
+          "price": 13539.59,
           "storeUrl": "https://www.hepsiburada.com/apple-airpods-pro-3-kulakici-tws-bluetooth-kulaklik-aktif-gurultu-onleme-suya-dayanikli-pm-HBC00009Z66PA",
           "stock": "inStock",
           "sellerRating": 4.7,
@@ -6303,7 +6303,7 @@
         {
           "marketplace": "hepsiburada",
           "seller": "Hepsiburada",
-          "price": 21799.0,
+          "price": 22221.85,
           "storeUrl": "https://www.hepsiburada.com/5500-serisi-lattego-tam-otomatik-espresso-makinesi-20-sicak-ve-soguk-icecek-renkli-dokunmatik-ekran-ep5543-80-pm-HBC0000670A4Z",
           "stock": "inStock",
           "sellerRating": 4.4,
