@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-24T15:35:07Z",
+  "updatedAt": "2026-09-25T06:45:13Z",
   "collections": [
     {
       "id": "yaz_sicak",
@@ -1469,7 +1469,7 @@
         {
           "icon": "💸",
           "label": "ml başı",
-          "value": "13,98 TL"
+          "value": "15,76 TL"
         }
       ],
       "attributeGroups": [
@@ -1516,7 +1516,7 @@
         {
           "marketplace": "trendyol",
           "seller": "Trendyol",
-          "price": 699.0,
+          "price": 788.0,
           "storeUrl": "https://www.trendyol.com/skin1004/madagaskar-centella-hyalu-cica-su-bazli-gunes-kremi-spf-50-pa-50-ml-p-338877323",
           "affiliateUrl": "https://ty.gl/xzpxnyi9q1tsb",
           "stock": "inStock",
@@ -1556,7 +1556,7 @@
         {
           "icon": "💸",
           "label": "ml başı",
-          "value": "14,00 TL"
+          "value": "12,45 TL"
         }
       ],
       "attributeGroups": [
@@ -1603,7 +1603,7 @@
         {
           "marketplace": "trendyol",
           "seller": "Trendyol",
-          "price": 699.9,
+          "price": 622.71,
           "storeUrl": "https://www.trendyol.com/round-lab/birch-juice-moisturizing-sunscreen-nemlendirici-aydinlatici-gunes-kremi-50-ml-p-159186217",
           "affiliateUrl": "https://ty.gl/xzpxnyi9q1tsb",
           "stock": "inStock",
@@ -1885,7 +1885,7 @@
         {
           "icon": "💸",
           "label": "g başı",
-          "value": "95,00 TL"
+          "value": "97,50 TL"
         }
       ],
       "attributeGroups": [
@@ -1932,7 +1932,7 @@
         {
           "marketplace": "trendyol",
           "seller": "Trendyol",
-          "price": 1900.0,
+          "price": 1950.0,
           "storeUrl": "https://www.trendyol.com/laneige/lip-sleeping-mask-berry-20-g-dudak-icin-gece-maskesi-p-36496290",
           "affiliateUrl": "https://ty.gl/xzpxnyi9q1tsb",
           "stock": "inStock",
@@ -2059,7 +2059,7 @@
         {
           "icon": "💸",
           "label": "ml başı",
-          "value": "14,49 TL"
+          "value": "15,58 TL"
         }
       ],
       "attributeGroups": [
@@ -2106,7 +2106,7 @@
         {
           "marketplace": "trendyol",
           "seller": "Trendyol",
-          "price": 434.73,
+          "price": 467.45,
           "storeUrl": "https://www.trendyol.com/garnier/vitamin-c-super-parlaklik-yuz-serumu-30ml-niasinamid-salisilik-asit-melasyl-aydinlatici-serum-p-157360249",
           "affiliateUrl": "https://ty.gl/xzpxnyi9q1tsb",
           "stock": "inStock",
@@ -2679,13 +2679,13 @@
         },
         {
           "icon": "🏷️",
-          "label": "Trendyol'da",
-          "value": "719,99 TL"
+          "label": "Hepsiburada'da",
+          "value": "529,00 TL"
         },
         {
           "icon": "💸",
           "label": "Fark",
-          "value": "190,99 TL uygun"
+          "value": "26,06 TL uygun"
         }
       ],
       "attributeGroups": [
@@ -2711,7 +2711,7 @@
             },
             {
               "label": "Trendyol",
-              "value": "719,99 TL"
+              "value": "502,94 TL"
             },
             {
               "label": "Mağaza puanı",
@@ -2742,7 +2742,7 @@
         {
           "marketplace": "trendyol",
           "seller": "Trendyol",
-          "price": 719.99,
+          "price": 502.94,
           "storeUrl": "https://www.trendyol.com/kingston/kingston-64gb-datatraveler-exodia-usb-3-2-gen-1-flash-bellek-dtx-64gb-p-94089943",
           "stock": "inStock",
           "sellerRating": 4.7,
@@ -2819,7 +2819,7 @@
         {
           "marketplace": "trendyol",
           "seller": "Trendyol",
-          "price": 26200.0,
+          "price": 27500.0,
           "storeUrl": "https://www.trendyol.com/airfel/ltxm35n-12000-btu-r32-a-inverter-duvar-tipi-klima-p-316897170",
           "affiliateUrl": "https://ty.gl/95ilngmj03sh3",
           "stock": "inStock",
@@ -3286,7 +3286,7 @@
         {
           "marketplace": "trendyol",
           "seller": "Trendyol",
-          "price": 494.0,
+          "price": 536.0,
           "storeUrl": "https://www.trendyol.com/nextbuy/mini-sogutucu-vantilator-type-c-sarjli-masa-ustu-fan-tasinabilir-4-mod-hiz-ayarli-pervane-p-836379368",
           "affiliateUrl": "https://ty.gl/95ilngmj03sh3",
           "stock": "inStock",
@@ -3771,7 +3771,7 @@
         {
           "marketplace": "trendyol",
           "seller": "Trendyol",
-          "price": 74.9,
+          "price": 74.0,
           "storeUrl": "https://www.trendyol.com/fatih/mercanlikursun-kalem-12-li-paket-p-48361052",
           "affiliateUrl": "https://ty.gl/2z0gszjthip2q",
           "stock": "inStock",
@@ -3891,7 +3891,7 @@
         {
           "marketplace": "trendyol",
           "seller": "Trendyol",
-          "price": 741.0,
+          "price": 699.9,
           "storeUrl": "https://www.trendyol.com/stabilo/boss-original-pastel-10-renk-fosforlu-kalem-seti-p-46145131",
           "affiliateUrl": "https://ty.gl/2z0gszjthip2q",
           "stock": "inStock",
@@ -3952,7 +3952,7 @@
         {
           "marketplace": "trendyol",
           "seller": "Trendyol",
-          "price": 255.0,
+          "price": 246.0,
           "storeUrl": "https://www.trendyol.com/fatih/tam-boy-kuru-boya-36-renk-kirtasiye-p-3968329",
           "affiliateUrl": "https://ty.gl/2z0gszjthip2q",
           "stock": "inStock",
@@ -4313,7 +4313,7 @@
         {
           "marketplace": "trendyol",
           "seller": "Trendyol",
-          "price": 5499.0,
+          "price": 5500.0,
           "storeUrl": "https://www.trendyol.com/xiaomi/smart-air-purifier-4-compact-akilli-hava-temizleyici-xiaomi-turkiye-garantili-p-411990799",
           "affiliateUrl": "https://ty.gl/hxotbbzi9ckdq",
           "stock": "inStock",
@@ -4551,7 +4551,7 @@
         {
           "marketplace": "trendyol",
           "seller": "Trendyol",
-          "price": 7199.0,
+          "price": 7098.0,
           "storeUrl": "https://www.trendyol.com/philips/600-serisi-hava-temizleyici-44-m2-ye-kadar-etkili-170-m3-sa-temiz-hava-hizi-ac0651-10-p-809683127",
           "affiliateUrl": "https://ty.gl/hxotbbzi9ckdq",
           "stock": "inStock",
@@ -5382,7 +5382,7 @@
         {
           "marketplace": "trendyol",
           "seller": "Trendyol",
-          "price": 299.9,
+          "price": 199.99,
           "storeUrl": "https://www.trendyol.com/circle-toys/egitici-ahsap-ksilofon-8-tonlu-renkli-muzik-oyuncagi-p-971161885",
           "affiliateUrl": "https://ty.gl/5sbwpyfh3f0ky",
           "stock": "inStock",
@@ -5621,7 +5621,7 @@
         {
           "marketplace": "trendyol",
           "seller": "Trendyol",
-          "price": 1110.42,
+          "price": 1399.0,
           "storeUrl": "https://www.trendyol.com/lego/duplo-classic-yapim-parcasi-kutusu-10913-1-2-yaratici-oyuncak-yapim-seti-65p-p-34617433",
           "affiliateUrl": "https://ty.gl/5sbwpyfh3f0ky",
           "stock": "inStock",
@@ -5983,7 +5983,7 @@
         {
           "marketplace": "hepsiburada",
           "seller": "Hepsiburada",
-          "price": 699.0,
+          "price": 520.0,
           "storeUrl": "https://www.hepsiburada.com/anthelios-uvmune-400-spf-50-gunes-kremi-50-ml-tum-cilt-tipleri-icin-pm-HB00000IWKZ8",
           "stock": "inStock",
           "sellerRating": 4.3,
@@ -6303,7 +6303,7 @@
         {
           "marketplace": "hepsiburada",
           "seller": "Hepsiburada",
-          "price": 21749.6,
+          "price": 21651.63,
           "storeUrl": "https://www.hepsiburada.com/5500-serisi-lattego-tam-otomatik-espresso-makinesi-20-sicak-ve-soguk-icecek-renkli-dokunmatik-ekran-ep5543-80-pm-HBC0000670A4Z",
           "stock": "inStock",
           "sellerRating": 4.4,
