@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-01T05:05:02Z",
+  "updatedAt": "2026-10-01T15:35:09Z",
   "collections": [
     {
       "id": "yaz_sicak",
@@ -268,7 +268,7 @@
         {
           "icon": "💸",
           "label": "Adet başı",
-          "value": "87,08 TL"
+          "value": "91,67 TL"
         },
         {
           "icon": "📦",
@@ -329,7 +329,7 @@
         {
           "marketplace": "trendyol",
           "seller": "Trendyol",
-          "price": 1044.99,
+          "price": 1099.99,
           "storeUrl": "https://www.trendyol.com/bite-more/protein-cocoa-pancake-proteinli-kakao-pankek-50-gram-x-12-adet-speculoos-p-772605282",
           "affiliateUrl": "https://ty.gl/g5peit7dbyn05",
           "stock": "lowStock",
@@ -1382,7 +1382,7 @@
         {
           "icon": "💸",
           "label": "ml başı",
-          "value": "13,58 TL"
+          "value": "15,24 TL"
         }
       ],
       "attributeGroups": [
@@ -1429,7 +1429,7 @@
         {
           "marketplace": "trendyol",
           "seller": "Trendyol",
-          "price": 679.0,
+          "price": 761.91,
           "storeUrl": "https://www.trendyol.com/beauty-of-joseon/relief-sun-rice-probiotics-spf-50-pa-aydinlatici-kimyasal-filtreli-uv-koruyucu-gunes-kremi-50ml-p-267748711",
           "affiliateUrl": "https://ty.gl/xzpxnyi9q1tsb",
           "stock": "inStock",
@@ -1469,7 +1469,7 @@
         {
           "icon": "💸",
           "label": "ml başı",
-          "value": "13,98 TL"
+          "value": "14,38 TL"
         }
       ],
       "attributeGroups": [
@@ -1516,7 +1516,7 @@
         {
           "marketplace": "trendyol",
           "seller": "Trendyol",
-          "price": 699.0,
+          "price": 719.0,
           "storeUrl": "https://www.trendyol.com/skin1004/madagaskar-centella-hyalu-cica-su-bazli-gunes-kremi-spf-50-pa-50-ml-p-338877323",
           "affiliateUrl": "https://ty.gl/xzpxnyi9q1tsb",
           "stock": "inStock",
@@ -1556,7 +1556,7 @@
         {
           "icon": "💸",
           "label": "ml başı",
-          "value": "16,98 TL"
+          "value": "17,36 TL"
         }
       ],
       "attributeGroups": [
@@ -1603,7 +1603,7 @@
         {
           "marketplace": "trendyol",
           "seller": "Trendyol",
-          "price": 849.0,
+          "price": 868.12,
           "storeUrl": "https://www.trendyol.com/round-lab/birch-juice-moisturizing-sunscreen-nemlendirici-aydinlatici-gunes-kremi-50-ml-p-159186217",
           "affiliateUrl": "https://ty.gl/xzpxnyi9q1tsb",
           "stock": "inStock",
@@ -1759,7 +1759,7 @@
         {
           "marketplace": "trendyol",
           "seller": "Trendyol",
-          "price": 1086.18,
+          "price": 999.99,
           "storeUrl": "https://www.trendyol.com/medicube/medicube-pdrn-pink-peptide-serum-p-897016688",
           "affiliateUrl": "https://ty.gl/xzpxnyi9q1tsb",
           "stock": "inStock",
@@ -1972,7 +1972,7 @@
         {
           "icon": "💸",
           "label": "ml başı",
-          "value": "9,00 TL"
+          "value": "7,72 TL"
         }
       ],
       "attributeGroups": [
@@ -2019,7 +2019,7 @@
         {
           "marketplace": "trendyol",
           "seller": "Trendyol",
-          "price": 449.9,
+          "price": 386.0,
           "storeUrl": "https://www.trendyol.com/cerave/nemlendirici-krem-kuru-ve-cok-kuru-ciltler-50-ml-p-3748245",
           "affiliateUrl": "https://ty.gl/xzpxnyi9q1tsb",
           "stock": "inStock",
@@ -2261,7 +2261,7 @@
         {
           "marketplace": "trendyol",
           "seller": "Trendyol",
-          "price": 619.95,
+          "price": 599.0,
           "storeUrl": "https://www.trendyol.com/maybelline-new-york/lash-sensational-yelpaze-etkili-intense-black-maskara-ekstra-siyah-p-1263063",
           "affiliateUrl": "https://ty.gl/xzpxnyi9q1tsb",
           "stock": "inStock",
@@ -2493,7 +2493,7 @@
         {
           "icon": "💸",
           "label": "Fark",
-          "value": "250,00 TL uygun"
+          "value": "350,00 TL uygun"
         }
       ],
       "attributeGroups": [
@@ -2514,7 +2514,7 @@
             },
             {
               "label": "Hepsiburada",
-              "value": "699,00 TL",
+              "value": "599,00 TL",
               "sentiment": "good"
             },
             {
@@ -2540,7 +2540,7 @@
         {
           "marketplace": "hepsiburada",
           "seller": "Hepsiburada",
-          "price": 699.0,
+          "price": 599.0,
           "storeUrl": "https://www.hepsiburada.com/casio-fx-82es-plus-bilimsel-fonksiyonlu-hesap-makinesi-pm-ofisfx82es",
           "stock": "inStock",
           "sellerRating": 4.7,
@@ -2584,12 +2584,12 @@
         {
           "icon": "🏷️",
           "label": "Trendyol'da",
-          "value": "594,95 TL"
+          "value": "595,00 TL"
         },
         {
           "icon": "💸",
           "label": "Fark",
-          "value": "75,95 TL uygun"
+          "value": "76,00 TL uygun"
         }
       ],
       "attributeGroups": [
@@ -2615,7 +2615,7 @@
             },
             {
               "label": "Trendyol",
-              "value": "594,95 TL"
+              "value": "595,00 TL"
             },
             {
               "label": "Mağaza puanı",
@@ -2646,7 +2646,7 @@
         {
           "marketplace": "trendyol",
           "seller": "Trendyol",
-          "price": 594.95,
+          "price": 595.0,
           "storeUrl": "https://www.trendyol.com/logitech/m171-usb-alicili-kablosuz-kompakt-mouse-siyah-910-004424-p-2478845",
           "stock": "inStock",
           "sellerRating": 4.7,
@@ -2679,13 +2679,13 @@
         },
         {
           "icon": "🏷️",
-          "label": "Trendyol'da",
-          "value": "575,46 TL"
+          "label": "Hepsiburada'da",
+          "value": "599,00 TL"
         },
         {
           "icon": "💸",
           "label": "Fark",
-          "value": "26,46 TL uygun"
+          "value": "23,54 TL uygun"
         }
       ],
       "attributeGroups": [
@@ -2706,7 +2706,7 @@
             },
             {
               "label": "Hepsiburada",
-              "value": "549,00 TL",
+              "value": "599,00 TL",
               "sentiment": "good"
             },
             {
@@ -2732,7 +2732,7 @@
         {
           "marketplace": "hepsiburada",
           "seller": "Hepsiburada",
-          "price": 549.0,
+          "price": 599.0,
           "storeUrl": "https://www.hepsiburada.com/kingston-64gb-usb3-2-datatrav-ex-usb-bellek-dtx-64gb-pm-HB00001AVVDJ",
           "stock": "inStock",
           "sellerRating": 4.7,
@@ -2897,7 +2897,7 @@
         {
           "marketplace": "trendyol",
           "seller": "Trendyol",
-          "price": 7495.0,
+          "price": 8999.0,
           "storeUrl": "https://www.trendyol.com/kumtel/kmpac-7-juniper-portatif-tasinabilir-klima-p-932665737",
           "affiliateUrl": "https://ty.gl/95ilngmj03sh3",
           "stock": "inStock",
@@ -3347,7 +3347,7 @@
         {
           "marketplace": "trendyol",
           "seller": "Trendyol",
-          "price": 579.0,
+          "price": 849.0,
           "storeUrl": "https://www.trendyol.com/cambridge-polo-club/3-lu-set-ilkokul-cantasi-p-115467713",
           "affiliateUrl": "https://ty.gl/2z0gszjthip2q",
           "stock": "inStock",
@@ -3711,7 +3711,7 @@
         {
           "marketplace": "trendyol",
           "seller": "Trendyol",
-          "price": 181.42,
+          "price": 180.0,
           "storeUrl": "https://www.trendyol.com/faber-castell/1425-tukenmez-kalem-seti-10-farkli-renk-rahat-ve-yumusak-yazim-ergonomik-tutus-p-41193503",
           "affiliateUrl": "https://ty.gl/2z0gszjthip2q",
           "stock": "inStock",
@@ -3771,7 +3771,7 @@
         {
           "marketplace": "trendyol",
           "seller": "Trendyol",
-          "price": 72.0,
+          "price": 67.0,
           "storeUrl": "https://www.trendyol.com/fatih/mercanlikursun-kalem-12-li-paket-p-48361052",
           "affiliateUrl": "https://ty.gl/2z0gszjthip2q",
           "stock": "inStock",
@@ -3831,7 +3831,7 @@
         {
           "marketplace": "trendyol",
           "seller": "Trendyol",
-          "price": 74.99,
+          "price": 64.0,
           "storeUrl": "https://www.trendyol.com/faber-castell/sinav-silgisi-dust-free-3-lu-set-yumusak-kenar-kompakt-form-pvc-fitalat-lateks-icermez-p-39137382",
           "affiliateUrl": "https://ty.gl/2z0gszjthip2q",
           "stock": "inStock",
@@ -4313,7 +4313,7 @@
         {
           "marketplace": "trendyol",
           "seller": "Trendyol",
-          "price": 5099.0,
+          "price": 5399.0,
           "storeUrl": "https://www.trendyol.com/xiaomi/smart-air-purifier-4-compact-akilli-hava-temizleyici-xiaomi-turkiye-garantili-p-411990799",
           "affiliateUrl": "https://ty.gl/hxotbbzi9ckdq",
           "stock": "inStock",
@@ -4551,7 +4551,7 @@
         {
           "marketplace": "trendyol",
           "seller": "Trendyol",
-          "price": 6999.0,
+          "price": 7429.0,
           "storeUrl": "https://www.trendyol.com/philips/600-serisi-hava-temizleyici-44-m2-ye-kadar-etkili-170-m3-sa-temiz-hava-hizi-ac0651-10-p-809683127",
           "affiliateUrl": "https://ty.gl/hxotbbzi9ckdq",
           "stock": "inStock",
@@ -4729,7 +4729,7 @@
         {
           "marketplace": "trendyol",
           "seller": "Trendyol",
-          "price": 333.99,
+          "price": 300.59,
           "storeUrl": "https://www.trendyol.com/ac-co-altinyildiz-classics/erkek-unisex-beyaz-100-pamuk-slim-fit-dar-kesim-bisiklet-yaka-basic-tisort-p-224555799",
           "affiliateUrl": "https://ty.gl/uks7f7go2ma9u",
           "stock": "inStock",
@@ -4788,7 +4788,7 @@
         {
           "marketplace": "trendyol",
           "seller": "Trendyol",
-          "price": 333.99,
+          "price": 300.59,
           "storeUrl": "https://www.trendyol.com/ac-co-altinyildiz-classics/erkek-unisex-siyah-100-pamuk-slim-fit-dar-kesim-bisiklet-yaka-basic-tisort-p-220686963",
           "affiliateUrl": "https://ty.gl/uks7f7go2ma9u",
           "stock": "inStock",
@@ -4847,7 +4847,7 @@
         {
           "marketplace": "trendyol",
           "seller": "Trendyol",
-          "price": 333.99,
+          "price": 300.59,
           "storeUrl": "https://www.trendyol.com/ac-co-altinyildiz-classics/erkek-unisex-lacivert-100-pamuk-slim-fit-dar-kesim-bisiklet-yaka-basic-tisort-p-224080792",
           "affiliateUrl": "https://ty.gl/uks7f7go2ma9u",
           "stock": "inStock",
@@ -4906,7 +4906,7 @@
         {
           "marketplace": "trendyol",
           "seller": "Trendyol",
-          "price": 289.7,
+          "price": 299.7,
           "storeUrl": "https://www.trendyol.com/grimelange/jett-erkek-oversize-fit-100-organik-pamuk-kalin-dokulu-bisiklet-yakali-beyaz-t-shirt-p-43863229",
           "affiliateUrl": "https://ty.gl/uks7f7go2ma9u",
           "stock": "inStock",
@@ -4965,7 +4965,7 @@
         {
           "marketplace": "trendyol",
           "seller": "Trendyol",
-          "price": 279.99,
+          "price": 289.99,
           "storeUrl": "https://www.trendyol.com/grimelange/lagertha-kadin-100-organik-pamuklu-kalin-dokulu-oversize-fit-yuvarlak-yakali-siyah-t-shirt-p-866696225",
           "affiliateUrl": "https://ty.gl/uks7f7go2ma9u",
           "stock": "inStock",
@@ -5144,7 +5144,7 @@
         {
           "marketplace": "trendyol",
           "seller": "Trendyol",
-          "price": 237.14,
+          "price": 225.28,
           "storeUrl": "https://www.trendyol.com/esatoys/6-parcali-montessori-ahsap-puzzle-seti-2-3-yas-egitsel-oyun-p-409597832",
           "affiliateUrl": "https://ty.gl/5sbwpyfh3f0ky",
           "stock": "inStock",
@@ -5621,7 +5621,7 @@
         {
           "marketplace": "trendyol",
           "seller": "Trendyol",
-          "price": 1273.29,
+          "price": 1149.0,
           "storeUrl": "https://www.trendyol.com/lego/duplo-classic-yapim-parcasi-kutusu-10913-1-2-yaratici-oyuncak-yapim-seti-65p-p-34617433",
           "affiliateUrl": "https://ty.gl/5sbwpyfh3f0ky",
           "stock": "inStock",
@@ -5680,7 +5680,7 @@
         {
           "marketplace": "trendyol",
           "seller": "Trendyol",
-          "price": 882.74,
+          "price": 832.74,
           "storeUrl": "https://www.trendyol.com/lego/duplo-ilk-sayi-treni-saymayi-ogren-10954-1-2-egitici-oyuncak-yapim-seti-23p-p-121313958",
           "affiliateUrl": "https://ty.gl/5sbwpyfh3f0ky",
           "stock": "inStock",
@@ -5799,7 +5799,7 @@
         {
           "marketplace": "trendyol",
           "seller": "Trendyol",
-          "price": 180.4,
+          "price": 189.9,
           "storeUrl": "https://www.trendyol.com/byens/ahsap-egitici-oyuncak-montessori-cop-adam-ahsap-oyuncak-ahsap-yapboz-aktivite-egitici-oyuncak-ahsap-p-743658401",
           "affiliateUrl": "https://ty.gl/5sbwpyfh3f0ky",
           "stock": "inStock",
@@ -5983,7 +5983,7 @@
         {
           "marketplace": "hepsiburada",
           "seller": "Hepsiburada",
-          "price": 1073.58,
+          "price": 759.9,
           "storeUrl": "https://www.hepsiburada.com/anthelios-uvmune-400-spf-50-gunes-kremi-50-ml-tum-cilt-tipleri-icin-pm-HB00000IWKZ8",
           "stock": "inStock",
           "sellerRating": 4.3,
@@ -6111,7 +6111,7 @@
         {
           "marketplace": "hepsiburada",
           "seller": "Hepsiburada",
-          "price": 7289.1,
+          "price": 7370.09,
           "storeUrl": "https://www.hepsiburada.com/xiaomi-mi-smart-airfryer-3-5-l-pm-HBC00000PVC2V",
           "stock": "inStock",
           "sellerRating": 4.7,
@@ -6239,7 +6239,7 @@
         {
           "marketplace": "hepsiburada",
           "seller": "Hepsiburada",
-          "price": 13099.0,
+          "price": 12999.0,
           "storeUrl": "https://www.hepsiburada.com/apple-airpods-pro-3-kulakici-tws-bluetooth-kulaklik-aktif-gurultu-onleme-suya-dayanikli-pm-HBC00009Z66PA",
           "stock": "inStock",
           "sellerRating": 4.7,
@@ -6303,7 +6303,7 @@
         {
           "marketplace": "hepsiburada",
           "seller": "Hepsiburada",
-          "price": 22540.0,
+          "price": 21630.64,
           "storeUrl": "https://www.hepsiburada.com/5500-serisi-lattego-tam-otomatik-espresso-makinesi-20-sicak-ve-soguk-icecek-renkli-dokunmatik-ekran-ep5543-80-pm-HBC0000670A4Z",
           "stock": "inStock",
           "sellerRating": 4.4,
@@ -6431,7 +6431,7 @@
         {
           "marketplace": "hepsiburada",
           "seller": "Hepsiburada",
-          "price": 33199.0,
+          "price": 29999.0,
           "storeUrl": "https://www.hepsiburada.com/dyson-v12-detect-slim-absolute-kablosuz-supurge-pm-HBC00004UJY73",
           "stock": "inStock",
           "sellerRating": 4.5,
@@ -6495,7 +6495,7 @@
         {
           "marketplace": "hepsiburada",
           "seller": "Hepsiburada",
-          "price": 82463.04,
+          "price": 85499.05,
           "storeUrl": "https://www.hepsiburada.com/lg-oled55b56la-55-138-ekran-uydu-alicili-4k-smart-webos-oled-tv-p-HBCV00008WG0S8",
           "stock": "inStock",
           "sellerRating": 4.8,
