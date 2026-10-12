@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-12T21:30:49Z",
+  "updatedAt": "2026-10-12T21:32:09Z",
   "categories": [
     {
       "id": "giyim",
@@ -98,7 +98,7 @@
     {
       "id": "duru_secti",
       "title": "Duru'nun seçtikleri",
-      "subtitle": "Her kategoriden, almadan önce bakmaya değer bulduklarımız",
+      "subtitle": "Her kategoriden, bakmaya değer bulduklarımız",
       "icon": "⭐",
       "placement": "top",
       "products": [
