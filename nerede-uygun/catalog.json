@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-12T21:21:12Z",
+  "updatedAt": "2026-10-12T21:30:49Z",
   "categories": [
     {
       "id": "giyim",
@@ -95,6 +95,20 @@
     }
   ],
   "collections": [
+    {
+      "id": "duru_secti",
+      "title": "Duru'nun seçtikleri",
+      "subtitle": "Her kategoriden, almadan önce bakmaya değer bulduklarımız",
+      "icon": "⭐",
+      "placement": "top",
+      "products": [
+        "p_ty_280812342",
+        "p_ty_1151556669",
+        "p_ty_1263063",
+        "p_ty_923400245",
+        "p_hb_HBCV00008WG0S8"
+      ]
+    },
     {
       "id": "yaz_sicak",
       "title": "Yaz bitiyor ama sıcaklar bitmedi",
