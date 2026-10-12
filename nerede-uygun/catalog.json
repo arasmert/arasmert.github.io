@@ -1,6 +1,99 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-12T15:34:50Z",
+  "updatedAt": "2026-10-12T21:21:12Z",
+  "categories": [
+    {
+      "id": "giyim",
+      "title": "Giyim",
+      "icon": "👕",
+      "aliases": [
+        "moda"
+      ],
+      "tags": [
+        "giyim",
+        "moda",
+        "tişört"
+      ]
+    },
+    {
+      "id": "spor",
+      "title": "Spor",
+      "icon": "🏃",
+      "aliases": [],
+      "tags": [
+        "spor",
+        "fit",
+        "protein"
+      ]
+    },
+    {
+      "id": "saglik",
+      "title": "Sağlık",
+      "icon": "💊",
+      "aliases": [],
+      "tags": [
+        "sağlık",
+        "vitamin",
+        "takviye",
+        "medikal"
+      ]
+    },
+    {
+      "id": "kozmetik",
+      "title": "Kozmetik & Bakım",
+      "icon": "💄",
+      "tint": "#F6E1EA",
+      "accent": "#B4235A",
+      "aliases": [],
+      "tags": [
+        "kozmetik",
+        "cilt bakımı",
+        "kişisel bakım",
+        "makyaj",
+        "saç bakımı",
+        "parfüm"
+      ]
+    },
+    {
+      "id": "gida",
+      "title": "Gıda",
+      "icon": "🍎",
+      "aliases": [
+        "market"
+      ],
+      "tags": [
+        "gıda",
+        "atıştırmalık",
+        "spor gıdası"
+      ]
+    },
+    {
+      "id": "hobi-oyuncak",
+      "title": "Hobi & Oyuncak",
+      "icon": "🧸",
+      "aliases": [
+        "anne-bebek"
+      ],
+      "tags": [
+        "oyuncak",
+        "hobi",
+        "kırtasiye"
+      ]
+    },
+    {
+      "id": "elektronik",
+      "title": "Elektronik",
+      "icon": "🎧",
+      "aliases": [
+        "teknoloji",
+        "ev-yasam"
+      ],
+      "tags": [
+        "elektronik",
+        "teknoloji"
+      ]
+    }
+  ],
   "collections": [
     {
       "id": "yaz_sicak",
