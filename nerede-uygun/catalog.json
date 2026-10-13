@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-13T21:11:30Z",
+  "updatedAt": "2026-10-13T21:35:47Z",
   "categories": [
     {
       "id": "kadin-giyim",
@@ -258,6 +258,426 @@
     }
   ],
   "products": [
+    {
+      "id": "p_ty_929961715",
+      "slug": "roborock-qrevo-l-akilli-robot-supurge-beyaz",
+      "brand": "Roborock",
+      "name": "Qrevo L Akıllı Robot Süpürge - Beyaz",
+      "category": "teknoloji",
+      "glyph": "🎧",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1714/prod/QC_PREP/20250719/15/33277887-bc9f-3a41-971c-b41a52774568/1_org_zoom.jpg"
+      ],
+      "score": 98,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.6 (3308)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "🎧",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Roborock"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.6 (3308 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "roborock"
+      ],
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 37452.0,
+          "storeUrl": "https://www.trendyol.com/roborock/qrevo-l-akilli-robot-supurge-beyaz-p-929961715",
+          "stock": "inStock",
+          "updatedAt": "2026-10-13T21:35:00Z",
+          "shipping": 0,
+          "affiliateUrl": "https://ty.gl/5zi3h5u8h2s0y"
+        }
+      ],
+      "createdAt": "2026-10-13T21:35:00Z",
+      "updatedAt": "2026-10-13T21:35:00Z",
+      "userRating": 4.6,
+      "reviewCount": 3308
+    },
+    {
+      "id": "p_ty_828823512",
+      "slug": "xiaomi-robot-vacuum-x20-plus-beyaz",
+      "brand": "Xiaomi",
+      "name": "Robot Vacuum X20 Plus Beyaz",
+      "category": "teknoloji",
+      "glyph": "🎧",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1320/product/media/images/prod/QC/20240515/12/8bde8153-5a23-3f85-80b6-537460ed42b3/1_org_zoom.jpg"
+      ],
+      "score": 97,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.5 (738)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "🎧",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Xiaomi"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.5 (738 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "xiaomi"
+      ],
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 23796.0,
+          "storeUrl": "https://www.trendyol.com/xiaomi/robot-vacuum-x20-plus-beyaz-p-828823512",
+          "stock": "inStock",
+          "updatedAt": "2026-10-13T21:35:00Z",
+          "shipping": 0,
+          "affiliateUrl": "https://ty.gl/5zi3h5u8h2s0y"
+        }
+      ],
+      "createdAt": "2026-10-13T21:35:00Z",
+      "updatedAt": "2026-10-13T21:35:00Z",
+      "userRating": 4.5,
+      "reviewCount": 738
+    },
+    {
+      "id": "p_ty_969731936",
+      "slug": "xiaomi-robot-vacuum-h40-akilli-robot-supurge-mop-10000pa-xia",
+      "brand": "Xiaomi",
+      "name": "Robot Vacuum H40 Akıllı Robot Süpürge + Mop 10000pa (Xiaomi Türkiye Garantili)",
+      "category": "teknoloji",
+      "glyph": "🎧",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1853/prod/QC_ENRICHMENT/20260407/13/e5268ce6-b2a3-324e-a24f-b18ef52900c7/1_org_zoom.jpg"
+      ],
+      "score": 97,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.5 (1762)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "🎧",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Xiaomi"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.5 (1762 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "xiaomi"
+      ],
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 19899.0,
+          "storeUrl": "https://www.trendyol.com/xiaomi/robot-vacuum-h40-akilli-robot-supurge-mop-10000pa-xiaomi-turkiye-garantili-p-969731936",
+          "stock": "inStock",
+          "updatedAt": "2026-10-13T21:35:00Z",
+          "shipping": 0,
+          "affiliateUrl": "https://ty.gl/5zi3h5u8h2s0y"
+        }
+      ],
+      "createdAt": "2026-10-13T21:35:00Z",
+      "updatedAt": "2026-10-13T21:35:00Z",
+      "userRating": 4.5,
+      "reviewCount": 1762
+    },
+    {
+      "id": "p_ty_1147165093",
+      "slug": "roborock-s9-akilli-robot-supurge-beyaz",
+      "brand": "Roborock",
+      "name": "S9 Akıllı Robot Süpürge - Beyaz",
+      "category": "teknoloji",
+      "glyph": "🎧",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1933/prod/QC_PREP/20260518/15/c55ab9f1-ac1b-33e4-a355-edadaef0b8d0/1_org_zoom.jpg"
+      ],
+      "score": 96,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.5 (130)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "🎧",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Roborock"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.5 (130 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "roborock"
+      ],
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 18931.34,
+          "storeUrl": "https://www.trendyol.com/roborock/s9-akilli-robot-supurge-beyaz-p-1147165093",
+          "stock": "inStock",
+          "updatedAt": "2026-10-13T21:35:00Z",
+          "shipping": 0,
+          "affiliateUrl": "https://ty.gl/5zi3h5u8h2s0y"
+        }
+      ],
+      "createdAt": "2026-10-13T21:35:00Z",
+      "updatedAt": "2026-10-13T21:35:00Z",
+      "userRating": 4.5,
+      "reviewCount": 130
+    },
+    {
+      "id": "p_ty_1050342882",
+      "slug": "xiaomi-robot-vacuum-s40-beyaz-akilli-robot-supurge-paspas-10",
+      "brand": "Xiaomi",
+      "name": "Robot Vacuum S40 Beyaz Akıllı Robot Süpürge + Paspas -10000 Pa Emiş Gücü (Xiaomi TR Garantili)",
+      "category": "teknoloji",
+      "glyph": "🎧",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1828/prod/QC_ENRICHMENT/20260220/17/5feed251-4333-3581-bd5b-8df4162f501e/1_org_zoom.jpg"
+      ],
+      "score": 96,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.5 (269)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "🎧",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Xiaomi"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.5 (269 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "xiaomi"
+      ],
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 13266.0,
+          "storeUrl": "https://www.trendyol.com/xiaomi/robot-vacuum-s40-beyaz-akilli-robot-supurge-paspas-10000-pa-emis-gucu-xiaomi-tr-garantili-p-1050342882",
+          "stock": "inStock",
+          "updatedAt": "2026-10-13T21:35:00Z",
+          "shipping": 0,
+          "affiliateUrl": "https://ty.gl/5zi3h5u8h2s0y"
+        }
+      ],
+      "createdAt": "2026-10-13T21:35:00Z",
+      "updatedAt": "2026-10-13T21:35:00Z",
+      "userRating": 4.5,
+      "reviewCount": 269
+    },
+    {
+      "id": "p_ty_862457991",
+      "slug": "dreame-l10s-pro-gen-2-robot-supurge-beyaz-7-000pa-emis-gucu",
+      "brand": "Dreame",
+      "name": "L10s Pro Gen 2 Robot Süpürge Beyaz, 7.000PA Emiş Gücü",
+      "category": "teknoloji",
+      "glyph": "🎧",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1954/prod/QC_ENRICHMENT/20260904/14/faa41f07-ac92-3df5-bcdf-08758aef523d/1_org_zoom.jpg"
+      ],
+      "score": 98,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.6 (1104)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "🎧",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Dreame"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.6 (1104 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "dreame"
+      ],
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 10774.0,
+          "storeUrl": "https://www.trendyol.com/dreame/l10s-pro-gen-2-robot-supurge-beyaz-7-000pa-emis-gucu-p-862457991",
+          "stock": "inStock",
+          "updatedAt": "2026-10-13T21:35:00Z",
+          "shipping": 0,
+          "affiliateUrl": "https://ty.gl/5zi3h5u8h2s0y"
+        }
+      ],
+      "createdAt": "2026-10-13T21:35:00Z",
+      "updatedAt": "2026-10-13T21:35:00Z",
+      "userRating": 4.6,
+      "reviewCount": 1104
+    },
+    {
+      "id": "p_ty_858970420",
+      "slug": "dreame-d9-max-gen-2-robot-supurge-siyah-6-000pa-emis-gucu",
+      "brand": "Dreame",
+      "name": "D9 Max Gen 2 Robot Süpürge Siyah, 6.000Pa Emiş Gücü",
+      "category": "teknoloji",
+      "glyph": "🎧",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1660/product/media/images/prod/PIM/20250410/09/fb7a7c31-67f6-41ff-b1ca-bca46a250411/1_org_zoom.jpg"
+      ],
+      "score": 96,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.5 (225)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "🎧",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Dreame"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.5 (225 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "dreame"
+      ],
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 9599.0,
+          "storeUrl": "https://www.trendyol.com/dreame/d9-max-gen-2-robot-supurge-siyah-6-000pa-emis-gucu-p-858970420",
+          "stock": "inStock",
+          "updatedAt": "2026-10-13T21:35:00Z",
+          "shipping": 0,
+          "affiliateUrl": "https://ty.gl/5zi3h5u8h2s0y"
+        }
+      ],
+      "createdAt": "2026-10-13T21:35:00Z",
+      "updatedAt": "2026-10-13T21:35:00Z",
+      "userRating": 4.5,
+      "reviewCount": 225
+    },
     {
       "id": "p_ty_35297736",
       "slug": "clear-women-kepege-karsi-etkili-sampuan-yumusak-ve-parlak-60",
