@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-13T19:20:11Z",
+  "updatedAt": "2026-10-13T20:24:42Z",
   "categories": [
     {
       "id": "kadin-giyim",
@@ -258,6 +258,366 @@
     }
   ],
   "products": [
+    {
+      "id": "p_ty_942002160",
+      "slug": "childgen-mini-hamur-paketi",
+      "brand": "ChildGen",
+      "name": "Mini Hamur Paketi",
+      "category": "anne-bebek",
+      "glyph": "🧸",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1948/prod/QC_ENRICHMENT/20260827/10/e4fe6d14-bc40-3573-a279-355d93feec0f/1_org_zoom.jpg"
+      ],
+      "score": 97,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.5 (617)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "🧸",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "ChildGen"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.5 (617 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "childgen"
+      ],
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 499.9,
+          "storeUrl": "https://www.trendyol.com/childgen/mini-hamur-paketi-p-942002160",
+          "stock": "inStock",
+          "updatedAt": "2026-10-13T20:23:57Z",
+          "shipping": 0,
+          "affiliateUrl": "https://ty.gl/8g45vfdfjjoj6"
+        }
+      ],
+      "createdAt": "2026-10-13T20:23:57Z",
+      "updatedAt": "2026-10-13T20:23:57Z",
+      "userRating": 4.5,
+      "reviewCount": 617
+    },
+    {
+      "id": "p_ty_904133582",
+      "slug": "fatih-fatih-4-renk-oyun-hamuru-400-gr",
+      "brand": "Fatih",
+      "name": "FATİH 4 RENK OYUN HAMURU 400 GR",
+      "category": "anne-bebek",
+      "glyph": "🧸",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1893/prod/QC_ENRICHMENT/20260728/10/47095332-503b-3243-89cd-d4bb51ff8940/1_org_zoom.jpg"
+      ],
+      "score": 97,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.6 (277)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "🧸",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Fatih"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.6 (277 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "fatih"
+      ],
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 114.65,
+          "storeUrl": "https://www.trendyol.com/fatih/fatih-4-renk-oyun-hamuru-400-gr-p-904133582",
+          "stock": "inStock",
+          "updatedAt": "2026-10-13T20:23:57Z",
+          "shipping": 0,
+          "affiliateUrl": "https://ty.gl/8g45vfdfjjoj6"
+        }
+      ],
+      "createdAt": "2026-10-13T20:23:57Z",
+      "updatedAt": "2026-10-13T20:23:57Z",
+      "userRating": 4.6,
+      "reviewCount": 277
+    },
+    {
+      "id": "p_ty_928069962",
+      "slug": "childgen-dogal-oyun-hamuru-mini-cup-8-li-set-8x65gr",
+      "brand": "ChildGen",
+      "name": "Doğal Oyun Hamuru - Mini-Cup- 8'li Set (8x65gr)",
+      "category": "anne-bebek",
+      "glyph": "🧸",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1861/prod/QC_ENRICHMENT/20260427/11/ee5c7f5f-48ce-3458-9e67-0e73ffe4c185/1_org_zoom.jpg"
+      ],
+      "score": 99,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.7 (650)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "🧸",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "ChildGen"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.7 (650 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "childgen"
+      ],
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 339.9,
+          "storeUrl": "https://www.trendyol.com/childgen/dogal-oyun-hamuru-mini-cup-8-li-set-8x65gr-p-928069962",
+          "stock": "inStock",
+          "updatedAt": "2026-10-13T20:23:57Z",
+          "shipping": 0,
+          "affiliateUrl": "https://ty.gl/8g45vfdfjjoj6"
+        }
+      ],
+      "createdAt": "2026-10-13T20:23:57Z",
+      "updatedAt": "2026-10-13T20:23:57Z",
+      "userRating": 4.7,
+      "reviewCount": 650
+    },
+    {
+      "id": "p_ty_1116228834",
+      "slug": "heroes-dough-3-u-1-arada-oyun-hamuru-kalip-seti-enjektor-mer",
+      "brand": "Heroes Dough",
+      "name": "3'ü 1 Arada Oyun Hamuru Kalıp Seti - Enjektör, Merdane, Silindir ve Bıçaklı Şekillendirme Seti",
+      "category": "anne-bebek",
+      "glyph": "🧸",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1835/prod/QC_PREP/20260309/08/234685bc-e4c0-3623-a448-8001418a0bfe/1_org_zoom.jpg"
+      ],
+      "score": 99,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.7 (769)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "🧸",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Heroes Dough"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.7 (769 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "heroes dough"
+      ],
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 199.0,
+          "storeUrl": "https://www.trendyol.com/heroes-dough/3-u-1-arada-oyun-hamuru-kalip-seti-enjektor-merdane-silindir-ve-bicakli-sekillendirme-seti-p-1116228834",
+          "stock": "inStock",
+          "updatedAt": "2026-10-13T20:23:57Z",
+          "shipping": 0,
+          "affiliateUrl": "https://ty.gl/8g45vfdfjjoj6"
+        }
+      ],
+      "createdAt": "2026-10-13T20:23:57Z",
+      "updatedAt": "2026-10-13T20:23:57Z",
+      "userRating": 4.7,
+      "reviewCount": 769
+    },
+    {
+      "id": "p_ty_471003389",
+      "slug": "childgen-dogal-oyun-hamuru-eco-cup-6x125gr-ana-ve-ara-renkle",
+      "brand": "ChildGen",
+      "name": "Doğal Oyun Hamuru - Eco Cup- 6x125gr Ana Ve Ara Renkler",
+      "category": "anne-bebek",
+      "glyph": "🧸",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1718/prod/QC_ENRICHMENT/20250729/09/5154f19d-6bdf-37a9-a180-84fd8399380d/1_org_zoom.jpg"
+      ],
+      "score": 99,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.8 (2953)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "🧸",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "ChildGen"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.8 (2953 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "childgen"
+      ],
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 356.9,
+          "storeUrl": "https://www.trendyol.com/childgen/dogal-oyun-hamuru-eco-cup-6x125gr-ana-ve-ara-renkler-p-471003389",
+          "stock": "inStock",
+          "updatedAt": "2026-10-13T20:23:57Z",
+          "shipping": 0,
+          "affiliateUrl": "https://ty.gl/8g45vfdfjjoj6"
+        }
+      ],
+      "createdAt": "2026-10-13T20:23:57Z",
+      "updatedAt": "2026-10-13T20:23:57Z",
+      "userRating": 4.8,
+      "reviewCount": 2953
+    },
+    {
+      "id": "p_ty_977371",
+      "slug": "hasbro-4-renk-448gr-oyun-hamuru-1-adet",
+      "brand": "Hasbro",
+      "name": "4 Renk 448gr Oyun Hamuru - 1 Adet",
+      "category": "anne-bebek",
+      "glyph": "🧸",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1727/prod/QC_PREP/20250814/12/1cebdc56-7585-32a8-b823-d9e82774a1a8/1_org_zoom.jpg"
+      ],
+      "score": 99,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.7 (2148)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "🧸",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Hasbro"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.7 (2148 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "hasbro"
+      ],
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 129.0,
+          "storeUrl": "https://www.trendyol.com/hasbro/4-renk-448gr-oyun-hamuru-1-adet-p-977371",
+          "stock": "inStock",
+          "updatedAt": "2026-10-13T20:23:57Z",
+          "shipping": 0,
+          "affiliateUrl": "https://ty.gl/8g45vfdfjjoj6"
+        }
+      ],
+      "createdAt": "2026-10-13T20:23:57Z",
+      "updatedAt": "2026-10-13T20:23:57Z",
+      "userRating": 4.7,
+      "reviewCount": 2148
+    },
     {
       "id": "p_ty_859635397",
       "slug": "defacto-regular-fit-2-li-takim-sweatshirt-beli-lastikli-jogg",
