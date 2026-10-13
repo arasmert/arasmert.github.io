@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-13T19:19:22Z",
+  "updatedAt": "2026-10-13T19:20:11Z",
   "categories": [
     {
       "id": "kadin-giyim",
@@ -36,18 +36,6 @@
         "spor",
         "fit",
         "protein"
-      ]
-    },
-    {
-      "id": "saglik",
-      "title": "Sağlık",
-      "icon": "💊",
-      "aliases": [],
-      "tags": [
-        "sağlık",
-        "vitamin",
-        "takviye",
-        "medikal"
       ]
     },
     {
