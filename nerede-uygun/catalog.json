@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-13T20:43:08Z",
+  "updatedAt": "2026-10-13T21:11:30Z",
   "categories": [
     {
       "id": "kadin-giyim",
@@ -258,6 +258,426 @@
     }
   ],
   "products": [
+    {
+      "id": "p_ty_35297736",
+      "slug": "clear-women-kepege-karsi-etkili-sampuan-yumusak-ve-parlak-60",
+      "brand": "Clear",
+      "name": "Women Kepeğe Karşı Etkili Şampuan Yumuşak ve Parlak 600 ml x3",
+      "category": "kozmetik",
+      "glyph": "💄",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1853/prod/QC_ENRICHMENT/20260408/11/70c31b1e-2ad8-3660-9063-22bf11a87bbb/1_org_zoom.jpg"
+      ],
+      "score": 99,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.7 (5189)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "💄",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Clear"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.7 (5189 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "clear"
+      ],
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 699.0,
+          "storeUrl": "https://www.trendyol.com/clear/women-kepege-karsi-etkili-sampuan-yumusak-ve-parlak-600-ml-x3-p-35297736",
+          "stock": "inStock",
+          "updatedAt": "2026-10-13T21:10:44Z",
+          "shipping": 0,
+          "affiliateUrl": "https://ty.gl/uzjri97nxm9vl"
+        }
+      ],
+      "createdAt": "2026-10-13T21:10:44Z",
+      "updatedAt": "2026-10-13T21:10:44Z",
+      "userRating": 4.7,
+      "reviewCount": 5189
+    },
+    {
+      "id": "p_ty_2690172",
+      "slug": "eyup-sabri-tuncer-dogal-argan-yagli-sampuan-600-ml",
+      "brand": "Eyüp Sabri Tuncer",
+      "name": "Doğal Argan Yağlı Şampuan 600 ml",
+      "category": "kozmetik",
+      "glyph": "💄",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1945/prod/QC_ENRICHMENT/20260822/22/7a490abe-3ec1-3628-a61d-f5e25a4f22f5/1_org_zoom.jpg"
+      ],
+      "score": 98,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.6 (1075)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "💄",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Eyüp Sabri Tuncer"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.6 (1075 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "eyüp sabri tuncer"
+      ],
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 319.5,
+          "storeUrl": "https://www.trendyol.com/eyup-sabri-tuncer/dogal-argan-yagli-sampuan-600-ml-p-2690172",
+          "stock": "inStock",
+          "updatedAt": "2026-10-13T21:10:44Z",
+          "shipping": 0,
+          "affiliateUrl": "https://ty.gl/uzjri97nxm9vl"
+        }
+      ],
+      "createdAt": "2026-10-13T21:10:44Z",
+      "updatedAt": "2026-10-13T21:10:44Z",
+      "userRating": 4.6,
+      "reviewCount": 1075
+    },
+    {
+      "id": "p_ty_266864405",
+      "slug": "restorex-keratin-argan-onarici-sac-bakim-sampuani-500ml",
+      "brand": "Restorex",
+      "name": "Keratin & Argan Onarıcı Saç Bakım Şampuanı 500ml",
+      "category": "kozmetik",
+      "glyph": "💄",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1000447/product/media/images/prod/PIM/20260914/11/04fc946a-8d11-4d49-a80c-68faf35460bb/1_org_zoom.jpg"
+      ],
+      "score": 98,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.6 (1462)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "💄",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Restorex"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.6 (1462 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "restorex"
+      ],
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 152.0,
+          "storeUrl": "https://www.trendyol.com/restorex/keratin-argan-onarici-sac-bakim-sampuani-500ml-p-266864405",
+          "stock": "inStock",
+          "updatedAt": "2026-10-13T21:10:44Z",
+          "shipping": 0,
+          "affiliateUrl": "https://ty.gl/uzjri97nxm9vl"
+        }
+      ],
+      "createdAt": "2026-10-13T21:10:44Z",
+      "updatedAt": "2026-10-13T21:10:44Z",
+      "userRating": 4.6,
+      "reviewCount": 1462
+    },
+    {
+      "id": "p_ty_31321051",
+      "slug": "bioblas-keratin-kolajen-onarici-dolgunlastirici-sac-bakim-sa",
+      "brand": "Bioblas",
+      "name": "Keratin & Kolajen Onarıcı Dolgunlaştırıcı Saç Bakım Şampuanı 360 Ml İnce ve Yıpranmış Saçlar",
+      "category": "kozmetik",
+      "glyph": "💄",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1000452/product/media/images/prod/PIM/20261009/11/e68b2024-3ac2-4955-bd02-a9ef153c7413/1_org_zoom.jpg"
+      ],
+      "score": 98,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.6 (5126)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "💄",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Bioblas"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.6 (5126 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "bioblas"
+      ],
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 176.0,
+          "storeUrl": "https://www.trendyol.com/bioblas/keratin-kolajen-onarici-dolgunlastirici-sac-bakim-sampuani-360-ml-ince-ve-yipranmis-saclar-p-31321051",
+          "stock": "inStock",
+          "updatedAt": "2026-10-13T21:10:44Z",
+          "shipping": 0,
+          "affiliateUrl": "https://ty.gl/uzjri97nxm9vl"
+        }
+      ],
+      "createdAt": "2026-10-13T21:10:44Z",
+      "updatedAt": "2026-10-13T21:10:44Z",
+      "userRating": 4.6,
+      "reviewCount": 5126
+    },
+    {
+      "id": "p_ty_1057432966",
+      "slug": "pantene-pro-v-onarici-koruyucu-zayif-ve-yipranmis-saclar-ici",
+      "brand": "Pantene",
+      "name": "Pro-V Onarıcı & Koruyucu, Zayıf ve Yıpranmış Saçlar İçin Şampuan 800 ml Pompalı Şişe x 3 Adet",
+      "category": "kozmetik",
+      "glyph": "💄",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1000450/product/media/images/prod/PIM/20260923/06/33c2bfe9-441a-4dc5-933f-1cc251e654a7/1_org_zoom.jpg"
+      ],
+      "score": 99,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.8 (531)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "💄",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Pantene"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.8 (531 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "pantene"
+      ],
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 748.93,
+          "storeUrl": "https://www.trendyol.com/pantene/pro-v-onarici-koruyucu-zayif-ve-yipranmis-saclar-icin-sampuan-800-ml-pompali-sise-x-3-adet-p-1057432966",
+          "stock": "inStock",
+          "updatedAt": "2026-10-13T21:10:44Z",
+          "shipping": 0,
+          "affiliateUrl": "https://ty.gl/uzjri97nxm9vl"
+        }
+      ],
+      "createdAt": "2026-10-13T21:10:44Z",
+      "updatedAt": "2026-10-13T21:10:44Z",
+      "userRating": 4.8,
+      "reviewCount": 531
+    },
+    {
+      "id": "p_ty_35297753",
+      "slug": "clear-men-kepege-karsi-etkili-sampuan-cool-sport-menthol-600",
+      "brand": "Clear",
+      "name": "Men Kepeğe Karşı Etkili Şampuan Cool Sport Menthol 600 ml x3",
+      "category": "kozmetik",
+      "glyph": "💄",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1000445/product/media/images/prod/PIM/20260914/09/19845fce-b9f1-4bbb-a215-d7f6549c51af/1_org_zoom.jpg"
+      ],
+      "score": 99,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.7 (12597)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "💄",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Clear"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.7 (12597 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "clear"
+      ],
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 481.81,
+          "storeUrl": "https://www.trendyol.com/clear/men-kepege-karsi-etkili-sampuan-cool-sport-menthol-600-ml-x3-p-35297753",
+          "stock": "inStock",
+          "updatedAt": "2026-10-13T21:10:44Z",
+          "shipping": 0,
+          "affiliateUrl": "https://ty.gl/uzjri97nxm9vl"
+        }
+      ],
+      "createdAt": "2026-10-13T21:10:44Z",
+      "updatedAt": "2026-10-13T21:10:44Z",
+      "userRating": 4.7,
+      "reviewCount": 12597
+    },
+    {
+      "id": "p_ty_35297773",
+      "slug": "elidor-sac-bakim-sampuani-guclu-ve-parlak-650-ml-x3",
+      "brand": "Elidor",
+      "name": "Saç Bakım Şampuanı Güçlü ve Parlak 650 ml x3",
+      "category": "kozmetik",
+      "glyph": "💄",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1673/prod/QC/20250430/16/886f91f4-19ea-3eee-9ae6-2fa1e8528c66/1_org_zoom.jpg"
+      ],
+      "score": 99,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.8 (8516)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "💄",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Elidor"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.8 (8516 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "elidor"
+      ],
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 459.94,
+          "storeUrl": "https://www.trendyol.com/elidor/sac-bakim-sampuani-guclu-ve-parlak-650-ml-x3-p-35297773",
+          "stock": "inStock",
+          "updatedAt": "2026-10-13T21:10:44Z",
+          "shipping": 0,
+          "affiliateUrl": "https://ty.gl/uzjri97nxm9vl"
+        }
+      ],
+      "createdAt": "2026-10-13T21:10:44Z",
+      "updatedAt": "2026-10-13T21:10:44Z",
+      "userRating": 4.8,
+      "reviewCount": 8516
+    },
     {
       "id": "p_ty_989831198",
       "slug": "cooker-campmate-1-litre-paslanmaz-celik-termos-ckr2080",
