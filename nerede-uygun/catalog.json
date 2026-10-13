@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-13T15:34:55Z",
+  "updatedAt": "2026-10-13T17:14:34Z",
   "categories": [
     {
       "id": "giyim",
@@ -342,7 +342,7 @@
           "price": 1188.0,
           "storeUrl": "https://www.trendyol.com/bite-more/protein-cocoa-pancake-proteinli-kakao-pankek-50-gram-x-12-adet-blueberries-p-772605184",
           "affiliateUrl": "https://ty.gl/g5peit7dbyn05",
-          "stock": "lowStock",
+          "stock": "inStock",
           "sellerRating": 5.0,
           "updatedAt": "2026-08-16T00:00:00Z",
           "shipping": 0
@@ -439,7 +439,7 @@
           "price": 1099.99,
           "storeUrl": "https://www.trendyol.com/bite-more/protein-cocoa-pancake-proteinli-kakao-pankek-50-gram-x-12-adet-speculoos-p-772605282",
           "affiliateUrl": "https://ty.gl/g5peit7dbyn05",
-          "stock": "lowStock",
+          "stock": "inStock",
           "sellerRating": 5.0,
           "updatedAt": "2026-08-16T00:00:00Z",
           "shipping": 0
@@ -536,7 +536,7 @@
           "price": 1188.0,
           "storeUrl": "https://www.trendyol.com/bite-more/protein-cocoa-pancake-proteinli-kakao-pankek-50-gram-x-12-adet-double-chocolate-p-772603643",
           "affiliateUrl": "https://ty.gl/g5peit7dbyn05",
-          "stock": "lowStock",
+          "stock": "inStock",
           "sellerRating": 5.0,
           "updatedAt": "2026-08-16T00:00:00Z",
           "shipping": 0
@@ -633,7 +633,7 @@
           "price": 1199.0,
           "storeUrl": "https://www.trendyol.com/clean-powders/protein-pancake-55-gr-12-adet-red-velvet-p-1104855931",
           "affiliateUrl": "https://ty.gl/g5peit7dbyn05",
-          "stock": "lowStock",
+          "stock": "inStock",
           "sellerRating": 4.5,
           "updatedAt": "2026-08-16T00:00:00Z",
           "shipping": 0
@@ -721,7 +721,7 @@
           "price": 200.0,
           "storeUrl": "https://www.trendyol.com/clean-powders/deluxe-protein-bar-36-protein-55-gr-1-adet-cikolata-p-1151561488",
           "affiliateUrl": "https://ty.gl/g5peit7dbyn05",
-          "stock": "lowStock",
+          "stock": "inStock",
           "sellerRating": 4.2,
           "updatedAt": "2026-08-16T00:00:00Z"
         }
@@ -817,7 +817,7 @@
           "price": 349.0,
           "storeUrl": "https://www.trendyol.com/clean-powders/protein-pancake-55-gr-3-adet-kurabiye-kremasi-p-1121484896",
           "affiliateUrl": "https://ty.gl/g5peit7dbyn05",
-          "stock": "lowStock",
+          "stock": "inStock",
           "sellerRating": 4.0,
           "updatedAt": "2026-08-16T00:00:00Z"
         }
@@ -2042,7 +2042,7 @@
           "price": 2200.0,
           "storeUrl": "https://www.trendyol.com/laneige/lip-sleeping-mask-berry-20-g-dudak-icin-gece-maskesi-p-36496290",
           "affiliateUrl": "https://ty.gl/xzpxnyi9q1tsb",
-          "stock": "inStock",
+          "stock": "lowStock",
           "sellerRating": 4.3,
           "updatedAt": "2026-08-16T00:00:00Z",
           "shipping": 0
@@ -2467,7 +2467,7 @@
           "seller": "Trendyol",
           "price": 38999.0,
           "storeUrl": "https://www.trendyol.com/lenovo/ideapad-slim3-intel-core-i5-13420h-16gb-512gb-ssd-15-3-wuxga-freedos-dizustu-bilgisayar-83k1003mtr-p-898876056",
-          "stock": "inStock",
+          "stock": "lowStock",
           "sellerRating": 4.5,
           "updatedAt": "2026-08-20T12:45:16Z",
           "shipping": 0
@@ -2563,7 +2563,7 @@
           "seller": "Trendyol",
           "price": 8749.0,
           "storeUrl": "https://www.trendyol.com/samsung/galaxy-tab-a9-wi-fi-sm-x110-4gb-64gb-8-7-tablet-graphite-p-767487787",
-          "stock": "inStock",
+          "stock": "lowStock",
           "sellerRating": 4.7,
           "updatedAt": "2026-08-20T12:45:16Z",
           "shipping": 0
@@ -3007,7 +3007,7 @@
           "price": 8929.0,
           "storeUrl": "https://www.trendyol.com/kumtel/kmpac-7-juniper-portatif-tasinabilir-klima-p-932665737",
           "affiliateUrl": "https://ty.gl/95ilngmj03sh3",
-          "stock": "inStock",
+          "stock": "lowStock",
           "sellerRating": 4.1,
           "updatedAt": "2026-08-16T00:00:00Z"
         }
@@ -3318,7 +3318,7 @@
           "price": 990.0,
           "storeUrl": "https://www.trendyol.com/moen/sarjli-turbo-masa-fani-duvara-monte-edilebilir-yuksek-ufleme-gucu-5-kademe-ayarlanabilir-hiz-p-927136439",
           "affiliateUrl": "https://ty.gl/95ilngmj03sh3",
-          "stock": "inStock",
+          "stock": "outOfStock",
           "sellerRating": 4.2,
           "updatedAt": "2026-08-16T00:00:00Z",
           "shipping": 0
@@ -3639,7 +3639,7 @@
           "price": 472.99,
           "storeUrl": "https://www.trendyol.com/weather-forecast/celik-siyah-kapak-750-ml-sporcu-matara-suluk-sicak-soguk-tutmaz-cin426-p-671157474",
           "affiliateUrl": "https://ty.gl/2z0gszjthip2q",
-          "stock": "inStock",
+          "stock": "outOfStock",
           "sellerRating": 4.1,
           "updatedAt": "2026-08-16T00:00:00Z",
           "shipping": 0
@@ -4182,7 +4182,7 @@
           "price": 48000.0,
           "storeUrl": "https://www.trendyol.com/hp/victus-amd-ryzen-5-8645hs-16gb-512gb-rtx3050-6gb-freedos-15-6-fhd-ips-144hz-gaming-laptop-b9km2ea-p-929697232",
           "affiliateUrl": "https://ty.gl/2z0gszjthip2q",
-          "stock": "inStock",
+          "stock": "lowStock",
           "sellerRating": 4.4,
           "updatedAt": "2026-08-16T00:00:00Z"
         }
@@ -4239,7 +4239,7 @@
         {
           "marketplace": "trendyol",
           "seller": "Trendyol",
-          "price": 28001.0,
+          "price": 26600.0,
           "storeUrl": "https://www.trendyol.com/apple/11-ipad-wi-fi-128gb-gumus-p-904298041",
           "affiliateUrl": "https://ty.gl/2z0gszjthip2q",
           "stock": "inStock",
@@ -4661,7 +4661,7 @@
           "price": 6798.0,
           "storeUrl": "https://www.trendyol.com/philips/600-serisi-hava-temizleyici-44-m2-ye-kadar-etkili-170-m3-sa-temiz-hava-hizi-ac0651-10-p-809683127",
           "affiliateUrl": "https://ty.gl/hxotbbzi9ckdq",
-          "stock": "inStock",
+          "stock": "lowStock",
           "sellerRating": 4.3,
           "updatedAt": "2026-08-17T00:00:00Z"
         }
