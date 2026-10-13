@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-13T20:24:42Z",
+  "updatedAt": "2026-10-13T20:43:08Z",
   "categories": [
     {
       "id": "kadin-giyim",
@@ -258,6 +258,426 @@
     }
   ],
   "products": [
+    {
+      "id": "p_ty_989831198",
+      "slug": "cooker-campmate-1-litre-paslanmaz-celik-termos-ckr2080",
+      "brand": "Cooker",
+      "name": "CampMate 1 Litre Paslanmaz Çelik Termos CKR2080",
+      "category": "teknoloji",
+      "glyph": "🎧",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1812/prod/QC_ENRICHMENT/20260120/13/1df11bb8-7537-3490-bcf1-755aa70edd1a/1_org_zoom.jpg"
+      ],
+      "score": 98,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.6 (779)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "🎧",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Cooker"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.6 (779 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "cooker"
+      ],
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 999.9,
+          "storeUrl": "https://www.trendyol.com/cooker/campmate-1-litre-paslanmaz-celik-termos-ckr2080-p-989831198",
+          "stock": "inStock",
+          "updatedAt": "2026-10-13T20:42:22Z",
+          "shipping": 0,
+          "affiliateUrl": "https://ty.gl/5zi3h5u8h2s0y"
+        }
+      ],
+      "createdAt": "2026-10-13T20:42:22Z",
+      "updatedAt": "2026-10-13T20:42:22Z",
+      "userRating": 4.6,
+      "reviewCount": 779
+    },
+    {
+      "id": "p_ty_257539628",
+      "slug": "espressolab-beyaz-tutacakli-paslanmaz-celik-termos-no-36-500",
+      "brand": "Espressolab",
+      "name": "Beyaz Tutacaklı Paslanmaz Çelik Termos No:36 – 500 ml Vakumlu Sızdırmaz Termos",
+      "category": "teknoloji",
+      "glyph": "🎧",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1780/prod/QC_ENRICHMENT/20251027/15/ee1fc3b4-1a3d-37c3-81ef-1759ef8024b3/1_org_zoom.jpg"
+      ],
+      "score": 96,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.4 (1496)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "🎧",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Espressolab"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.4 (1496 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "espressolab"
+      ],
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 749.99,
+          "storeUrl": "https://www.trendyol.com/espressolab/beyaz-tutacakli-paslanmaz-celik-termos-no-36-500-ml-vakumlu-sizdirmaz-termos-p-257539628",
+          "stock": "inStock",
+          "updatedAt": "2026-10-13T20:42:22Z",
+          "shipping": 0,
+          "affiliateUrl": "https://ty.gl/5zi3h5u8h2s0y"
+        }
+      ],
+      "createdAt": "2026-10-13T20:42:22Z",
+      "updatedAt": "2026-10-13T20:42:22Z",
+      "userRating": 4.4,
+      "reviewCount": 1496
+    },
+    {
+      "id": "p_ty_772111095",
+      "slug": "karaca-skyfall-celik-sizdirmaz-termos-350-ml-siyah",
+      "brand": "Karaca",
+      "name": "Skyfall Çelik Sızdırmaz Termos 350 ml Siyah",
+      "category": "teknoloji",
+      "glyph": "🎧",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1654/product/media/images/prod/PIM/20250326/10/b30279de-3188-405f-a31c-0c330abc1cd5/1_org_zoom.jpg"
+      ],
+      "score": 98,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.6 (1342)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "🎧",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Karaca"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.6 (1342 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "karaca"
+      ],
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 645.0,
+          "storeUrl": "https://www.trendyol.com/karaca/skyfall-celik-sizdirmaz-termos-350-ml-siyah-p-772111095",
+          "stock": "inStock",
+          "updatedAt": "2026-10-13T20:42:22Z",
+          "shipping": 0,
+          "affiliateUrl": "https://ty.gl/5zi3h5u8h2s0y"
+        }
+      ],
+      "createdAt": "2026-10-13T20:42:22Z",
+      "updatedAt": "2026-10-13T20:42:22Z",
+      "userRating": 4.6,
+      "reviewCount": 1342
+    },
+    {
+      "id": "p_ty_780345921",
+      "slug": "stanley-aerolight-seyahat-kupasi-0-47-l-pembe-kuvars",
+      "brand": "Stanley",
+      "name": "Aerolight™ Seyahat Kupası | 0,47 L Pembe Kuvars",
+      "category": "teknoloji",
+      "glyph": "🎧",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1664/prod/QC/20250416/14/0bcd18b5-6ffa-3db7-b56f-09b3d1b0b82e/1_org_zoom.jpg"
+      ],
+      "score": 98,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.6 (3707)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "🎧",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Stanley"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.6 (3707 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "stanley"
+      ],
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 1755.0,
+          "storeUrl": "https://www.trendyol.com/stanley/aerolight-seyahat-kupasi-0-47-l-pembe-kuvars-p-780345921",
+          "stock": "inStock",
+          "updatedAt": "2026-10-13T20:42:22Z",
+          "shipping": 0,
+          "affiliateUrl": "https://ty.gl/5zi3h5u8h2s0y"
+        }
+      ],
+      "createdAt": "2026-10-13T20:42:22Z",
+      "updatedAt": "2026-10-13T20:42:22Z",
+      "userRating": 4.6,
+      "reviewCount": 3707
+    },
+    {
+      "id": "p_ty_47409984",
+      "slug": "cooker-2-litre-cift-kat-paslanmaz-celik-termos-12-24-saat-so",
+      "brand": "Cooker",
+      "name": "2 Litre Çift Kat Paslanmaz Çelik Termos 12-24 Saat Soğuk, 8-12 Saat Sıcak Tutma",
+      "category": "teknoloji",
+      "glyph": "🎧",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1435/product/media/images/prod/QC/20240722/10/c8047f54-2dfd-34db-9741-b73af3ce2030/1_org_zoom.jpg"
+      ],
+      "score": 95,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.3 (7340)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "🎧",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Cooker"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.3 (7340 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "cooker"
+      ],
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 785.7,
+          "storeUrl": "https://www.trendyol.com/cooker/2-litre-cift-kat-paslanmaz-celik-termos-12-24-saat-soguk-8-12-saat-sicak-tutma-p-47409984",
+          "stock": "inStock",
+          "updatedAt": "2026-10-13T20:42:22Z",
+          "shipping": 0,
+          "affiliateUrl": "https://ty.gl/5zi3h5u8h2s0y"
+        }
+      ],
+      "createdAt": "2026-10-13T20:42:22Z",
+      "updatedAt": "2026-10-13T20:42:22Z",
+      "userRating": 4.3,
+      "reviewCount": 7340
+    },
+    {
+      "id": "p_ty_854682075",
+      "slug": "stevig-4-camp-klasik-vakumlu-kulplu-celik-termos-1-5-lt-gree",
+      "brand": "Stevig",
+      "name": "4 Camp Klasik Vakumlu Kulplu Çelik Termos 1.5 LT. Green ST-206",
+      "category": "teknoloji",
+      "glyph": "🎧",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1847/prod/QC_ENRICHMENT/20260328/09/e3cae472-5150-3d2d-8abc-bbbd4ef9ed4d/1_org_zoom.jpg"
+      ],
+      "score": 99,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.7 (4029)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "🎧",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Stevig"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.7 (4029 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "stevig"
+      ],
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 1599.9,
+          "storeUrl": "https://www.trendyol.com/stevig/4-camp-klasik-vakumlu-kulplu-celik-termos-1-5-lt-green-st-206-p-854682075",
+          "stock": "inStock",
+          "updatedAt": "2026-10-13T20:42:22Z",
+          "shipping": 0,
+          "affiliateUrl": "https://ty.gl/5zi3h5u8h2s0y"
+        }
+      ],
+      "createdAt": "2026-10-13T20:42:22Z",
+      "updatedAt": "2026-10-13T20:42:22Z",
+      "userRating": 4.7,
+      "reviewCount": 4029
+    },
+    {
+      "id": "p_ty_968131",
+      "slug": "stanley-klasik-vakumlu-paslanmaz-celik-1-9l-unisex-yesil-ter",
+      "brand": "Stanley",
+      "name": "Klasik Vakumlu Paslanmaz Çelik 1.9L Unisex Yeşil Termos",
+      "category": "teknoloji",
+      "glyph": "🎧",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1626/prod/QC/20250118/14/ca8a4036-d51c-30a5-b822-53d2dc88a753/1_org_zoom.jpg"
+      ],
+      "score": 98,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.6 (3900)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "🎧",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Stanley"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.6 (3900 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "stanley"
+      ],
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 2639.0,
+          "storeUrl": "https://www.trendyol.com/stanley/klasik-vakumlu-paslanmaz-celik-1-9l-unisex-yesil-termos-p-968131",
+          "stock": "inStock",
+          "updatedAt": "2026-10-13T20:42:22Z",
+          "shipping": 0,
+          "affiliateUrl": "https://ty.gl/5zi3h5u8h2s0y"
+        }
+      ],
+      "createdAt": "2026-10-13T20:42:22Z",
+      "updatedAt": "2026-10-13T20:42:22Z",
+      "userRating": 4.6,
+      "reviewCount": 3900
+    },
     {
       "id": "p_ty_942002160",
       "slug": "childgen-mini-hamur-paketi",
