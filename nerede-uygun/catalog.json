@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-13T19:17:35Z",
+  "updatedAt": "2026-10-13T19:19:22Z",
   "categories": [
     {
       "id": "kadin-giyim",
@@ -273,7 +273,7 @@
     {
       "id": "p_ty_859635397",
       "slug": "defacto-regular-fit-2-li-takim-sweatshirt-beli-lastikli-jogg",
-      "brand": "Defacto",
+      "brand": "DeFacto",
       "name": "Regular Fit 2'li Takım Sweatshirt Beli Lastikli Jogger Eşofman Altı D8022AXNS",
       "category": "moda",
       "glyph": "👗",
@@ -301,7 +301,7 @@
           "attributes": [
             {
               "label": "Marka",
-              "value": "Defacto"
+              "value": "DeFacto"
             },
             {
               "label": "Mağaza puanı",
@@ -577,8 +577,8 @@
     },
     {
       "id": "p_ty_679367989",
-      "slug": "tubi-a-kadin-siyah-renk-kapusonlu-sardonlu-crop-sweatshirt-h",
-      "brand": "Tubi̇a",
+      "slug": "tubia-kadin-siyah-renk-kapusonlu-sardonlu-crop-sweatshirt-hi",
+      "brand": "Tubia",
       "name": "Kadın Siyah Renk Kapüşonlu Şardonlu Crop Sweatshirt Hırka",
       "category": "moda",
       "glyph": "👗",
@@ -606,7 +606,7 @@
           "attributes": [
             {
               "label": "Marka",
-              "value": "Tubi̇a"
+              "value": "Tubia"
             },
             {
               "label": "Mağaza puanı",
@@ -616,7 +616,7 @@
         }
       ],
       "tags": [
-        "tubi̇a",
+        "tubia",
         "kadın giyim"
       ],
       "offers": [
@@ -800,7 +800,8 @@
       ],
       "tags": [
         "tudors",
-        "erkek giyim"
+        "erkek giyim",
+        "kadın giyim"
       ],
       "offers": [
         {
@@ -943,8 +944,8 @@
     },
     {
       "id": "p_ty_313732863",
-      "slug": "trendhi-ll-erkek-esofman-takimi-201550",
-      "brand": "Trendhi̇ll",
+      "slug": "trendhill-erkek-esofman-takimi-201550",
+      "brand": "Trendhill",
       "name": "Erkek Eşofman Takımı 201550",
       "category": "moda",
       "glyph": "👔",
@@ -972,7 +973,7 @@
           "attributes": [
             {
               "label": "Marka",
-              "value": "Trendhi̇ll"
+              "value": "Trendhill"
             },
             {
               "label": "Mağaza puanı",
@@ -982,7 +983,7 @@
         }
       ],
       "tags": [
-        "trendhi̇ll",
+        "trendhill",
         "erkek giyim"
       ],
       "offers": [
@@ -1005,7 +1006,7 @@
     {
       "id": "p_ty_69859724",
       "slug": "grimelange-marshall-erkek-pamuklu-ici-polarli-nakisli-relaxe",
-      "brand": "Grimelange",
+      "brand": "GRIMELANGE",
       "name": "Marshall Erkek Pamuklu Içi Polarlı Nakışlı Relaxed Siyah Eşofman Takımı",
       "category": "moda",
       "glyph": "👔",
@@ -1033,7 +1034,7 @@
           "attributes": [
             {
               "label": "Marka",
-              "value": "Grimelange"
+              "value": "GRIMELANGE"
             },
             {
               "label": "Mağaza puanı",
@@ -1105,7 +1106,8 @@
       ],
       "tags": [
         "macharel jeans",
-        "erkek giyim"
+        "erkek giyim",
+        "kadın giyim"
       ],
       "offers": [
         {
@@ -1726,8 +1728,8 @@
     },
     {
       "id": "p_ty_198702202",
-      "slug": "havran-kocaseyi-t-karadut-ozu-1400-g",
-      "brand": "Havran Kocaseyi̇t",
+      "slug": "havran-kocaseyit-karadut-ozu-1400-g",
+      "brand": "Havran Kocaseyit",
       "name": "Karadut Özü 1400 g",
       "category": "market",
       "glyph": "🍎",
@@ -1755,7 +1757,7 @@
           "attributes": [
             {
               "label": "Marka",
-              "value": "Havran Kocaseyi̇t"
+              "value": "Havran Kocaseyit"
             },
             {
               "label": "Mağaza puanı",
@@ -1765,7 +1767,7 @@
         }
       ],
       "tags": [
-        "havran kocaseyi̇t"
+        "havran kocaseyit"
       ],
       "offers": [
         {
