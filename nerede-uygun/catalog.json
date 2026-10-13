@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-13T17:34:37Z",
+  "updatedAt": "2026-10-13T17:44:51Z",
   "categories": [
     {
       "id": "kadin-giyim",
@@ -20,8 +20,8 @@
       "tint": "#EEE6DB",
       "accent": "#7A5230",
       "aliases": [
-        "giyim",
-        "moda"
+        "moda",
+        "giyim"
       ],
       "tags": [
         "erkek giyim"
@@ -118,7 +118,8 @@
         "p_ty_1151556669",
         "p_ty_1263063",
         "p_ty_923400245",
-        "p_hb_HBCV00008WG0S8"
+        "p_hb_HBCV00008WG0S8",
+        "p_ty_307986296"
       ]
     },
     {
@@ -265,6 +266,295 @@
     }
   ],
   "products": [
+    {
+      "id": "p_ty_307986296",
+      "slug": "sumicorn-yesil-potikareli-yikanabilir-fermuarli-tek-gozlu-be",
+      "brand": "sumicorn",
+      "name": "Yeşil Pötikareli Yıkanabilir Fermuarlı Tek Gözlü Bez Kalemlik Kalem Kutusu Cüzdan Makyaj Çantası",
+      "category": "anne-bebek",
+      "glyph": "🧸",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1535/product/media/images/prod/QC/20240909/16/c37d66ec-bfda-336a-9485-d171fb72ceca/1_org_zoom.jpg"
+      ],
+      "score": 98,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.7 (2208)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "🧸",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "sumicorn"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.7 (2208 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "sumicorn"
+      ],
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 199.1,
+          "storeUrl": "https://www.trendyol.com/sumicorn/yesil-potikareli-yikanabilir-fermuarli-tek-gozlu-bez-kalemlik-kalem-kutusu-cuzdan-makyaj-cantasi-p-307986296",
+          "stock": "inStock",
+          "updatedAt": "2026-10-13T17:44:06Z",
+          "shipping": 0,
+          "affiliateUrl": "https://ty.gl/sj87mk9xc1900"
+        }
+      ],
+      "createdAt": "2026-10-13T17:44:06Z",
+      "updatedAt": "2026-10-13T17:44:06Z",
+      "userRating": 4.7,
+      "reviewCount": 2208
+    },
+    {
+      "id": "p_ty_1200229599",
+      "slug": "brix-kadin-regular-fit-interlok-t-shirt-antrasit",
+      "brand": "Brix",
+      "name": "Kadın Regular Fit İnterlok T-Shirt Antrasit",
+      "category": "moda",
+      "glyph": "👗",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1956/prod/QC_PREP/20260916/16/ac3ddfa5-b059-3271-a4e2-2e6a10b9487e/1_org_zoom.jpg"
+      ],
+      "score": 85,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "👗",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Brix"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "brix",
+        "kadın giyim"
+      ],
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 1150.0,
+          "storeUrl": "https://www.trendyol.com/brix/kadin-regular-fit-interlok-t-shirt-antrasit-p-1200229599",
+          "stock": "inStock",
+          "updatedAt": "2026-10-13T17:44:06Z",
+          "shipping": 0,
+          "affiliateUrl": "https://ty.gl/ksg496lodjpnj"
+        }
+      ],
+      "createdAt": "2026-10-13T17:44:06Z",
+      "updatedAt": "2026-10-13T17:44:06Z"
+    },
+    {
+      "id": "p_ty_1132499754",
+      "slug": "hiq-nutrition-hiq-high-pro-protein-bar-12-55g-chocolate-brow",
+      "brand": "HIQ Nutrition",
+      "name": "HIQ High Pro Protein Bar 12*55g CHOCOLATE BROWNIE FLAVORED",
+      "category": "spor",
+      "glyph": "🏃",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1855/prod/QC_PREP/20260413/12/2b4ed0b2-9ac2-31e8-96f1-a9f7ba9f239d/1_org_zoom.jpg"
+      ],
+      "score": 97,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.7 (80)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "🏃",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "HIQ Nutrition"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.7 (80 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "hiq nutrition"
+      ],
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 1799.0,
+          "storeUrl": "https://www.trendyol.com/hiq-nutrition/hiq-high-pro-protein-bar-12-55g-chocolate-brownie-flavored-p-1132499754",
+          "stock": "inStock",
+          "updatedAt": "2026-10-13T17:44:06Z",
+          "shipping": 0,
+          "affiliateUrl": "https://ty.gl/931aefl8b9xpa"
+        }
+      ],
+      "createdAt": "2026-10-13T17:44:06Z",
+      "updatedAt": "2026-10-13T17:44:06Z",
+      "userRating": 4.7,
+      "reviewCount": 80
+    },
+    {
+      "id": "p_ty_1152139568",
+      "slug": "clean-powders-deluxe-protein-bar-36-protein-55-gr-1-adet-cik",
+      "brand": "Clean Powders",
+      "name": "Deluxe Protein Bar %36 Protein 55 Gr 1 Adet - ÇİKOLATA-KARAMEL",
+      "category": "spor",
+      "glyph": "🏃",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1900/prod/QC_PREP/20260602/23/99a8d8ab-cf8c-35d4-b5ee-f9aab13b36e8/1_org_zoom.jpg"
+      ],
+      "score": 92,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.3 (24)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "🏃",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Clean Powders"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.3 (24 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "clean powders"
+      ],
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 200.0,
+          "storeUrl": "https://www.trendyol.com/clean-powders/deluxe-protein-bar-36-protein-55-gr-1-adet-cikolata-karamel-p-1152139568",
+          "stock": "inStock",
+          "updatedAt": "2026-10-13T17:44:06Z",
+          "shipping": 0,
+          "affiliateUrl": "https://ty.gl/931aefl8b9xpa"
+        }
+      ],
+      "createdAt": "2026-10-13T17:44:06Z",
+      "updatedAt": "2026-10-13T17:44:06Z",
+      "userRating": 4.3,
+      "reviewCount": 24
+    },
+    {
+      "id": "p_ty_792186344",
+      "slug": "zuber-nutzilla-kakaolu-findik-kremasi-315g",
+      "brand": "Züber",
+      "name": "Nutzilla Kakaolu Fındık Kreması 315g",
+      "category": "market",
+      "glyph": "🍎",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1000424/product/media/images/prod/PIM/20260805/15/8d1d6bc5-798e-40d7-9c7b-0f569cff999f/1_org_zoom.jpg"
+      ],
+      "score": 99,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.8 (13161)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "🍎",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Züber"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.8 (13161 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "züber"
+      ],
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 411.0,
+          "storeUrl": "https://www.trendyol.com/zuber/nutzilla-kakaolu-findik-kremasi-315g-p-792186344",
+          "stock": "inStock",
+          "updatedAt": "2026-10-13T17:44:06Z",
+          "shipping": 0,
+          "affiliateUrl": "https://ty.gl/udn738iw4qiu7"
+        }
+      ],
+      "createdAt": "2026-10-13T17:44:06Z",
+      "updatedAt": "2026-10-13T17:44:06Z",
+      "userRating": 4.8,
+      "reviewCount": 13161
+    },
     {
       "id": "p_ty_772605184",
       "slug": "bite-more-protein-cocoa-pancake-proteinli-kakao-pankek-50-gram-x-12-ad",
