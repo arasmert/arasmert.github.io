@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-13T17:46:43Z",
+  "updatedAt": "2026-10-13T19:17:35Z",
   "categories": [
     {
       "id": "kadin-giyim",
@@ -119,7 +119,11 @@
         "p_ty_1263063",
         "p_ty_923400245",
         "p_hb_HBCV00008WG0S8",
-        "p_ty_307986296"
+        "p_ty_307986296",
+        "p_ty_780589053",
+        "p_ty_69859724",
+        "p_ty_336311331",
+        "p_ty_782959490"
       ]
     },
     {
@@ -266,6 +270,2180 @@
     }
   ],
   "products": [
+    {
+      "id": "p_ty_859635397",
+      "slug": "defacto-regular-fit-2-li-takim-sweatshirt-beli-lastikli-jogg",
+      "brand": "Defacto",
+      "name": "Regular Fit 2'li Takım Sweatshirt Beli Lastikli Jogger Eşofman Altı D8022AXNS",
+      "category": "moda",
+      "glyph": "👗",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1838/prod/QC_ENRICHMENT/20260312/12/8d9844f1-5763-3454-bbc7-fdf3031743b2/1_org_zoom.jpg"
+      ],
+      "score": 97,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.5 (3500)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "👗",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Defacto"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.5 (3500 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "defacto",
+        "kadın giyim"
+      ],
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 999.99,
+          "storeUrl": "https://www.trendyol.com/defacto/regular-fit-2-li-takim-sweatshirt-beli-lastikli-jogger-esofman-alti-d8022axns-p-859635397",
+          "stock": "inStock",
+          "updatedAt": "2026-10-13T19:15:24Z",
+          "shipping": 0,
+          "affiliateUrl": "https://ty.gl/ksg496lodjpnj"
+        }
+      ],
+      "createdAt": "2026-10-13T19:15:24Z",
+      "updatedAt": "2026-10-13T19:15:24Z",
+      "userRating": 4.5,
+      "reviewCount": 3500
+    },
+    {
+      "id": "p_ty_864731964",
+      "slug": "the-champ-clothing-ici-polar-oversize-kesim-kapusonlu-fermua",
+      "brand": "The Champ Clothing",
+      "name": "İçi Polar Oversize Kesim Kapüşonlu Fermuarlı Pembe Eşofman Takımı",
+      "category": "moda",
+      "glyph": "👗",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1956/prod/QC_ENRICHMENT/20260914/19/a8e104f5-6b44-307b-9bea-b28872a64b78/1_org_zoom.jpg"
+      ],
+      "score": 97,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.5 (541)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "👗",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "The Champ Clothing"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.5 (541 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "the champ clothing",
+        "kadın giyim"
+      ],
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 2024.25,
+          "storeUrl": "https://www.trendyol.com/the-champ-clothing/ici-polar-oversize-kesim-kapusonlu-fermuarli-pembe-esofman-takimi-p-864731964",
+          "stock": "inStock",
+          "updatedAt": "2026-10-13T19:15:24Z",
+          "shipping": 0,
+          "affiliateUrl": "https://ty.gl/ksg496lodjpnj"
+        }
+      ],
+      "createdAt": "2026-10-13T19:15:24Z",
+      "updatedAt": "2026-10-13T19:15:24Z",
+      "userRating": 4.5,
+      "reviewCount": 541
+    },
+    {
+      "id": "p_ty_133093010",
+      "slug": "tommy-life-koyu-bej-kapusonlu-gizli-cep-detayli-standart-kal",
+      "brand": "Tommy Life",
+      "name": "Koyu Bej Kapüşonlu Gizli Cep Detaylı Standart Kalıp Kadın Eşofman Takımı - 95306",
+      "category": "moda",
+      "glyph": "👗",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1790/prod/QC_ENRICHMENT/20251112/15/4762d2a8-b4e3-3247-aecf-52d0bdd26df3/1_org_zoom.jpg"
+      ],
+      "score": 98,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.6 (647)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "👗",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Tommy Life"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.6 (647 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "tommy life",
+        "kadın giyim"
+      ],
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 1849.9,
+          "storeUrl": "https://www.trendyol.com/tommy-life/koyu-bej-kapusonlu-gizli-cep-detayli-standart-kalip-kadin-esofman-takimi-95306-p-133093010",
+          "stock": "inStock",
+          "updatedAt": "2026-10-13T19:15:24Z",
+          "shipping": 0,
+          "affiliateUrl": "https://ty.gl/ksg496lodjpnj"
+        }
+      ],
+      "createdAt": "2026-10-13T19:15:24Z",
+      "updatedAt": "2026-10-13T19:15:24Z",
+      "userRating": 4.6,
+      "reviewCount": 647
+    },
+    {
+      "id": "p_ty_782959490",
+      "slug": "tommy-life-tas-kapusonlu-pamuklu-renk-bloklu-kadin-esofman-t",
+      "brand": "Tommy Life",
+      "name": "Taş Kapüşonlu Pamuklu Renk Bloklu Kadın Eşofman Takım - 95327",
+      "category": "moda",
+      "glyph": "👗",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1789/prod/QC_ENRICHMENT/20251112/16/50b2aeac-b7da-381c-9247-67f14f2fc535/1_org_zoom.jpg"
+      ],
+      "score": 98,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.6 (974)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "👗",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Tommy Life"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.6 (974 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "tommy life",
+        "kadın giyim"
+      ],
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 2034.9,
+          "storeUrl": "https://www.trendyol.com/tommy-life/tas-kapusonlu-pamuklu-renk-bloklu-kadin-esofman-takim-95327-p-782959490",
+          "stock": "inStock",
+          "updatedAt": "2026-10-13T19:15:24Z",
+          "shipping": 0,
+          "affiliateUrl": "https://ty.gl/sj87mk9xc1900"
+        }
+      ],
+      "createdAt": "2026-10-13T19:15:24Z",
+      "updatedAt": "2026-10-13T19:15:24Z",
+      "userRating": 4.6,
+      "reviewCount": 974
+    },
+    {
+      "id": "p_ty_1035119343",
+      "slug": "chuba-kadin-bisiklet-yaka-dugmeli-yumusak-dokulu-triko-hirka",
+      "brand": "Chuba",
+      "name": "Kadın Bisiklet Yaka Düğmeli Yumuşak Dokulu Triko Hırka Kırmızı 26W3033",
+      "category": "moda",
+      "glyph": "👗",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1780/prod/QC_PREP/20251022/14/32b0d9db-b4b2-3e95-bbd2-ec45d10db015/1_org_zoom.jpg"
+      ],
+      "score": 99,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.7 (813)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "👗",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Chuba"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.7 (813 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "chuba",
+        "kadın giyim"
+      ],
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 899.99,
+          "storeUrl": "https://www.trendyol.com/chuba/kadin-bisiklet-yaka-dugmeli-yumusak-dokulu-triko-hirka-kirmizi-26w3033-p-1035119343",
+          "stock": "inStock",
+          "updatedAt": "2026-10-13T19:15:24Z",
+          "shipping": 0,
+          "affiliateUrl": "https://ty.gl/ksg496lodjpnj"
+        }
+      ],
+      "createdAt": "2026-10-13T19:15:24Z",
+      "updatedAt": "2026-10-13T19:15:24Z",
+      "userRating": 4.7,
+      "reviewCount": 813
+    },
+    {
+      "id": "p_ty_679367989",
+      "slug": "tubi-a-kadin-siyah-renk-kapusonlu-sardonlu-crop-sweatshirt-h",
+      "brand": "Tubi̇a",
+      "name": "Kadın Siyah Renk Kapüşonlu Şardonlu Crop Sweatshirt Hırka",
+      "category": "moda",
+      "glyph": "👗",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1590/prod/QC/20241024/14/8870e8f2-4092-3c6b-aa3f-4162269c59e4/1_org_zoom.jpg"
+      ],
+      "score": 99,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.7 (1488)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "👗",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Tubi̇a"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.7 (1488 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "tubi̇a",
+        "kadın giyim"
+      ],
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 824.9,
+          "storeUrl": "https://www.trendyol.com/tubia/kadin-siyah-renk-kapusonlu-sardonlu-crop-sweatshirt-hirka-p-679367989",
+          "stock": "inStock",
+          "updatedAt": "2026-10-13T19:15:24Z",
+          "shipping": 0,
+          "affiliateUrl": "https://ty.gl/ksg496lodjpnj"
+        }
+      ],
+      "createdAt": "2026-10-13T19:15:24Z",
+      "updatedAt": "2026-10-13T19:15:24Z",
+      "userRating": 4.7,
+      "reviewCount": 1488
+    },
+    {
+      "id": "p_ty_336311331",
+      "slug": "femelle-kadin-oversize-triko-hirka-cok-renkli-salas-blok-des",
+      "brand": "Femelle",
+      "name": "Kadın Oversize Triko Hırka Çok Renkli Salaş Blok Desenli",
+      "category": "moda",
+      "glyph": "👗",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1598/prod/QC/20241103/01/ba9adc8c-bb50-3282-a479-681de0f52adf/1_org_zoom.jpg"
+      ],
+      "score": 99,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.7 (1939)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "👗",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Femelle"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.7 (1939 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "femelle",
+        "kadın giyim"
+      ],
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 970.14,
+          "storeUrl": "https://www.trendyol.com/femelle/kadin-oversize-triko-hirka-cok-renkli-salas-blok-desenli-p-336311331",
+          "stock": "inStock",
+          "updatedAt": "2026-10-13T19:15:24Z",
+          "shipping": 0,
+          "affiliateUrl": "https://ty.gl/sj87mk9xc1900"
+        }
+      ],
+      "createdAt": "2026-10-13T19:15:24Z",
+      "updatedAt": "2026-10-13T19:15:24Z",
+      "userRating": 4.7,
+      "reviewCount": 1939
+    },
+    {
+      "id": "p_ty_239451784",
+      "slug": "kral-5-cift-erkek-termal-lambswool-yun-corap",
+      "brand": "Kral",
+      "name": "5 Çift Erkek Termal Lambswool Yün Çorap",
+      "category": "moda",
+      "glyph": "👔",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1831/prod/QC_ENRICHMENT/20260227/10/25481fb9-1976-3f47-b12d-55bd656d7ebd/1_org_zoom.jpg"
+      ],
+      "score": 98,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.6 (8137)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "👔",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Kral"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.6 (8137 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "kral",
+        "erkek giyim"
+      ],
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 305.86,
+          "storeUrl": "https://www.trendyol.com/kral/5-cift-erkek-termal-lambswool-yun-corap-p-239451784",
+          "stock": "inStock",
+          "updatedAt": "2026-10-13T19:15:24Z",
+          "shipping": 0,
+          "affiliateUrl": "https://ty.gl/44mnuv6h041mm"
+        }
+      ],
+      "createdAt": "2026-10-13T19:15:24Z",
+      "updatedAt": "2026-10-13T19:15:24Z",
+      "userRating": 4.6,
+      "reviewCount": 8137
+    },
+    {
+      "id": "p_ty_777723073",
+      "slug": "tudors-unisex-relax-fit-rahat-kesim-pamuklu-ici-polarli-yari",
+      "brand": "Tudors",
+      "name": "Unisex Relax Fit Rahat Kesim Pamuklu Içi Polarlı Yarım Fermuarlı Siyah Dik Bato Yaka Sweatshirt",
+      "category": "moda",
+      "glyph": "👔",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1000428/product/media/images/prod/PIM/20260817/15/75c9e131-b7e1-4b86-ad31-e2a31ab6208d/1_org_zoom.jpg"
+      ],
+      "score": 99,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.7 (13985)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "👔",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Tudors"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.7 (13985 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "tudors",
+        "erkek giyim"
+      ],
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 849.11,
+          "storeUrl": "https://www.trendyol.com/tudors/unisex-relax-fit-rahat-kesim-pamuklu-ici-polarli-yarim-fermuarli-siyah-dik-bato-yaka-sweatshirt-p-777723073",
+          "stock": "inStock",
+          "updatedAt": "2026-10-13T19:15:24Z",
+          "shipping": 0,
+          "affiliateUrl": "https://ty.gl/44mnuv6h041mm"
+        }
+      ],
+      "createdAt": "2026-10-13T19:15:24Z",
+      "updatedAt": "2026-10-13T19:15:24Z",
+      "userRating": 4.7,
+      "reviewCount": 13985
+    },
+    {
+      "id": "p_ty_77733459",
+      "slug": "dawrazz-erkek-hakim-yaka-esofman-takimi",
+      "brand": "DawRazz",
+      "name": "Erkek Hakim Yaka Eşofman Takımı",
+      "category": "moda",
+      "glyph": "👔",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1794/prod/QC_ENRICHMENT/20251204/21/5ecd649e-7e34-3100-ac55-b3c134c9c16d/1_org_zoom.jpg"
+      ],
+      "score": 97,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.5 (962)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "👔",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "DawRazz"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.5 (962 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "dawrazz",
+        "erkek giyim"
+      ],
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 1286.9,
+          "storeUrl": "https://www.trendyol.com/dawrazz/erkek-hakim-yaka-esofman-takimi-p-77733459",
+          "stock": "inStock",
+          "updatedAt": "2026-10-13T19:15:24Z",
+          "shipping": 0,
+          "affiliateUrl": "https://ty.gl/44mnuv6h041mm"
+        }
+      ],
+      "createdAt": "2026-10-13T19:15:24Z",
+      "updatedAt": "2026-10-13T19:15:24Z",
+      "userRating": 4.5,
+      "reviewCount": 962
+    },
+    {
+      "id": "p_ty_869014157",
+      "slug": "fors-life-yeni-sezon-erkek-sik-esofman-takimi-siyah",
+      "brand": "Fors Life",
+      "name": "Yeni Sezon Erkek Şık Eşofman Takımı, Siyah",
+      "category": "moda",
+      "glyph": "👔",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1590/prod/QC/20241022/19/9e1f3284-f8a2-397a-be64-2cc9d9a557de/1_org_zoom.jpg"
+      ],
+      "score": 98,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.6 (391)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "👔",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Fors Life"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.6 (391 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "fors life",
+        "erkek giyim"
+      ],
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 1189.59,
+          "storeUrl": "https://www.trendyol.com/fors-life/yeni-sezon-erkek-sik-esofman-takimi-siyah-p-869014157",
+          "stock": "inStock",
+          "updatedAt": "2026-10-13T19:15:24Z",
+          "shipping": 0,
+          "affiliateUrl": "https://ty.gl/44mnuv6h041mm"
+        }
+      ],
+      "createdAt": "2026-10-13T19:15:24Z",
+      "updatedAt": "2026-10-13T19:15:24Z",
+      "userRating": 4.6,
+      "reviewCount": 391
+    },
+    {
+      "id": "p_ty_313732863",
+      "slug": "trendhi-ll-erkek-esofman-takimi-201550",
+      "brand": "Trendhi̇ll",
+      "name": "Erkek Eşofman Takımı 201550",
+      "category": "moda",
+      "glyph": "👔",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1676/prod/QC/20250506/09/6fe45939-f1a6-3842-b5c9-1d7a808ce1f2/1_org_zoom.jpg"
+      ],
+      "score": 99,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.7 (1235)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "👔",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Trendhi̇ll"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.7 (1235 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "trendhi̇ll",
+        "erkek giyim"
+      ],
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 1799.93,
+          "storeUrl": "https://www.trendyol.com/trendhill/erkek-esofman-takimi-201550-p-313732863",
+          "stock": "inStock",
+          "updatedAt": "2026-10-13T19:15:24Z",
+          "shipping": 0,
+          "affiliateUrl": "https://ty.gl/44mnuv6h041mm"
+        }
+      ],
+      "createdAt": "2026-10-13T19:15:24Z",
+      "updatedAt": "2026-10-13T19:15:24Z",
+      "userRating": 4.7,
+      "reviewCount": 1235
+    },
+    {
+      "id": "p_ty_69859724",
+      "slug": "grimelange-marshall-erkek-pamuklu-ici-polarli-nakisli-relaxe",
+      "brand": "Grimelange",
+      "name": "Marshall Erkek Pamuklu Içi Polarlı Nakışlı Relaxed Siyah Eşofman Takımı",
+      "category": "moda",
+      "glyph": "👔",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1618/prod/QC/20241231/19/e1b65103-8719-3f36-8cf4-bfe8d051a38b/1_org_zoom.jpg"
+      ],
+      "score": 96,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.4 (6972)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "👔",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Grimelange"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.4 (6972 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "grimelange",
+        "erkek giyim"
+      ],
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 1434.14,
+          "storeUrl": "https://www.trendyol.com/grimelange/marshall-erkek-pamuklu-ici-polarli-nakisli-relaxed-siyah-esofman-takimi-p-69859724",
+          "stock": "inStock",
+          "updatedAt": "2026-10-13T19:15:24Z",
+          "shipping": 0,
+          "affiliateUrl": "https://ty.gl/sj87mk9xc1900"
+        }
+      ],
+      "createdAt": "2026-10-13T19:15:24Z",
+      "updatedAt": "2026-10-13T19:15:24Z",
+      "userRating": 4.4,
+      "reviewCount": 6972
+    },
+    {
+      "id": "p_ty_854706330",
+      "slug": "macharel-jeans-lacivert-devrik-yaka-fermuarli-triko-hirka",
+      "brand": "macharel jeans",
+      "name": "Lacivert Devrik Yaka Fermuarlı Triko Hırka",
+      "category": "moda",
+      "glyph": "👔",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1571/prod/QC/20240926/10/53e562c0-d0d4-3d6e-9531-2a747f9aef57/1_org_zoom.jpg"
+      ],
+      "score": 99,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.7 (1113)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "👔",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "macharel jeans"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.7 (1113 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "macharel jeans",
+        "erkek giyim"
+      ],
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 799.0,
+          "storeUrl": "https://www.trendyol.com/macharel-jeans/lacivert-devrik-yaka-fermuarli-triko-hirka-p-854706330",
+          "stock": "inStock",
+          "updatedAt": "2026-10-13T19:15:24Z",
+          "shipping": 0,
+          "affiliateUrl": "https://ty.gl/44mnuv6h041mm"
+        }
+      ],
+      "createdAt": "2026-10-13T19:15:24Z",
+      "updatedAt": "2026-10-13T19:15:24Z",
+      "userRating": 4.7,
+      "reviewCount": 1113
+    },
+    {
+      "id": "p_ty_25565409",
+      "slug": "bigjoy-bigwhey-whey-protein-classic-cikolata-aromali-1050g-3",
+      "brand": "Bigjoy",
+      "name": "BIGWHEY Whey Protein Classic Çikolata Aromalı 1050g 30 Servis",
+      "category": "spor",
+      "glyph": "🏃",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1969/prod/QC_ENRICHMENT/20261001/12/bd93313d-ae12-3f29-b709-f497f518cc0e/1_org_zoom.jpg"
+      ],
+      "score": 98,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.6 (924)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "🏃",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Bigjoy"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.6 (924 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "bigjoy"
+      ],
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 2599.0,
+          "storeUrl": "https://www.trendyol.com/bigjoy/bigwhey-whey-protein-classic-cikolata-aromali-1050g-30-servis-p-25565409",
+          "stock": "inStock",
+          "updatedAt": "2026-10-13T19:15:24Z",
+          "shipping": 0,
+          "affiliateUrl": "https://ty.gl/931aefl8b9xpa"
+        }
+      ],
+      "createdAt": "2026-10-13T19:15:24Z",
+      "updatedAt": "2026-10-13T19:15:24Z",
+      "userRating": 4.6,
+      "reviewCount": 924
+    },
+    {
+      "id": "p_ty_220063980",
+      "slug": "proteinocean-creatine-120g-40-servis",
+      "brand": "Proteinocean",
+      "name": "CREATİNE - 120g - 40 servis",
+      "category": "spor",
+      "glyph": "🏃",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1922/prod/QC_ENRICHMENT/20260602/10/c2b22083-5973-3545-8a91-fabec79dd6df/1_org_zoom.jpg"
+      ],
+      "score": 98,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.6 (10705)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "🏃",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Proteinocean"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.6 (10705 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "proteinocean"
+      ],
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 239.0,
+          "storeUrl": "https://www.trendyol.com/proteinocean/creatine-120g-40-servis-p-220063980",
+          "stock": "inStock",
+          "updatedAt": "2026-10-13T19:15:24Z",
+          "shipping": 0,
+          "affiliateUrl": "https://ty.gl/931aefl8b9xpa"
+        }
+      ],
+      "createdAt": "2026-10-13T19:15:24Z",
+      "updatedAt": "2026-10-13T19:15:24Z",
+      "userRating": 4.6,
+      "reviewCount": 10705
+    },
+    {
+      "id": "p_ty_798779441",
+      "slug": "hiq-nutrition-hiq-creatine-300g-unflavored",
+      "brand": "HIQ Nutrition",
+      "name": "Hıq Creatıne 300g Unflavored",
+      "category": "spor",
+      "glyph": "🏃",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1823/prod/QC_ENRICHMENT/20260205/10/b643175c-9c63-3e6a-bce7-9d983fc99284/1_org_zoom.jpg"
+      ],
+      "score": 99,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.7 (4581)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "🏃",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "HIQ Nutrition"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.7 (4581 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "hiq nutrition"
+      ],
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 424.15,
+          "storeUrl": "https://www.trendyol.com/hiq-nutrition/hiq-creatine-300g-unflavored-p-798779441",
+          "stock": "inStock",
+          "updatedAt": "2026-10-13T19:15:24Z",
+          "shipping": 0,
+          "affiliateUrl": "https://ty.gl/931aefl8b9xpa"
+        }
+      ],
+      "createdAt": "2026-10-13T19:15:24Z",
+      "updatedAt": "2026-10-13T19:15:24Z",
+      "userRating": 4.7,
+      "reviewCount": 4581
+    },
+    {
+      "id": "p_ty_1068906",
+      "slug": "bioderma-atoderm-cream-ultra-kuru-ciltler-bebek-cocuk-yetisk",
+      "brand": "Bioderma",
+      "name": "Atoderm Cream Ultra Kuru Ciltler Bebek, Çocuk & Yetişkin Nemlendirici Yüz, Vücut Bakım Kremi 200 ml",
+      "category": "kozmetik",
+      "glyph": "💄",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1965/prod/QC_ENRICHMENT/20260930/10/749f5512-e161-3368-a603-ca128ef6dcd4/1_org_zoom.jpg"
+      ],
+      "score": 98,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.6 (32695)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "💄",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Bioderma"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.6 (32695 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "bioderma"
+      ],
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 844.0,
+          "storeUrl": "https://www.trendyol.com/bioderma/atoderm-cream-ultra-kuru-ciltler-bebek-cocuk-yetiskin-nemlendirici-yuz-vucut-bakim-kremi-200-ml-p-1068906",
+          "stock": "inStock",
+          "updatedAt": "2026-10-13T19:15:24Z",
+          "shipping": 0,
+          "affiliateUrl": "https://ty.gl/uzjri97nxm9vl"
+        }
+      ],
+      "createdAt": "2026-10-13T19:15:24Z",
+      "updatedAt": "2026-10-13T19:15:24Z",
+      "userRating": 4.6,
+      "reviewCount": 32695
+    },
+    {
+      "id": "p_ty_44174819",
+      "slug": "the-purest-solutions-aydinlatici-ve-leke-gorunumu-azaltici-a",
+      "brand": "The Purest Solutions",
+      "name": "Aydınlatıcı ve Leke Görünümü Azaltıcı Arbutin Cilt Bakım Serumu 30 ml",
+      "category": "kozmetik",
+      "glyph": "💄",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1855/prod/QC_ENRICHMENT/20260413/13/4c33c89a-0b8d-33de-a373-8d1def4d9a0c/1_org_zoom.jpg"
+      ],
+      "score": 96,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.4 (31025)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "💄",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "The Purest Solutions"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.4 (31025 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "the purest solutions"
+      ],
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 277.03,
+          "storeUrl": "https://www.trendyol.com/the-purest-solutions/aydinlatici-ve-leke-gorunumu-azaltici-arbutin-cilt-bakim-serumu-30-ml-p-44174819",
+          "stock": "inStock",
+          "updatedAt": "2026-10-13T19:15:24Z",
+          "shipping": 0,
+          "affiliateUrl": "https://ty.gl/uzjri97nxm9vl"
+        }
+      ],
+      "createdAt": "2026-10-13T19:15:24Z",
+      "updatedAt": "2026-10-13T19:15:24Z",
+      "userRating": 4.4,
+      "reviewCount": 31025
+    },
+    {
+      "id": "p_ty_318291787",
+      "slug": "cream-co-su-bazli-moisturizer-nemlendirici-aydinlatici-yuz-k",
+      "brand": "Cream Co.",
+      "name": "Su Bazlı Moisturizer Nemlendirici Aydınlatıcı Yüz Kremi | Hyaluronik Asit | 50 ML | Tüm Cilt Tipleri",
+      "category": "kozmetik",
+      "glyph": "💄",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1000451/product/media/images/prod/PIM/20261007/06/c6c555ae-f0d5-4c99-84db-4921dc7ca79e/1_org_zoom.jpg"
+      ],
+      "score": 98,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.6 (87023)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "💄",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Cream Co."
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.6 (87023 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "cream co."
+      ],
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 339.9,
+          "storeUrl": "https://www.trendyol.com/cream-co/su-bazli-moisturizer-nemlendirici-aydinlatici-yuz-kremi-hyaluronik-asit-50-ml-tum-cilt-tipleri-p-318291787",
+          "stock": "inStock",
+          "updatedAt": "2026-10-13T19:15:24Z",
+          "shipping": 0,
+          "affiliateUrl": "https://ty.gl/uzjri97nxm9vl"
+        }
+      ],
+      "createdAt": "2026-10-13T19:15:24Z",
+      "updatedAt": "2026-10-13T19:15:24Z",
+      "userRating": 4.6,
+      "reviewCount": 87023
+    },
+    {
+      "id": "p_ty_281950",
+      "slug": "essence-i-love-crazy-volume-hacim-maskara",
+      "brand": "Essence",
+      "name": "I Love Crazy Volume Hacim Maskara",
+      "category": "kozmetik",
+      "glyph": "💄",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1635/prod/QC/20250215/20/de9e4504-7c3c-3f94-b67a-24d08ce6653c/1_org_zoom.jpg"
+      ],
+      "score": 97,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.5 (9037)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "💄",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Essence"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.5 (9037 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "essence"
+      ],
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 310.56,
+          "storeUrl": "https://www.trendyol.com/essence/i-love-crazy-volume-hacim-maskara-p-281950",
+          "stock": "inStock",
+          "updatedAt": "2026-10-13T19:15:24Z",
+          "shipping": 0,
+          "affiliateUrl": "https://ty.gl/uzjri97nxm9vl"
+        }
+      ],
+      "createdAt": "2026-10-13T19:15:24Z",
+      "updatedAt": "2026-10-13T19:15:24Z",
+      "userRating": 4.5,
+      "reviewCount": 9037
+    },
+    {
+      "id": "p_ty_9482017",
+      "slug": "l-oreal-paris-telescopic-maskara-siyah",
+      "brand": "L'Oreal Paris",
+      "name": "Telescopic Maskara - Siyah",
+      "category": "kozmetik",
+      "glyph": "💄",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1818/prod/QC_ENRICHMENT/20260202/14/81fa9b17-1b20-3b7a-8701-d2e9a6711920/1_org_zoom.jpg"
+      ],
+      "score": 97,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.5 (60758)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "💄",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "L'Oreal Paris"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.5 (60758 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "l'oreal paris"
+      ],
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 500.0,
+          "storeUrl": "https://www.trendyol.com/l-oreal-paris/telescopic-maskara-siyah-p-9482017",
+          "stock": "inStock",
+          "updatedAt": "2026-10-13T19:15:24Z",
+          "shipping": 0,
+          "affiliateUrl": "https://ty.gl/uzjri97nxm9vl"
+        }
+      ],
+      "createdAt": "2026-10-13T19:15:24Z",
+      "updatedAt": "2026-10-13T19:15:24Z",
+      "userRating": 4.5,
+      "reviewCount": 60758
+    },
+    {
+      "id": "p_ty_780589053",
+      "slug": "flormar-dogal-formullu-kirpik-uzatici-maskara-siyah-longer-t",
+      "brand": "Flormar",
+      "name": "Doğal Formüllü Kirpik Uzatıcı Maskara (Siyah) - Longer Than Ever Mascara - 001 Black - 8682536067119",
+      "category": "kozmetik",
+      "glyph": "💄",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1597/prod/QC/20241101/11/ac6a6bf4-e7b5-32a0-8746-d50dc4a4e916/1_org_zoom.jpg"
+      ],
+      "score": 98,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.6 (20238)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "💄",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Flormar"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.6 (20238 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "flormar"
+      ],
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 491.0,
+          "storeUrl": "https://www.trendyol.com/flormar/dogal-formullu-kirpik-uzatici-maskara-siyah-longer-than-ever-mascara-001-black-8682536067119-p-780589053",
+          "stock": "inStock",
+          "updatedAt": "2026-10-13T19:15:24Z",
+          "shipping": 0,
+          "affiliateUrl": "https://ty.gl/sj87mk9xc1900"
+        }
+      ],
+      "createdAt": "2026-10-13T19:15:24Z",
+      "updatedAt": "2026-10-13T19:15:24Z",
+      "userRating": 4.6,
+      "reviewCount": 20238
+    },
+    {
+      "id": "p_ty_239767731",
+      "slug": "elvan-today-kruvasan-cikolatali-40-gr-20-adet-1-kutu",
+      "brand": "Elvan",
+      "name": "Today Kruvasan Çikolatalı 40 Gr. 20 Adet (1 Kutu)",
+      "category": "market",
+      "glyph": "🍎",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1000421/product/media/images/prod/PIM/20260729/06/fa7b93f5-731a-423a-9e58-f66f810c1c85/1_org_zoom.jpg"
+      ],
+      "score": 98,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.6 (22260)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "🍎",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Elvan"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.6 (22260 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "elvan"
+      ],
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 255.39,
+          "storeUrl": "https://www.trendyol.com/elvan/today-kruvasan-cikolatali-40-gr-20-adet-1-kutu-p-239767731",
+          "stock": "inStock",
+          "updatedAt": "2026-10-13T19:15:24Z",
+          "shipping": 0,
+          "affiliateUrl": "https://ty.gl/udn738iw4qiu7"
+        }
+      ],
+      "createdAt": "2026-10-13T19:15:24Z",
+      "updatedAt": "2026-10-13T19:15:24Z",
+      "userRating": 4.6,
+      "reviewCount": 22260
+    },
+    {
+      "id": "p_ty_198702202",
+      "slug": "havran-kocaseyi-t-karadut-ozu-1400-g",
+      "brand": "Havran Kocaseyi̇t",
+      "name": "Karadut Özü 1400 g",
+      "category": "market",
+      "glyph": "🍎",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1893/prod/QC_ENRICHMENT/20260624/16/6cc38524-2db8-32e8-b308-b0119d334ffb/1_org_zoom.jpg"
+      ],
+      "score": 99,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.7 (10324)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "🍎",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Havran Kocaseyi̇t"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.7 (10324 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "havran kocaseyi̇t"
+      ],
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 426.0,
+          "storeUrl": "https://www.trendyol.com/havran-kocaseyit/karadut-ozu-1400-g-p-198702202",
+          "stock": "inStock",
+          "updatedAt": "2026-10-13T19:15:24Z",
+          "shipping": 0,
+          "affiliateUrl": "https://ty.gl/udn738iw4qiu7"
+        }
+      ],
+      "createdAt": "2026-10-13T19:15:24Z",
+      "updatedAt": "2026-10-13T19:15:24Z",
+      "userRating": 4.7,
+      "reviewCount": 10324
+    },
+    {
+      "id": "p_ty_158535269",
+      "slug": "zuber-100-yer-fistigi-ezmesi-315g",
+      "brand": "Züber",
+      "name": "%100 Yer Fıstığı Ezmesi 315g",
+      "category": "market",
+      "glyph": "🍎",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1000447/product/media/images/prod/PIM/20260916/19/3302e713-b426-4854-9d94-c77069c23cab/1_org_zoom.jpg"
+      ],
+      "score": 98,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.6 (3151)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "🍎",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Züber"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.6 (3151 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "züber"
+      ],
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 355.0,
+          "storeUrl": "https://www.trendyol.com/zuber/100-yer-fistigi-ezmesi-315g-p-158535269",
+          "stock": "inStock",
+          "updatedAt": "2026-10-13T19:15:24Z",
+          "shipping": 0,
+          "affiliateUrl": "https://ty.gl/udn738iw4qiu7"
+        }
+      ],
+      "createdAt": "2026-10-13T19:15:24Z",
+      "updatedAt": "2026-10-13T19:15:24Z",
+      "userRating": 4.6,
+      "reviewCount": 3151
+    },
+    {
+      "id": "p_ty_800004023",
+      "slug": "wefood-ince-ogutulmus-glutensiz-yulaf-ezmesi-300-gr-86833470",
+      "brand": "Wefood",
+      "name": "İnce Öğütülmüş Glutensiz Yulaf Ezmesi 300 gr 8683347034826",
+      "category": "market",
+      "glyph": "🍎",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1000404/product/media/images/prod/PIM/20260604/11/235138a5-ff1d-42cc-8522-6af70fb8906a/1_org_zoom.jpg"
+      ],
+      "score": 99,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.8 (2185)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "🍎",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Wefood"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.8 (2185 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "wefood"
+      ],
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 123.04,
+          "storeUrl": "https://www.trendyol.com/wefood/ince-ogutulmus-glutensiz-yulaf-ezmesi-300-gr-8683347034826-p-800004023",
+          "stock": "inStock",
+          "updatedAt": "2026-10-13T19:15:24Z",
+          "shipping": 0,
+          "affiliateUrl": "https://ty.gl/udn738iw4qiu7"
+        }
+      ],
+      "createdAt": "2026-10-13T19:15:24Z",
+      "updatedAt": "2026-10-13T19:15:24Z",
+      "userRating": 4.8,
+      "reviewCount": 2185
+    },
+    {
+      "id": "p_ty_64443610",
+      "slug": "wefood-organik-tahin-300-gr",
+      "brand": "Wefood",
+      "name": "Organik Tahin 300 gr",
+      "category": "market",
+      "glyph": "🍎",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1000403/product/media/images/prod/PIM/20260604/08/010288fe-539b-4cde-b39f-56e9b8f13aa6/1_org_zoom.jpg"
+      ],
+      "score": 99,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.7 (3432)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "🍎",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Wefood"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.7 (3432 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "wefood"
+      ],
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 328.9,
+          "storeUrl": "https://www.trendyol.com/wefood/organik-tahin-300-gr-p-64443610",
+          "stock": "inStock",
+          "updatedAt": "2026-10-13T19:15:24Z",
+          "shipping": 0,
+          "affiliateUrl": "https://ty.gl/udn738iw4qiu7"
+        }
+      ],
+      "createdAt": "2026-10-13T19:15:24Z",
+      "updatedAt": "2026-10-13T19:15:24Z",
+      "userRating": 4.7,
+      "reviewCount": 3432
+    },
+    {
+      "id": "p_ty_1011260269",
+      "slug": "wefood-ham-kakao-tozu-140-gr",
+      "brand": "Wefood",
+      "name": "Ham Kakao Tozu 140 gr",
+      "category": "market",
+      "glyph": "🍎",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1973/prod/QC_ENRICHMENT/20261007/09/75ab0cef-1bad-3dee-bb47-7c81655441f7/1_org_zoom.jpg"
+      ],
+      "score": 99,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.8 (2783)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "🍎",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Wefood"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.8 (2783 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "wefood"
+      ],
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 275.0,
+          "storeUrl": "https://www.trendyol.com/wefood/ham-kakao-tozu-140-gr-p-1011260269",
+          "stock": "inStock",
+          "updatedAt": "2026-10-13T19:15:24Z",
+          "shipping": 0,
+          "affiliateUrl": "https://ty.gl/udn738iw4qiu7"
+        }
+      ],
+      "createdAt": "2026-10-13T19:15:24Z",
+      "updatedAt": "2026-10-13T19:15:24Z",
+      "userRating": 4.8,
+      "reviewCount": 2783
+    },
+    {
+      "id": "p_ty_790178927",
+      "slug": "yukselen-zeka-ilk-magnet-puzzle-bebek-12-36-ay",
+      "brand": "yükselen zeka",
+      "name": "İlk Magnet Puzzle Bebek (12-36 Ay)",
+      "category": "anne-bebek",
+      "glyph": "🧸",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1658/prod/QC/20250403/12/3a275795-9e90-34af-9894-e51aa08b95af/1_org_zoom.jpg"
+      ],
+      "score": 99,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.7 (6411)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "🧸",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "yükselen zeka"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.7 (6411 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "yükselen zeka"
+      ],
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 256.38,
+          "storeUrl": "https://www.trendyol.com/yukselen-zeka/ilk-magnet-puzzle-bebek-12-36-ay-p-790178927",
+          "stock": "inStock",
+          "updatedAt": "2026-10-13T19:15:24Z",
+          "shipping": 0,
+          "affiliateUrl": "https://ty.gl/8g45vfdfjjoj6"
+        }
+      ],
+      "createdAt": "2026-10-13T19:15:24Z",
+      "updatedAt": "2026-10-13T19:15:24Z",
+      "userRating": 4.7,
+      "reviewCount": 6411
+    },
+    {
+      "id": "p_ty_104198178",
+      "slug": "yukselen-zeka-carpma-ogreten-oyuncak",
+      "brand": "yükselen zeka",
+      "name": "Çarpma Öğreten Oyuncak",
+      "category": "anne-bebek",
+      "glyph": "🧸",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1648/prod/QC/20250311/20/6736a04a-c56b-306b-8e8a-a57084b4604f/1_org_zoom.jpg"
+      ],
+      "score": 99,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.8 (6836)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "🧸",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "yükselen zeka"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.8 (6836 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "yükselen zeka"
+      ],
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 324.42,
+          "storeUrl": "https://www.trendyol.com/yukselen-zeka/carpma-ogreten-oyuncak-p-104198178",
+          "stock": "inStock",
+          "updatedAt": "2026-10-13T19:15:24Z",
+          "shipping": 0,
+          "affiliateUrl": "https://ty.gl/8g45vfdfjjoj6"
+        }
+      ],
+      "createdAt": "2026-10-13T19:15:24Z",
+      "updatedAt": "2026-10-13T19:15:24Z",
+      "userRating": 4.8,
+      "reviewCount": 6836
+    },
+    {
+      "id": "p_ty_797529138",
+      "slug": "matt-notebook-a5-spiralli-suresiz-planlayici-ajanda-motivasy",
+      "brand": "Matt Notebook",
+      "name": "A5 Spiralli Süresiz Planlayıcı Ajanda Motivasyon Sayfalı Mavi Papatya",
+      "category": "anne-bebek",
+      "glyph": "🧸",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1141/product/media/images/prod/SPM/PIM/20240120/10/0ec3ed14-c5a1-3a55-b4d2-e7916c324d8e/1_org_zoom.jpg"
+      ],
+      "score": 99,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.9 (4944)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "🧸",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Matt Notebook"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.9 (4944 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "matt notebook"
+      ],
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 399.0,
+          "storeUrl": "https://www.trendyol.com/matt-notebook/a5-spiralli-suresiz-planlayici-ajanda-motivasyon-sayfali-mavi-papatya-p-797529138",
+          "stock": "inStock",
+          "updatedAt": "2026-10-13T19:15:24Z",
+          "shipping": 0,
+          "affiliateUrl": "https://ty.gl/8g45vfdfjjoj6"
+        }
+      ],
+      "createdAt": "2026-10-13T19:15:24Z",
+      "updatedAt": "2026-10-13T19:15:24Z",
+      "userRating": 4.9,
+      "reviewCount": 4944
+    },
+    {
+      "id": "p_ty_894794756",
+      "slug": "apple-earpods-usb-c-yeni-nesil",
+      "brand": "Apple",
+      "name": "EarPods (USB-C) Yeni Nesil",
+      "category": "teknoloji",
+      "glyph": "🎧",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1000058/product/media/images/prod/PIM/20260119/11/5ffa1643-abc1-428d-8ba8-4b8f3016cf6a/1_org_zoom.jpg"
+      ],
+      "score": 98,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.6 (2202)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "🎧",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Apple"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.6 (2202 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "apple"
+      ],
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 1099.0,
+          "storeUrl": "https://www.trendyol.com/apple/earpods-usb-c-yeni-nesil-p-894794756",
+          "stock": "inStock",
+          "updatedAt": "2026-10-13T19:15:24Z",
+          "shipping": 0,
+          "affiliateUrl": "https://ty.gl/5zi3h5u8h2s0y"
+        }
+      ],
+      "createdAt": "2026-10-13T19:15:24Z",
+      "updatedAt": "2026-10-13T19:15:24Z",
+      "userRating": 4.6,
+      "reviewCount": 2202
+    },
+    {
+      "id": "p_ty_836115276",
+      "slug": "xiaomi-mi-body-composition-scale-s400-yeni-nesil-cift-frekan",
+      "brand": "Xiaomi",
+      "name": "Mi Body Composition Scale S400 Yeni Nesil Çift Frekanslı Akıllı Bluetooth Baskül",
+      "category": "teknoloji",
+      "glyph": "🎧",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1912/prod/QC_ENRICHMENT/20260731/16/18d1e4f2-bec3-3b02-b288-463b8a044eb4/1_org_zoom.jpg"
+      ],
+      "score": 98,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.6 (3584)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "🎧",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Xiaomi"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.6 (3584 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "xiaomi"
+      ],
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 1649.0,
+          "storeUrl": "https://www.trendyol.com/xiaomi/mi-body-composition-scale-s400-yeni-nesil-cift-frekansli-akilli-bluetooth-baskul-p-836115276",
+          "stock": "inStock",
+          "updatedAt": "2026-10-13T19:15:24Z",
+          "shipping": 0,
+          "affiliateUrl": "https://ty.gl/5zi3h5u8h2s0y"
+        }
+      ],
+      "createdAt": "2026-10-13T19:15:24Z",
+      "updatedAt": "2026-10-13T19:15:24Z",
+      "userRating": 4.6,
+      "reviewCount": 3584
+    },
+    {
+      "id": "p_ty_730130225",
+      "slug": "philips-oneblade-qp2724-10-yuz-hibrit-tiras-makinesi-sakal-s",
+      "brand": "Philips",
+      "name": "OneBlade QP2724/10 Yüz Hibrit Tıraş Makinesi,Sakal Şekillendirici, Islak&Kuru,3 Sakal Tarağı",
+      "category": "teknoloji",
+      "glyph": "🎧",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1000385/product/media/images/prod/PIM/20260407/07/4e8e3a02-24b7-43e7-834f-14451b89310c/1_org_zoom.jpg"
+      ],
+      "score": 97,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.5 (3418)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "🎧",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Philips"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.5 (3418 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "philips"
+      ],
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 1289.0,
+          "storeUrl": "https://www.trendyol.com/philips/oneblade-qp2724-10-yuz-hibrit-tiras-makinesi-sakal-sekillendirici-islak-kuru-3-sakal-taragi-p-730130225",
+          "stock": "inStock",
+          "updatedAt": "2026-10-13T19:15:24Z",
+          "shipping": 0,
+          "affiliateUrl": "https://ty.gl/5zi3h5u8h2s0y"
+        }
+      ],
+      "createdAt": "2026-10-13T19:15:24Z",
+      "updatedAt": "2026-10-13T19:15:24Z",
+      "userRating": 4.5,
+      "reviewCount": 3418
+    },
+    {
+      "id": "p_ty_35509789",
+      "slug": "fantom-pratic-s-p1200-toz-torbasiz-dikey-supurge-antrasit",
+      "brand": "Fantom",
+      "name": "Pratıc-S P1200 Toz Torbasız Dikey Süpürge Antrasit",
+      "category": "teknoloji",
+      "glyph": "🎧",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1000397/product/media/images/prod/PIM/20260518/12/4359ee79-3212-4846-8d85-3404794fd947/1_org_zoom.jpg"
+      ],
+      "score": 98,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.6 (40811)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "🎧",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Fantom"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.6 (40811 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "fantom"
+      ],
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 2383.0,
+          "storeUrl": "https://www.trendyol.com/fantom/pratic-s-p1200-toz-torbasiz-dikey-supurge-antrasit-p-35509789",
+          "stock": "inStock",
+          "updatedAt": "2026-10-13T19:15:24Z",
+          "shipping": 0,
+          "affiliateUrl": "https://ty.gl/5zi3h5u8h2s0y"
+        }
+      ],
+      "createdAt": "2026-10-13T19:15:24Z",
+      "updatedAt": "2026-10-13T19:15:24Z",
+      "userRating": 4.6,
+      "reviewCount": 40811
+    },
     {
       "id": "p_ty_307986296",
       "slug": "sumicorn-yesil-potikareli-yikanabilir-fermuarli-tek-gozlu-be",
@@ -6477,6 +8655,16 @@
           "stock": "inStock",
           "sellerRating": 4.7,
           "updatedAt": "2026-08-17T00:00:00Z"
+        },
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 2579.0,
+          "storeUrl": "https://www.trendyol.com/xiaomi/redmi-watch-5-active-gumus-akilli-saat-kalp-atisi-uyku-ve-basinc-takibi-xiaomi-tr-garantili-p-857580490",
+          "stock": "inStock",
+          "updatedAt": "2026-10-13T19:10:01Z",
+          "shipping": 0,
+          "affiliateUrl": "https://ty.gl/5zi3h5u8h2s0y"
         }
       ]
     },
@@ -6605,6 +8793,16 @@
           "stock": "inStock",
           "sellerRating": 4.6,
           "updatedAt": "2026-08-17T00:00:00Z"
+        },
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 4449.0,
+          "storeUrl": "https://www.trendyol.com/anker/soundcore-q30-kulak-ustu-bluetooth-kulaklik-hibrit-aktif-gurultu-engelleme-siyah-a3028-p-184990075",
+          "stock": "inStock",
+          "updatedAt": "2026-10-13T19:10:01Z",
+          "shipping": 0,
+          "affiliateUrl": "https://ty.gl/5zi3h5u8h2s0y"
         }
       ]
     },
@@ -6669,6 +8867,16 @@
           "stock": "inStock",
           "sellerRating": 4.7,
           "updatedAt": "2026-08-17T00:00:00Z"
+        },
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 11899.0,
+          "storeUrl": "https://www.trendyol.com/apple/airpods-pro-3-p-987974460",
+          "stock": "inStock",
+          "updatedAt": "2026-10-13T19:10:01Z",
+          "shipping": 0,
+          "affiliateUrl": "https://ty.gl/5zi3h5u8h2s0y"
         }
       ]
     },
@@ -6733,6 +8941,16 @@
           "stock": "inStock",
           "sellerRating": 4.4,
           "updatedAt": "2026-08-17T00:00:00Z"
+        },
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 22999.0,
+          "storeUrl": "https://www.trendyol.com/philips/5500-serisi-lattego-tam-otomatik-espresso-makinesi-20-sicak-ve-soguk-icecek-ep5543-80-p-825162534",
+          "stock": "inStock",
+          "updatedAt": "2026-10-13T19:10:01Z",
+          "shipping": 0,
+          "affiliateUrl": "https://ty.gl/5zi3h5u8h2s0y"
         }
       ]
     },
@@ -6861,6 +9079,16 @@
           "stock": "inStock",
           "sellerRating": 4.5,
           "updatedAt": "2026-08-17T00:00:00Z"
+        },
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 28349.0,
+          "storeUrl": "https://www.trendyol.com/dyson/v12-detect-slim-absolute-kablosuz-supurge-sari-nikel-p-1172650726",
+          "stock": "inStock",
+          "updatedAt": "2026-10-13T19:10:01Z",
+          "shipping": 0,
+          "affiliateUrl": "https://ty.gl/5zi3h5u8h2s0y"
         }
       ]
     },
