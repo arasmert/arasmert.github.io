@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-15T15:39:42Z",
+  "updatedAt": "2026-10-15T15:59:27Z",
   "categories": [
     {
       "id": "kadin-giyim",
@@ -258,6 +258,306 @@
     }
   ],
   "products": [
+    {
+      "id": "p_ty_1166710323",
+      "slug": "fellas-cikolata-kapli-highpro-protein-bar-50-g-deneme-paketi",
+      "brand": "Fellas",
+      "name": "Çikolata Kaplı HighPro+ Protein Bar (50 g) Deneme Paketi 3'lü",
+      "category": "spor",
+      "glyph": "🏃",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1000450/product/media/images/prod/PIM/20260922/11/0f499713-cd00-4a8d-aa28-09bd9d79401e/1_org_zoom.jpg"
+      ],
+      "score": 95,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.4 (137)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "🏃",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Fellas"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.4 (137 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "fellas"
+      ],
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 279.95,
+          "storeUrl": "https://www.trendyol.com/fellas/cikolata-kapli-highpro-protein-bar-50-g-deneme-paketi-3-lu-p-1166710323",
+          "stock": "inStock",
+          "updatedAt": "2026-10-15T15:58:39Z",
+          "shipping": 0,
+          "affiliateUrl": "https://ty.gl/931aefl8b9xpa"
+        }
+      ],
+      "createdAt": "2026-10-15T15:58:39Z",
+      "updatedAt": "2026-10-15T15:58:39Z",
+      "userRating": 4.4,
+      "reviewCount": 137
+    },
+    {
+      "id": "p_ty_1151561419",
+      "slug": "clean-powders-deluxe-protein-bar-36-protein-55-gr-1-adet-bey",
+      "brand": "Clean Powders",
+      "name": "Deluxe Protein Bar %36 Protein 55 Gr 1 Adet - BEYAZ ÇİKOLATA KURABİYE",
+      "category": "spor",
+      "glyph": "🏃",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1921/prod/QC_PREP/20260601/11/248b494a-bc92-3f3b-a2f9-ae7eee2ee3d5/1_org_zoom.jpg"
+      ],
+      "score": 95,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.5 (17)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "🏃",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Clean Powders"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.5 (17 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "clean powders"
+      ],
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 200.0,
+          "storeUrl": "https://www.trendyol.com/clean-powders/deluxe-protein-bar-36-protein-55-gr-1-adet-beyaz-cikolata-kurabiye-p-1151561419",
+          "stock": "inStock",
+          "updatedAt": "2026-10-15T15:58:39Z",
+          "shipping": 0,
+          "affiliateUrl": "https://ty.gl/931aefl8b9xpa"
+        }
+      ],
+      "createdAt": "2026-10-15T15:58:39Z",
+      "updatedAt": "2026-10-15T15:58:39Z",
+      "userRating": 4.5,
+      "reviewCount": 17
+    },
+    {
+      "id": "p_ty_1141843816",
+      "slug": "biorenza-kolajenli-proteinli-pankek-toz-karisimi-sadece-su-e",
+      "brand": "Biorenza",
+      "name": "KOLAJENLİ PROTEİNLİ PANKEK TOZ KARIŞIMI (SADECE SU EKLE) ŞEKER İLAVESİZ BEYAZ UN İÇERMEZ KATKISIZ KORUYUCUSUZ 100 G",
+      "category": "spor",
+      "glyph": "🏃",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1897/prod/QC_ENRICHMENT/20260806/11/892b74e5-6be2-31ae-af6b-502c07b2b8e1/1_org_zoom.jpg"
+      ],
+      "score": 99,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "5.0 (29)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "🏃",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Biorenza"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "5.0 (29 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "biorenza"
+      ],
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 317.21,
+          "storeUrl": "https://www.trendyol.com/biorenza/kolajenli-proteinli-pankek-toz-karisimi-sadece-su-ekle-seker-ilavesiz-beyaz-un-icermez-katkisiz-koruyucusuz-100-g-p-1141843816",
+          "stock": "inStock",
+          "updatedAt": "2026-10-15T15:58:39Z",
+          "shipping": 0,
+          "affiliateUrl": "https://ty.gl/931aefl8b9xpa"
+        }
+      ],
+      "createdAt": "2026-10-15T15:58:39Z",
+      "updatedAt": "2026-10-15T15:58:39Z",
+      "userRating": 5.0,
+      "reviewCount": 29
+    },
+    {
+      "id": "p_ty_1141843815",
+      "slug": "biorenza-kolajenli-ve-proteinli-kakaolu-muffin-kek-yulaf-unl",
+      "brand": "Biorenza",
+      "name": "KOLAJENLİ VE PROTEİNLİ KAKAOLU MUFFİN KEK | YULAF UNLU, HURMA TOZLU, HAM KAKAOLU PRATİK TOZ KARIŞIMI 100 G",
+      "category": "spor",
+      "glyph": "🏃",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1927/prod/QC_PREP/20260504/07/5b0e1e7c-3a4c-38c7-b49c-5064ebc81259/1_org_zoom.jpg"
+      ],
+      "score": 99,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "5.0 (21)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "🏃",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Biorenza"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "5.0 (21 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "biorenza"
+      ],
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 311.69,
+          "storeUrl": "https://www.trendyol.com/biorenza/kolajenli-ve-proteinli-kakaolu-muffin-kek-yulaf-unlu-hurma-tozlu-ham-kakaolu-pratik-toz-karisimi-100-g-p-1141843815",
+          "stock": "inStock",
+          "updatedAt": "2026-10-15T15:58:39Z",
+          "shipping": 0,
+          "affiliateUrl": "https://ty.gl/931aefl8b9xpa"
+        }
+      ],
+      "createdAt": "2026-10-15T15:58:39Z",
+      "updatedAt": "2026-10-15T15:58:39Z",
+      "userRating": 5.0,
+      "reviewCount": 21
+    },
+    {
+      "id": "p_ty_730067931",
+      "slug": "hardline-whey3-matrix-sase-kurabiye-aromali-halal-certified-",
+      "brand": "Hardline",
+      "name": "Whey3 Matrix Şase Kurabiye Aromalı (HALAL CERTIFIED) 30 gr - 1 Adet",
+      "category": "spor",
+      "glyph": "🏃",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1968/prod/QC_ENRICHMENT/20261005/17/f7d37176-1daf-3359-a701-9c000f53c75b/1_org_zoom.jpg"
+      ],
+      "score": 99,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.8 (52)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "🏃",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Hardline"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.8 (52 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "hardline"
+      ],
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 170.1,
+          "storeUrl": "https://www.trendyol.com/hardline/whey3-matrix-sase-kurabiye-aromali-halal-certified-30-gr-1-adet-p-730067931",
+          "stock": "inStock",
+          "updatedAt": "2026-10-15T15:58:39Z",
+          "shipping": 0,
+          "affiliateUrl": "https://ty.gl/931aefl8b9xpa"
+        }
+      ],
+      "createdAt": "2026-10-15T15:58:39Z",
+      "updatedAt": "2026-10-15T15:58:39Z",
+      "userRating": 4.8,
+      "reviewCount": 52
+    },
     {
       "id": "p_ty_929961715",
       "slug": "roborock-qrevo-l-akilli-robot-supurge-beyaz",
