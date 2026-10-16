@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-16T05:08:26Z",
+  "updatedAt": "2026-10-16T11:33:30Z",
   "categories": [
     {
       "id": "kadin-giyim",
@@ -111,7 +111,15 @@
         "p_ty_780589053",
         "p_ty_69859724",
         "p_ty_336311331",
-        "p_ty_782959490"
+        "p_ty_782959490",
+        "p_ty_31361711",
+        "p_ty_1103516098",
+        "p_ty_3990495",
+        "p_ty_1115179083",
+        "p_ty_52915799",
+        "p_ty_3674885",
+        "p_ty_799819566",
+        "p_ty_315784018"
       ]
     },
     {
@@ -258,6 +266,486 @@
     }
   ],
   "products": [
+    {
+      "id": "p_ty_315784018",
+      "slug": "sinbo-scm-9039-elektrikli-turk-kahve-makinesi-5-fincan-500-m",
+      "brand": "Sinbo",
+      "name": "SCM-9039 Elektrikli Türk Kahve Makinesi 5 Fincan 500 ml Paslanmaz Çelik Cezve",
+      "category": "teknoloji",
+      "glyph": "🎧",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1000405/product/media/images/prod/PIM/20260604/10/6efcfd96-75e6-47e7-884b-4015628d92ea/1_org_zoom.jpg"
+      ],
+      "score": 97,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.5 (5541)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "🎧",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Sinbo"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.5 (5541 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "sinbo"
+      ],
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 737.13,
+          "storeUrl": "https://www.trendyol.com/sinbo/scm-9039-elektrikli-turk-kahve-makinesi-5-fincan-500-ml-paslanmaz-celik-cezve-p-315784018",
+          "stock": "inStock",
+          "updatedAt": "2026-10-16T11:32:42Z",
+          "shipping": 0,
+          "affiliateUrl": "https://ty.gl/sj87mk9xc1900"
+        }
+      ],
+      "createdAt": "2026-10-16T11:32:42Z",
+      "updatedAt": "2026-10-16T11:32:42Z",
+      "userRating": 4.5,
+      "reviewCount": 5541
+    },
+    {
+      "id": "p_ty_799819566",
+      "slug": "karaca-just-coffee-aroma-2-in-1-filtre-kahve-ve-cay-demleme-",
+      "brand": "Karaca",
+      "name": "Just Coffee Aroma 2 in 1 Filtre Kahve ve Çay Demleme Makinesi Inox",
+      "category": "teknoloji",
+      "glyph": "🎧",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1763/prod/QC_ENRICHMENT/20250924/14/8599cdc4-8b8a-3dc6-8f37-96d4ca38d2a8/1_org_zoom.jpg"
+      ],
+      "score": 98,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.6 (929)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "🎧",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Karaca"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.6 (929 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "karaca"
+      ],
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 1999.0,
+          "storeUrl": "https://www.trendyol.com/karaca/just-coffee-aroma-2-in-1-filtre-kahve-ve-cay-demleme-makinesi-inox-p-799819566",
+          "stock": "inStock",
+          "updatedAt": "2026-10-16T11:32:42Z",
+          "shipping": 0,
+          "affiliateUrl": "https://ty.gl/sj87mk9xc1900"
+        }
+      ],
+      "createdAt": "2026-10-16T11:32:42Z",
+      "updatedAt": "2026-10-16T11:32:42Z",
+      "userRating": 4.6,
+      "reviewCount": 929
+    },
+    {
+      "id": "p_ty_3674885",
+      "slug": "kahve-dunyasi-filtre-kahve-250-gr",
+      "brand": "Kahve Dünyası",
+      "name": "Filtre Kahve 250 gr",
+      "category": "market",
+      "glyph": "🍎",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1536/product/media/images/prod/QC/20240802/09/0aec9729-2d2e-305e-a690-1bb7d7443f41/1_org_zoom.jpg"
+      ],
+      "score": 99,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.7 (2215)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "🍎",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Kahve Dünyası"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.7 (2215 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "kahve dünyası"
+      ],
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 279.0,
+          "storeUrl": "https://www.trendyol.com/kahve-dunyasi/filtre-kahve-250-gr-p-3674885",
+          "stock": "inStock",
+          "updatedAt": "2026-10-16T11:32:42Z",
+          "shipping": 0,
+          "affiliateUrl": "https://ty.gl/sj87mk9xc1900"
+        }
+      ],
+      "createdAt": "2026-10-16T11:32:42Z",
+      "updatedAt": "2026-10-16T11:32:42Z",
+      "userRating": 4.7,
+      "reviewCount": 2215
+    },
+    {
+      "id": "p_ty_52915799",
+      "slug": "tchibo-profesional-special-filtre-kahve-4x250gr",
+      "brand": "Tchibo",
+      "name": "Profesional Special Filtre Kahve 4x250gr",
+      "category": "market",
+      "glyph": "🍎",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty15/product/media/images/20201016/19/16546659/94155821/0/0_org_zoom.jpg"
+      ],
+      "score": 98,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.6 (3474)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "🍎",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Tchibo"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.6 (3474 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "tchibo"
+      ],
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 726.75,
+          "storeUrl": "https://www.trendyol.com/tchibo/profesional-special-filtre-kahve-4x250gr-p-52915799",
+          "stock": "inStock",
+          "updatedAt": "2026-10-16T11:32:42Z",
+          "shipping": 0,
+          "affiliateUrl": "https://ty.gl/sj87mk9xc1900"
+        }
+      ],
+      "createdAt": "2026-10-16T11:32:42Z",
+      "updatedAt": "2026-10-16T11:32:42Z",
+      "userRating": 4.6,
+      "reviewCount": 3474
+    },
+    {
+      "id": "p_ty_1115179083",
+      "slug": "cafe-crown-cekirdek-kahve-1kg-medium-roast-sunset-blend-espr",
+      "brand": "Cafe Crown",
+      "name": "Çekirdek Kahve 1kg (Medium Roast, Sunset Blend,Espresso)",
+      "category": "market",
+      "glyph": "🍎",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1967/prod/QC_ENRICHMENT/20260928/17/8815a402-513f-36d3-8c76-20ee6627fe49/1_org_zoom.jpg"
+      ],
+      "score": 96,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.4 (576)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "🍎",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Cafe Crown"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.4 (576 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "cafe crown"
+      ],
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 696.57,
+          "storeUrl": "https://www.trendyol.com/cafe-crown/cekirdek-kahve-1kg-medium-roast-sunset-blend-espresso-p-1115179083",
+          "stock": "inStock",
+          "updatedAt": "2026-10-16T11:32:42Z",
+          "shipping": 0,
+          "affiliateUrl": "https://ty.gl/sj87mk9xc1900"
+        }
+      ],
+      "createdAt": "2026-10-16T11:32:42Z",
+      "updatedAt": "2026-10-16T11:32:42Z",
+      "userRating": 4.4,
+      "reviewCount": 576
+    },
+    {
+      "id": "p_ty_3990495",
+      "slug": "tchibo-espresso-cekirdek-kahve-1kg",
+      "brand": "Tchibo",
+      "name": "Espresso Çekirdek Kahve 1kg",
+      "category": "market",
+      "glyph": "🍎",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1613/prod/QC/20241214/01/8d652145-ae6f-3e74-8864-89bb166c4587/1_org_zoom.jpg"
+      ],
+      "score": 98,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.6 (7928)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "🍎",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Tchibo"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.6 (7928 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "tchibo"
+      ],
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 838.0,
+          "storeUrl": "https://www.trendyol.com/tchibo/espresso-cekirdek-kahve-1kg-p-3990495",
+          "stock": "inStock",
+          "updatedAt": "2026-10-16T11:32:42Z",
+          "shipping": 0,
+          "affiliateUrl": "https://ty.gl/sj87mk9xc1900"
+        }
+      ],
+      "createdAt": "2026-10-16T11:32:42Z",
+      "updatedAt": "2026-10-16T11:32:42Z",
+      "userRating": 4.6,
+      "reviewCount": 7928
+    },
+    {
+      "id": "p_ty_1103516098",
+      "slug": "c-m-coffee-more-kapsul-tanisma-paketi-40-li-nespresso-uyumlu",
+      "brand": "C.M Coffee More",
+      "name": "Kapsül Tanışma Paketi 40'lı ( Nespresso Uyumlu Alüminyum Kapsül Kahve )",
+      "category": "market",
+      "glyph": "🍎",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1826/prod/QC_PREP/20260213/17/48f205cf-10d0-3c43-b2e5-6ddde23c1aeb/1_org_zoom.jpg"
+      ],
+      "score": 98,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.7 (272)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "🍎",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "C.M Coffee More"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.7 (272 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "c.m coffee more"
+      ],
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 599.9,
+          "storeUrl": "https://www.trendyol.com/c-m-coffee-more/kapsul-tanisma-paketi-40-li-nespresso-uyumlu-aluminyum-kapsul-kahve-p-1103516098",
+          "stock": "inStock",
+          "updatedAt": "2026-10-16T11:32:42Z",
+          "shipping": 0,
+          "affiliateUrl": "https://ty.gl/sj87mk9xc1900"
+        }
+      ],
+      "createdAt": "2026-10-16T11:32:42Z",
+      "updatedAt": "2026-10-16T11:32:42Z",
+      "userRating": 4.7,
+      "reviewCount": 272
+    },
+    {
+      "id": "p_ty_31361711",
+      "slug": "jacobs-kapsul-kahve-tanisma-paketi-40-li-nespresso-uyumlu-al",
+      "brand": "Jacobs",
+      "name": "Kapsül Kahve Tanışma Paketi 40'lı ( Nespresso Uyumlu Alüminyum Kapsül Kahve )",
+      "category": "market",
+      "glyph": "🍎",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1619/prod/QC/20241225/19/4e47efc1-2e08-34d9-aaa9-7e6efa6bf06c/1_org_zoom.jpg"
+      ],
+      "score": 99,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.7 (3114)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "🍎",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Jacobs"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.7 (3114 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "jacobs"
+      ],
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 749.9,
+          "storeUrl": "https://www.trendyol.com/jacobs/kapsul-kahve-tanisma-paketi-40-li-nespresso-uyumlu-aluminyum-kapsul-kahve-p-31361711",
+          "stock": "inStock",
+          "updatedAt": "2026-10-16T11:32:42Z",
+          "shipping": 0,
+          "affiliateUrl": "https://ty.gl/sj87mk9xc1900"
+        }
+      ],
+      "createdAt": "2026-10-16T11:32:42Z",
+      "updatedAt": "2026-10-16T11:32:42Z",
+      "userRating": 4.7,
+      "reviewCount": 3114
+    },
     {
       "id": "p_ty_1166710323",
       "slug": "fellas-cikolata-kapli-highpro-protein-bar-50-g-deneme-paketi",
