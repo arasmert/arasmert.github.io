@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-28T12:05:49Z",
+  "updatedAt": "2026-10-28T12:21:43Z",
   "categories": [
     {
       "id": "kadin-giyim",
@@ -1105,66 +1105,6 @@
       "updatedAt": "2026-10-15T15:58:39Z",
       "userRating": 4.8,
       "reviewCount": 52
-    },
-    {
-      "id": "p_ty_929961715",
-      "slug": "roborock-qrevo-l-akilli-robot-supurge-beyaz",
-      "brand": "Roborock",
-      "name": "Qrevo L Akıllı Robot Süpürge - Beyaz",
-      "category": "teknoloji",
-      "glyph": "🎧",
-      "images": [
-        "https://cdn.dsmcdn.com/mnresize/600/600/ty1714/prod/QC_PREP/20250719/15/33277887-bc9f-3a41-971c-b41a52774568/1_org_zoom.jpg"
-      ],
-      "score": 98,
-      "verdict": "buy",
-      "shortDescription": "",
-      "editorialSummary": "",
-      "positives": [],
-      "negatives": [],
-      "quickFacts": [
-        {
-          "icon": "⭐",
-          "label": "Mağaza puanı",
-          "value": "4.6 (3308)"
-        }
-      ],
-      "attributeGroups": [
-        {
-          "title": "Ürün Bilgisi",
-          "icon": "🎧",
-          "initiallyExpanded": true,
-          "attributes": [
-            {
-              "label": "Marka",
-              "value": "Roborock"
-            },
-            {
-              "label": "Mağaza puanı",
-              "value": "4.6 (3308 değerlendirme)"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        "roborock"
-      ],
-      "offers": [
-        {
-          "marketplace": "trendyol",
-          "seller": "Trendyol",
-          "price": 37999.0,
-          "storeUrl": "https://www.trendyol.com/roborock/qrevo-l-akilli-robot-supurge-beyaz-p-929961715",
-          "stock": "inStock",
-          "updatedAt": "2026-10-13T21:35:00Z",
-          "shipping": 0,
-          "affiliateUrl": "https://ty.gl/5zi3h5u8h2s0y"
-        }
-      ],
-      "createdAt": "2026-10-13T21:35:00Z",
-      "updatedAt": "2026-10-13T21:35:00Z",
-      "userRating": 4.6,
-      "reviewCount": 3308
     },
     {
       "id": "p_ty_828823512",
