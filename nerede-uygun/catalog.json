@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-28T05:08:26Z",
+  "updatedAt": "2026-10-28T12:05:49Z",
   "categories": [
     {
       "id": "kadin-giyim",
@@ -266,6 +266,66 @@
     }
   ],
   "products": [
+    {
+      "id": "p_ty_885705284",
+      "slug": "roborock-qrevo-pro-akilli-robot-supurge",
+      "brand": "Roborock",
+      "name": "Qrevo Pro Akıllı Robot Süpürge",
+      "category": "teknoloji",
+      "glyph": "🎧",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1791/prod/QC_ENRICHMENT/20251120/11/61f132bd-e109-3d67-b486-d4a7e32fbfb6/1_org_zoom.jpg"
+      ],
+      "score": 98,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.6 (757)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "🎧",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Roborock"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.6 (757 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "roborock"
+      ],
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 37422.0,
+          "storeUrl": "https://www.trendyol.com/roborock/qrevo-pro-akilli-robot-supurge-p-885705284",
+          "stock": "inStock",
+          "updatedAt": "2026-10-28T12:04:59Z",
+          "shipping": 0,
+          "affiliateUrl": "https://ty.gl/5zi3h5u8h2s0y"
+        }
+      ],
+      "createdAt": "2026-10-28T12:04:59Z",
+      "updatedAt": "2026-10-28T12:04:59Z",
+      "userRating": 4.6,
+      "reviewCount": 757
+    },
     {
       "id": "p_ty_315784018",
       "slug": "sinbo-scm-9039-elektrikli-turk-kahve-makinesi-5-fincan-500-m",
