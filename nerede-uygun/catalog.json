@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-28T16:30:15Z",
+  "updatedAt": "2026-10-28T19:21:11Z",
   "categories": [
     {
       "id": "kadin-giyim",
@@ -260,12 +260,71 @@
         "p_ty_121313958",
         "p_ty_106910836",
         "p_ty_743658401",
-        "p_ty_163888347",
         "p_ty_152863403"
       ]
     }
   ],
   "products": [
+    {
+      "id": "p_ty_1224651483",
+      "slug": "janva-7-parca-egitici-renkli-ahsap-orta-boy-tangram-akil-zek",
+      "brand": "Janva",
+      "name": "7 Parça Eğitici Renkli Ahşap Orta Boy Tangram Akıl Zeka Mantık Ve Strateji Oyunu",
+      "category": "anne-bebek",
+      "glyph": "🧸",
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/600/600/ty1992/prod/QC_PREP/20261027/19/ed0c1373-b161-3b93-bc3f-cbf68e5f9c6a/1_org_zoom.jpg"
+      ],
+      "score": 94,
+      "verdict": "buy",
+      "shortDescription": "",
+      "editorialSummary": "",
+      "positives": [],
+      "negatives": [],
+      "quickFacts": [
+        {
+          "icon": "⭐",
+          "label": "Mağaza puanı",
+          "value": "4.2 (551)"
+        }
+      ],
+      "attributeGroups": [
+        {
+          "title": "Ürün Bilgisi",
+          "icon": "🧸",
+          "initiallyExpanded": true,
+          "attributes": [
+            {
+              "label": "Marka",
+              "value": "Janva"
+            },
+            {
+              "label": "Mağaza puanı",
+              "value": "4.2 (551 değerlendirme)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "janva"
+      ],
+      "offers": [
+        {
+          "marketplace": "trendyol",
+          "seller": "Trendyol",
+          "price": 139.0,
+          "storeUrl": "https://www.trendyol.com/pd/janva/7-parca-egitici-renkli-ahsap-orta-boy-tangram-akil-zeka-mantik-ve-strateji-oyunu-p-1224651483",
+          "stock": "inStock",
+          "updatedAt": "2026-10-28T19:20:22Z",
+          "shipping": 0,
+          "affiliateUrl": "https://ty.gl/8g45vfdfjjoj6"
+        }
+      ],
+      "createdAt": "2026-10-28T19:20:22Z",
+      "updatedAt": "2026-10-28T19:20:22Z",
+      "userRating": 4.2,
+      "reviewCount": 551
+    },
     {
       "id": "p_ty_885705284",
       "slug": "roborock-qrevo-pro-akilli-robot-supurge",
@@ -10805,65 +10864,6 @@
           "affiliateUrl": "https://ty.gl/8g45vfdfjjoj6",
           "stock": "inStock",
           "sellerRating": 4.6,
-          "updatedAt": "2026-08-17T00:00:00Z"
-        }
-      ]
-    },
-    {
-      "id": "p_ty_163888347",
-      "slug": "akropolis-7-parca-ahsap-tangram-akil-ve-zeka-oyunu",
-      "brand": "Akropolis",
-      "name": "7 Parça Ahşap Tangram Akıl ve Zeka Oyunu",
-      "category": "anne-bebek",
-      "glyph": "🔺",
-      "images": [
-        "https://cdn.dsmcdn.com/mnresize/600/600/ty25/product/media/images/20201125/13/32135810/112351891/1/1_org_zoom.jpg"
-      ],
-      "score": 91,
-      "verdict": "buy",
-      "shortDescription": "",
-      "editorialSummary": "",
-      "positives": [],
-      "negatives": [],
-      "quickFacts": [
-        {
-          "icon": "⭐",
-          "label": "Mağaza puanı",
-          "value": "4.1 (637)"
-        }
-      ],
-      "attributeGroups": [
-        {
-          "title": "Ürün Bilgisi",
-          "icon": "🔺",
-          "initiallyExpanded": true,
-          "attributes": [
-            {
-              "label": "Marka",
-              "value": "Akropolis"
-            },
-            {
-              "label": "Mağaza puanı",
-              "value": "4.1 (637 değerlendirme)"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        "çocuğunuz için en sağlıklı oyuncaklar",
-        "akropolis"
-      ],
-      "userRating": 4.1,
-      "reviewCount": 637,
-      "offers": [
-        {
-          "marketplace": "trendyol",
-          "seller": "Trendyol",
-          "price": 140.0,
-          "storeUrl": "https://www.trendyol.com/akropolis/7-parca-egitici-renkli-ahsap-orta-boy-tangram-akil-zeka-mantik-ve-strateji-oyunu-p-163888347",
-          "affiliateUrl": "https://ty.gl/8g45vfdfjjoj6",
-          "stock": "inStock",
-          "sellerRating": 4.1,
           "updatedAt": "2026-08-17T00:00:00Z"
         }
       ]
